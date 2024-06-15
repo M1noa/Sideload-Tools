@@ -1,0 +1,19 @@
+Certificate1: iPhone Distribution: Hangzhou Public Traffic Group Co., Ltd.
+ExpirationTime: Thu, September 26 2024
+Status: Revoked 🔴
+RevocationTime: Thu, April 20 2023 15:48:00
+Country: US
+--------------------
+TeamID: N37D6JUD58
+ProfileExpired: False
+ProvisionAll: Enterprice 🟢
+Apple Push Notification Service 🔴
+Application Groups 🔴
+HealthKit 🔴 
+NFC 🔴
+Personal VPN 🔴
+User Fonts 🔴
+Game Center 🔴
+WeatherKit 🔴
+Communication Notifications 🔴
+Time-sensitive Notifications 🔴

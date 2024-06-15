@@ -1,0 +1,19 @@
+Certificate1: iPhone Distribution: Zhuhaishi ShijiXintong Network Technology Co., Ltd.
+ExpirationTime: Fri, March 12 2027
+Status: Revoked 🔴
+RevocationTime: Mon, March 18 2024 17:08:00
+Country: US
+--------------------
+TeamID: LMB6GVAVQ2
+ProfileExpired: False
+ProvisionAll: Enterprice 🟢
+Apple Push Notification Service 🟢
+Application Groups 🔴
+HealthKit 🔴 
+NFC 🔴
+Personal VPN 🔴
+User Fonts 🔴
+Game Center 🔴
+WeatherKit 🔴
+Communication Notifications 🔴
+Time-sensitive Notifications 🔴

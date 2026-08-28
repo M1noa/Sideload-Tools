@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/qnblackcat/AltStore/gh-pages/apps.json
+https://raw.githubusercontent.com/actuallyaridan/NeoFreeBird/refs/heads/main/AltSource.json

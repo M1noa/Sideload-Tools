@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sideload-Tools — Add Catalogs</title>
+<style>
+  body { font-family: monospace; max-width: 720px; margin: 2rem auto; padding: 0 1rem; line-height: 1.5; background: #000; color: #e8e8e8; }
+  h1 { font-size: 1.4rem; }
+  h2 { font-size: 1.1rem; margin-top: 2rem; border-bottom: 1px solid #333; padding-bottom: .3rem; }
+  a { display: inline-block; margin: .25rem .5rem .25rem 0; padding: .4rem .7rem; border: 1px solid #444; border-radius: 4px; text-decoration: none; color: #4aa3ff; }
+  a:hover { background: #111; }
+  p { color: #aaa; }
+  button { color: #e8e8e8; border-color: #444; background: #111; }
+  button:hover { background: #1a1a1a; }
+  @media (prefers-color-scheme: light) {
+    body { background: #fff; color: #222; }
+    h2 { border-bottom-color: #ccc; }
+    a { border-color: #555; color: #007AFF; }
+    a:hover { background: #f0f0f0; }
+    p { color: #444; }
+    button { color: #222; border-color: #555; background: #fff; }
+    button:hover { background: #f0f0f0; }
+  }
+</style>
+</head>
+<body>
+<h1>Sideload-Tools</h1>
+<p>One-tap buttons to add the catalogs to your sideload app. Only the <strong>original-link</strong> catalogs are listed — they work in every app. Tap a button on your device.</p>
+
+<div id="catalogs">
+  <h2>Original Links (Recommended)</h2>
+  <div id="cat-orig"></div>
+  <h2>Original Links — No PAL (for non-PAL apps)</h2>
+  <div id="cat-nopal"></div>
+</div>
+
+<script>
+  const ORIG = "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/merged-apps-original-links.json";
+  const NOPAL = "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/merged-apps-original-links-no-pal.json";
+  const enc = u => encodeURIComponent(u).replace(/'/g, "%27");
+  const apps = [
+    ["AltStore",          "altstore://source?URL="],
+    ["AltStore Classic",  "altstore-classic://source?url="],
+    ["SideStore",         "sidestore://source?url="],
+    ["ESign",             "esign://addsource?url="],
+    ["Feather",           "feather://source/"],
+    ["KSign",             "ksign://source/"],
+    ["TrollApps",         "trollapps://add?url="],
+    ["Scarlet",           "scarlet://source="],
+    ["StikStore",         "stikstore://add-source?url="],
+    ["LiveContainer",     "livecontainer://source?url="],
+  ];
+  const link = (name, scheme, url) => {
+    const a = document.createElement("a");
+    a.textContent = name;
+    a.href = scheme + enc(url);
+    return a;
+  };
+  const copyBtn = (label, url) => {
+    const b = document.createElement("button");
+    b.textContent = label;
+    b.style.cssText = "margin:.25rem .5rem .25rem 0;padding:.4rem .7rem;border:1px solid #555;border-radius:4px;cursor:pointer;font-family:monospace;";
+    b.onclick = () => navigator.clipboard.writeText(url)
+      .then(() => { b.textContent = "copied!"; setTimeout(() => b.textContent = label, 1200); })
+      .catch(() => { b.textContent = "copy failed"; });
+    return b;
+  };
+  const orig = document.getElementById("cat-orig");
+  const nopal = document.getElementById("cat-nopal");
+  for (const [name, scheme] of apps) {
+    orig.appendChild(link(name, scheme, ORIG));
+    nopal.appendChild(link(name, scheme, NOPAL));
+  }
+  orig.appendChild(copyBtn("copy raw url", ORIG));
+  nopal.appendChild(copyBtn("copy raw url", NOPAL));
+</script>
+</body>
+</html>

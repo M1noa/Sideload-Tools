@@ -1,0 +1,52 @@
+name: Merge App Sources
+
+on:
+  schedule:
+    - cron: '0 0,12 * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - repos-sources.txt
+      - merge_sources.py
+      - .github/workflows/merge-sources.yml
+
+permissions:
+  contents: write
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          filter: blob:none
+          sparse-checkout: |
+            /*
+            !/files/
+          sparse-checkout-cone-mode: false
+
+      - name: Merge sources and download files
+        run: python3 merge_sources.py
+        timeout-minutes: 360
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add merged-apps.json merged-apps-original-links.json merged-apps-no-pal.json merged-apps-original-links-no-pal.json apps-tracking.json
+          if [ -f new_files.txt ]; then
+            echo "new_files.txt exists, contents:"
+            cat new_files.txt
+            while IFS= read -r file; do
+              [ -n "$file" ] && git add --sparse "$file"
+            done < new_files.txt
+          else
+            echo "new_files.txt does not exist"
+          fi
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Update merged catalog and cached files"
+            git push
+          fi

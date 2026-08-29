@@ -1,12 +1,11 @@
-<p align="center">
+<div align="center">
   <h1><a href="https://m1noa.github.io/Sideload-Tools/">Sideload Tools</a></h1>
+  Auto-merged AltStore/ESign app catalog from multiple sources. Updated every 12 hours.
 
   <img alt="sources" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FM1noa%2FSideload-Tools%2Fmain%2Fbadge-sources.json">
   <img alt="ipas" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FM1noa%2FSideload-Tools%2Fmain%2Fbadge-ipas.json">
   <img alt="cached" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FM1noa%2FSideload-Tools%2Fmain%2Fbadge-cached.json">
-
-  Auto-merged AltStore/ESign app catalog from multiple sources. Updated every 12 hours.
-</p>
+</div>
 
 ---
 

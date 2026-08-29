@@ -2,21 +2,21 @@
   {
     "letter": "a",
     "name": "A",
-    "count": 604,
+    "count": 606,
     "cached_file": "merged-apps-no-pal-a.json",
     "original_file": "merged-apps-original-links-no-pal-a.json"
   },
   {
     "letter": "b",
     "name": "B",
-    "count": 828,
+    "count": 829,
     "cached_file": "merged-apps-no-pal-b.json",
     "original_file": "merged-apps-original-links-no-pal-b.json"
   },
   {
     "letter": "c",
     "name": "C",
-    "count": 729,
+    "count": 730,
     "cached_file": "merged-apps-no-pal-c.json",
     "original_file": "merged-apps-original-links-no-pal-c.json"
   },
@@ -51,7 +51,7 @@
   {
     "letter": "h",
     "name": "H",
-    "count": 320,
+    "count": 322,
     "cached_file": "merged-apps-no-pal-h.json",
     "original_file": "merged-apps-original-links-no-pal-h.json"
   },
@@ -79,21 +79,21 @@
   {
     "letter": "l",
     "name": "L",
-    "count": 500,
+    "count": 503,
     "cached_file": "merged-apps-no-pal-l.json",
     "original_file": "merged-apps-original-links-no-pal-l.json"
   },
   {
     "letter": "m",
     "name": "M",
-    "count": 839,
+    "count": 840,
     "cached_file": "merged-apps-no-pal-m.json",
     "original_file": "merged-apps-original-links-no-pal-m.json"
   },
   {
     "letter": "n",
     "name": "N",
-    "count": 344,
+    "count": 345,
     "cached_file": "merged-apps-no-pal-n.json",
     "original_file": "merged-apps-original-links-no-pal-n.json"
   },
@@ -107,7 +107,7 @@
   {
     "letter": "p",
     "name": "P",
-    "count": 1248,
+    "count": 1249,
     "cached_file": "merged-apps-no-pal-p.json",
     "original_file": "merged-apps-original-links-no-pal-p.json"
   },
@@ -121,7 +121,7 @@
   {
     "letter": "r",
     "name": "R",
-    "count": 406,
+    "count": 433,
     "cached_file": "merged-apps-no-pal-r.json",
     "original_file": "merged-apps-original-links-no-pal-r.json"
   },
@@ -163,7 +163,7 @@
   {
     "letter": "w",
     "name": "W",
-    "count": 410,
+    "count": 442,
     "cached_file": "merged-apps-no-pal-w.json",
     "original_file": "merged-apps-original-links-no-pal-w.json"
   },

@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Sideload-Tools Catalogs</title>
+<title>sideload-tools catalogs</title>
 <style>
   body { font-family: monospace; max-width: 720px; margin: 2rem auto; padding: 0 1rem; line-height: 1.5; background: #000; color: #e8e8e8; }
   h2 { font-size: 1.1rem; margin-top: 2rem; border-bottom: 1px solid #333; padding-bottom: .3rem; }
@@ -29,7 +29,7 @@
 </style>
 </head>
 <body>
-<p>Add the merged Sideload-Tools catalogs to your sideload app. Tap a button on your device, or copy the raw URL.</p>
+<p>catalogs for your sideload app. tap a button or copy the url.</p>
 
 <p>
   <img alt="sources" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FM1noa%2FSideload-Tools%2Fmain%2Fbadge-sources.json">
@@ -38,12 +38,12 @@
 </p>
 
 <div id="catalogs">
-  <h2>Original Link Catalogs</h2>
-  <p class="note">Point straight at upstream source URLs. Work in every sideload app.</p>
+  <h2>original link catalogs</h2>
+  <p class="note">links to the original source urls. works in every sideload app.</p>
   <div id="cat-orig"></div>
 
-  <h2>Cached Catalogs</h2>
-  <p class="note">Re-hosted files (the files/ folder). Keep working if the source goes offline.</p>
+  <h2>cached catalogs</h2>
+  <p class="note">files hosted here in files/. still work if the source goes down.</p>
   <div id="cat-cache"></div>
 </div>
 
@@ -83,10 +83,10 @@
   };
 
   const groups = [
-    { el: document.getElementById("cat-orig"),  title: "Original Links",          url: ORIG_NOPAL,  pal: false },
-    { el: document.getElementById("cat-orig"),  title: "Original Links (PAL)",    url: ORIG_PAL,    pal: true  },
-    { el: document.getElementById("cat-cache"), title: "Cached",                  url: CACHE_NOPAL, pal: false },
-    { el: document.getElementById("cat-cache"), title: "Cached (PAL)",            url: CACHE_PAL,   pal: true  },
+    { el: document.getElementById("cat-orig"),  title: "original links",          url: ORIG_NOPAL,  pal: false },
+    { el: document.getElementById("cat-orig"),  title: "original links (pal)",    url: ORIG_PAL,    pal: true  },
+    { el: document.getElementById("cat-cache"), title: "cached",                  url: CACHE_NOPAL, pal: false },
+    { el: document.getElementById("cat-cache"), title: "cached (pal)",            url: CACHE_PAL,   pal: true  },
   ];
 
   for (const g of groups) {

@@ -9,11 +9,11 @@
   h1 { font-size: 1.9rem; text-align: center; color: #4aa3ff; letter-spacing: .5px; margin: 0 0 .5rem; }
   h2 { font-size: 1.1rem; margin-top: 2rem; border-bottom: 1px solid #333; padding-bottom: .3rem; }
   h3 { font-size: 1rem; margin: 1.25rem 0 .5rem; color: #4aa3ff; }
-  a { display: inline-block; margin: .25rem .5rem .25rem 0; padding: .4rem .7rem; border: 1px solid #444; border-radius: 4px; text-decoration: none; color: #4aa3ff; }
+  a { display: inline-flex; align-items: center; gap: .35rem; margin: .25rem .5rem .25rem 0; padding: .4rem .7rem; border: 1px solid #444; border-radius: 4px; text-decoration: none; color: #4aa3ff; }
   a:hover { background: #111; }
   p { color: #aaa; }
   .note { color: #888; font-size: .85rem; }
-  button { color: #e8e8e8; border-color: #444; background: #111; }
+  button { color: #e8e8e8; border-color: #444; background: #111; display: inline-flex; align-items: center; gap: .35rem; }
   button:hover { background: #1a1a1a; }
   .pal { color: #ffd166; }
   @media (prefers-color-scheme: light) {
@@ -30,8 +30,8 @@
 </style>
 </head>
 <body>
+<p style="text-align:center;">One-tap buttons to add the catalogs to your sideload app. Tap a button on your device, or use the copy button to grab the raw URL. Path-style apps (KSign, Feather) open directly; everything else uses a copyable link.</p>
 <h1>Sideload-Tools</h1>
-<p style="text-align:center;">One-tap buttons to add the catalogs to your sideload app. Tap a button on your device, or use the copy button to grab the raw URL.</p>
 
 <p align="center">
   <img alt="sources" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FM1noa%2FSideload-Tools%2Fmain%2Fbadge-sources.json">
@@ -56,22 +56,30 @@
   const CACHE_PAL   = "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/merged-apps.json";
 
   const enc = u => encodeURIComponent(u).replace(/'/g, "%27");
+  const ICONS = {
+    "AltStore": "📦", "AltStore Classic": "📦", "SideStore": "📦", "ESign": "✍️",
+    "Feather": "🪶", "KSign": "🔏", "TrollApps": "🧌", "Scarlet": "🟥",
+    "StikStore": "🛒", "LiveContainer": "📱",
+  };
+  // raw:true -> append the URL unchanged (path-style schemes like ksign://source/ and
+  // feather://source/ require a literal https:// after the marker). false -> percent-encode
+  // (query-style schemes like ?url=).
   const apps = [
-    ["AltStore",          "altstore://source?URL="],
-    ["AltStore Classic",  "altstore-classic://source?url="],
-    ["SideStore",         "sidestore://source?url="],
-    ["ESign",             "esign://addsource?url="],
-    ["Feather",           "feather://source/"],
-    ["KSign",             "ksign://source/"],
-    ["TrollApps",         "trollapps://add?url="],
-    ["Scarlet",           "scarlet://source="],
-    ["StikStore",         "stikstore://add-source?url="],
-    ["LiveContainer",     "livecontainer://source?url="],
+    { n: "AltStore",         s: "altstore://source?URL=",        raw: false },
+    { n: "AltStore Classic", s: "altstore-classic://source?url=", raw: false },
+    { n: "SideStore",        s: "sidestore://source?url=",       raw: false },
+    { n: "ESign",            s: "esign://addsource?url=",        raw: false },
+    { n: "Feather",          s: "feather://source/",             raw: true  },
+    { n: "KSign",            s: "ksign://source/",               raw: true  },
+    { n: "TrollApps",        s: "trollapps://add?url=",          raw: false },
+    { n: "Scarlet",          s: "scarlet://source=",             raw: false },
+    { n: "StikStore",        s: "stikstore://add-source?url=",   raw: false },
+    { n: "LiveContainer",    s: "livecontainer://source?url=",   raw: false },
   ];
-  const link = (name, scheme, url) => {
+  const link = (name, scheme, raw, url) => {
     const a = document.createElement("a");
-    a.textContent = name;
-    a.href = scheme + enc(url);
+    a.textContent = (ICONS[name] ? ICONS[name] + " " : "") + name;
+    a.href = raw ? scheme + url : scheme + enc(url);
     return a;
   };
   const copyBtn = (label, url) => {
@@ -97,8 +105,8 @@
     h.textContent = g.title;
     if (g.pal) h.className = "pal";
     g.el.appendChild(h);
-    for (const [name, scheme] of apps) {
-      g.el.appendChild(link(name, scheme, g.url));
+    for (const app of apps) {
+      g.el.appendChild(link(app.n, app.s, app.raw, g.url));
     }
     g.el.appendChild(copyBtn("copy raw url", g.url));
   }

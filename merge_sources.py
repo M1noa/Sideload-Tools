@@ -764,6 +764,18 @@ def main():
             'percent_cached': percent_cached,
         }, f, indent=2)
 
+    # static shields.io endpoint badge files (each a complete {label,message} badge,
+    # so shields renders directly without JSONPath query)
+    badge_files = {
+        'badge-sources.json': ('Sources', str(sources), 'blue'),
+        'badge-ipas.json': ('IPAs', str(total_apps), 'brightgreen'),
+        'badge-cached.json': ('Cached', f'{percent_cached}%', 'orange'),
+    }
+    for fname, (label, message, color) in badge_files.items():
+        with open(os.path.join(SCRIPT_DIR, fname), 'w') as f:
+            json.dump({'schemaVersion': 1, 'label': label, 'message': message,
+                       'color': color}, f)
+
     with open(TRACKING_JSON, 'w') as f:
         json.dump(tracking, f, indent=2)
 

@@ -37,7 +37,11 @@
   <img alt="sources" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FM1noa%2FSideload-Tools%2Fmain%2Fbadge-sources.json">
   <img alt="ipas" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FM1noa%2FSideload-Tools%2Fmain%2Fbadge-ipas.json">
   <img alt="cached" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FM1noa%2FSideload-Tools%2Fmain%2Fbadge-cached.json">
-</p>
+  </p>
+
+<h2>Browse by Letter</h2>
+<p class="note">The full catalog is ~13k apps and can hang sideload apps on import. These alphabetical splits are a few hundred apps each, so they add instantly in KSign and Feather. Tap a letter, then your app.</p>
+<div id="by-letter"></div>
 
 <div id="catalogs">
   <h2>Original Link Catalogs</h2>
@@ -110,6 +114,34 @@
     }
     g.el.appendChild(copyBtn("copy raw url", g.url));
   }
+
+  // by-letter splits (rendered from letters.json so the page stays in sync with the catalog)
+  (async () => {
+    try {
+      const res = await fetch("letters.json");
+      if (!res.ok) return;
+      const letters = await res.json();
+      const root = document.getElementById("by-letter");
+      const BASE = "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/";
+      for (const L of letters) {
+        const h = document.createElement("h3");
+        h.textContent = L.name + (L.count ? ` (${L.count})` : "");
+        root.appendChild(h);
+        const cachedUrl = BASE + L.cached_file;
+        for (const app of apps) root.appendChild(link(app.n, app.s, app.raw, cachedUrl));
+        root.appendChild(copyBtn("copy cached url", cachedUrl));
+        if (L.original_file) {
+          const origUrl = BASE + L.original_file;
+          const oh = document.createElement("p");
+          oh.className = "note";
+          oh.textContent = "Original links (upstream URLs):";
+          root.appendChild(oh);
+          for (const app of apps) root.appendChild(link(app.n, app.s, app.raw, origUrl));
+          root.appendChild(copyBtn("copy original url", origUrl));
+        }
+      }
+    } catch (e) { /* letters.json is optional; full catalogs above still work */ }
+  })();
 </script>
 </body>
 </html>

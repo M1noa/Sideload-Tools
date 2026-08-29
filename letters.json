@@ -1,0 +1,191 @@
+[
+  {
+    "letter": "a",
+    "name": "A",
+    "count": 604,
+    "cached_file": "merged-apps-no-pal-a.json",
+    "original_file": "merged-apps-original-links-no-pal-a.json"
+  },
+  {
+    "letter": "b",
+    "name": "B",
+    "count": 828,
+    "cached_file": "merged-apps-no-pal-b.json",
+    "original_file": "merged-apps-original-links-no-pal-b.json"
+  },
+  {
+    "letter": "c",
+    "name": "C",
+    "count": 729,
+    "cached_file": "merged-apps-no-pal-c.json",
+    "original_file": "merged-apps-original-links-no-pal-c.json"
+  },
+  {
+    "letter": "d",
+    "name": "D",
+    "count": 456,
+    "cached_file": "merged-apps-no-pal-d.json",
+    "original_file": "merged-apps-original-links-no-pal-d.json"
+  },
+  {
+    "letter": "e",
+    "name": "E",
+    "count": 346,
+    "cached_file": "merged-apps-no-pal-e.json",
+    "original_file": "merged-apps-original-links-no-pal-e.json"
+  },
+  {
+    "letter": "f",
+    "name": "F",
+    "count": 834,
+    "cached_file": "merged-apps-no-pal-f.json",
+    "original_file": "merged-apps-original-links-no-pal-f.json"
+  },
+  {
+    "letter": "g",
+    "name": "G",
+    "count": 219,
+    "cached_file": "merged-apps-no-pal-g.json",
+    "original_file": "merged-apps-original-links-no-pal-g.json"
+  },
+  {
+    "letter": "h",
+    "name": "H",
+    "count": 320,
+    "cached_file": "merged-apps-no-pal-h.json",
+    "original_file": "merged-apps-original-links-no-pal-h.json"
+  },
+  {
+    "letter": "i",
+    "name": "I",
+    "count": 811,
+    "cached_file": "merged-apps-no-pal-i.json",
+    "original_file": "merged-apps-original-links-no-pal-i.json"
+  },
+  {
+    "letter": "j",
+    "name": "J",
+    "count": 16,
+    "cached_file": "merged-apps-no-pal-j.json",
+    "original_file": "merged-apps-original-links-no-pal-j.json"
+  },
+  {
+    "letter": "k",
+    "name": "K",
+    "count": 193,
+    "cached_file": "merged-apps-no-pal-k.json",
+    "original_file": "merged-apps-original-links-no-pal-k.json"
+  },
+  {
+    "letter": "l",
+    "name": "L",
+    "count": 500,
+    "cached_file": "merged-apps-no-pal-l.json",
+    "original_file": "merged-apps-original-links-no-pal-l.json"
+  },
+  {
+    "letter": "m",
+    "name": "M",
+    "count": 839,
+    "cached_file": "merged-apps-no-pal-m.json",
+    "original_file": "merged-apps-original-links-no-pal-m.json"
+  },
+  {
+    "letter": "n",
+    "name": "N",
+    "count": 344,
+    "cached_file": "merged-apps-no-pal-n.json",
+    "original_file": "merged-apps-original-links-no-pal-n.json"
+  },
+  {
+    "letter": "o",
+    "name": "O",
+    "count": 198,
+    "cached_file": "merged-apps-no-pal-o.json",
+    "original_file": "merged-apps-original-links-no-pal-o.json"
+  },
+  {
+    "letter": "p",
+    "name": "P",
+    "count": 1248,
+    "cached_file": "merged-apps-no-pal-p.json",
+    "original_file": "merged-apps-original-links-no-pal-p.json"
+  },
+  {
+    "letter": "q",
+    "name": "Q",
+    "count": 37,
+    "cached_file": "merged-apps-no-pal-q.json",
+    "original_file": "merged-apps-original-links-no-pal-q.json"
+  },
+  {
+    "letter": "r",
+    "name": "R",
+    "count": 406,
+    "cached_file": "merged-apps-no-pal-r.json",
+    "original_file": "merged-apps-original-links-no-pal-r.json"
+  },
+  {
+    "letter": "s",
+    "name": "S",
+    "count": 1757,
+    "cached_file": "merged-apps-no-pal-s.json",
+    "original_file": "merged-apps-original-links-no-pal-s.json"
+  },
+  {
+    "letter": "symbols",
+    "name": "#",
+    "count": 194,
+    "cached_file": "merged-apps-no-pal-symbols.json",
+    "original_file": "merged-apps-original-links-no-pal-symbols.json"
+  },
+  {
+    "letter": "t",
+    "name": "T",
+    "count": 931,
+    "cached_file": "merged-apps-no-pal-t.json",
+    "original_file": "merged-apps-original-links-no-pal-t.json"
+  },
+  {
+    "letter": "u",
+    "name": "U",
+    "count": 185,
+    "cached_file": "merged-apps-no-pal-u.json",
+    "original_file": "merged-apps-original-links-no-pal-u.json"
+  },
+  {
+    "letter": "v",
+    "name": "V",
+    "count": 381,
+    "cached_file": "merged-apps-no-pal-v.json",
+    "original_file": "merged-apps-original-links-no-pal-v.json"
+  },
+  {
+    "letter": "w",
+    "name": "W",
+    "count": 410,
+    "cached_file": "merged-apps-no-pal-w.json",
+    "original_file": "merged-apps-original-links-no-pal-w.json"
+  },
+  {
+    "letter": "x",
+    "name": "X",
+    "count": 71,
+    "cached_file": "merged-apps-no-pal-x.json",
+    "original_file": "merged-apps-original-links-no-pal-x.json"
+  },
+  {
+    "letter": "y",
+    "name": "Y",
+    "count": 258,
+    "cached_file": "merged-apps-no-pal-y.json",
+    "original_file": "merged-apps-original-links-no-pal-y.json"
+  },
+  {
+    "letter": "z",
+    "name": "Z",
+    "count": 33,
+    "cached_file": "merged-apps-no-pal-z.json",
+    "original_file": "merged-apps-original-links-no-pal-z.json"
+  }
+]

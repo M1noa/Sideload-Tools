@@ -1,0 +1,708 @@
+{
+  "name": "Minoa's Combined (Cached) (Z)",
+  "identifier": "com.m1noa.sideload-tools.merged.cached.z",
+  "subtitle": "Auto-merged from 43 sources. Local cached URLs where available, PAL fields removed.",
+  "description": "Alphabetical split of the cached no-PAL catalog for fast importing into KSign/Feather.",
+  "iconURL": "https://avatars.githubusercontent.com/u/57844837",
+  "appCount": 33,
+  "sourceCount": 43,
+  "apps": [
+    {
+      "name": "Zinnia",
+      "developerName": "Holloway",
+      "version": "1.48.1",
+      "versionDate": "2026-08-16 22:45:48",
+      "versionDescription": "Injected with Pro",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1539",
+      "download_page_url": "https://appstore.sidelix.vip/apps/13/1912",
+      "appstore_download_count": 222,
+      "localizedDescription": "Injected with Pro\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.pixite.Zinnia\n\n Downloads: 222\n\n Latest app store version: null",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a823d82299b7.jpg",
+      "tintColor": "018084",
+      "isLanZouCloud": 0,
+      "size": 86849759,
+      "type": "1",
+      "__source": "https://apps.nabzclan.vip/repos/esign.php",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
+      ]
+    },
+    {
+      "name": "Zen Color (Hacked)",
+      "developerName": "sidelix",
+      "version": "2.2.6",
+      "versionDate": "2026-08-14 19:16:15",
+      "versionDescription": "No Ads",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2323",
+      "download_page_url": "https://appstore.sidelix.vip/apps/11/2559",
+      "appstore_download_count": 70,
+      "localizedDescription": "No Ads\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: happy.paint.color.coloring.number\n\n Downloads: 70\n\n Latest app store version: null",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7f694a691d2.jpg",
+      "tintColor": "018084",
+      "isLanZouCloud": 0,
+      "size": 145168294,
+      "type": "1",
+      "__source": "https://apps.nabzclan.vip/repos/esign.php",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
+      ]
+    },
+    {
+      "name": "ZombieCatchers",
+      "type": 2,
+      "bundleID": "fi.twomenandadog.zombiecatchers",
+      "bundleIdentifier": "fi.twomenandadog.zombiecatchers",
+      "version": "1.65.26",
+      "versionDate": "2026-05-14",
+      "fullDate": "20260514011546",
+      "size": 110484622,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-05-2026/ZombieCatchers_1.65.26_IGG_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-05-2026/ZombieCatchers_1.65.26_IGG_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IGG",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fi.twomenandadog.zombiecatchers.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fi.twomenandadog.zombiecatchers.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Zing",
+      "type": 1,
+      "bundleID": "com.coach.zing",
+      "bundleIdentifier": "com.coach.zing",
+      "version": "1.123.0",
+      "versionDate": "2026-05-08",
+      "fullDate": "20260508041746",
+      "size": 284215351,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-05-2026/Zing_1.123.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-05-2026/Zing_1.123.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.coach.zing.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.coach.zing.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Zing",
+      "type": 1,
+      "bundleID": "com.coach.zing",
+      "bundleIdentifier": "com.coach.zing",
+      "version": "1.122.4",
+      "versionDate": "2026-04-24",
+      "fullDate": "20260424044104",
+      "size": 284155540,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-04-2026/Zing_1.122.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-04-2026/Zing_1.122.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.coach.zing.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.coach.zing.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "ZombieCatchers",
+      "type": 2,
+      "bundleID": "fi.twomenandadog.zombiecatchers",
+      "bundleIdentifier": "fi.twomenandadog.zombiecatchers",
+      "version": "1.64.32",
+      "versionDate": "2026-04-17",
+      "fullDate": "20260417165835",
+      "size": 110354746,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-04-2026/ZombieCatchers_1.64.32_IGG_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-04-2026/ZombieCatchers_1.64.32_IGG_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IGG",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fi.twomenandadog.zombiecatchers.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fi.twomenandadog.zombiecatchers.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Zoomable",
+      "type": 1,
+      "bundleID": "com.actowise.browser",
+      "bundleIdentifier": "com.actowise.browser",
+      "version": "3.7",
+      "versionDate": "2026-04-09",
+      "fullDate": "20260409004225",
+      "size": 6109115,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-04-2026/Zoomable_3.7_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-04-2026/Zoomable_3.7_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.actowise.browser.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.actowise.browser.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Zoomable",
+      "type": 1,
+      "bundleID": "com.actowise.browser",
+      "bundleIdentifier": "com.actowise.browser",
+      "version": "3.6",
+      "versionDate": "2026-03-20",
+      "fullDate": "20260320033131",
+      "size": 5946848,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-03-2026/Zoomable_3.6_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-03-2026/Zoomable_3.6_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.actowise.browser.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.actowise.browser.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "ZombieCatchers",
+      "type": 2,
+      "bundleID": "fi.twomenandadog.zombiecatchers",
+      "bundleIdentifier": "fi.twomenandadog.zombiecatchers",
+      "version": "1.63.2",
+      "versionDate": "2026-03-20",
+      "fullDate": "20260320014022",
+      "size": 109371992,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-03-2026/ZombieCatchers_1.63.2_IGG_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-03-2026/ZombieCatchers_1.63.2_IGG_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IGG",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fi.twomenandadog.zombiecatchers.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fi.twomenandadog.zombiecatchers.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Zing",
+      "type": 1,
+      "bundleID": "com.coach.zing",
+      "bundleIdentifier": "com.coach.zing",
+      "version": "1.121.0",
+      "versionDate": "2026-03-17",
+      "fullDate": "20260317043144",
+      "size": 282698264,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-03-2026/Zing_1.121.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-03-2026/Zing_1.121.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.coach.zing.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.coach.zing.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Zoomable",
+      "type": 1,
+      "bundleID": "com.actowise.browser",
+      "bundleIdentifier": "com.actowise.browser",
+      "version": "3.5",
+      "versionDate": "2026-03-05",
+      "fullDate": "20260305033906",
+      "size": 5928913,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-03-2026/Zoomable_3.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-03-2026/Zoomable_3.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.actowise.browser.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.actowise.browser.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "ZombieCatchers",
+      "type": 2,
+      "bundleID": "fi.twomenandadog.zombiecatchers",
+      "bundleIdentifier": "fi.twomenandadog.zombiecatchers",
+      "version": "1.62.1",
+      "versionDate": "2026-03-03",
+      "fullDate": "20260303222233",
+      "size": 111705464,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-03-2026/ZombieCatchers_1.62.1_IGG_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-03-2026/ZombieCatchers_1.62.1_IGG_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IGG",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fi.twomenandadog.zombiecatchers.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fi.twomenandadog.zombiecatchers.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "ZombieCatchers",
+      "type": 2,
+      "bundleID": "fi.twomenandadog.zombiecatchers",
+      "bundleIdentifier": "fi.twomenandadog.zombiecatchers",
+      "version": "1.61.2",
+      "versionDate": "2026-02-27",
+      "fullDate": "20260227132028",
+      "size": 112146264,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-02-2026/ZombieCatchers_1.61.2_IGG_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-02-2026/ZombieCatchers_1.61.2_IGG_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IGG",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fi.twomenandadog.zombiecatchers.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fi.twomenandadog.zombiecatchers.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "ZombieCatchers",
+      "type": 2,
+      "bundleID": "fi.twomenandadog.zombiecatchers",
+      "bundleIdentifier": "fi.twomenandadog.zombiecatchers",
+      "version": "1.60.10",
+      "versionDate": "2026-02-01",
+      "fullDate": "20260201054341",
+      "size": 112061931,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-02-2026/ZombieCatchers_1.60.10_IGG_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-02-2026/ZombieCatchers_1.60.10_IGG_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IGG",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fi.twomenandadog.zombiecatchers.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fi.twomenandadog.zombiecatchers.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Zing",
+      "type": 1,
+      "bundleID": "com.coach.zing",
+      "bundleIdentifier": "com.coach.zing",
+      "version": "1.118.2",
+      "versionDate": "2026-01-13",
+      "fullDate": "20260113065045",
+      "size": 274905929,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-01-2026/Zing_1.118.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-01-2026/Zing_1.118.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.coach.zing.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.coach.zing.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Zing",
+      "type": 1,
+      "bundleID": "com.coach.zing",
+      "bundleIdentifier": "com.coach.zing",
+      "version": "1.118.1",
+      "versionDate": "2025-12-29",
+      "fullDate": "20251229200417",
+      "size": 275706415,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-12-2025/Zing_1.118.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-12-2025/Zing_1.118.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.coach.zing.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.coach.zing.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "ZombieCatchers",
+      "type": 2,
+      "bundleID": "fi.twomenandadog.zombiecatchers",
+      "bundleIdentifier": "fi.twomenandadog.zombiecatchers",
+      "version": "1.59.31",
+      "versionDate": "2025-12-24",
+      "fullDate": "20251224224707",
+      "size": 109903803,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-12-2025/ZombieCatchers_1.59.31_IGG_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-12-2025/ZombieCatchers_1.59.31_IGG_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IGG",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fi.twomenandadog.zombiecatchers.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fi.twomenandadog.zombiecatchers.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "ZenColor",
+      "type": 2,
+      "bundleID": "happy.paint.color.coloring.number",
+      "bundleIdentifier": "happy.paint.color.coloring.number",
+      "version": "1.84.3",
+      "versionDate": "2025-12-20",
+      "fullDate": "20251220170404",
+      "size": 135032470,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-12-2025/ZenColor_1.84.3_noads_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-12-2025/ZenColor_1.84.3_noads_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with noads",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/happy.paint.color.coloring.number.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/happy.paint.color.coloring.number.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "ZombieCatchers",
+      "type": 2,
+      "bundleID": "fi.twomenandadog.zombiecatchers",
+      "bundleIdentifier": "fi.twomenandadog.zombiecatchers",
+      "version": "1.58.7",
+      "versionDate": "2025-12-16",
+      "fullDate": "20251216191948",
+      "size": 107889020,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-12-2025/ZombieCatchers_1.58.7_IGG_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-12-2025/ZombieCatchers_1.58.7_IGG_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IGG",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fi.twomenandadog.zombiecatchers.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fi.twomenandadog.zombiecatchers.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Zing",
+      "type": 1,
+      "bundleID": "com.coach.zing",
+      "bundleIdentifier": "com.coach.zing",
+      "version": "1.117.0",
+      "versionDate": "2025-11-22",
+      "fullDate": "20251122171649",
+      "size": 275918696,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-11-2025/Zing_1.117.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-11-2025/Zing_1.117.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.coach.zing.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.coach.zing.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Zest",
+      "type": 1,
+      "bundleID": "co.zestapp.mobile",
+      "bundleIdentifier": "co.zestapp.mobile",
+      "version": "8.7.0",
+      "versionDate": "2025-11-16",
+      "fullDate": "20251116053920",
+      "size": 45919943,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-11-2025/Zest_8.7.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-11-2025/Zest_8.7.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.zestapp.mobile.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.zestapp.mobile.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Zing",
+      "type": 1,
+      "bundleID": "com.coach.zing",
+      "bundleIdentifier": "com.coach.zing",
+      "version": "1.116.0",
+      "versionDate": "2025-11-07",
+      "fullDate": "20251107053837",
+      "size": 275523536,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-11-2025/Zing_1.116.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-11-2025/Zing_1.116.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.coach.zing.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.coach.zing.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Zing",
+      "type": 1,
+      "bundleID": "com.coach.zing",
+      "bundleIdentifier": "com.coach.zing",
+      "version": "1.115.0",
+      "versionDate": "2025-10-27",
+      "fullDate": "20251027184343",
+      "size": 275527221,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2025/Zing_1.115.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2025/Zing_1.115.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.coach.zing.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.coach.zing.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Zing",
+      "developerName": "Holloway",
+      "version": "1.114.0",
+      "versionDate": "2025-10-25 02:58:04",
+      "versionDescription": "Injected with Premium",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/983",
+      "download_page_url": "https://appstore.sidelix.vip/apps/13/1634",
+      "appstore_download_count": 189,
+      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.coach.zing\n\n Downloads: 189\n\n Latest app store version: null",
+      "iconURL": "https://appstore.sidelix.vip/images/1761374614.png",
+      "tintColor": "018084",
+      "isLanZouCloud": 0,
+      "size": 277306570,
+      "type": "1",
+      "__source": "https://apps.nabzclan.vip/repos/esign.php",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
+      ]
+    },
+    {
+      "name": "Zoomable",
+      "developerName": "Holloway",
+      "version": "3.4",
+      "versionDate": "2025-10-25 02:53:27",
+      "versionDescription": "Injected with Pro",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/953",
+      "download_page_url": "https://appstore.sidelix.vip/apps/13/1619",
+      "appstore_download_count": 213,
+      "localizedDescription": "Injected with Pro\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.actowise.browser\n\n Downloads: 213\n\n Latest app store version: null",
+      "iconURL": "https://appstore.sidelix.vip/images/1761374317.png",
+      "tintColor": "018084",
+      "isLanZouCloud": 0,
+      "size": 5768378,
+      "type": "1",
+      "__source": "https://apps.nabzclan.vip/repos/esign.php",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
+      ]
+    },
+    {
+      "name": "Zoomable",
+      "type": 1,
+      "bundleID": "com.actowise.browser",
+      "bundleIdentifier": "com.actowise.browser",
+      "version": "3.4",
+      "versionDate": "2025-10-07",
+      "fullDate": "20251007054149",
+      "size": 5599581,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-10-2025/Zoomable_3.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-10-2025/Zoomable_3.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.actowise.browser.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.actowise.browser.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Zing",
+      "type": 1,
+      "bundleID": "com.coach.zing",
+      "bundleIdentifier": "com.coach.zing",
+      "version": "1.114.0",
+      "versionDate": "2025-10-03",
+      "fullDate": "20251003023403",
+      "size": 277520833,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-10-2025/Zing_1.114.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-10-2025/Zing_1.114.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.coach.zing.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.coach.zing.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Zoomable",
+      "type": 1,
+      "bundleID": "com.actowise.browser",
+      "bundleIdentifier": "com.actowise.browser",
+      "version": "3.3",
+      "versionDate": "2025-09-28",
+      "fullDate": "20250928181528",
+      "size": 5515132,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2025/Zoomable_3.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/Zoomable_3.3_Pro_@thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.actowise.browser.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.actowise.browser.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Zing",
+      "type": 1,
+      "bundleID": "com.coach.zing",
+      "bundleIdentifier": "com.coach.zing",
+      "version": "1.113.1",
+      "versionDate": "2025-08-26",
+      "fullDate": "20250826124514",
+      "size": 238891783,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-08-2025/Zing_1.113.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-08-2025/Zing_1.113.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.coach.zing.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.coach.zing.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Zing",
+      "type": 1,
+      "bundleID": "com.coach.zing",
+      "bundleIdentifier": "com.coach.zing",
+      "version": "1.113.0",
+      "versionDate": "2025-08-23",
+      "fullDate": "20250823142026",
+      "size": 238889772,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-08-2025/Zing_1.113.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-08-2025/Zing_1.113.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.coach.zing.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.coach.zing.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Zing",
+      "type": 1,
+      "bundleID": "com.coach.zing",
+      "bundleIdentifier": "com.coach.zing",
+      "version": "1.112.0",
+      "versionDate": "2025-08-08",
+      "fullDate": "20250808035712",
+      "size": 237739587,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-08-2025/Zing_1.112.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-08-2025/Zing_1.112.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.coach.zing.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.coach.zing.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "ZiniTeviPlusPlus",
+      "bundleIdentifier": "jb.zini.tevi",
+      "version": "1.5.0",
+      "versionDate": "2024-10-17",
+      "size": 7948926,
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/ZiniTeviPlusPlus-1.5.0.ipa",
+      "developerName": "AppDB",
+      "localizedDescription": "Another movie app, modded to remove ads and tracking. No need to toggle the disable tracking options\nLast updated: 02-09-2023\nStatus: \u26a0\ufe0f",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/jb.zini.tevi.png",
+      "__source": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps_esign.json",
+      "__mirrors": [
+        "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps_altstore.json",
+        "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps_esign.json"
+      ],
+      "__stores": [
+        "ESign",
+        "AltStore"
+      ]
+    },
+    {
+      "name": "ZiniTevi++",
+      "bundleIdentifier": "jb.zini.tevi",
+      "developerName": "",
+      "subtitle": "Watch free movies and TV Shows on your iPhone!",
+      "localizedDescription": "\u2022 Updated ZiniTevi to v1.5.0",
+      "iconURL": "https://i.imgur.com/rgL5qrB.png",
+      "tintColor": "#333939",
+      "screenshotURLs": [
+        "https://static.appdb.to/images/cydia-1900000660-iphone-0.png",
+        "https://static.appdb.to/images/cydia-1900000660-iphone-1.png",
+        "https://static.appdb.to/images/cydia-1900000660-iphone-2.png"
+      ],
+      "version": "1.5.0",
+      "date": "2023-02-15",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/ZiniTevi+.v1.5.0.ipa",
+      "size": 7580000,
+      "sha256": "88608b7a46821c63f6e92ed9fd42ccce2cd730d8603cbf00627155032d29ae54",
+      "minOSVersion": "14.0",
+      "versionDate": "2023-02-15",
+      "__source": "https://quarksources.github.io/quantumsource++.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    }
+  ]
+}

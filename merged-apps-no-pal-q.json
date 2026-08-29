@@ -1,0 +1,752 @@
+{
+  "name": "Minoa's Combined (Cached) (Q)",
+  "identifier": "com.m1noa.sideload-tools.merged.cached.q",
+  "subtitle": "Auto-merged from 43 sources. Local cached URLs where available, PAL fields removed.",
+  "description": "Alphabetical split of the cached no-PAL catalog for fast importing into KSign/Feather.",
+  "iconURL": "https://avatars.githubusercontent.com/u/57844837",
+  "appCount": 37,
+  "sourceCount": 43,
+  "apps": [
+    {
+      "name": "Quiche Browser (Hacked)",
+      "developerName": "sidelix",
+      "version": "1.71",
+      "versionDate": "2026-07-15 17:28:44",
+      "versionDescription": "Features:\r\n- subscription unlocked",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2178",
+      "download_page_url": "https://appstore.sidelix.vip/apps/11/2415",
+      "appstore_download_count": 179,
+      "localizedDescription": "Features:\r\n- subscription unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: org.quiche.Browser\n\n Downloads: 179\n\n Latest app store version: null",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a57c33a9e787.jpg",
+      "tintColor": "018084",
+      "isLanZouCloud": 0,
+      "size": 93226995,
+      "type": "1",
+      "__source": "https://apps.nabzclan.vip/repos/esign.php",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
+      ]
+    },
+    {
+      "name": "Quitzilla: Quit Tracker (Hacked)",
+      "developerName": "sidelix",
+      "version": "1.4",
+      "versionDate": "2026-05-31 23:23:54",
+      "versionDescription": "Features:\r\n\r\n- hacked premium",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2010",
+      "download_page_url": "https://appstore.sidelix.vip/apps/11/2247",
+      "appstore_download_count": 226,
+      "localizedDescription": "Features:\r\n\r\n- hacked premium\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.despdevs.quitzilla\n\n Downloads: 226\n\n Latest app store version: null",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a1cfaed630b7.jpg",
+      "tintColor": "018084",
+      "isLanZouCloud": 0,
+      "size": 24517183,
+      "type": "1",
+      "__source": "https://apps.nabzclan.vip/repos/esign.php",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
+      ]
+    },
+    {
+      "name": "QrCode",
+      "type": 1,
+      "bundleID": "com.internet-rocks.codescanner",
+      "bundleIdentifier": "com.internet-rocks.codescanner",
+      "version": "2026.3.4",
+      "versionDate": "2026-04-08",
+      "fullDate": "20260408204118",
+      "size": 100644762,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-04-2026/QrCode_2026.3.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-04-2026/QrCode_2026.3.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "QrCode",
+      "type": 1,
+      "bundleID": "com.internet-rocks.codescanner",
+      "bundleIdentifier": "com.internet-rocks.codescanner",
+      "version": "2026.1.4",
+      "versionDate": "2026-02-09",
+      "fullDate": "20260209060557",
+      "size": 102510065,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-02-2026/QrCode_2026.1.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/QrCode_2026.1.4_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "QrCode",
+      "type": 1,
+      "bundleID": "com.internet-rocks.codescanner",
+      "bundleIdentifier": "com.internet-rocks.codescanner",
+      "version": "2026.1.3",
+      "versionDate": "2026-02-03",
+      "fullDate": "20260203170306",
+      "size": 102509997,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-02-2026/QrCode_2026.1.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/QrCode_2026.1.3_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "QrCode",
+      "type": 1,
+      "bundleID": "com.internet-rocks.codescanner",
+      "bundleIdentifier": "com.internet-rocks.codescanner",
+      "version": "2026.1.2",
+      "versionDate": "2026-01-26",
+      "fullDate": "20260126055930",
+      "size": 112790722,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-01-2026/QrCode_2026.1.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-01-2026/QrCode_2026.1.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "QrCode",
+      "type": 1,
+      "bundleID": "com.internet-rocks.codescanner",
+      "bundleIdentifier": "com.internet-rocks.codescanner",
+      "version": "2026.1.1",
+      "versionDate": "2026-01-22",
+      "fullDate": "20260122202505",
+      "size": 112790803,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-01-2026/QrCode_2026.1.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-01-2026/QrCode_2026.1.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "QuicheBrowser",
+      "type": 1,
+      "bundleID": "org.quiche.Browser",
+      "bundleIdentifier": "org.quiche.Browser",
+      "version": "1.68.3",
+      "versionDate": "2026-01-20",
+      "fullDate": "20260120154831",
+      "size": 86624203,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/QuicheBrowser_1.68.3_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/QuicheBrowser_1.68.3_Plus_@thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Plus",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.quiche.Browser.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.quiche.Browser.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "QrCode",
+      "type": 1,
+      "bundleID": "com.internet-rocks.codescanner",
+      "bundleIdentifier": "com.internet-rocks.codescanner",
+      "version": "2025.12.4",
+      "versionDate": "2026-01-12",
+      "fullDate": "20260112165304",
+      "size": 138150726,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-01-2026/QrCode_2025.12.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-01-2026/QrCode_2025.12.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "QrCode",
+      "type": 1,
+      "bundleID": "com.internet-rocks.codescanner",
+      "bundleIdentifier": "com.internet-rocks.codescanner",
+      "version": "2025.12.3",
+      "versionDate": "2025-12-30",
+      "fullDate": "20251230060548",
+      "size": 112792499,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-12-2025/QrCode_2025.12.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-12-2025/QrCode_2025.12.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "QuoteUp",
+      "type": 1,
+      "bundleID": "vladchechura.MotivationEN",
+      "bundleIdentifier": "vladchechura.MotivationEN",
+      "version": "1.5.0",
+      "versionDate": "2025-12-23",
+      "fullDate": "20251223162406",
+      "size": 88372245,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/QuoteUp_1.5.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/QuoteUp_1.5.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/vladchechura.MotivationEN.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/vladchechura.MotivationEN.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "QrCode",
+      "type": 1,
+      "bundleID": "com.internet-rocks.codescanner",
+      "bundleIdentifier": "com.internet-rocks.codescanner",
+      "version": "2025.12.2",
+      "versionDate": "2025-12-15",
+      "fullDate": "20251215065050",
+      "size": 114018010,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-12-2025/QrCode_2025.12.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-12-2025/QrCode_2025.12.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "QrCode",
+      "type": 1,
+      "bundleID": "com.internet-rocks.codescanner",
+      "bundleIdentifier": "com.internet-rocks.codescanner",
+      "version": "2025.11.2",
+      "versionDate": "2025-12-01",
+      "fullDate": "20251201070506",
+      "size": 113922911,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-12-2025/QrCode_2025.11.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-12-2025/QrCode_2025.11.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "QrCode",
+      "type": 1,
+      "bundleID": "com.internet-rocks.codescanner",
+      "bundleIdentifier": "com.internet-rocks.codescanner",
+      "version": "2025.10.1",
+      "versionDate": "2025-11-21",
+      "fullDate": "20251121082256",
+      "size": 113704252,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-11-2025/QrCode_2025.10.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-11-2025/QrCode_2025.10.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "QuestionAI",
+      "developerName": "Holloway",
+      "version": "3.3.6",
+      "versionDate": "2025-10-25 04:15:23",
+      "versionDescription": "Injected with Pro",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1585",
+      "download_page_url": "https://appstore.sidelix.vip/apps/13/1935",
+      "appstore_download_count": 298,
+      "localizedDescription": "Injected with Pro\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.qianfan.aihomework\n\n Downloads: 298\n\n Latest app store version: null",
+      "iconURL": "https://appstore.sidelix.vip/images/1761379738.png",
+      "tintColor": "018084",
+      "isLanZouCloud": 0,
+      "size": 65912676,
+      "type": "1",
+      "__source": "https://apps.nabzclan.vip/repos/esign.php",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
+      ]
+    },
+    {
+      "name": "Qewie",
+      "developerName": "Holloway",
+      "version": "1.1.5",
+      "versionDate": "2025-10-25 04:14:09",
+      "versionDescription": "Injected with Pro",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1575",
+      "download_page_url": "https://appstore.sidelix.vip/apps/13/1930",
+      "appstore_download_count": 217,
+      "localizedDescription": "Injected with Pro\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: elizabeth-studios.QR\n\n Downloads: 217\n\n Latest app store version: null",
+      "iconURL": "https://appstore.sidelix.vip/images/1761379663.png",
+      "tintColor": "018084",
+      "isLanZouCloud": 0,
+      "size": 11555153,
+      "type": "1",
+      "__source": "https://apps.nabzclan.vip/repos/esign.php",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
+      ]
+    },
+    {
+      "name": "Quizlet",
+      "developerName": "Holloway",
+      "version": "10.2",
+      "versionDate": "2025-10-25 03:29:40",
+      "versionDescription": "Injected with Plus",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1225",
+      "download_page_url": "https://appstore.sidelix.vip/apps/13/1755",
+      "appstore_download_count": 607,
+      "localizedDescription": "Injected with Plus\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.quizlet.quizlet\n\n Downloads: 607\n\n Latest app store version: null",
+      "iconURL": "https://appstore.sidelix.vip/images/1761376656.png",
+      "tintColor": "018084",
+      "isLanZouCloud": 0,
+      "size": 62094853,
+      "type": "1",
+      "__source": "https://apps.nabzclan.vip/repos/esign.php",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
+      ]
+    },
+    {
+      "name": "QrCode",
+      "developerName": "Holloway",
+      "version": "2025.9.3",
+      "versionDate": "2025-10-25 02:42:01",
+      "versionDescription": "Injected with Subscription Unlocked",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/871",
+      "download_page_url": "https://appstore.sidelix.vip/apps/13/1578",
+      "appstore_download_count": 207,
+      "localizedDescription": "Injected with Subscription Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.internet-rocks.codescanner\n\n Downloads: 207\n\n Latest app store version: null",
+      "iconURL": "https://appstore.sidelix.vip/images/1761373628.png",
+      "tintColor": "018084",
+      "isLanZouCloud": 0,
+      "size": 109811880,
+      "type": "1",
+      "__source": "https://apps.nabzclan.vip/repos/esign.php",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
+      ]
+    },
+    {
+      "name": "QrCode",
+      "type": 1,
+      "bundleID": "com.internet-rocks.codescanner",
+      "bundleIdentifier": "com.internet-rocks.codescanner",
+      "version": "2025.9.3",
+      "versionDate": "2025-10-12",
+      "fullDate": "20251012132331",
+      "size": 113806820,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-10-2025/QrCode_2025.9.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-10-2025/QrCode_2025.9.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "QrCode",
+      "type": 1,
+      "bundleID": "com.internet-rocks.codescanner",
+      "bundleIdentifier": "com.internet-rocks.codescanner",
+      "version": "2025.9.2",
+      "versionDate": "2025-09-29",
+      "fullDate": "20250929130820",
+      "size": 113807099,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2025/QrCode_2025.9.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2025/QrCode_2025.9.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "QrCode",
+      "type": 1,
+      "bundleID": "com.internet-rocks.codescanner",
+      "bundleIdentifier": "com.internet-rocks.codescanner",
+      "version": "2025.9.1",
+      "versionDate": "2025-09-23",
+      "fullDate": "20250923152109",
+      "size": 77442657,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-09-2025/QrCode_2025.9.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/QrCode_2025.9.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "QrCode",
+      "type": 1,
+      "bundleID": "com.internet-rocks.codescanner",
+      "bundleIdentifier": "com.internet-rocks.codescanner",
+      "version": "2025.8.4",
+      "versionDate": "2025-09-01",
+      "fullDate": "20250901134338",
+      "size": 168595585,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-09-2025/QrCode_2025.8.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-09-2025/QrCode_2025.8.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Quizlet",
+      "type": 1,
+      "bundleID": "com.quizlet.quizlet",
+      "bundleIdentifier": "com.quizlet.quizlet",
+      "version": "10.2",
+      "versionDate": "2025-08-28",
+      "fullDate": "20250828120428",
+      "size": 62979035,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2025/Quizlet_10.2_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/Quizlet_10.2_Plus_@thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Plus",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "QrCode",
+      "type": 1,
+      "bundleID": "com.internet-rocks.codescanner",
+      "bundleIdentifier": "com.internet-rocks.codescanner",
+      "version": "2025.8.3",
+      "versionDate": "2025-08-23",
+      "fullDate": "20250823021827",
+      "size": 168595487,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-08-2025/QrCode_2025.8.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-08-2025/QrCode_2025.8.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Quizlet",
+      "type": 1,
+      "bundleID": "com.quizlet.quizlet",
+      "bundleIdentifier": "com.quizlet.quizlet",
+      "version": "10.1",
+      "versionDate": "2025-08-20",
+      "fullDate": "20250820003825",
+      "size": 62899789,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-08-2025/Quizlet_10.1_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/Quizlet_10.1_Plus_@thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Plus",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Quizlet",
+      "type": 1,
+      "bundleID": "com.quizlet.quizlet",
+      "bundleIdentifier": "com.quizlet.quizlet",
+      "version": "10.0",
+      "versionDate": "2025-08-14",
+      "fullDate": "20250814023514",
+      "size": 62689930,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-08-2025/Quizlet_10.0_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/Quizlet_10.0_Plus_@thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Plus",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "QrCode",
+      "type": 1,
+      "bundleID": "com.internet-rocks.codescanner",
+      "bundleIdentifier": "com.internet-rocks.codescanner",
+      "version": "2025.7.4",
+      "versionDate": "2025-08-12",
+      "fullDate": "20250812044329",
+      "size": 106306202,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-08-2025/QrCode_2025.7.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-08-2025/QrCode_2025.7.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Quizlet",
+      "type": 1,
+      "bundleID": "com.quizlet.quizlet",
+      "bundleIdentifier": "com.quizlet.quizlet",
+      "version": "9.43.1",
+      "versionDate": "2025-08-07",
+      "fullDate": "20250807045421",
+      "size": 62575212,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2025/Quizlet_9.43.1_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/Quizlet_9.43.1_Plus_@thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Plus",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "QuizletPlus",
+      "bundleIdentifier": "com.quizlet.quizlet",
+      "version": "8.14",
+      "versionDate": "2024-10-12",
+      "size": 54472832,
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/QuizletPlus-8.14.ipa",
+      "developerName": "AIpalux / IPA Fire",
+      "localizedDescription": "Removed from the repo: Tweak does not unlock anything. Refer to this.\nLast updated: 01-17-2024\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.quizlet.quizlet.png",
+      "__source": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps_esign.json",
+      "__mirrors": [
+        "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps_altstore.json"
+      ],
+      "__stores": [
+        "ESign",
+        "AltStore"
+      ]
+    },
+    {
+      "name": "QuizletPlus",
+      "bundleIdentifier": "com.quizlet.quizlet",
+      "version": "8.15",
+      "versionDate": "2024-10-12",
+      "size": 54568872,
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/QuizletPlus-8.15.ipa",
+      "developerName": "AIpalux / IPA Fire",
+      "localizedDescription": "Removed from the repo: Tweak does not unlock anything. Refer to this.\nLast updated: 01-17-2024\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.quizlet.quizlet.png",
+      "__source": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps_esign.json",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
+      ]
+    },
+    {
+      "name": "QuizletPlus",
+      "bundleIdentifier": "com.quizlet.quizlet",
+      "version": "8.16",
+      "versionDate": "2024-10-12",
+      "size": 54774996,
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/QuizletPlus-8.16.ipa",
+      "developerName": "AIpalux / IPA Fire",
+      "localizedDescription": "Removed from the repo: Tweak does not unlock anything. Refer to this.\nLast updated: 01-17-2024\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.quizlet.quizlet.png",
+      "__source": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps_esign.json",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
+      ]
+    },
+    {
+      "name": "QuizletPlus",
+      "bundleIdentifier": "com.quizlet.quizlet",
+      "version": "8.17",
+      "versionDate": "2024-10-12",
+      "size": 54797523,
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/QuizletPlus-8.17.ipa",
+      "developerName": "AIpalux / IPA Fire",
+      "localizedDescription": "Removed from the repo: Tweak does not unlock anything. Refer to this.\nLast updated: 01-17-2024\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.quizlet.quizlet.png",
+      "__source": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps_esign.json",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
+      ]
+    },
+    {
+      "name": "QuizletPlus",
+      "bundleIdentifier": "com.quizlet.quizlet",
+      "version": "8.19",
+      "versionDate": "2024-10-12",
+      "size": 55946039,
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/QuizletPlus-8.19.ipa",
+      "developerName": "AIpalux / IPA Fire",
+      "localizedDescription": "Removed from the repo: Tweak does not unlock anything. Refer to this.\nLast updated: 01-17-2024\nStatus: \u274c",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.quizlet.quizlet.png",
+      "__source": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps_esign.json",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
+      ]
+    },
+    {
+      "name": "QuantumultX",
+      "bundleIdentifier": "com.crossutility.quantumult-x",
+      "version": "1.4.2",
+      "versionDate": "2024-10-12",
+      "size": 16180965,
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/QuantumultX-1.4.2.ipa",
+      "developerName": "iOS Tutorials + App Cracks",
+      "localizedDescription": "Note: Filters cannot be used without the receipt linked to the corresponding App ID used for the purchase; there's no way to bypass this requirement.\nLast updated: 12-12-2023\nStatus: \u26a0\ufe0f",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.crossutility.quantumult-x.png",
+      "__source": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps_esign.json",
+      "__mirrors": [
+        "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps_altstore.json"
+      ],
+      "__stores": [
+        "ESign",
+        "AltStore"
+      ]
+    },
+    {
+      "name": "QuakeFeedPremium",
+      "bundleIdentifier": "com.artisanglobal.quakefeed",
+      "version": "6.3.5",
+      "versionDate": "2024-10-12",
+      "size": 61336181,
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/QuakeFeedPremium-6.3.5.ipa",
+      "developerName": "zxcvbn\u2019s tweaked IPAs",
+      "localizedDescription": "An original viewpoint on global seismic activity, featuring maps and notifications for rapid earthquake updates. Access ten stunning base maps along with various data repositories, encompassing historical seismic events dating back to 1900. Additional map overlays are available to track wildfires, hurricanes, and active volcanoes.\nLast updated: 06-30-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.artisanglobal.quakefeed.png",
+      "__source": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps_esign.json",
+      "__mirrors": [
+        "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps_altstore.json"
+      ],
+      "__stores": [
+        "ESign",
+        "AltStore"
+      ]
+    },
+    {
+      "name": "QuakeFeedPremium",
+      "bundleIdentifier": "com.artisanglobal.quakefeed",
+      "version": "6.4.2",
+      "versionDate": "2024-10-12",
+      "size": 66792966,
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/QuakeFeedPremium-6.4.2.ipa",
+      "developerName": "zxcvbn\u2019s tweaked IPAs",
+      "localizedDescription": "An original viewpoint on global seismic activity, featuring maps and notifications for rapid earthquake updates. Access ten stunning base maps along with various data repositories, encompassing historical seismic events dating back to 1900. Additional map overlays are available to track wildfires, hurricanes, and active volcanoes.\nLast updated: 06-30-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.artisanglobal.quakefeed.png",
+      "__source": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps_esign.json",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
+      ]
+    },
+    {
+      "name": "QuakeFeedPremium",
+      "bundleIdentifier": "com.artisanglobal.quakefeed",
+      "version": "6.4",
+      "versionDate": "2024-10-12",
+      "size": 62786555,
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/QuakeFeedPremium-6.4.ipa",
+      "developerName": "zxcvbn\u2019s tweaked IPAs",
+      "localizedDescription": "An original viewpoint on global seismic activity, featuring maps and notifications for rapid earthquake updates. Access ten stunning base maps along with various data repositories, encompassing historical seismic events dating back to 1900. Additional map overlays are available to track wildfires, hurricanes, and active volcanoes.\nLast updated: 06-30-2024\nStatus: \u2705",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.artisanglobal.quakefeed.png",
+      "__source": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps_esign.json",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
+      ]
+    }
+  ]
+}

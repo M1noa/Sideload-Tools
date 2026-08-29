@@ -34,7 +34,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add merged-apps.json merged-apps-original-links.json merged-apps-no-pal.json merged-apps-original-links-no-pal.json apps-tracking.json stats.json badge-sources.json badge-ipas.json badge-cached.json
+          git add merged-apps.json merged-apps-original-links.json merged-apps-no-pal.json merged-apps-original-links-no-pal.json apps-tracking.json stats.json badge-sources.json badge-ipas.json badge-cached.json letters.json merged-apps-no-pal-*.json merged-apps-original-links-no-pal-*.json
           if [ -f new_files.txt ]; then
             echo "new_files.txt exists, contents:"
             cat new_files.txt

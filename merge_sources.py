@@ -252,6 +252,27 @@ def write_catalog(path, name, identifier, subtitle, description, apps):
         }, f, indent=2)
 
 
+def letter_slug(name):
+    c = (name or '?').strip()[:1].lower()
+    return c if (c.isalpha() and c.isascii()) else 'symbols'
+
+
+def write_letter_catalogs(apps, base_path, name_prefix, id_prefix, subtitle, description):
+    groups = defaultdict(list)
+    for a in apps:
+        groups[letter_slug(a.get('name', ''))].append(a)
+    manifest = []
+    for letter in sorted(groups.keys()):
+        capps = groups[letter]
+        path = base_path.replace('.json', f'-{letter}.json')
+        label = letter.upper() if letter != 'symbols' else '#'
+        identifier = f'{id_prefix}.{letter}'
+        write_catalog(path, f"{name_prefix} ({label})", identifier, subtitle, description, capps)
+        manifest.append({'letter': letter, 'name': label, 'count': len(capps),
+                         'file': os.path.basename(path)})
+    return manifest
+
+
 def main():
     global URLS
     os.makedirs(FILES_DIR, exist_ok=True)
@@ -747,6 +768,28 @@ def main():
         f'Auto-merged from {len(urls)} AltStore/ESign sources. Local cached URLs where available, PAL fields removed.',
         'Same as the merged catalog but strips appID/marketplaceID/permissions (AltStore PAL) and nested versions arrays.',
         [strip_pal(a) for a in merged_apps])
+
+    # per-letter splits so each chunk is small and imports fast in ksign/feather.
+    # upstream metadata has almost no category data (169/13148 apps), so we split
+    # alphabetically by app name instead of by category.
+    cached_letter_manifest = write_letter_catalogs(
+        [strip_pal(a) for a in merged_apps], MERGED_NO_PAL_JSON,
+        "Minoa's Combined (Cached)", 'com.m1noa.sideload-tools.merged.cached',
+        f'Auto-merged from {len(urls)} sources. Local cached URLs where available, PAL fields removed.',
+        'Alphabetical split of the cached no-PAL catalog for fast importing into KSign/Feather.')
+    orig_letter_manifest = write_letter_catalogs(
+        [strip_pal(a) for a in all_apps], MERGED_ORIGINAL_NO_PAL_JSON,
+        "Minoa's Combined", 'com.m1noa.sideload-tools.merged',
+        f'Auto-merged from {len(urls)} sources. Original URLs, PAL fields removed.',
+        'Alphabetical split of the original-links no-PAL catalog.')
+    letters = []
+    for c in cached_letter_manifest:
+        o = next((x for x in orig_letter_manifest if x['letter'] == c['letter']), None)
+        letters.append({'letter': c['letter'], 'name': c['name'], 'count': c['count'],
+                        'cached_file': c['file'],
+                        'original_file': o['file'] if o else ''})
+    with open(os.path.join(SCRIPT_DIR, 'letters.json'), 'w') as f:
+        json.dump(letters, f, indent=2)
 
     # stats for shields.io endpoint badges (sources / total ipas / percent cached)
     sources = len(urls)

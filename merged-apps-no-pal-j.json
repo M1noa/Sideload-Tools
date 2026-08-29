@@ -1,0 +1,345 @@
+{
+  "name": "Minoa's Combined (Cached) (J)",
+  "identifier": "com.m1noa.sideload-tools.merged.cached.j",
+  "subtitle": "Auto-merged from 43 sources. Local cached URLs where available, PAL fields removed.",
+  "description": "Alphabetical split of the cached no-PAL catalog for fast importing into KSign/Feather.",
+  "iconURL": "https://avatars.githubusercontent.com/u/57844837",
+  "appCount": 16,
+  "sourceCount": 43,
+  "apps": [
+    {
+      "name": "Japanese Rural Life Adventure (Apple Arcade)",
+      "developerName": "sidelix",
+      "version": "1.22.0",
+      "versionDate": "2026-08-01 17:15:01",
+      "versionDescription": "\"Live in the Japanese countryside surrounded by nature.\r\n\r\nFix up an old house, make the yard nice, grow your own crops, and become self-sufficient. \r\n\r\nView the cherry blossoms in the spring;\r\nattend the festival in the summer;\r\neat roasted sweet potatoes in the fall; \r\nhear the temple bell ring in winter, and then it's time for the first shrine visit of the New Year.\r\n\r\n- Build a pond and raise varicolored carp.\r\n- Catch wild fish and bugs and take photos of other wildlife.\r\n- Observe various Japanese customs throughout the year.\r\n- Help the village head revive the community. \r\n- Buy a mountain and explore your new backyard.\"",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2198",
+      "download_page_url": "https://appstore.sidelix.vip/apps/11/2435",
+      "appstore_download_count": 137,
+      "localizedDescription": "\"Live in the Japanese countryside surrounded by nature.\r\n\r\nFix up an old house, make the yard nice, grow your own crops, and become self-sufficient. \r\n\r\nView the cherry blossoms in the spring;\r\nattend the festival in the summer;\r\neat roasted sweet potatoes in the fall; \r\nhear the temple bell ring in winter, and then it's time for the first shrine visit of the New Year.\r\n\r\n- Build a pond and raise varicolored carp.\r\n- Catch wild fish and bugs and take photos of other wildlife.\r\n- Observe various Japanese customs throughout the year.\r\n- Help the village head revive the community. \r\n- Buy a mountain and explore your new backyard.\"\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: jp.gamestart.japaneserural\n\n Downloads: 137\n\n Latest app store version: null",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6e2981e66c3.jpg",
+      "tintColor": "018084",
+      "isLanZouCloud": 0,
+      "size": 65762949,
+      "type": "1",
+      "__source": "https://apps.nabzclan.vip/repos/esign.php",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
+      ]
+    },
+    {
+      "name": "JournalCircle: Diary & Journal (Hacked)",
+      "developerName": "sidelix",
+      "version": "5.0.9",
+      "versionDate": "2026-07-19 02:21:18",
+      "versionDescription": "Discover JournalCircle, a journaling app featured on the App Store across multiple regions. JournalCircle combines AI-powered journaling, voice notes, mood tracking, and entry analysis to help you record your daily life with clarity. Users often mention that the clean, beautiful design makes them want to journal more consistently.\r\n\r\nJournalCircle is a journaling and life log app designed to manage your diary, mood, routines, goals, and daily records in one place.\r\n\r\nAI-powered journaling tools\r\nJournalCircle offers a range of AI features including voice journaling, AI-generated prompts, and automatic entry analysis to help you reflect more easily and understand patterns in your thoughts and emotions.\r\n\r\nVoice journaling and smart analysis\r\nReco",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2219",
+      "download_page_url": "https://appstore.sidelix.vip/apps/11/2456",
+      "appstore_download_count": 121,
+      "localizedDescription": "Discover JournalCircle, a journaling app featured on the App Store across multiple regions. JournalCircle combines AI-powered journaling, voice notes, mood tracking, and entry analysis to help you record your daily life with clarity. Users often mention that the clean, beautiful design makes them want to journal more consistently.\r\n\r\nJournalCircle is a journaling and life log app designed to manage your diary, mood, routines, goals, and daily records in one place.\r\n\r\nAI-powered journaling tools\r\nJournalCircle offers a range of AI features including voice journaling, AI-generated prompts, and automatic entry analysis to help you reflect more easily and understand patterns in your thoughts and emotions.\r\n\r\nVoice journaling and smart analysis\r\nReco\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.genau.JournalCircle\n\n Downloads: 121\n\n Latest app store version: null",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a5c3380a95c4.jpg",
+      "tintColor": "018084",
+      "isLanZouCloud": 0,
+      "size": 19971976,
+      "type": "1",
+      "__source": "https://apps.nabzclan.vip/repos/esign.php",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
+      ]
+    },
+    {
+      "name": "Jelly Splash: Fun Puzzle Game (Hacked)",
+      "developerName": "sidelix",
+      "version": "3.56.0",
+      "versionDate": "2026-06-19 16:04:52",
+      "versionDescription": "Features:\r\n- Free purchases: click buy, then cancel",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2095",
+      "download_page_url": "https://appstore.sidelix.vip/apps/11/2332",
+      "appstore_download_count": 145,
+      "localizedDescription": "Features:\r\n- Free purchases: click buy, then cancel\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: net.wooga.jellysplash\n\n Downloads: 145\n\n Latest app store version: null",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a35a085a51e6.jpg",
+      "tintColor": "018084",
+      "isLanZouCloud": 0,
+      "size": 103363707,
+      "type": "1",
+      "__source": "https://apps.nabzclan.vip/repos/esign.php",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
+      ]
+    },
+    {
+      "name": "JSCodePad",
+      "type": 1,
+      "bundleID": "com.markodevcic.js-code-pad",
+      "bundleIdentifier": "com.markodevcic.js-code-pad",
+      "version": "1.8.23",
+      "versionDate": "2026-04-20",
+      "fullDate": "20260420080823",
+      "size": 60951969,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-04-2026/JSCodePad_1.8.23_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-04-2026/JSCodePad_1.8.23_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.markodevcic.js-code-pad.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.markodevcic.js-code-pad.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "JSCodePad",
+      "type": 1,
+      "bundleID": "com.markodevcic.js-code-pad",
+      "bundleIdentifier": "com.markodevcic.js-code-pad",
+      "version": "1.8.22",
+      "versionDate": "2026-03-27",
+      "fullDate": "20260327045322",
+      "size": 60950380,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-03-2026/JSCodePad_1.8.22_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-03-2026/JSCodePad_1.8.22_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.markodevcic.js-code-pad.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.markodevcic.js-code-pad.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "JSCodePad",
+      "type": 1,
+      "bundleID": "com.markodevcic.js-code-pad",
+      "bundleIdentifier": "com.markodevcic.js-code-pad",
+      "version": "1.8.21",
+      "versionDate": "2026-03-20",
+      "fullDate": "20260320013459",
+      "size": 60146777,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-03-2026/JSCodePad_1.8.21_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-03-2026/JSCodePad_1.8.21_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.markodevcic.js-code-pad.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.markodevcic.js-code-pad.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "JSCodePad",
+      "type": 1,
+      "bundleID": "com.markodevcic.js-code-pad",
+      "bundleIdentifier": "com.markodevcic.js-code-pad",
+      "version": "1.8.20",
+      "versionDate": "2026-03-18",
+      "fullDate": "20260318004645",
+      "size": 60147047,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-03-2026/JSCodePad_1.8.20_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-03-2026/JSCodePad_1.8.20_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.markodevcic.js-code-pad.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.markodevcic.js-code-pad.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "JournalCircle",
+      "type": 1,
+      "bundleID": "com.genau.JournalCircle",
+      "bundleIdentifier": "com.genau.JournalCircle",
+      "version": "3.1.1",
+      "versionDate": "2026-01-20",
+      "fullDate": "20260120165409",
+      "size": 12499289,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/JournalCircle_3.1.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/JournalCircle_3.1.1_Premium_@thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.genau.JournalCircle.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.genau.JournalCircle.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "JSCodePad",
+      "type": 1,
+      "bundleID": "com.markodevcic.js-code-pad",
+      "bundleIdentifier": "com.markodevcic.js-code-pad",
+      "version": "1.8.18",
+      "versionDate": "2026-01-06",
+      "fullDate": "20260106051808",
+      "size": 60125123,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-01-2026/JSCodePad_1.8.18_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/JSCodePad_1.8.18_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.markodevcic.js-code-pad.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.markodevcic.js-code-pad.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "JournalCircle",
+      "type": 1,
+      "bundleID": "com.genau.JournalCircle",
+      "bundleIdentifier": "com.genau.JournalCircle",
+      "version": "3.0.8",
+      "versionDate": "2025-12-24",
+      "fullDate": "20251224160528",
+      "size": 12486664,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-12-2025/JournalCircle_3.0.8_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-12-2025/JournalCircle_3.0.8_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.genau.JournalCircle.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.genau.JournalCircle.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Jetpack",
+      "type": 2,
+      "bundleID": "com.halfbrick.jetpack",
+      "bundleIdentifier": "com.halfbrick.jetpack",
+      "version": "1.103.2",
+      "versionDate": "2025-12-15",
+      "fullDate": "20251215180013",
+      "size": 276005940,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-12-2025/Jetpack_1.103.2_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-12-2025/Jetpack_1.103.2_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.halfbrick.jetpack.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.halfbrick.jetpack.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "JSCodePad",
+      "type": 1,
+      "bundleID": "com.markodevcic.js-code-pad",
+      "bundleIdentifier": "com.markodevcic.js-code-pad",
+      "version": "1.8.17",
+      "versionDate": "2025-11-24",
+      "fullDate": "20251124193425",
+      "size": 63122165,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2025/JSCodePad_1.8.17_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2025/JSCodePad_1.8.17_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.markodevcic.js-code-pad.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.markodevcic.js-code-pad.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "JunoPublic",
+      "type": 1,
+      "bundleID": "com.rationalmatter.junoapp",
+      "bundleIdentifier": "com.rationalmatter.junoapp",
+      "version": "3.7.0",
+      "versionDate": "2025-10-30",
+      "fullDate": "20251030062244",
+      "size": 198651826,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-10-2025/JunoPublic_3.7.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-10-2025/JunoPublic_3.7.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with IAP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.rationalmatter.junoapp.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.rationalmatter.junoapp.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "JSCodePad",
+      "developerName": "Holloway",
+      "version": "1.8.16",
+      "versionDate": "2025-10-25 02:51:39",
+      "versionDescription": "Injected with Subscription Unlocked",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/945",
+      "download_page_url": "https://appstore.sidelix.vip/apps/13/1615",
+      "appstore_download_count": 208,
+      "localizedDescription": "Injected with Subscription Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.markodevcic.js-code-pad\n\n Downloads: 208\n\n Latest app store version: null",
+      "iconURL": "https://appstore.sidelix.vip/images/1761374228.png",
+      "tintColor": "018084",
+      "isLanZouCloud": 0,
+      "size": 56257496,
+      "type": "1",
+      "__source": "https://apps.nabzclan.vip/repos/esign.php",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
+      ]
+    },
+    {
+      "name": "JSCodePad",
+      "type": 1,
+      "bundleID": "com.markodevcic.js-code-pad",
+      "bundleIdentifier": "com.markodevcic.js-code-pad",
+      "version": "1.8.16",
+      "versionDate": "2025-10-07",
+      "fullDate": "20251007160910",
+      "size": 62959447,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-10-2025/JSCodePad_1.8.16_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-10-2025/JSCodePad_1.8.16_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.markodevcic.js-code-pad.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.markodevcic.js-code-pad.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Jitterbug",
+      "bundleIdentifier": "com.osy86.Jitterbug",
+      "version": "1.3.1",
+      "versionDate": "2024-10-07",
+      "size": 23012478,
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/Jitterbug-1.3.1.ipa",
+      "developerName": "osy",
+      "localizedDescription": "Application that enables wireless connection to another iOS device (none of which are jailbroken) and launch an app on the connected device with JIT enabled. Can also establish a VPN tunnel using TrollStore to run apps on the local device without needing a second device.\nLast updated: 12-12-2023\nStatus: \u2754",
+      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.osy86.Jitterbug.png",
+      "__source": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps_esign.json",
+      "__mirrors": [
+        "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps_altstore.json"
+      ],
+      "__stores": [
+        "ESign",
+        "AltStore"
+      ]
+    }
+  ]
+}

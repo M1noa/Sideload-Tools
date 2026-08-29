@@ -342,7 +342,7 @@ def main():
 
     write_catalog(
         MERGED_ORIGINAL_JSON,
-        'Sideload-Tools Merged Catalog (Original Links)',
+        'Sideload-Tools Merged Catalog (Original Links, PAL)',
         'com.sideload-tools.merged.original',
         f'Auto-merged from {len(urls)} AltStore/ESign sources. Original download URLs preserved.',
         'Deduplicates by (name, bundleIdentifier, version). __source is the first source; __mirrors lists additional sources.',
@@ -355,7 +355,7 @@ def main():
         if sha256 and fdata.get('local_path'):
             hash_map[sha256].append(fkey)
 
-    # urls already known to exceed the file-size limit — skip re-testing
+    # urls already known to exceed the file-size limit: skip re-testing
     too_large_cached = set()
     for fdata in tracking.values():
         if fdata.get('too_large') and fdata.get('original_url'):
@@ -406,7 +406,7 @@ def main():
 
     total_downloads = len(download_queue)
     if SKIP_DOWNLOADS:
-        print('[progress] MERGE_SKIP_DOWNLOADS=1 — skipping download phase, writing catalogs only.')
+        print('[progress] MERGE_SKIP_DOWNLOADS=1: skipping download phase, writing catalogs only.')
         download_queue = []
         total_downloads = 0
 
@@ -720,7 +720,7 @@ def main():
 
     write_catalog(
         MERGED_JSON,
-        'Sideload-Tools Merged Catalog',
+        'Sideload-Tools Merged Catalog (PAL)',
         'com.sideload-tools.merged',
         f'Auto-merged from {len(urls)} AltStore/ESign sources. Local download URLs provided for cached files.',
         'Deduplicates by (name, bundleIdentifier, version). downloadURL points to local repo copy if available, otherwise original URL. Downloads newest first; resumes from last run.',
@@ -729,7 +729,7 @@ def main():
     # no-pal variants: strip pal fields + leftover nested versions arrays
     write_catalog(
         MERGED_ORIGINAL_NO_PAL_JSON,
-        'Sideload-Tools Merged Catalog (Original Links, No PAL)',
+        'Sideload-Tools Merged Catalog (Original Links)',
         'com.sideload-tools.merged.original.nopal',
         f'Auto-merged from {len(urls)} AltStore/ESign sources. Original URLs, PAL fields removed for maximum compatibility.',
         'Same as the original-links catalog but strips appID/marketplaceID/permissions (AltStore PAL) and nested versions arrays.',
@@ -737,7 +737,7 @@ def main():
 
     write_catalog(
         MERGED_NO_PAL_JSON,
-        'Sideload-Tools Merged Catalog (No PAL)',
+        'Sideload-Tools Merged Catalog',
         'com.sideload-tools.merged.nopal',
         f'Auto-merged from {len(urls)} AltStore/ESign sources. Local cached URLs where available, PAL fields removed.',
         'Same as the merged catalog but strips appID/marketplaceID/permissions (AltStore PAL) and nested versions arrays.',

@@ -3,22 +3,27 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Sideload-Tools — Add Catalogs</title>
+<title>Sideload-Tools: Add Catalogs</title>
 <style>
   body { font-family: monospace; max-width: 720px; margin: 2rem auto; padding: 0 1rem; line-height: 1.5; background: #000; color: #e8e8e8; }
   h1 { font-size: 1.4rem; }
   h2 { font-size: 1.1rem; margin-top: 2rem; border-bottom: 1px solid #333; padding-bottom: .3rem; }
+  h3 { font-size: 1rem; margin: 1.25rem 0 .5rem; color: #4aa3ff; }
   a { display: inline-block; margin: .25rem .5rem .25rem 0; padding: .4rem .7rem; border: 1px solid #444; border-radius: 4px; text-decoration: none; color: #4aa3ff; }
   a:hover { background: #111; }
   p { color: #aaa; }
+  .note { color: #888; font-size: .85rem; }
   button { color: #e8e8e8; border-color: #444; background: #111; }
   button:hover { background: #1a1a1a; }
+  .pal { color: #ffd166; }
   @media (prefers-color-scheme: light) {
     body { background: #fff; color: #222; }
     h2 { border-bottom-color: #ccc; }
+    h3 { color: #007AFF; }
     a { border-color: #555; color: #007AFF; }
     a:hover { background: #f0f0f0; }
     p { color: #444; }
+    .note { color: #666; }
     button { color: #222; border-color: #555; background: #fff; }
     button:hover { background: #f0f0f0; }
   }
@@ -26,18 +31,24 @@
 </head>
 <body>
 <h1>Sideload-Tools</h1>
-<p>One-tap buttons to add the catalogs to your sideload app. Only the <strong>original-link</strong> catalogs are listed — they work in every app. Tap a button on your device.</p>
+<p>One-tap buttons to add the catalogs to your sideload app. Tap a button on your device, or use the copy button to grab the raw URL.</p>
 
 <div id="catalogs">
-  <h2>Original Links (Recommended)</h2>
+  <h2>Original Link Catalogs</h2>
+  <p class="note">These point straight at the upstream source URLs. They work in every sideload app and never depend on this repo's storage. If an upstream source removes an app, that link stops working.</p>
   <div id="cat-orig"></div>
-  <h2>Original Links — No PAL (for non-PAL apps)</h2>
-  <div id="cat-nopal"></div>
+
+  <h2>Cached Catalogs</h2>
+  <p class="note">These re-host the IPA, dylib, and deb files inside this repo (the files/ folder). They keep working even if the original source goes offline. They depend on this repo staying under GitHub's size limits, so very large apps may fall back to original links.</p>
+  <div id="cat-cache"></div>
 </div>
 
 <script>
-  const ORIG = "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/merged-apps-original-links.json";
-  const NOPAL = "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/merged-apps-original-links-no-pal.json";
+  const ORIG_NOPAL  = "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/merged-apps-original-links-no-pal.json";
+  const ORIG_PAL    = "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/merged-apps-original-links.json";
+  const CACHE_NOPAL = "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/merged-apps-no-pal.json";
+  const CACHE_PAL   = "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/merged-apps.json";
+
   const enc = u => encodeURIComponent(u).replace(/'/g, "%27");
   const apps = [
     ["AltStore",          "altstore://source?URL="],
@@ -66,14 +77,25 @@
       .catch(() => { b.textContent = "copy failed"; });
     return b;
   };
-  const orig = document.getElementById("cat-orig");
-  const nopal = document.getElementById("cat-nopal");
-  for (const [name, scheme] of apps) {
-    orig.appendChild(link(name, scheme, ORIG));
-    nopal.appendChild(link(name, scheme, NOPAL));
+
+  // normal (no PAL) listed first, then PAL, inside each group
+  const groups = [
+    { el: document.getElementById("cat-orig"),  title: "Original Links",          url: ORIG_NOPAL,  pal: false },
+    { el: document.getElementById("cat-orig"),  title: "Original Links (PAL)",    url: ORIG_PAL,    pal: true  },
+    { el: document.getElementById("cat-cache"), title: "Cached",                  url: CACHE_NOPAL, pal: false },
+    { el: document.getElementById("cat-cache"), title: "Cached (PAL)",            url: CACHE_PAL,   pal: true  },
+  ];
+
+  for (const g of groups) {
+    const h = document.createElement("h3");
+    h.textContent = g.title;
+    if (g.pal) h.className = "pal";
+    g.el.appendChild(h);
+    for (const [name, scheme] of apps) {
+      g.el.appendChild(link(name, scheme, g.url));
+    }
+    g.el.appendChild(copyBtn("copy raw url", g.url));
   }
-  orig.appendChild(copyBtn("copy raw url", ORIG));
-  nopal.appendChild(copyBtn("copy raw url", NOPAL));
 </script>
 </body>
 </html>

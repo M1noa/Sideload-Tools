@@ -4,30 +4,9 @@
   "subtitle": "Auto-merged from 43 sources. Local cached URLs where available, PAL fields removed.",
   "description": "Alphabetical split of the cached no-PAL catalog for fast importing into KSign/Feather.",
   "iconURL": "https://avatars.githubusercontent.com/u/57844837",
-  "appCount": 194,
+  "appCount": 180,
   "sourceCount": 43,
   "apps": [
-    {
-      "name": "365Scores: Live Sports Scores (Hacked)",
-      "developerName": "sidelix",
-      "version": "6.6.5",
-      "versionDate": "2026-08-27 06:46:31",
-      "versionDescription": "Be the 1st to Know! 365Scores helps you become an EXPERT OF THE GAME with Live Scores, Pre-Game Stats, In-Depth Data, News Updates, Upcoming Fixtures, Lineups - and everything else you need to stay connected to your favorite players, teams, and competitions.\r\n\r\nJoin over 150 million sports fans who rely on 365Scores for real-time updates and pre-game stats.\r\n\r\n* EXTENSIVE SPORTS COVERAGE\r\nFollow the NFL, NBA, MLB, NHL, MLS, UEFA Champions League, English Premier League, and 2000+ global sports competitions in 10 different types of sports, including top football, soccer, basketball, tennis events and much more \u2013 all in one live scores app.\r\n\r\n* LIVE SOCCER RESULTS\r\nGet all the latest soccer news and updates, right at your fingertips! Follow you",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2234",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2471",
-      "appstore_download_count": 165,
-      "localizedDescription": "Be the 1st to Know! 365Scores helps you become an EXPERT OF THE GAME with Live Scores, Pre-Game Stats, In-Depth Data, News Updates, Upcoming Fixtures, Lineups - and everything else you need to stay connected to your favorite players, teams, and competitions.\r\n\r\nJoin over 150 million sports fans who rely on 365Scores for real-time updates and pre-game stats.\r\n\r\n* EXTENSIVE SPORTS COVERAGE\r\nFollow the NFL, NBA, MLB, NHL, MLS, UEFA Champions League, English Premier League, and 2000+ global sports competitions in 10 different types of sports, including top football, soccer, basketball, tennis events and much more \u2013 all in one live scores app.\r\n\r\n* LIVE SOCCER RESULTS\r\nGet all the latest soccer news and updates, right at your fingertips! Follow you\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.365scores.365scroesapp\n\n Downloads: 165\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8fdd11d602e.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 99530917,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
     {
       "name": "",
       "type": 1,
@@ -134,27 +113,6 @@
       ]
     },
     {
-      "name": "12min (Hacked)",
-      "developerName": "sidelix",
-      "version": "2.12.1",
-      "versionDate": "2026-08-16 16:30:45",
-      "versionDescription": "Premium Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2288",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2524",
-      "appstore_download_count": 124,
-      "localizedDescription": "Premium Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.br.12min.mobile\n\n Downloads: 124\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a81e59dbfc57.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 56138045,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
       "name": "",
       "type": 1,
       "bundleID": "com.AppChief.ArabicArt",
@@ -257,27 +215,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "1 2 3 4 Player Games (Hacked)",
-      "developerName": "sidelix",
-      "version": "3.2.9",
-      "versionDate": "2026-08-06 05:01:00",
-      "versionDescription": "No Ads",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2367",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2603",
-      "appstore_download_count": 93,
-      "localizedDescription": "No Ads\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.JindoBlu.FourPlayersIOS\n\n Downloads: 93\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a7414e18a3c6.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 92247444,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {
@@ -467,27 +404,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "2 Player Games (Hacked)",
-      "developerName": "sidelix",
-      "version": "7.18.5",
-      "versionDate": "2026-07-19 22:11:03",
-      "versionDescription": "No Ads, All Games Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2291",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2527",
-      "appstore_download_count": 105,
-      "localizedDescription": "No Ads, All Games Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.JindoBlu.TwoPlayerGamesChallengeIOS\n\n Downloads: 105\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a5d4a073c8fe.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 96520103,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {
@@ -827,27 +743,6 @@
       ]
     },
     {
-      "name": "8 Ball Pool (hacked #3)",
-      "developerName": "sidelix",
-      "version": "56.25.1",
-      "versionDate": "2026-06-15 11:54:40",
-      "versionDescription": "Demo: https://youtu.be/ptud33WNrlQ\r\n\r\nFeatures:\r\n\r\n i3rby Menu :\r\n\r\n- Full Auto Play (Casual/Pro/Stealth profiles for full turn handling)\r\n- Auto Aim & Best-Shot Ghost for guided plays\r\n -  Deep Humanization Settings (Low/Med/High speed and aim controls)\r\n-  Quality of Life: Floating Play/Pause shortcut, Pause on Touch, and Auto Ball-in-Hand for fouls.\r\n-  tournament suppor.",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2055",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2292",
-      "appstore_download_count": 5547,
-      "localizedDescription": "Demo: https://youtu.be/ptud33WNrlQ\r\n\r\nFeatures:\r\n\r\n i3rby Menu :\r\n\r\n- Full Auto Play (Casual/Pro/Stealth profiles for full turn handling)\r\n- Auto Aim & Best-Shot Ghost for guided plays\r\n -  Deep Humanization Settings (Low/Med/High speed and aim controls)\r\n-  Quality of Life: Floating Play/Pause shortcut, Pause on Touch, and Auto Ball-in-Hand for fouls.\r\n-  tournament suppor.\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.miniclip.8ballpoolmult\n\n Downloads: 5547\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a2db7d5da9a0.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 107196375,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
       "name": "",
       "type": 1,
       "bundleID": "com.AppChief.ArabicArt",
@@ -866,27 +761,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "3D Modeling, Design:\u00a0Shapeyard (hacked)",
-      "developerName": "sidelix",
-      "version": "5.17",
-      "versionDate": "2026-06-13 12:55:57",
-      "versionDescription": "Features:\r\n\r\n- hacked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2052",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2289",
-      "appstore_download_count": 236,
-      "localizedDescription": "Features:\r\n\r\n- hacked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: app.chudo\n\n Downloads: 236\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a2d8b6909203.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 42498031,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {
@@ -2024,27 +1898,6 @@
       ]
     },
     {
-      "name": "8 Ball Pool (Hack #2)",
-      "developerName": "sidelix",
-      "version": "56.18.2",
-      "versionDate": "2026-02-26 09:26:25",
-      "versionDescription": "Features:\r\n\r\n- auto play hacks\r\nAnd more",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1974",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2211",
-      "appstore_download_count": 18039,
-      "localizedDescription": "Features:\r\n\r\n- auto play hacks\r\nAnd more\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.miniclip.8ballpoolmult\n\n Downloads: 18039\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_69a0574490269.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 93690045,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
       "name": "1Blocker",
       "type": 1,
       "bundleID": "com.khanov.BlockerX",
@@ -2252,27 +2105,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "8 Ball Pool - Hack #1",
-      "developerName": "sidelix",
-      "version": "56.17.1",
-      "versionDate": "2026-01-25 10:53:13",
-      "versionDescription": "Hack Feature:\r\n Prediction Line > Not Cheto but works Like Cheto.!\r\n\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\r\n\u26a0\ufe0f I played like two hours no Ban but be careful and don\u2019t use main account..!\r\n\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1964",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2201",
-      "appstore_download_count": 11166,
-      "localizedDescription": "Hack Feature:\r\n Prediction Line > Not Cheto but works Like Cheto.!\r\n\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\r\n\u26a0\ufe0f I played like two hours no Ban but be careful and don\u2019t use main account..!\r\n\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.miniclip.8ballpoolmult\n\n Downloads: 11166\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_69763b2779a9a.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 111104110,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {
@@ -3160,27 +2992,6 @@
       ]
     },
     {
-      "name": "60 Parsecs!",
-      "developerName": "sidelix",
-      "version": "1.3.3",
-      "versionDate": "2025-10-30 17:11:16",
-      "versionDescription": "Atomic Space Age was a blast! Until it became the Post-Apocalyptic Space Age.\r\n\r\nYour space station is about to explode and you only have 60 seconds before things get messy. What (or who) will you grab before you make a mad dash for the emergency shuttle and begin your journey into THE GREAT UNKNOWN?\r\n\r\nThis is 60 Parsecs!, a dark comedy sci-fi adventure set in the Atomic Space Age - complete with all the Cold War paranoia, chrome-plated wall accents and cockroaches with space helmets.\r\n\r\nLead a crew of woefully unprepared astronauts, equipped with whatever junk - sorry - \"supplies\" you can grab before blasting off, on a journey across the cosmos that's best described as misguided. Make the best of it, while dealing with soup shortages and other",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1922",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2159",
-      "appstore_download_count": 652,
-      "localizedDescription": "Atomic Space Age was a blast! Until it became the Post-Apocalyptic Space Age.\r\n\r\nYour space station is about to explode and you only have 60 seconds before things get messy. What (or who) will you grab before you make a mad dash for the emergency shuttle and begin your journey into THE GREAT UNKNOWN?\r\n\r\nThis is 60 Parsecs!, a dark comedy sci-fi adventure set in the Atomic Space Age - complete with all the Cold War paranoia, chrome-plated wall accents and cockroaches with space helmets.\r\n\r\nLead a crew of woefully unprepared astronauts, equipped with whatever junk - sorry - \"supplies\" you can grab before blasting off, on a journey across the cosmos that's best described as misguided. Make the best of it, while dealing with soup shortages and other\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.robotgentleman.game60parsecs\n\n Downloads: 652\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6903d444c981c.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 201491541,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
       "name": "",
       "type": 1,
       "bundleID": "com.AppChief.ArabicArt",
@@ -3223,27 +3034,6 @@
       ]
     },
     {
-      "name": "3Speak.tv - Acela",
-      "developerName": "lscs3",
-      "version": "1.0.3",
-      "versionDate": "2025-10-27 00:28:21",
-      "versionDescription": "The build which was also submitted to the Apple for TestFlight review",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1816",
-      "download_page_url": "https://appstore.sidelix.vip/apps/173/2053",
-      "appstore_download_count": 259,
-      "localizedDescription": "The build which was also submitted to the Apple for TestFlight review\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.example.acela\n\n Downloads: 259\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761539143.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 19896069,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
       "name": "",
       "type": 1,
       "bundleID": "com.AppChief.ArabicArt",
@@ -3265,69 +3055,6 @@
       ]
     },
     {
-      "name": "1998Cam",
-      "developerName": "Holloway",
-      "version": "2.0.10",
-      "versionDate": "2025-10-25 04:22:17",
-      "versionDescription": "Injected with Pro",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1643",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1964",
-      "appstore_download_count": 376,
-      "localizedDescription": "Injected with Pro\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.h3d2.1998cam\n\n Downloads: 376\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761380177.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 88629497,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "30DayFitness",
-      "developerName": "Holloway",
-      "version": "6.29.21",
-      "versionDate": "2025-10-25 03:16:01",
-      "versionDescription": "Injected with Subscription Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1123",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1704",
-      "appstore_download_count": 230,
-      "localizedDescription": "Injected with Subscription Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.vigorapps.30DayFitness\n\n Downloads: 230\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761375790.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 33052521,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "1Blocker",
-      "developerName": "Holloway",
-      "version": "6.3.5",
-      "versionDate": "2025-10-25 02:02:47",
-      "versionDescription": "Injected with Subscription Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/573",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1429",
-      "appstore_download_count": 276,
-      "localizedDescription": "Injected with Subscription Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.khanov.BlockerX\n\n Downloads: 276\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761372079.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 50767678,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
       "name": "",
       "type": 1,
       "bundleID": "com.AppChief.ArabicArt",
@@ -3346,27 +3073,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "365Scores: Live Scores & News",
-      "developerName": "lscs3",
-      "version": "6.3.2",
-      "versionDate": "2025-10-22 22:00:27",
-      "versionDescription": "365Scores: Live Scores & News - Tweak",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/323",
-      "download_page_url": "https://appstore.sidelix.vip/apps/173/1297",
-      "appstore_download_count": 272,
-      "localizedDescription": "365Scores: Live Scores & News - Tweak\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.365scores.365scroesapp\n\n Downloads: 272\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761184820.jpeg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 94888439,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {

@@ -4,7 +4,7 @@
   "subtitle": "Auto-merged from 43 sources. Original URLs, PAL fields removed.",
   "description": "Alphabetical split of the original-links no-PAL catalog.",
   "iconURL": "https://avatars.githubusercontent.com/u/57844837",
-  "appCount": 322,
+  "appCount": 289,
   "sourceCount": 43,
   "apps": [
     {
@@ -47,27 +47,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "Human Fall Flat+ (Arcade Games)",
-      "developerName": "sidelix",
-      "version": "2.6",
-      "versionDate": "2026-08-27 02:07:33",
-      "versionDescription": "Human: Fall Flat+ is a hilarious, light-hearted physics platformer set in floating dreamscapes that can be played solo or with up to 4 players. Free new levels keep its vibrant community rewarded. Each dream level provides a new environment to navigate, from mansions, castles and Aztec adventures to snowy mountains, eerie nightscapes and industrial locations. Multiple routes through each level, and perfectly playful puzzles ensure exploration and ingenuity are rewarded. \r\n\r\n \r\nMORE HUMANS, MORE MAYHEM - Need a hand getting that boulder on to a catapult, or need someone to break that wall? Online multiplayer for up to 4 players transforms the way Human: Fall Flat+ is played. \r\n \r\nMIND BENDING PUZZLES - Explore open-ended levels full of challengin",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2383",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2619",
-      "appstore_download_count": 39,
-      "localizedDescription": "Human: Fall Flat+ is a hilarious, light-hearted physics platformer set in floating dreamscapes that can be played solo or with up to 4 players. Free new levels keep its vibrant community rewarded. Each dream level provides a new environment to navigate, from mansions, castles and Aztec adventures to snowy mountains, eerie nightscapes and industrial locations. Multiple routes through each level, and perfectly playful puzzles ensure exploration and ingenuity are rewarded. \r\n\r\n \r\nMORE HUMANS, MORE MAYHEM - Need a hand getting that boulder on to a catapult, or need someone to break that wall? Online multiplayer for up to 4 players transforms the way Human: Fall Flat+ is played. \r\n \r\nMIND BENDING PUZZLES - Explore open-ended levels full of challengin\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.games505.Humanfallflatarcade\n\n Downloads: 39\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f9b7adc26b.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 676137451,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {
@@ -197,27 +176,6 @@
       ]
     },
     {
-      "name": "Hill Climb Racing (Hacked)",
-      "developerName": "sidelix",
-      "version": "1.71.1",
-      "versionDate": "2026-08-15 16:29:19",
-      "versionDescription": "features:\r\n\r\n- in app purchase\r\n\r\ntap buy and hit cancel",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1951",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2188",
-      "appstore_download_count": 7764,
-      "localizedDescription": "features:\r\n\r\n- in app purchase\r\n\r\ntap buy and hit cancel\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.fingersoft.hillclimbracing\n\n Downloads: 7764\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a80939927184.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 136130259,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
       "name": "Hevy",
       "type": 1,
       "bundleID": "com.hevyapp.hevy",
@@ -261,27 +219,6 @@
     },
     {
       "name": "HabitKit",
-      "developerName": "Holloway",
-      "version": "1.16.0",
-      "versionDate": "2026-08-11 22:31:21",
-      "versionDescription": "Injected with Pro",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/991",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1638",
-      "appstore_download_count": 223,
-      "localizedDescription": "Injected with Pro\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.roehl.habitkit\n\n Downloads: 223\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7ba27f8f108.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 95585248,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "HabitKit",
       "type": 1,
       "bundleID": "com.roehl.habitkit",
       "bundleIdentifier": "com.roehl.habitkit",
@@ -299,27 +236,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "Horizon (Hacked)",
-      "developerName": "sidelix",
-      "version": "1.3.13",
-      "versionDate": "2026-08-09 01:45:55",
-      "versionDescription": "Features:\r\n- Free Purchases\r\n\r\nSteps to use this hack:\r\n\r\nTap \"Buy,\" then \"Cancel\"\r\n\r\nYou won't be charged",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2142",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2379",
-      "appstore_download_count": 182,
-      "localizedDescription": "Features:\r\n- Free Purchases\r\n\r\nSteps to use this hack:\r\n\r\nTap \"Buy,\" then \"Cancel\"\r\n\r\nYou won't be charged\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.ketchapp.horizon\n\n Downloads: 182\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a77dbaaba0e7.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 94088747,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {
@@ -344,27 +260,6 @@
       ]
     },
     {
-      "name": "HiiKER: The Hiking Maps App (Hacked)",
-      "developerName": "sidelix",
-      "version": "26.75",
-      "versionDate": "2026-08-06 23:45:56",
-      "versionDescription": "The Most Powerful Hiking Planner & Navigation App for Confident Adventures. Plan, Map and Tracker with HiiKER.\r\n\r\nHiiKER is the best digital toolkit for serious hikers and multi-day trekkers. Our biggest update yet, HiiKER 26, brings a new era of powerful planning and superior mapping to your fingertips.\r\n\r\n\u2022 Get inspired by over 130,000 hiking trails\r\n\u2022 View the world's best topographic maps.\r\n\u2022 Plan detailed hiking routes with ease\r\n\u2022 Discover millions of hiking focused POIs, places to rest, eat and see.\r\n\u2022 Used by Mountain Rescue Teams across the world.\r\n\r\n--------------\r\n\r\nNavigate with Confidence\r\n\r\nQuality Maps on Offer\r\n\r\nHigh-Quality Topographic Maps: HiiKER features high-quality topographic maps from national and independent m",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2191",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2428",
-      "appstore_download_count": 139,
-      "localizedDescription": "The Most Powerful Hiking Planner & Navigation App for Confident Adventures. Plan, Map and Tracker with HiiKER.\r\n\r\nHiiKER is the best digital toolkit for serious hikers and multi-day trekkers. Our biggest update yet, HiiKER 26, brings a new era of powerful planning and superior mapping to your fingertips.\r\n\r\n\u2022 Get inspired by over 130,000 hiking trails\r\n\u2022 View the world's best topographic maps.\r\n\u2022 Plan detailed hiking routes with ease\r\n\u2022 Discover millions of hiking focused POIs, places to rest, eat and see.\r\n\u2022 Used by Mountain Rescue Teams across the world.\r\n\r\n--------------\r\n\r\nNavigate with Confidence\r\n\r\nQuality Maps on Offer\r\n\r\nHigh-Quality Topographic Maps: HiiKER features high-quality topographic maps from national and independent m\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.hiiker.hiiker\n\n Downloads: 139\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a751c8ab2dc1.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 122286812,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
       "name": "HiWidget",
       "type": 1,
       "bundleID": "com.zerone.hidesktop",
@@ -383,69 +278,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "Hunter Assassin (Hacked)",
-      "developerName": "sidelix",
-      "version": "2.043",
-      "versionDate": "2026-08-02 19:53:28",
-      "versionDescription": "Unlimited Gems, - Unlimited Coins, - No Ads",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2282",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2518",
-      "appstore_download_count": 238,
-      "localizedDescription": "Unlimited Gems, - Unlimited Coins, - No Ads\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.rubygames.assassin\n\n Downloads: 238\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6f9e59c6417.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 137009139,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Hyperforma Premium (Paid App)",
-      "developerName": "sidelix",
-      "version": "1.43",
-      "versionDate": "2026-08-02 17:44:00",
-      "versionDescription": "FACE THE FUTURE\r\n\r\nThe civilization of the past vanishes, leaving behind only the Ancient Network. 256 years later, an anonymous explorer descends into its cold depths.\r\n \r\nVenture into a journey through the endless empty cyberspace, inspired by the works of William Gibson, Dan Simmons and Peter Watts.\r\n \r\nImmerse into the Ancient Network and uncover the secrets of the vanished civilization. Communicate with the Titanic Interfaces and hack their secured Forms. \r\nSecrets hidden in the Network are waiting for you.\r\n \r\nHyperforma is a premium game without ads and in-app purchases. Enjoy an exciting sci-fi story with dynamic gameplay and a great atmosphere.\r\n\r\nAWARDS\r\n\r\nBest Mobile Game (Casual Connect London 2018)\r\nIndie Prize Grand Prix (GTP Indie",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2365",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2601",
-      "appstore_download_count": 78,
-      "localizedDescription": "FACE THE FUTURE\r\n\r\nThe civilization of the past vanishes, leaving behind only the Ancient Network. 256 years later, an anonymous explorer descends into its cold depths.\r\n \r\nVenture into a journey through the endless empty cyberspace, inspired by the works of William Gibson, Dan Simmons and Peter Watts.\r\n \r\nImmerse into the Ancient Network and uncover the secrets of the vanished civilization. Communicate with the Titanic Interfaces and hack their secured Forms. \r\nSecrets hidden in the Network are waiting for you.\r\n \r\nHyperforma is a premium game without ads and in-app purchases. Enjoy an exciting sci-fi story with dynamic gameplay and a great atmosphere.\r\n\r\nAWARDS\r\n\r\nBest Mobile Game (Casual Connect London 2018)\r\nIndie Prize Grand Prix (GTP Indie\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.NordUnit.HYPERFORMA\n\n Downloads: 78\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6f81a85f1d7.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 227645280,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Happy Glass (Hacked)",
-      "developerName": "sidelix",
-      "version": "2.0.2",
-      "versionDate": "2026-07-31 05:16:18",
-      "versionDescription": "Features:\r\n- Free Purchases\r\n\r\nSteps to use this hack:\r\n\r\nTap \"Buy,\" then \"Cancel\"\r\n\r\nYou won't be charged",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2250",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2487",
-      "appstore_download_count": 196,
-      "localizedDescription": "Features:\r\n- Free Purchases\r\n\r\nSteps to use this hack:\r\n\r\nTap \"Buy,\" then \"Cancel\"\r\n\r\nYou won't be charged\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.game5mobile.lineandwater\n\n Downloads: 196\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6c2f6fa8af0.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 84707943,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {
@@ -554,27 +386,6 @@
       ]
     },
     {
-      "name": "Huckleberry: Baby Tracker (Hacked)",
-      "developerName": "sidelix",
-      "version": "v0.9.301",
-      "versionDate": "2026-07-20 04:17:04",
-      "versionDescription": "Huckleberry is your all-in-one baby tracker and parenting partner, trusted by 5+ million families worldwide, from your first contraction to your baby's first steps. Our award-winning baby tracker app helps new parents track baby sleep, feeding, growth, and with expert guidance at every stage.\r\n\r\nBacked by a team of pediatric experts, Huckleberry supports every family's journey, as a maternity app through the late stages of pregnancy, a newborn tracker in the early days, a baby sleep tracker, and solid foods log as your child grows. We turn guesswork into confidence, one stage at a time.\r\n\r\nCONTRACTION TIMER Time contractions with one tap. Track duration, intensity, and frequency. The first tool in your Huckleberry journey, built for expecting pa",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2272",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2509",
-      "appstore_download_count": 85,
-      "localizedDescription": "Huckleberry is your all-in-one baby tracker and parenting partner, trusted by 5+ million families worldwide, from your first contraction to your baby's first steps. Our award-winning baby tracker app helps new parents track baby sleep, feeding, growth, and with expert guidance at every stage.\r\n\r\nBacked by a team of pediatric experts, Huckleberry supports every family's journey, as a maternity app through the late stages of pregnancy, a newborn tracker in the early days, a baby sleep tracker, and solid foods log as your child grows. We turn guesswork into confidence, one stage at a time.\r\n\r\nCONTRACTION TIMER Time contractions with one tap. Track duration, intensity, and frequency. The first tool in your Huckleberry journey, built for expecting pa\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.huckleberry-labs.app\n\n Downloads: 85\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a5da0d73a791.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 74305770,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
       "name": "Habits",
       "type": 1,
       "bundleID": "com.dreamer.Habits",
@@ -656,27 +467,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "HTTPBot (Hacked)",
-      "developerName": "sidelix",
-      "version": "2026.5.2",
-      "versionDate": "2026-07-11 19:09:51",
-      "versionDescription": "Features:\r\n- subscription unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2141",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2378",
-      "appstore_download_count": 239,
-      "localizedDescription": "Features:\r\n- subscription unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.behindtechlines.HTTPBot\n\n Downloads: 239\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a5294ef3f1ae.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 41657239,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {
@@ -1352,27 +1142,6 @@
       ]
     },
     {
-      "name": "HeyJapan",
-      "developerName": "sidelix",
-      "version": "2.3.11",
-      "versionDate": "2026-04-30 20:29:27",
-      "versionDescription": "Injected with IAP",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/755",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/1520",
-      "appstore_download_count": 342,
-      "localizedDescription": "Injected with IAP\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.eup.heyjapan\n\n Downloads: 342\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761373082.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 169446676,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
       "name": "Hevy",
       "type": 1,
       "bundleID": "com.hevyapp.hevy",
@@ -1706,27 +1475,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "Hex of Steel (paid app)",
-      "developerName": "sidelix",
-      "version": "8.0.1.2",
-      "versionDate": "2026-03-28 19:43:38",
-      "versionDescription": "\u25b6 IMPORTANT: Hex of Steel is a graphically intensive game. For the best experience, especially in the largest scenarios, we recommend using a device with a strong GPU/CPU. Devices from 2017 onward, like the iPhone X, should handle these scenarios smoothly. However, all devices can access the extensive campaign mode and engage in thrilling multiplayer battles. \u25c0\r\n\r\n\r\n\u25b6 Command the War. Forge History \u25c0\r\nImmerse yourself in Hex of Steel, a fresh and innovative WWII wargame that spans all major fronts. Command your forces across Europe, Africa, and the Pacific in a game that marries deep strategic gameplay with cutting-edge mechanics.\r\n\r\n\r\n\u25b6 Born from Passion \u25c0\r\nWhat started as a Kickstarter dream with just \u20ac53 has evolved into a deepl",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1985",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2222",
-      "appstore_download_count": 515,
-      "localizedDescription": "\u25b6 IMPORTANT: Hex of Steel is a graphically intensive game. For the best experience, especially in the largest scenarios, we recommend using a device with a strong GPU/CPU. Devices from 2017 onward, like the iPhone X, should handle these scenarios smoothly. However, all devices can access the extensive campaign mode and engage in thrilling multiplayer battles. \u25c0\r\n\r\n\r\n\u25b6 Command the War. Forge History \u25c0\r\nImmerse yourself in Hex of Steel, a fresh and innovative WWII wargame that spans all major fronts. Command your forces across Europe, Africa, and the Pacific in a game that marries deep strategic gameplay with cutting-edge mechanics.\r\n\r\n\r\n\u25b6 Born from Passion \u25c0\r\nWhat started as a Kickstarter dream with just \u20ac53 has evolved into a deepl\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.valentinstudio.operationcitadelforios\n\n Downloads: 515\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_69c867498530a.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 247971099,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {
@@ -3704,69 +3452,6 @@
       ]
     },
     {
-      "name": "Human Anatomy Atlas 2026",
-      "developerName": "sidelix",
-      "version": "2026.0.19",
-      "versionDate": "2025-10-30 17:16:57",
-      "versionDescription": "Explore human anatomy in interactive 3D with Visible Body! Human Anatomy Atlas is a one-time purchase that gives you access to essential gross anatomy 3D models and select microanatomy models and animations on your iOS devices. Additional in-app purchases are available for physiology animations and dental content. \r\n\r\nWith Human Anatomy Atlas, you get:\r\n\r\n* Full female and male 3D models to study gross anatomy. View these alongside cadaver and diagnostic images.\r\n* 3D views of key organs at multiple levels. Study the lungs, bronchi, and alveoli; Review the kidneys, renal pyramids, and nephrons.\r\n* Muscle and bone models that you can move. Learn muscle actions, bone landmarks, attachments, innervations, and blood supply.\r\n* Fascia models to see h",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1926",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2163",
-      "appstore_download_count": 1341,
-      "localizedDescription": "Explore human anatomy in interactive 3D with Visible Body! Human Anatomy Atlas is a one-time purchase that gives you access to essential gross anatomy 3D models and select microanatomy models and animations on your iOS devices. Additional in-app purchases are available for physiology animations and dental content. \r\n\r\nWith Human Anatomy Atlas, you get:\r\n\r\n* Full female and male 3D models to study gross anatomy. View these alongside cadaver and diagnostic images.\r\n* 3D views of key organs at multiple levels. Study the lungs, bronchi, and alveoli; Review the kidneys, renal pyramids, and nephrons.\r\n* Muscle and bone models that you can move. Learn muscle actions, bone landmarks, attachments, innervations, and blood supply.\r\n* Fascia models to see h\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.argosy.vb.superatlas\n\n Downloads: 1341\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6903d56ecb606.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 746259427,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Heroes and Castles 2 Premium",
-      "developerName": "sidelix",
-      "version": "1.4.1",
-      "versionDate": "2025-10-30 17:01:19",
-      "versionDescription": "To your left, lumbering Giants smash into hordes of skeleton warriors. To your right, Knights cut through lines of Goblins with their lances. Behind you atop your castle walls, Dwarf Riflemen unleash a salvo of musket fire into the incoming Orcs. The enemy has only one intent: to destroy your castle, and you, hero, are its only hope!  \r\n\r\n-----FEATURES-----\r\n\r\nCASTLE DEFENSE, STRATEGY, AND ACTION-RPG GAMEPLAY!\r\nTake to the battlefield in an immersive 3rd person perspective, summon entire armies to fight beside you, and defend your castle to the death! Fight in the middle of a huge battle that you control!\r\n\r\nCUSTOMIZE YOUR HEROES!\r\nChoose one of three races, level up, learn new skills and abilities across 9 classes, forge weapons, armor, and shi",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1916",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2153",
-      "appstore_download_count": 422,
-      "localizedDescription": "To your left, lumbering Giants smash into hordes of skeleton warriors. To your right, Knights cut through lines of Goblins with their lances. Behind you atop your castle walls, Dwarf Riflemen unleash a salvo of musket fire into the incoming Orcs. The enemy has only one intent: to destroy your castle, and you, hero, are its only hope!  \r\n\r\n-----FEATURES-----\r\n\r\nCASTLE DEFENSE, STRATEGY, AND ACTION-RPG GAMEPLAY!\r\nTake to the battlefield in an immersive 3rd person perspective, summon entire armies to fight beside you, and defend your castle to the death! Fight in the middle of a huge battle that you control!\r\n\r\nCUSTOMIZE YOUR HEROES!\r\nChoose one of three races, level up, learn new skills and abilities across 9 classes, forge weapons, armor, and shi\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.foursakenmedia.heroesandcastles2\n\n Downloads: 422\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6903d1c5cdb4f.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 495204167,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Hitman Sniper",
-      "developerName": "sidelix",
-      "version": "1.17",
-      "versionDate": "2025-10-30 16:46:34",
-      "versionDescription": "BECOME THE ULTIMATE SILENT ASSASSIN\r\nStep into the shoes of Agent 47 in Hitman: Sniper and discover the most compelling sniper experience on mobile.\r\n \r\nTACTICAL MISSIONS IN MONTENEGRO\r\nHone your strategic skills and orchestrate the perfect assassination.\r\n \r\nACTION ZOMBIE CHALLENGE IN DEATH VALLEY\r\nPrepare for non-stop action in a true test of your accuracy and speed of execution.\r\n \r\nMORE THAN 150 MISSIONS AND 11 DIFFERENT CONTRACTS\r\nImprove your strategy for the perfect assassination as you uncover secrets and subterfuges.\r\n\r\n17 UNIQUE WEAPONS\r\nEliminate targets, collect weapon parts and complete blueprints to unlock the most powerful rifles.\r\n\r\nCOMPETE AGAINST YOUR FRIENDS TO DOMINATE THE LEADERBOARD\r\nBoost your score and climb up the ranks ",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1908",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2145",
-      "appstore_download_count": 2903,
-      "localizedDescription": "BECOME THE ULTIMATE SILENT ASSASSIN\r\nStep into the shoes of Agent 47 in Hitman: Sniper and discover the most compelling sniper experience on mobile.\r\n \r\nTACTICAL MISSIONS IN MONTENEGRO\r\nHone your strategic skills and orchestrate the perfect assassination.\r\n \r\nACTION ZOMBIE CHALLENGE IN DEATH VALLEY\r\nPrepare for non-stop action in a true test of your accuracy and speed of execution.\r\n \r\nMORE THAN 150 MISSIONS AND 11 DIFFERENT CONTRACTS\r\nImprove your strategy for the perfect assassination as you uncover secrets and subterfuges.\r\n\r\n17 UNIQUE WEAPONS\r\nEliminate targets, collect weapon parts and complete blueprints to unlock the most powerful rifles.\r\n\r\nCOMPETE AGAINST YOUR FRIENDS TO DOMINATE THE LEADERBOARD\r\nBoost your score and climb up the ranks \n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.squareenixmontreal.hitmansniper\n\n Downloads: 2903\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6903ce5def1c3.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 614938822,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
       "name": "Hevy",
       "type": 1,
       "bundleID": "com.hevyapp.hevy",
@@ -3851,27 +3536,6 @@
       ]
     },
     {
-      "name": "HD Flix (No Ads)",
-      "developerName": "lscs3",
-      "version": "2.0",
-      "versionDate": "2025-10-26 23:54:34",
-      "versionDescription": "WHEN YOU FIRST OPEN THE APP IT WILL LOOK LIKE A DIFFERENT APP JUST WAIT AND IT WILL CHANGE TO THE MOVIE APP\n\nWith HD Flix for iOS you can able to watch any movie/tv show. The User Interface that you see in the app is truly the best thing about it. Easy navigation and responsive design made it stand at the top of the list.\n\nIt will display all the trending content from Action, Comedy, Sci-Fi and other genres at the home page for the best user experience. Moreover, you will get to read the complet",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1748",
-      "download_page_url": "https://appstore.sidelix.vip/apps/173/2019",
-      "appstore_download_count": 2694,
-      "localizedDescription": "WHEN YOU FIRST OPEN THE APP IT WILL LOOK LIKE A DIFFERENT APP JUST WAIT AND IT WILL CHANGE TO THE MOVIE APP\n\nWith HD Flix for iOS you can able to watch any movie/tv show. The User Interface that you see in the app is truly the best thing about it. Easy navigation and responsive design made it stand at the top of the list.\n\nIt will display all the trending content from Action, Comedy, Sci-Fi and other genres at the home page for the best user experience. Moreover, you will get to read the complet\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.box.hd.flix.drama.hub\n\n Downloads: 2694\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761537261.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 15037362,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
       "name": "Headway",
       "type": 1,
       "bundleID": "com.headway.books",
@@ -3890,367 +3554,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "HearBoost",
-      "developerName": "Holloway",
-      "version": "3.0",
-      "versionDate": "2025-10-25 04:30:39",
-      "versionDescription": "Injected with Unlimited",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1703",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1994",
-      "appstore_download_count": 291,
-      "localizedDescription": "Injected with Unlimited\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.futuremoments.audiospy\n\n Downloads: 291\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761380681.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 30057852,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Habits",
-      "developerName": "Holloway",
-      "version": "6.4.3",
-      "versionDate": "2025-10-25 04:06:16",
-      "versionDescription": "Injected with Subscription Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1515",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1900",
-      "appstore_download_count": 221,
-      "localizedDescription": "Injected with Subscription Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.dreamer.Habits\n\n Downloads: 221\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761379189.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 18028751,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "HiiKER",
-      "developerName": "Holloway",
-      "version": "7.51",
-      "versionDate": "2025-10-25 03:59:18",
-      "versionDescription": "Injected with Premium",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1459",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1872",
-      "appstore_download_count": 218,
-      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.hiiker.hiiker\n\n Downloads: 218\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761378765.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 150456551,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Huckleberry",
-      "developerName": "Holloway",
-      "version": "0.9.267",
-      "versionDate": "2025-10-25 03:52:39",
-      "versionDescription": "Injected with Premium",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1405",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1845",
-      "appstore_download_count": 204,
-      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.huckleberry-labs.app\n\n Downloads: 204\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761378342.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 50700542,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "H2O",
-      "developerName": "Holloway",
-      "version": "2025.7.2",
-      "versionDate": "2025-10-25 03:47:24",
-      "versionDescription": "Injected with Subscription Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1365",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1825",
-      "appstore_download_count": 210,
-      "localizedDescription": "Injected with Subscription Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: co.airapps.waterreminder\n\n Downloads: 210\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761378019.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 103642614,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "HeadifyAIHeadshotGenerator",
-      "developerName": "Holloway",
-      "version": "4.18.3",
-      "versionDate": "2025-10-25 03:45:01",
-      "versionDescription": "Injected with Pro",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1349",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1817",
-      "appstore_download_count": 275,
-      "localizedDescription": "Injected with Pro\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.photoshoot.headshotaigenerator\n\n Downloads: 275\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761377844.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 80078528,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "hianime",
-      "developerName": "Holloway",
-      "version": "1.0.18",
-      "versionDate": "2025-10-25 03:36:56",
-      "versionDescription": "Injected with Pro",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1285",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1785",
-      "appstore_download_count": 692,
-      "localizedDescription": "Injected with Pro\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.pyanime.anime.search\n\n Downloads: 692\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761377194.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 18618767,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "HelloAI",
-      "developerName": "Holloway",
-      "version": "2025.8.3",
-      "versionDate": "2025-10-25 03:28:02",
-      "versionDescription": "Injected with Subscription Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1213",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1749",
-      "appstore_download_count": 358,
-      "localizedDescription": "Injected with Subscription Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.IpadWhatsapp.InternetRocks\n\n Downloads: 358\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761376554.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 78909625,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Homeworkouts",
-      "developerName": "Holloway",
-      "version": "1.40.0",
-      "versionDate": "2025-10-25 03:04:47",
-      "versionDescription": "Injected with Subscription Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1035",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1660",
-      "appstore_download_count": 2778,
-      "localizedDescription": "Injected with Subscription Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.abishkking.maleworkout\n\n Downloads: 2778\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761375065.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 367614252,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Hiii",
-      "developerName": "Holloway",
-      "version": "2.2.2",
-      "versionDate": "2025-10-25 02:56:29",
-      "versionDescription": "Injected with Subscription Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/971",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1628",
-      "appstore_download_count": 187,
-      "localizedDescription": "Injected with Subscription Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.abighead.Widgets\n\n Downloads: 187\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761374509.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 127192541,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "HeavyBagPro",
-      "developerName": "Holloway",
-      "version": "2.3.6",
-      "versionDate": "2025-10-25 02:48:25",
-      "versionDescription": "Injected with Subscription Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/923",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1604",
-      "appstore_download_count": 201,
-      "localizedDescription": "Injected with Subscription Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.opentechiz.heavybagpro\n\n Downloads: 201\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761374034.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 20510578,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Heartify",
-      "developerName": "Holloway",
-      "version": "2.4.6",
-      "versionDate": "2025-10-25 02:41:33",
-      "versionDescription": "Injected with Premium",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/867",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1576",
-      "appstore_download_count": 199,
-      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.heartify\n\n Downloads: 199\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761373580.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 205145748,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Hevy",
-      "developerName": "sidelix",
-      "version": "2.5.0",
-      "versionDate": "2025-10-25 02:31:21",
-      "versionDescription": "Injected with Subscription Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/778",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/1531",
-      "appstore_download_count": 199,
-      "localizedDescription": "Injected with Subscription Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.hevyapp.hevy\n\n Downloads: 199\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761373179.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 107701163,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [
-        "https://apps.nabzclan.vip/repos/esign.php"
-      ],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "HeyJapan",
-      "developerName": "Holloway",
-      "version": "2.1.12",
-      "versionDate": "2025-10-25 02:24:57",
-      "versionDescription": "Injected with IAP",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/729",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1507",
-      "appstore_download_count": 83,
-      "localizedDescription": "Injected with IAP\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.eup.heyjapan\n\n Downloads: 83\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761372983.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 131021876,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "HappyScale",
-      "developerName": "sidelix",
-      "version": "2025.15.1",
-      "versionDate": "2025-10-25 02:18:09",
-      "versionDescription": "Injected with Subscription Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/679",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/1482",
-      "appstore_download_count": 175,
-      "localizedDescription": "Injected with Subscription Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.frontpocketsoftware.happyscale\n\n Downloads: 175\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761372790.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 39285285,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [
-        "https://apps.nabzclan.vip/repos/esign.php"
-      ],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "HiWidget",
-      "developerName": "Holloway",
-      "version": "4.3.45",
-      "versionDate": "2025-10-25 01:54:31",
-      "versionDescription": "Injected with Subscription Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/515",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1400",
-      "appstore_download_count": 359,
-      "localizedDescription": "Injected with Subscription Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.zerone.hidesktop\n\n Downloads: 359\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761371583.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 387289183,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Headway",
-      "developerName": "Holloway",
-      "version": "353.1",
-      "versionDate": "2025-10-25 01:32:44",
-      "versionDescription": "Injected with Subscription Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/375",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1330",
-      "appstore_download_count": 302,
-      "localizedDescription": "Injected with Subscription Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.headway.books\n\n Downloads: 302\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761370338.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 504173924,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {

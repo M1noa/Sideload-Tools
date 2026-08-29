@@ -4,9 +4,30 @@
   "subtitle": "Auto-merged from 43 sources. Original URLs, PAL fields removed.",
   "description": "Alphabetical split of the original-links no-PAL catalog.",
   "iconURL": "https://avatars.githubusercontent.com/u/57844837",
-  "appCount": 503,
+  "appCount": 443,
   "sourceCount": 43,
   "apps": [
+    {
+      "name": "Labbet",
+      "type": 1,
+      "bundleID": "app.labbet.labbet",
+      "bundleIdentifier": "app.labbet.labbet",
+      "version": "2.67",
+      "versionDate": "2026-08-29",
+      "fullDate": "20260829113526",
+      "size": 166588655,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-08-2026/Labbet_2.67_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-08-2026/Labbet_2.67_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.labbet.labbet.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.labbet.labbet.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
     {
       "name": "Locket",
       "type": 1,
@@ -50,27 +71,6 @@
       ]
     },
     {
-      "name": "Liftoff - Ranked Gym Workouts (Hacked)",
-      "developerName": "sidelix",
-      "version": "2.15.4",
-      "versionDate": "2026-08-28 01:46:02",
-      "versionDescription": "Liftoff is the best workout tracker app that ranks your gym performance. Get feedback on 400+ exercises, track progress, and compete with friends. Download the #1 gym rank app & join over 1 million lifters today!\r\n\r\nGamified Workout Tracker | Ranks | Streaks | Accountability | Logger\r\n\r\nBoost Your Fitness Journey with Liftoff app\r\n\r\nConnect and Compete\r\nJoin a vibrant community of fitness enthusiasts who make every workout count. Liftoff is a social platform where you can connect, compete, and share your fitness journey with friends and other gym-goers.\r\n\r\n- Community Engagement: Dive into a fitness community that motivates and inspires. Follow friends, exchange tips, and celebrate each other\u2019s successes.\r\n- Global Leaderboards: See how you st",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2192",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2429",
-      "appstore_download_count": 229,
-      "localizedDescription": "Liftoff is the best workout tracker app that ranks your gym performance. Get feedback on 400+ exercises, track progress, and compete with friends. Download the #1 gym rank app & join over 1 million lifters today!\r\n\r\nGamified Workout Tracker | Ranks | Streaks | Accountability | Logger\r\n\r\nBoost Your Fitness Journey with Liftoff app\r\n\r\nConnect and Compete\r\nJoin a vibrant community of fitness enthusiasts who make every workout count. Liftoff is a social platform where you can connect, compete, and share your fitness journey with friends and other gym-goers.\r\n\r\n- Community Engagement: Dive into a fitness community that motivates and inspires. Follow friends, exchange tips, and celebrate each other\u2019s successes.\r\n- Global Leaderboards: See how you st\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.gymbros.app\n\n Downloads: 229\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a90e83f2867e.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 139820728,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
       "name": "Locket",
       "type": 1,
       "bundleID": "com.locket.Locket",
@@ -110,27 +110,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "Lyfta: Gym Workout Tracker Log (Hacked)",
-      "developerName": "sidelix",
-      "version": "1.157",
-      "versionDate": "2026-08-27 00:30:50",
-      "versionDescription": "Join over 3 million gym and fitness enthusiasts and lift more with Lyfta \u2013 the free workout tracker, gym log, and strength training planner.\r\n\r\nLog your workouts, build routines, and track progress so you can focus on what matters most: getting stronger.\r\n\r\nWhat Our Users Are Saying:\r\n\r\n\u2022 \"I've tried probably 10 different gym apps over the years, and none of them clicked for me until Lyfta. It's crazy how much is available for free, from the unlimited custom free routines to their massive exercise library. It just has everything you need to actually stick with it.\" \u2013 Ryan\r\n\r\n\u2022 \"I love how simple it is to plan my workouts in Lyfta. I used to feel lost at the gym, but the guided exercises keep me on track. And seeing my progress with the s",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2259",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2496",
-      "appstore_download_count": 121,
-      "localizedDescription": "Join over 3 million gym and fitness enthusiasts and lift more with Lyfta \u2013 the free workout tracker, gym log, and strength training planner.\r\n\r\nLog your workouts, build routines, and track progress so you can focus on what matters most: getting stronger.\r\n\r\nWhat Our Users Are Saying:\r\n\r\n\u2022 \"I've tried probably 10 different gym apps over the years, and none of them clicked for me until Lyfta. It's crazy how much is available for free, from the unlimited custom free routines to their massive exercise library. It just has everything you need to actually stick with it.\" \u2013 Ryan\r\n\r\n\u2022 \"I love how simple it is to plan my workouts in Lyfta. I used to feel lost at the gym, but the guided exercises keep me on track. And seeing my progress with the s\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.lyftaios\n\n Downloads: 121\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f852584c04.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 56086794,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {
@@ -283,27 +262,6 @@
       ]
     },
     {
-      "name": "Live Transcribe (Hacked)",
-      "developerName": "sidelix",
-      "version": "2.78",
-      "versionDate": "2026-08-22 10:00:50",
-      "versionDescription": "Features:\r\n- subscription unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2123",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2360",
-      "appstore_download_count": 194,
-      "localizedDescription": "Features:\r\n- subscription unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.robnorback.LiveTranscribe\n\n Downloads: 194\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a89733c172d6.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 52266906,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
       "name": "LookUp",
       "type": 1,
       "bundleID": "in.muditbhargava.LookUp",
@@ -448,27 +406,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "Lungy (Hacked)",
-      "developerName": "sidelix",
-      "version": "3.1.6",
-      "versionDate": "2026-08-13 18:16:03",
-      "versionDescription": "Premium Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2320",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2556",
-      "appstore_download_count": 88,
-      "localizedDescription": "Premium Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.pia.lungy\n\n Downloads: 88\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7e09b4dba0b.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 246288102,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {
@@ -726,48 +663,6 @@
       ]
     },
     {
-      "name": "Life Gallery (Paid App)",
-      "developerName": "sidelix",
-      "version": "1.2.4",
-      "versionDate": "2026-08-02 17:42:40",
-      "versionDescription": "Produced by 751 Games, Life Gallery is constructed from a series of illustrations. As players go through each illustration, they will solve puzzles, unravel mysteries, and explore the dark and chilling story at the heart of the game.\r\n\r\n\u25cf  \u25cf  Game Features  \u25cf  \u25cf\r\n\r\nProduced by 751 Games, Life Gallery is constructed from a series of illustrations. As players go through each illustration, they will solve puzzles, unravel mysteries, and explore the dark and chilling story at the heart of the game.\r\n\r\n\u300cThe Twins, the Parents, and the Fish-Head Cult\u300d\r\n\r\nA boy with one eye, and a boy with one arm. A broken household. An evil cult with a mysterious faith. A series of horrifying tragedies. How do these things connect?\r\n\r\n\u300cA Fresh Visual Ex",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2364",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2600",
-      "appstore_download_count": 71,
-      "localizedDescription": "Produced by 751 Games, Life Gallery is constructed from a series of illustrations. As players go through each illustration, they will solve puzzles, unravel mysteries, and explore the dark and chilling story at the heart of the game.\r\n\r\n\u25cf  \u25cf  Game Features  \u25cf  \u25cf\r\n\r\nProduced by 751 Games, Life Gallery is constructed from a series of illustrations. As players go through each illustration, they will solve puzzles, unravel mysteries, and explore the dark and chilling story at the heart of the game.\r\n\r\n\u300cThe Twins, the Parents, and the Fish-Head Cult\u300d\r\n\r\nA boy with one eye, and a boy with one arm. A broken household. An evil cult with a mysterious faith. A series of horrifying tragedies. How do these things connect?\r\n\r\n\u300cA Fresh Visual Ex\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.Games751.LifeGallery\n\n Downloads: 71\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6f814f4cde7.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 218245842,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "LD (Hacked)",
-      "developerName": "sidelix",
-      "version": "6.10.1",
-      "versionDate": "2026-08-02 07:16:41",
-      "versionDescription": "Premium Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2358",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2594",
-      "appstore_download_count": 70,
-      "localizedDescription": "Premium Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.lensdistortions.Lens-Distortions\n\n Downloads: 70\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a6eee8c08a4e.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 123373045,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
       "name": "Lightleap",
       "type": 1,
       "bundleID": "com.lightricks.Enlight-Photos",
@@ -828,153 +723,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "Little Nightmares (Paid App)",
-      "developerName": "sidelix",
-      "version": "1.0.13",
-      "versionDate": "2026-07-31 15:52:49",
-      "versionDescription": "Escape your childhood fears.\r\n\r\nFirst available on PC and consoles, the horror adventure tale Little Nightmares is available on mobile!\r\n\u2028Immerse yourself in Little Nightmares, a dark whimsical tale that will confront you with your childhood fears!\r\nHelp Six escape The Maw \u2013 a vast, mysterious vessel inhabited by corrupted souls looking for their next meal.\r\nAs you progress on your journey, explore the most disturbing dollhouse offering a prison to escape from and a playground full of secrets to discover.\r\nReconnect with your inner child to unleash your imagination and find the way out!\r\nLittle Nightmares features a subtle mix of action and puzzle-platformer mechanics rooted in an eerie artistic direction and creepy sound design.\r\nSneak your",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2349",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2585",
-      "appstore_download_count": 644,
-      "localizedDescription": "Escape your childhood fears.\r\n\r\nFirst available on PC and consoles, the horror adventure tale Little Nightmares is available on mobile!\r\n\u2028Immerse yourself in Little Nightmares, a dark whimsical tale that will confront you with your childhood fears!\r\nHelp Six escape The Maw \u2013 a vast, mysterious vessel inhabited by corrupted souls looking for their next meal.\r\nAs you progress on your journey, explore the most disturbing dollhouse offering a prison to escape from and a playground full of secrets to discover.\r\nReconnect with your inner child to unleash your imagination and find the way out!\r\nLittle Nightmares features a subtle mix of action and puzzle-platformer mechanics rooted in an eerie artistic direction and creepy sound design.\r\nSneak your\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.playdigious.littlenightmares\n\n Downloads: 644\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6cc42011fed.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 1884036884,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Livity: Sleep & Health Tracker (Hacked)",
-      "developerName": "sidelix",
-      "version": "5.0.2",
-      "versionDate": "2026-07-31 11:31:34",
-      "versionDescription": "Livity: Personal Health & Fitness Tracker - Optimize Recovery, Sleep & Training with Advanced Biometric Analytics\r\n\r\nTransform your health and fitness with Livity - the comprehensive wellness app that delivers actionable insights through advanced biometric tracking. Get personalized recovery scores, sleep analysis, and training guidance to unlock your body's full potential.\r\n\r\nPRIVACY FIRST: Your health data never leaves your phone! All calculations are done locally inside the Livity App.\r\n\r\nKEY FEATURES THAT SET LIVITY APART:\r\n\r\nRECOVERY SCORE: Advanced HRV and resting heart rate analysis tells you exactly how recovered you are and whether you're ready to train today.\r\n\r\nSLEEP OPTIMIZATION: Complete sleep analysis including performance metrics,",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2254",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2491",
-      "appstore_download_count": 101,
-      "localizedDescription": "Livity: Personal Health & Fitness Tracker - Optimize Recovery, Sleep & Training with Advanced Biometric Analytics\r\n\r\nTransform your health and fitness with Livity - the comprehensive wellness app that delivers actionable insights through advanced biometric tracking. Get personalized recovery scores, sleep analysis, and training guidance to unlock your body's full potential.\r\n\r\nPRIVACY FIRST: Your health data never leaves your phone! All calculations are done locally inside the Livity App.\r\n\r\nKEY FEATURES THAT SET LIVITY APART:\r\n\r\nRECOVERY SCORE: Advanced HRV and resting heart rate analysis tells you exactly how recovered you are and whether you're ready to train today.\r\n\r\nSLEEP OPTIMIZATION: Complete sleep analysis including performance metrics,\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.app-livity\n\n Downloads: 101\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6c87557e614.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 111741327,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Legacy - Reawakening (Paid App)",
-      "developerName": "sidelix",
-      "version": "1.0.16",
-      "versionDate": "2026-07-31 01:37:00",
-      "versionDescription": "A classical point and click adventure game!\r\n\r\nStep into Legacy - Reawakening, a brand-new adventure in the Legacy universe. Deep underground lies a forgotten world\u2014a place filled with ancient structures, hidden technology, and a mystery waiting to be solved. As a skilled archaeologist, you\u2019ve been chosen to uncover its secrets. But not everything will reveal itself so easily.\r\n\r\nIn this vast cave system, powered by Solium and Aquenite, you\u2019ll find towering obelisks, strange machines, and a sleeping guardian\u2014a broken robot with no memory of its past. By collecting lost memory shards, you can rebuild the guardian and uncover the truth behind the ruins. Who were the people that built this place? What happened to them? And what lies beyond ",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2342",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2578",
-      "appstore_download_count": 63,
-      "localizedDescription": "A classical point and click adventure game!\r\n\r\nStep into Legacy - Reawakening, a brand-new adventure in the Legacy universe. Deep underground lies a forgotten world\u2014a place filled with ancient structures, hidden technology, and a mystery waiting to be solved. As a skilled archaeologist, you\u2019ve been chosen to uncover its secrets. But not everything will reveal itself so easily.\r\n\r\nIn this vast cave system, powered by Solium and Aquenite, you\u2019ll find towering obelisks, strange machines, and a sleeping guardian\u2014a broken robot with no memory of its past. By collecting lost memory shards, you can rebuild the guardian and uncover the truth behind the ruins. Who were the people that built this place? What happened to them? And what lies beyond \n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.nosignalproductions.legacy5awake\n\n Downloads: 63\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6bfc039ace4.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 195218034,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "LEGO Batman: DC Super Heroes (Paid App)",
-      "developerName": "sidelix",
-      "version": "1-71",
-      "versionDate": "2026-07-31 01:33:22",
-      "versionDescription": "***Please ensure iCloud is enabled in advance in order for purchases to be restored. To enable iCloud, go to your device\u2019s \u201cSettings,\u201d then \u201ciCloud,\u201d then \u201cDocuments & Data.\u201d If you are experiencing difficulties, please contact us at support.wbgames.com.***\r\n\r\n\r\nLegends Unite! Batman and Robin join forces with other famous DC super heroes including Superman, Wonder Woman, Green Lantern and more to stop the notorious villains Lex Luthor and The Joker from destroying Gotham City.   Batman fans everywhere will enjoy this original story that\u2019s filled with classic LEGO videogame action and humor as players fight to put the bad guys back behind bars!\r\n\r\nFEATURES:\r\n\r\n80 PLAYABLE CHARACTERS\r\n\r\nJustice League favorites such as Superman, W",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2340",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2576",
-      "appstore_download_count": 142,
-      "localizedDescription": "***Please ensure iCloud is enabled in advance in order for purchases to be restored. To enable iCloud, go to your device\u2019s \u201cSettings,\u201d then \u201ciCloud,\u201d then \u201cDocuments & Data.\u201d If you are experiencing difficulties, please contact us at support.wbgames.com.***\r\n\r\n\r\nLegends Unite! Batman and Robin join forces with other famous DC super heroes including Superman, Wonder Woman, Green Lantern and more to stop the notorious villains Lex Luthor and The Joker from destroying Gotham City.   Batman fans everywhere will enjoy this original story that\u2019s filled with classic LEGO videogame action and humor as players fight to put the bad guys back behind bars!\r\n\r\nFEATURES:\r\n\r\n80 PLAYABLE CHARACTERS\r\n\r\nJustice League favorites such as Superman, W\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.wb.LEGOBatman2\n\n Downloads: 142\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6bfafc23f6f.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 1041092470,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Legacy 4 - Tomb of Secrets (Paid App)",
-      "developerName": "sidelix",
-      "version": "1.0.16",
-      "versionDate": "2026-07-31 01:07:17",
-      "versionDescription": "Legacy - Reawakening has been released! Get it on the App Store!\r\n\r\nA mysterious portal draws you into a forgotten temple, hidden deep within a vast cave system. As you explore its intricate halls, you'll uncover cryptic notes left by Theo, a once-trusted friend. What happened to him in this strange place? His discoveries have set something ancient and powerful in motion. Now, it\u2019s up to you to uncover the truth and solve the mysteries that lie within.\r\nJourney from room to room, each filled with mechanical puzzles and visual clues hidden in the environment, as you uncover the secrets of the temple. Along the way, you\u2019ll piece together what happened to Theo and ultimately decide: Will you follow his path, or choose your own way?\r\n\r\nInspired ",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2330",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2566",
-      "appstore_download_count": 60,
-      "localizedDescription": "Legacy - Reawakening has been released! Get it on the App Store!\r\n\r\nA mysterious portal draws you into a forgotten temple, hidden deep within a vast cave system. As you explore its intricate halls, you'll uncover cryptic notes left by Theo, a once-trusted friend. What happened to him in this strange place? His discoveries have set something ancient and powerful in motion. Now, it\u2019s up to you to uncover the truth and solve the mysteries that lie within.\r\nJourney from room to room, each filled with mechanical puzzles and visual clues hidden in the environment, as you uncover the secrets of the temple. Along the way, you\u2019ll piece together what happened to Theo and ultimately decide: Will you follow his path, or choose your own way?\r\n\r\nInspired \n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.nosignalproductions.Legacy4-TombofSecrets\n\n Downloads: 60\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6bf4a2c7332.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 171425958,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Lara Croft GO (Paid App)",
-      "developerName": "sidelix",
-      "version": "2.9",
-      "versionDate": "2026-07-31 01:06:53",
-      "versionDescription": "Apple's iPhone Game of the Year 2015\r\nBest Mobile/Handheld Game - The Game Awards 2015\r\n\r\nLara Croft GO is a turn based puzzle-adventure set in a long-forgotten world. Explore the ruins of an ancient civilization, discover well-kept secrets and face deadly challenges as you uncover the myth of the Queen of Venom.\r\n\r\n\u2022 Experience lush visuals and a captivating soundtrack\r\n\u2022 Navigate using simple swipe-to-move controls\r\n\u2022 Fight menacing enemies, overcome dangerous obstacles and escape deadly traps\r\n\u2022 Solve more than 115 puzzles split into 7 chapters\r\n\u2022 Collect ancient relics and unlock new outfits for Lara\r\n\r\n\r\nA legit masterpiece - The App Store\r\nA classic Tomb Raider experience - IGN\r\nA journey well worth taking - Entertainment Weekly\r",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2329",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2565",
-      "appstore_download_count": 62,
-      "localizedDescription": "Apple's iPhone Game of the Year 2015\r\nBest Mobile/Handheld Game - The Game Awards 2015\r\n\r\nLara Croft GO is a turn based puzzle-adventure set in a long-forgotten world. Explore the ruins of an ancient civilization, discover well-kept secrets and face deadly challenges as you uncover the myth of the Queen of Venom.\r\n\r\n\u2022 Experience lush visuals and a captivating soundtrack\r\n\u2022 Navigate using simple swipe-to-move controls\r\n\u2022 Fight menacing enemies, overcome dangerous obstacles and escape deadly traps\r\n\u2022 Solve more than 115 puzzles split into 7 chapters\r\n\u2022 Collect ancient relics and unlock new outfits for Lara\r\n\r\n\r\nA legit masterpiece - The App Store\r\nA classic Tomb Raider experience - IGN\r\nA journey well worth taking - Entertainment Weekly\r\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.squareenixmontreal.lcgo\n\n Downloads: 62\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6bf4661af7a.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 544148214,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Lara Croft: Guardian of Light (Paid App)",
-      "developerName": "sidelix",
-      "version": "1.2.6",
-      "versionDate": "2026-07-31 01:06:02",
-      "versionDescription": "READ BEFORE DOWNLOADING: Please expand this description and read the full list of supported devices below to confirm that your device is supported.\r\n\r\nTWO LEVELS FREE\r\nPlay the first two levels of Lara\u2019s Aztec adventure for free, then unlock levels 3-14 and all DLC via a single in-app purchase.\r\n\r\n===\r\n\r\nBattle, platform and puzzle your way through the Mexican jungle in an action-packed tomb-raiding adventure. Explore temples, traverse toxic swamps and navigate volcanic caverns to defeat Xolotl, the Keeper of Darkness, before he plunges the world into eternal night.\r\n\r\nDUAL PISTOLS AND TWIN STICKS\r\nCarve a path through undead hordes in fast-paced combat, and bolster your arsenal with unlockable weapons and superpowered relics.\r\n\r\nBRAIN TEASING",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2328",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2564",
-      "appstore_download_count": 129,
-      "localizedDescription": "READ BEFORE DOWNLOADING: Please expand this description and read the full list of supported devices below to confirm that your device is supported.\r\n\r\nTWO LEVELS FREE\r\nPlay the first two levels of Lara\u2019s Aztec adventure for free, then unlock levels 3-14 and all DLC via a single in-app purchase.\r\n\r\n===\r\n\r\nBattle, platform and puzzle your way through the Mexican jungle in an action-packed tomb-raiding adventure. Explore temples, traverse toxic swamps and navigate volcanic caverns to defeat Xolotl, the Keeper of Darkness, before he plunges the world into eternal night.\r\n\r\nDUAL PISTOLS AND TWIN STICKS\r\nCarve a path through undead hordes in fast-paced combat, and bolster your arsenal with unlockable weapons and superpowered relics.\r\n\r\nBRAIN TEASING\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.feralinteractive.laracroftguardianoflight\n\n Downloads: 129\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6bf41d60aae.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 3387493685,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {
@@ -1192,90 +940,6 @@
       ]
     },
     {
-      "name": "Lemmings: Strategy & Puzzle (Hacked)",
-      "developerName": "sidelix",
-      "version": "9.4.3",
-      "versionDate": "2026-07-20 09:17:50",
-      "versionDescription": "Features:\r\n- subscription unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2148",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2385",
-      "appstore_download_count": 135,
-      "localizedDescription": "Features:\r\n- subscription unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.sadpuppy.lemmings\n\n Downloads: 135\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a5d4a74ee726.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 131573488,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Lingora (Hacked)",
-      "developerName": "sidelix",
-      "version": "6.1.1",
-      "versionDate": "2026-07-20 09:17:50",
-      "versionDescription": "Features:\r\n- subscription unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2160",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2397",
-      "appstore_download_count": 142,
-      "localizedDescription": "Features:\r\n- subscription unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.stebtech.lingora\n\n Downloads: 142\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a5d4aaa01cac.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 49158792,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Level Devil (Hacked)",
-      "developerName": "sidelix",
-      "version": "1.40.6",
-      "versionDate": "2026-07-19 22:14:40",
-      "versionDescription": "Premium Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2306",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2542",
-      "appstore_download_count": 110,
-      "localizedDescription": "Premium Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.unept.leveldevil\n\n Downloads: 110\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a5d4a36cf343.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 65679239,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Lens AI: Identify Anything (Hacked)",
-      "developerName": "sidelix",
-      "version": "1.0.50",
-      "versionDate": "2026-07-19 02:13:59",
-      "versionDescription": "LENS AI \u2013 AI Scanner & Identifier - IDENTIFY EVERYTHING!\r\n\r\nFind people faster with DeepSearch, search across apps and platforms using just a photo!\r\n\r\nIdentify anything fast with AI! Scan and recognize Dog Breeds, Cats, Coins, Stones, Rocks, Plants, and Flowers with LENS AI.\r\n\r\nAI Scanner for Everything!\r\nTry LENS AI to quickly scan and identify objects around you. Just take a picture or show it to your camera, and let Lens AI do it for you.\r\n\r\nAnimal & Pet Identifier\r\nIdentify animals, pets like cats, dogs, dog breeds. If it\u2019s a dog, cat, or any other pet, LENS AI helps you recognize breeds accurately.\u2028Want to learn more about your pets breed, history, or characteristics? LENS AI gives you fast details.\u2028Scan animals or unknown pets and",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2270",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2507",
-      "appstore_download_count": 133,
-      "localizedDescription": "LENS AI \u2013 AI Scanner & Identifier - IDENTIFY EVERYTHING!\r\n\r\nFind people faster with DeepSearch, search across apps and platforms using just a photo!\r\n\r\nIdentify anything fast with AI! Scan and recognize Dog Breeds, Cats, Coins, Stones, Rocks, Plants, and Flowers with LENS AI.\r\n\r\nAI Scanner for Everything!\r\nTry LENS AI to quickly scan and identify objects around you. Just take a picture or show it to your camera, and let Lens AI do it for you.\r\n\r\nAnimal & Pet Identifier\r\nIdentify animals, pets like cats, dogs, dog breeds. If it\u2019s a dog, cat, or any other pet, LENS AI helps you recognize breeds accurately.\u2028Want to learn more about your pets breed, history, or characteristics? LENS AI gives you fast details.\u2028Scan animals or unknown pets and\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.lens.ai.app\n\n Downloads: 133\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a5c32ca3391e.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 120312745,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
       "name": "Lampa",
       "type": 1,
       "bundleID": "com.lampa.photo",
@@ -1294,27 +958,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "LEGO Jurassic World (paid app)",
-      "developerName": "sidelix",
-      "version": "2.2.3",
-      "versionDate": "2026-07-18 20:06:40",
-      "versionDescription": "Following the epic storylines of Jurassic Park, The Lost World: Jurassic Park and Jurassic Park III, as well as the global smash hit Jurassic World, LEGO Jurassic World\u2122 is the first videogame where you can relive and experience all four colossal films. Reimagined in LEGO form and told in TT Games\u2019 signature classic LEGO humor, this thrilling adventure recreates unforgettable scenes and action sequences from the films, allowing fans worldwide to play through key moments and giving them the opportunity to fully explore the expansive grounds of Isla Nublar and Isla Sorna.\r\n\r\nFEATURES\r\n-Relive key moments from all four Jurassic films: An adventure 65 million years in the making - now in classic LEGO brick fun!\r\n-Wreak havoc as LEGO dinosaurs: C",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2100",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2337",
-      "appstore_download_count": 386,
-      "localizedDescription": "Following the epic storylines of Jurassic Park, The Lost World: Jurassic Park and Jurassic Park III, as well as the global smash hit Jurassic World, LEGO Jurassic World\u2122 is the first videogame where you can relive and experience all four colossal films. Reimagined in LEGO form and told in TT Games\u2019 signature classic LEGO humor, this thrilling adventure recreates unforgettable scenes and action sequences from the films, allowing fans worldwide to play through key moments and giving them the opportunity to fully explore the expansive grounds of Isla Nublar and Isla Sorna.\r\n\r\nFEATURES\r\n-Relive key moments from all four Jurassic films: An adventure 65 million years in the making - now in classic LEGO brick fun!\r\n-Wreak havoc as LEGO dinosaurs: C\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.wb.LEGOJurassicWorld\n\n Downloads: 386\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a5bdcaa05a31.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 944915854,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {
@@ -1482,27 +1125,6 @@
       ]
     },
     {
-      "name": "Lunatask: A Better To-Do List (Hacked)",
-      "developerName": "sidelix",
-      "version": "2.36.1",
-      "versionDate": "2026-07-15 17:21:26",
-      "versionDescription": "Lunatask is an all-in-one encrypted to-do list, habit tracker, journaling, life-tracking and notes app \u2013 now with relationship tracking too!\r\n\r\nSELF-ORGANIZING LISTS\r\n\r\nWe\u2019ve got your back, take the weight off your shoulders, and ensure no task is left behind. Pick your workflow and let our unique, forgiving, battle-tested approach handle the rest.\r\n\r\n- Must/Should/Want Method\r\n- Eisenhower Matrix\r\n- Urgency-based Prioritization\r\n- Pomodoro Timer\r\n- Status Tracking\r\n- Goal Tracking\r\n- Task Estimation\r\n- Recurring/Scheduled Tasks\r\n- Work-in-progress Limit\r\n\r\nDAILY CALENDAR + TIME BLOCKING\r\n\r\nConnect your calendars to see meetings and calls for today directly next to your tasks. Then, drag your planned tasks and habits onto the calendar to fil",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2241",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2478",
-      "appstore_download_count": 90,
-      "localizedDescription": "Lunatask is an all-in-one encrypted to-do list, habit tracker, journaling, life-tracking and notes app \u2013 now with relationship tracking too!\r\n\r\nSELF-ORGANIZING LISTS\r\n\r\nWe\u2019ve got your back, take the weight off your shoulders, and ensure no task is left behind. Pick your workflow and let our unique, forgiving, battle-tested approach handle the rest.\r\n\r\n- Must/Should/Want Method\r\n- Eisenhower Matrix\r\n- Urgency-based Prioritization\r\n- Pomodoro Timer\r\n- Status Tracking\r\n- Goal Tracking\r\n- Task Estimation\r\n- Recurring/Scheduled Tasks\r\n- Work-in-progress Limit\r\n\r\nDAILY CALENDAR + TIME BLOCKING\r\n\r\nConnect your calendars to see meetings and calls for today directly next to your tasks. Then, drag your planned tasks and habits onto the calendar to fil\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.mikekreeki.tasks\n\n Downloads: 90\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a57c178719fb.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 30206300,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
       "name": "Luminar",
       "type": 1,
       "bundleID": "com.skylum.luminaripad",
@@ -1521,48 +1143,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "Lost in Play+ (Apple Arcade)",
-      "developerName": "sidelix",
-      "version": "1.0.2",
-      "versionDate": "2026-07-11 20:16:01",
-      "versionDescription": "WINNER OF IPAD GAME OF THE YEAR 2023 & INNOVATION (APPLE DESIGN AWARD) 2024!\r\n\r\nHelp a brother and sister on an uplifting epic adventure to find their way home. Solving puzzles, escaping a horned beast and meeting quirky goblins are just part of the journey!\r\n\r\nLost in Play is a journey through childhood imagination with thoughtfully crafted puzzles and colorful characters. Play as a brother and sister duo on an adventure to find their way back home. Between reality and fantasy, the siblings explore the enchanted forest of a horned beast, start a rebellion in a goblin village, and help a team of frogs free a sword from a stone.\r\n\r\nPUZZLES & MYSTERY\r\n\r\nThe bizarre and dreamlike world of Lost in Play is filled with mystery, unique puzzles, and min",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2206",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2443",
-      "appstore_download_count": 133,
-      "localizedDescription": "WINNER OF IPAD GAME OF THE YEAR 2023 & INNOVATION (APPLE DESIGN AWARD) 2024!\r\n\r\nHelp a brother and sister on an uplifting epic adventure to find their way home. Solving puzzles, escaping a horned beast and meeting quirky goblins are just part of the journey!\r\n\r\nLost in Play is a journey through childhood imagination with thoughtfully crafted puzzles and colorful characters. Play as a brother and sister duo on an adventure to find their way back home. Between reality and fantasy, the siblings explore the enchanted forest of a horned beast, start a rebellion in a goblin village, and help a team of frogs free a sword from a stone.\r\n\r\nPUZZLES & MYSTERY\r\n\r\nThe bizarre and dreamlike world of Lost in Play is filled with mystery, unique puzzles, and min\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.snapbreak.lipaa\n\n Downloads: 133\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a52a43c38013.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 636900672,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Leo's Fortune (Apple Arcade)",
-      "developerName": "sidelix",
-      "version": "1.0.3",
-      "versionDate": "2026-07-11 20:14:01",
-      "versionDescription": "Leo's Fortune Apple Arcade version removed from the App Store by apple\r\n\r\n--\r\n\r\nLeo\u2019s Fortune is a platform adventure game where you hunt down the cunning and mysterious thief that stole your gold. Beautifully hand-crafted levels bring the story of Leo to life in this epic adventure. \r\n\r\n\u201cVirtually flawless\u2026could be called the best game on the platform\u201d \u2013 5 out of 5 Apple\u2019N\u2019Apps\r\n\r\n\u201cEvery level is meticulously detailed...Every scene looks simply spectacular\u201d 5 out of 5 stars \u2013 Toucharcade\r\n\r\n\u201cOne of the most beautiful iOS games I\u2019ve seen in a while\u2026It will make you smile the instant you pick it up\u201d 5 out of 5 stars Cult of Mac\r\n\r\n\u201cI just returned home to find all my gold has been stolen! For some devious purpose, th",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2205",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2442",
-      "appstore_download_count": 160,
-      "localizedDescription": "Leo's Fortune Apple Arcade version removed from the App Store by apple\r\n\r\n--\r\n\r\nLeo\u2019s Fortune is a platform adventure game where you hunt down the cunning and mysterious thief that stole your gold. Beautifully hand-crafted levels bring the story of Leo to life in this epic adventure. \r\n\r\n\u201cVirtually flawless\u2026could be called the best game on the platform\u201d \u2013 5 out of 5 Apple\u2019N\u2019Apps\r\n\r\n\u201cEvery level is meticulously detailed...Every scene looks simply spectacular\u201d 5 out of 5 stars \u2013 Toucharcade\r\n\r\n\u201cOne of the most beautiful iOS games I\u2019ve seen in a while\u2026It will make you smile the instant you pick it up\u201d 5 out of 5 stars Cult of Mac\r\n\r\n\u201cI just returned home to find all my gold has been stolen! For some devious purpose, th\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.leosfortune\n\n Downloads: 160\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a52a3a4e1c4e.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 620313282,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {
@@ -1626,27 +1206,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "LCSign",
-      "developerName": "sidelix",
-      "version": "1.2.4",
-      "versionDate": "2026-07-07 18:14:08",
-      "versionDescription": "An on-device iOS app packager & signer. Certificates, plugins, resources and installation in one place \u2014 every step runs on your device.\r\n\r\nA single shade of celadon. Quiet as paper.",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2040",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2277",
-      "appstore_download_count": 961,
-      "localizedDescription": "An on-device iOS app packager & signer. Certificates, plugins, resources and installation in one place \u2014 every step runs on your device.\r\n\r\nA single shade of celadon. Quiet as paper.\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: com.huami.LoadController\n\n Downloads: 961\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1781280155.webp",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 19553682,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {
@@ -2051,27 +1610,6 @@
       ]
     },
     {
-      "name": "LEGO Ninjago: Rise of the Snakes (removed from app store)",
-      "developerName": "sidelix",
-      "version": "2.2.1",
-      "versionDate": "2026-06-15 13:39:53",
-      "versionDescription": "Ninjago Spinjitzu Rise of the snakes is the sequel to Lego Ninjago Spinjitzu Scavenger Hunt. It features characters in which you can control with the gyroscope of your device. You must jailbreak to use this app.",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2062",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2299",
-      "appstore_download_count": 631,
-      "localizedDescription": "Ninjago Spinjitzu Rise of the snakes is the sequel to Lego Ninjago Spinjitzu Scavenger Hunt. It features characters in which you can control with the gyroscope of your device. You must jailbreak to use this app.\n\n --- \n\n More app Information:\n\n Category: Removed from Apple App Store\n\n BundleID: Ninjago-ROTS\n\n Downloads: 631\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1781545192.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 0,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
       "name": "Lightleap",
       "type": 1,
       "bundleID": "com.lightricks.Enlight-Photos",
@@ -2090,27 +1628,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "LEGO\u00ae Movie Maker (2012, iOS/iPhone-Pad)",
-      "developerName": "sidelix",
-      "version": "3.0.27",
-      "versionDate": "2026-06-13 12:00:17",
-      "versionDescription": "Supports ios6.1 bit 32 up to unknown\r\n\r\n\r\nBuild your own LEGO\u00ae adventure, then capture your story!\r\n\r\nHelp your child bring their LEGO characters to life with the LEGO Movie Maker App. This fun, kid-friendly app brings the whole family together to create a custom LEGO stop-motion movie.\r\n\r\nSimple tools and guides make it easy to shoot, edit, and even score your movie with music. Add one of the customizable title cards then share it online and, who knows, you may have the next summer blockbuster in your hands\u2026literally!\r\n\r\nFeatures:\r\n-Add & delete frames to your movie\r\n-Snap your fingers to take a photo\r\n-Add stickers to any frame. You can rotate, scale, flip them, and copy them forward to the next frame.\r\n-Create title card from camera or cam",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2044",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2281",
-      "appstore_download_count": 395,
-      "localizedDescription": "Supports ios6.1 bit 32 up to unknown\r\n\r\n\r\nBuild your own LEGO\u00ae adventure, then capture your story!\r\n\r\nHelp your child bring their LEGO characters to life with the LEGO Movie Maker App. This fun, kid-friendly app brings the whole family together to create a custom LEGO stop-motion movie.\r\n\r\nSimple tools and guides make it easy to shoot, edit, and even score your movie with music. Add one of the customizable title cards then share it online and, who knows, you may have the next summer blockbuster in your hands\u2026literally!\r\n\r\nFeatures:\r\n-Add & delete frames to your movie\r\n-Snap your fingers to take a photo\r\n-Add stickers to any frame. You can rotate, scale, flip them, and copy them forward to the next frame.\r\n-Create title card from camera or cam\n\n --- \n\n More app Information:\n\n Category: Removed from Apple App Store\n\n BundleID: Legomoviemaker.app\n\n Downloads: 395\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1781366417.jpeg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 0,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {
@@ -2174,69 +1691,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "LEGO\u00ae Bricktales (free paid)",
-      "developerName": "sidelix",
-      "version": "2.0 Rev 553",
-      "versionDate": "2026-06-10 10:53:15",
-      "versionDescription": "In LEGO\u00ae Bricktales, discover an innovative brick-by-brick building mechanic to design puzzle solutions from your own imagination. See your creations brought to life in a beautiful LEGO world where every problem has a constructive resolution.  \r\n\r\n  \r\n\r\nEmbark on an epic adventure across a world of beautiful LEGO diorama biomes crafted brick by brick as you search for inspiration to help your grandfather reinvigorate his rundown amusement park with your little robot buddy in tow. Your journey will take you to the deepest jungle, sun-drenched deserts, a bustling city corner, a towering medieval castle, and tropical Caribbean islands. Help the minifigures of these worlds by solving puzzles and unlock new skills throughout the story to further exp",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2017",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2254",
-      "appstore_download_count": 213,
-      "localizedDescription": "In LEGO\u00ae Bricktales, discover an innovative brick-by-brick building mechanic to design puzzle solutions from your own imagination. See your creations brought to life in a beautiful LEGO world where every problem has a constructive resolution.  \r\n\r\n  \r\n\r\nEmbark on an epic adventure across a world of beautiful LEGO diorama biomes crafted brick by brick as you search for inspiration to help your grandfather reinvigorate his rundown amusement park with your little robot buddy in tow. Your journey will take you to the deepest jungle, sun-drenched deserts, a bustling city corner, a towering medieval castle, and tropical Caribbean islands. Help the minifigures of these worlds by solving puzzles and unlock new skills throughout the story to further exp\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.thunderful.legobricktales\n\n Downloads: 213\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a2978054f9a3.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 386712646,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "LEGO\u00ae Builder's Journey",
-      "developerName": "sidelix",
-      "version": "4.0.0",
-      "versionDate": "2026-06-10 10:47:13",
-      "versionDescription": "A story about play, connections and adventure.\r\n\r\n====\r\n\r\n\u201cWhat a game. I love it.\u201d \u2013 Eurogamer\r\n\r\n\u201ca peaceful, intelligent, and nostalgic work of art\u201d \u2013 Games Radar\r\n \r\n\u201cLight Brick Studios has proven itself to be capable of great things.\u201d \u2013 Touch arcade\r\n\r\n\u201cIt\u2019s a simple tale, but touching in its way. And it feeds directly into the relaxing atmosphere.\u201d \u2013 The Verge\r\n\r\n\u201can astoundingly polished debut from Lego\u2019s new studio\u201d -EDGE Magazine\r\n\r\n====\r\n \r\nStep through levels brick by brick with puzzles that ask us to sometimes follow the instructions\u2026 and sometimes to be creative and break the rules.\r\n \r\nBuilder\u2019s Journey is a poetic puzzle that takes place in a LEGO\u00ae brick world, brought to life with the most ac",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2015",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2252",
-      "appstore_download_count": 204,
-      "localizedDescription": "A story about play, connections and adventure.\r\n\r\n====\r\n\r\n\u201cWhat a game. I love it.\u201d \u2013 Eurogamer\r\n\r\n\u201ca peaceful, intelligent, and nostalgic work of art\u201d \u2013 Games Radar\r\n \r\n\u201cLight Brick Studios has proven itself to be capable of great things.\u201d \u2013 Touch arcade\r\n\r\n\u201cIt\u2019s a simple tale, but touching in its way. And it feeds directly into the relaxing atmosphere.\u201d \u2013 The Verge\r\n\r\n\u201can astoundingly polished debut from Lego\u2019s new studio\u201d -EDGE Magazine\r\n\r\n====\r\n \r\nStep through levels brick by brick with puzzles that ask us to sometimes follow the instructions\u2026 and sometimes to be creative and break the rules.\r\n \r\nBuilder\u2019s Journey is a poetic puzzle that takes place in a LEGO\u00ae brick world, brought to life with the most ac\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: com.lego.games.arthouse\n\n Downloads: 204\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a2976ca59a14.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 725675574,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "LEGO The Lord of the Rings (removed from AppStore)",
-      "developerName": "sidelix",
-      "version": "1.0.0",
-      "versionDate": "2026-06-10 10:42:54",
-      "versionDescription": "LEGO The Lord of the Rings \u2013 The developers of the game offer a plunge into the world of the Mediterranean, when there was a ruthless war in which the elves, dwarves and people could unite to confront Sauron\u2019s army. You will be able to feel the whole history from three chapters, to pass them all from the beginning to the end.\r\n\r\nGame features:\r\n\r\nMore than 90 game characters\r\nA large number of weapons and magic items\r\nBeautiful graphics",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2014",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2251",
-      "appstore_download_count": 336,
-      "localizedDescription": "LEGO The Lord of the Rings \u2013 The developers of the game offer a plunge into the world of the Mediterranean, when there was a ruthless war in which the elves, dwarves and people could unite to confront Sauron\u2019s army. You will be able to feel the whole history from three chapters, to pass them all from the beginning to the end.\r\n\r\nGame features:\r\n\r\nMore than 90 game characters\r\nA large number of weapons and magic items\r\nBeautiful graphics\n\n --- \n\n More app Information:\n\n Category: Removed from Apple App Store\n\n BundleID: Lego.LordoftheRings\n\n Downloads: 336\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1781102161.jpeg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 1364949728,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {
@@ -3839,27 +3293,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "LumaFusion (free paid)",
-      "developerName": "sidelix",
-      "version": "5.4.4",
-      "versionDate": "2026-04-01 14:48:48",
-      "versionDescription": "LumaFusion: The Ultimate Storytelling Experience for Video Editing\r\n \r\nWelcome to the App Store\u2019s \u201cApp of the Year\u201d for 2021 and the recipient of the Editors\u2019 Choice Award! The gold standard for storytellers worldwide. Offering a fluid, intuitive, touch-screen editing experience.\r\n \r\nPROFESSIONAL EDITING MADE EASY\r\n\u2022 Six video/audio or graphic tracks: Create multiple layer edits with smooth handling of 4K ProRes and HDR media.\r\n\u2022 Six Additional audio tracks: Build your soundscape.\r\n\u2022 The ultimate Timeline: Fluent editing using the world\u2019s most flexible track-based AND magnetic timeline.\r\n\u2022 Loads of transitions: Keep your story moving.\r\n\u2022 External Monitor Preview: View on a big screen.\r\n\u2022 Markers, tags and notes: Stay organi",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1950",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2187",
-      "appstore_download_count": 1753,
-      "localizedDescription": "LumaFusion: The Ultimate Storytelling Experience for Video Editing\r\n \r\nWelcome to the App Store\u2019s \u201cApp of the Year\u201d for 2021 and the recipient of the Editors\u2019 Choice Award! The gold standard for storytellers worldwide. Offering a fluid, intuitive, touch-screen editing experience.\r\n \r\nPROFESSIONAL EDITING MADE EASY\r\n\u2022 Six video/audio or graphic tracks: Create multiple layer edits with smooth handling of 4K ProRes and HDR media.\r\n\u2022 Six Additional audio tracks: Build your soundscape.\r\n\u2022 The ultimate Timeline: Fluent editing using the world\u2019s most flexible track-based AND magnetic timeline.\r\n\u2022 Loads of transitions: Keep your story moving.\r\n\u2022 External Monitor Preview: View on a big screen.\r\n\u2022 Markers, tags and notes: Stay organi\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.luma-touch.LumaFusion\n\n Downloads: 1753\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_691a9cfdac6f3.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 171217365,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {
@@ -7213,27 +6646,6 @@
       ]
     },
     {
-      "name": "LIMBO - Playdead's LIMBO",
-      "developerName": "sidelix",
-      "version": "1.2.4",
-      "versionDate": "2025-10-30 17:02:07",
-      "versionDescription": "Limbo is an award-winning indie adventure, critically acclaimed for its captivating puzzle design and immersive sound and visuals. Its dark, misty spaces and haunting narrative will stay with you forever.\r\n\r\nApple Design Award Winner. \r\n\r\nWhat the press said:\r\n\r\n\"Limbo is as close to perfect at what it does as a game can get.\"\r\nDestructoid \u2013 10/10\r\n\r\n\"The game is a masterpiece.\"\r\nGiant Bomb \u2013 5/5\r\n\r\n\"Limbo is genius. Freaky, weird genius. Disturbing, uncomfortable genius.\"\r\nThe Escapist \u2013 5/5\r\n\r\n\"Dark, disturbing, yet eerily beautiful, Limbo is a world that deserves to be explored.\"\r\nJoystiq \u2013 5/5\r\n\r\nWinner of more than 100 awards, including:\r\n\r\n- Best Downloadable (Gameinformer)\r\n- Best Puzzle Game (Gamespot)\r\n- The Best Indie Game (Kot",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1917",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2154",
-      "appstore_download_count": 1820,
-      "localizedDescription": "Limbo is an award-winning indie adventure, critically acclaimed for its captivating puzzle design and immersive sound and visuals. Its dark, misty spaces and haunting narrative will stay with you forever.\r\n\r\nApple Design Award Winner. \r\n\r\nWhat the press said:\r\n\r\n\"Limbo is as close to perfect at what it does as a game can get.\"\r\nDestructoid \u2013 10/10\r\n\r\n\"The game is a masterpiece.\"\r\nGiant Bomb \u2013 5/5\r\n\r\n\"Limbo is genius. Freaky, weird genius. Disturbing, uncomfortable genius.\"\r\nThe Escapist \u2013 5/5\r\n\r\n\"Dark, disturbing, yet eerily beautiful, Limbo is a world that deserves to be explored.\"\r\nJoystiq \u2013 5/5\r\n\r\nWinner of more than 100 awards, including:\r\n\r\n- Best Downloadable (Gameinformer)\r\n- Best Puzzle Game (Gamespot)\r\n- The Best Indie Game (Kot\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.playdeadgames.limbo.ios\n\n Downloads: 1820\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6903d209b7fe9.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 116559653,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
       "name": "LookUp",
       "type": 1,
       "bundleID": "in.muditbhargava.LookUp",
@@ -7402,663 +6814,6 @@
       ]
     },
     {
-      "name": "Ling",
-      "developerName": "Holloway",
-      "version": "6.6.3",
-      "versionDate": "2025-10-25 04:34:38",
-      "versionDescription": "Injected with Premium",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1737",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/2011",
-      "appstore_download_count": 246,
-      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.sanfanstudios.universal\n\n Downloads: 246\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761380945.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 46235378,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "LogoMaker",
-      "developerName": "Holloway",
-      "version": "11.2.8",
-      "versionDate": "2025-10-25 04:32:17",
-      "versionDescription": "Injected with Pro",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1717",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/2001",
-      "appstore_download_count": 319,
-      "localizedDescription": "Injected with Pro\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.contentarcade.LogoMaker\n\n Downloads: 319\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761380791.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 254808339,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Life360",
-      "developerName": "Holloway",
-      "version": "25.8.0",
-      "versionDate": "2025-10-25 04:29:32",
-      "versionDescription": "Injected with Crack",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1695",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1990",
-      "appstore_download_count": 659,
-      "localizedDescription": "Injected with Crack\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.life360.safetymap\n\n Downloads: 659\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761380613.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 129462976,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "LiveScore",
-      "developerName": "Holloway",
-      "version": "8.7.2",
-      "versionDate": "2025-10-25 04:22:04",
-      "versionDescription": "Injected with noads",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1641",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1963",
-      "appstore_download_count": 177,
-      "localizedDescription": "Injected with noads\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: LiveScore\n\n Downloads: 177\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761380161.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 78350261,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Lilbite",
-      "developerName": "Holloway",
-      "version": "1.3.60",
-      "versionDate": "2025-10-25 04:19:49",
-      "versionDescription": "Injected with Subscription Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1623",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1954",
-      "appstore_download_count": 215,
-      "localizedDescription": "Injected with Subscription Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.lilbite.calorie.counter\n\n Downloads: 215\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761380027.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 12066484,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Livity",
-      "developerName": "Holloway",
-      "version": "3.3.07",
-      "versionDate": "2025-10-25 04:02:28",
-      "versionDescription": "Injected with Premium",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1487",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1886",
-      "appstore_download_count": 221,
-      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.app-livity\n\n Downloads: 221\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761378974.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 24296867,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "LiveWallpapersFree",
-      "developerName": "Holloway",
-      "version": "2.42.32",
-      "versionDate": "2025-10-25 03:51:18",
-      "versionDescription": "Injected with Subscription Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1395",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1840",
-      "appstore_download_count": 652,
-      "localizedDescription": "Injected with Subscription Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.apalonapps.livewallpapersfree\n\n Downloads: 652\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761378264.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 141516044,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "luckyloki",
-      "developerName": "Holloway",
-      "version": "2.2",
-      "versionDate": "2025-10-25 03:48:48",
-      "versionDescription": "Injected with IAP",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1377",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1831",
-      "appstore_download_count": 228,
-      "localizedDescription": "Injected with IAP\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.coinercab.luckyloki\n\n Downloads: 228\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761378124.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 22817393,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "LensAI",
-      "developerName": "Holloway",
-      "version": "1.0.16",
-      "versionDate": "2025-10-25 03:46:43",
-      "versionDescription": "Injected with Pro",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1359",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1822",
-      "appstore_download_count": 251,
-      "localizedDescription": "Injected with Pro\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.lens.ai.app\n\n Downloads: 251\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761377962.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 76564990,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Lampa",
-      "developerName": "Holloway",
-      "version": "1.6.3",
-      "versionDate": "2025-10-25 03:40:14",
-      "versionDescription": "Injected with Premium",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1313",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1799",
-      "appstore_download_count": 214,
-      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.lampa.photo\n\n Downloads: 214\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761377470.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 61933388,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Liftoff",
-      "developerName": "Holloway",
-      "version": "2.5.3",
-      "versionDate": "2025-10-25 03:32:33",
-      "versionDescription": "Injected with Premium",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1251",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1768",
-      "appstore_download_count": 317,
-      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.gymbros.app\n\n Downloads: 317\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761376871.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 96174012,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Linkjar",
-      "developerName": "Holloway",
-      "version": "1.9",
-      "versionDate": "2025-10-25 03:25:00",
-      "versionDescription": "Injected with Pro",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1189",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1737",
-      "appstore_download_count": 236,
-      "localizedDescription": "Injected with Pro\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: ventures.bench.linkjar-ios\n\n Downloads: 236\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761376364.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 3186386,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "LookUp",
-      "developerName": "Holloway",
-      "version": "11.1.8",
-      "versionDate": "2025-10-25 03:19:11",
-      "versionDescription": "Injected with Premium",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1145",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1715",
-      "appstore_download_count": 223,
-      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: in.muditbhargava.LookUp\n\n Downloads: 223\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761376001.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 179532183,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "LumaFusion",
-      "developerName": "Holloway",
-      "version": "5.3.2",
-      "versionDate": "2025-10-25 03:18:42",
-      "versionDescription": "Injected with Premium",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1141",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1713",
-      "appstore_download_count": 369,
-      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.luma-touch.LumaFusion\n\n Downloads: 369\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761375970.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 167352225,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Labbet",
-      "developerName": "Holloway",
-      "version": "2.46",
-      "versionDate": "2025-10-25 03:12:55",
-      "versionDescription": "Injected with Premium",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1097",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1691",
-      "appstore_download_count": 262,
-      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: app.labbet.labbet\n\n Downloads: 262\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761375577.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 89037873,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "LeicaLUX",
-      "developerName": "Holloway",
-      "version": "1.8.5",
-      "versionDate": "2025-10-25 03:07:47",
-      "versionDescription": "Injected with Premium",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1057",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1671",
-      "appstore_download_count": 359,
-      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.leica-camera.camera\n\n Downloads: 359\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761375247.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 131303235,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Lingokids",
-      "developerName": "Holloway",
-      "version": "8.124.0",
-      "versionDate": "2025-10-25 03:04:06",
-      "versionDescription": "Injected with Premium",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1031",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1658",
-      "appstore_download_count": 594,
-      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: es.monkimun.lingokids\n\n Downloads: 594\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761375012.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 89936161,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "LoseWeightforMen",
-      "developerName": "Holloway",
-      "version": "1.8.3",
-      "versionDate": "2025-10-25 03:03:50",
-      "versionDescription": "Injected with Pro",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1029",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1657",
-      "appstore_download_count": 516,
-      "localizedDescription": "Injected with Pro\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.leapfitness.loseweightformen\n\n Downloads: 516\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761374996.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 158813548,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Liit",
-      "developerName": "Holloway",
-      "version": "1.5.5",
-      "versionDate": "2025-10-25 03:02:04",
-      "versionDescription": "Injected with Pro",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1015",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1650",
-      "appstore_download_count": 3384,
-      "localizedDescription": "Injected with Pro\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: liit.photovideo.editor\n\n Downloads: 3384\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761374871.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 42365105,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Lingvist",
-      "developerName": "Holloway",
-      "version": "2.63.4",
-      "versionDate": "2025-10-25 03:01:52",
-      "versionDescription": "Injected with Subscription Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1013",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1649",
-      "appstore_download_count": 3591,
-      "localizedDescription": "Injected with Subscription Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: ee.keel24.Lingvist\n\n Downloads: 3591\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761374857.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 32092510,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "LUTStudio",
-      "developerName": "Holloway",
-      "version": "2.3.4",
-      "versionDate": "2025-10-25 02:51:56",
-      "versionDescription": "Injected with Pro",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/947",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1616",
-      "appstore_download_count": 209,
-      "localizedDescription": "Injected with Pro\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.solveit.lut-studio\n\n Downloads: 209\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761374242.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 103108630,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Lifesum",
-      "developerName": "Holloway",
-      "version": "22.1.0",
-      "versionDate": "2025-10-25 02:49:37",
-      "versionDescription": "Injected with Subscription Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/931",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1608",
-      "appstore_download_count": 202,
-      "localizedDescription": "Injected with Subscription Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.sillens.iShape\n\n Downloads: 202\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761374106.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 125295598,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Life",
-      "developerName": "sidelix",
-      "version": "6.4.2",
-      "versionDate": "2025-10-25 02:34:52",
-      "versionDescription": "Injected with Premium",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/811",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/1548",
-      "appstore_download_count": 163,
-      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: co.lovetap.Female-by-Design\n\n Downloads: 163\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761373312.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 31780071,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [
-        "https://apps.nabzclan.vip/repos/esign.php"
-      ],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "LingoDeer",
-      "developerName": "sidelix",
-      "version": "3.0.13",
-      "versionDate": "2025-10-25 02:25:44",
-      "versionDescription": "Injected with Premium",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/735",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/1510",
-      "appstore_download_count": 179,
-      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.lingodeer\n\n Downloads: 179\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761373005.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 131929729,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [
-        "https://apps.nabzclan.vip/repos/esign.php"
-      ],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Letterboxd",
-      "developerName": "sidelix",
-      "version": "4.7.0",
-      "versionDate": "2025-10-25 02:24:40",
-      "versionDescription": "Injected with Pro",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/727",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/1506",
-      "appstore_download_count": 174,
-      "localizedDescription": "Injected with Pro\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.letterboxd.LetterboxdApp\n\n Downloads: 174\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761372976.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 46473381,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [
-        "https://apps.nabzclan.vip/repos/esign.php"
-      ],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "LINECamera",
-      "developerName": "Holloway",
-      "version": "17.5.4",
-      "versionDate": "2025-10-25 02:08:15",
-      "versionDescription": "Injected with Subscription Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/607",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1446",
-      "appstore_download_count": 192,
-      "localizedDescription": "Injected with Subscription Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: jp.naver.linecamera\n\n Downloads: 192\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761372411.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 129014205,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Locket",
-      "developerName": "Holloway",
-      "version": "2.18.0",
-      "versionDate": "2025-10-25 02:07:55",
-      "versionDescription": "Injected with Gold",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/605",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1445",
-      "appstore_download_count": 2056,
-      "localizedDescription": "Injected with Gold\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.locket.Locket\n\n Downloads: 2056\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761372395.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 294287280,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Luminar",
-      "developerName": "Holloway",
-      "version": "2.5.6",
-      "versionDate": "2025-10-25 02:06:34",
-      "versionDescription": "Injected with Subscription Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/597",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1441",
-      "appstore_download_count": 195,
-      "localizedDescription": "Injected with Subscription Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.skylum.luminaripad\n\n Downloads: 195\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761372329.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 367164580,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Lightroom",
-      "developerName": "Holloway",
-      "version": "11.0.0",
-      "versionDate": "2025-10-25 01:51:45",
-      "versionDescription": "Injected with Premium",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/495",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1390",
-      "appstore_download_count": 1087,
-      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.adobe.lrmobilephone\n\n Downloads: 1087\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761371423.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 185978420,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "LoFiCam",
-      "developerName": "Holloway",
-      "version": "3.10.0",
-      "versionDate": "2025-10-25 01:51:24",
-      "versionDescription": "Injected with Pro",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/493",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1389",
-      "appstore_download_count": 199,
-      "localizedDescription": "Injected with Pro\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.paha.LoFiCam\n\n Downloads: 199\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761371407.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 331284870,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Leto",
-      "developerName": "Holloway",
-      "version": "8.5",
-      "versionDate": "2025-10-25 01:40:48",
-      "versionDescription": "Injected with Premium",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/425",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1355",
-      "appstore_download_count": 186,
-      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: biser.stories\n\n Downloads: 186\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761370777.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 169394162,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
       "name": "Letterboxd",
       "type": 1,
       "bundleID": "com.letterboxd.LetterboxdApp",
@@ -8119,27 +6874,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "Lyfta: Gym Workout Tracker Log",
-      "developerName": "lscs3",
-      "version": "1.119",
-      "versionDate": "2025-10-22 22:43:50",
-      "versionDescription": "https://t.me/JacksonThinkingProApps",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/325",
-      "download_page_url": "https://appstore.sidelix.vip/apps/173/1299",
-      "appstore_download_count": 230,
-      "localizedDescription": "https://t.me/JacksonThinkingProApps\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.lyftaios\n\n Downloads: 230\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_68f995bf62aa8.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 120712752,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {

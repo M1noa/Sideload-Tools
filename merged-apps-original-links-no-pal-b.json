@@ -4,30 +4,9 @@
   "subtitle": "Auto-merged from 43 sources. Original URLs, PAL fields removed.",
   "description": "Alphabetical split of the original-links no-PAL catalog.",
   "iconURL": "https://avatars.githubusercontent.com/u/57844837",
-  "appCount": 829,
+  "appCount": 770,
   "sourceCount": 43,
   "apps": [
-    {
-      "name": "Block\u00a0Blast - No ads",
-      "developerName": "sidelix",
-      "version": "7.3.7",
-      "versionDate": "2026-08-28 14:16:02",
-      "versionDescription": "Features:\r\n\r\n- no ads in the app",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1958",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2195",
-      "appstore_download_count": 2847,
-      "localizedDescription": "Features:\r\n\r\n- no ads in the app\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.blockpuzzle.us.ios\n\n Downloads: 2847\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a91980448e55.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 88044687,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
     {
       "name": "BoldVoice",
       "type": 1,
@@ -68,27 +47,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "Bill Tracker Pro (Hacked)",
-      "developerName": "sidelix",
-      "version": "4.2.26",
-      "versionDate": "2026-08-26 18:16:00",
-      "versionDescription": "Features:\r\n- subscription unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2127",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2364",
-      "appstore_download_count": 351,
-      "localizedDescription": "Features:\r\n- subscription unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.unofficialcalculators.payplan\n\n Downloads: 351\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f2d4298f34.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 164555360,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {
@@ -302,69 +260,6 @@
       ]
     },
     {
-      "name": "Brain Test: Tricky Puzzles (Hacked)",
-      "developerName": "sidelix",
-      "version": "2.770.0",
-      "versionDate": "2026-08-17 11:15:48",
-      "versionDescription": "Features:\r\n- Free Purchases\r\n\r\nSteps to use this hack:\r\n\r\nTap \"Buy,\" then \"Cancel\"\r\n\r\nYou won't be charged",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2144",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2381",
-      "appstore_download_count": 299,
-      "localizedDescription": "Features:\r\n- Free Purchases\r\n\r\nSteps to use this hack:\r\n\r\nTap \"Buy,\" then \"Cancel\"\r\n\r\nYou won't be charged\n\n --- \n\n More app Information:\n\n Category: Free in app purchases\n\n BundleID: com.unicostudio.braintest\n\n Downloads: 299\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a82ed4532ccf.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 161481246,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "BoxBox",
-      "developerName": "Holloway",
-      "version": "5.4.1",
-      "versionDate": "2026-08-16 04:00:41",
-      "versionDescription": "Injected with Premium",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1231",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1758",
-      "appstore_download_count": 269,
-      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: club.boxbox.widgets-ios\n\n Downloads: 269\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8135d2bf978.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 100682861,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Bridge Constructor Playground",
-      "developerName": "sidelix",
-      "version": "2.0",
-      "versionDate": "2026-08-15 16:21:46",
-      "versionDescription": "The #1 app with millions of players!\r\n\r\n\"Bridge Constructor Playground is even more fun than the prequel.\" \u2013 Chip.de\r\n\r\n\"Bridge Constructor Playground convinces by a fresh look and a lot of fun for several hours.\" - apfelnews.eu\r\n\r\n\"Bridge Constructor Playground offers players of all ages an introduction to the topic of \u201cbridge building\u201d. This game gives you the freedom to let your creative side run riot \u2013 nothing is impossible.\" \u2013 appshopper.com\r\n\r\n\"This is a very good sequel and satisfies with all the improvements.\" \u2013 apps-news.de\r\n\r\n-------------------------\r\n\r\nBridge Constructor Playground offers people of all ages an introduction to the topic of \u201cbridge building\u201d. This game gives you the freedom to let your creative side run",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1839",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2076",
-      "appstore_download_count": 428,
-      "localizedDescription": "The #1 app with millions of players!\r\n\r\n\"Bridge Constructor Playground is even more fun than the prequel.\" \u2013 Chip.de\r\n\r\n\"Bridge Constructor Playground convinces by a fresh look and a lot of fun for several hours.\" - apfelnews.eu\r\n\r\n\"Bridge Constructor Playground offers players of all ages an introduction to the topic of \u201cbridge building\u201d. This game gives you the freedom to let your creative side run riot \u2013 nothing is impossible.\" \u2013 appshopper.com\r\n\r\n\"This is a very good sequel and satisfies with all the improvements.\" \u2013 apps-news.de\r\n\r\n-------------------------\r\n\r\nBridge Constructor Playground offers people of all ages an introduction to the topic of \u201cbridge building\u201d. This game gives you the freedom to let your creative side run\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.headupgames.bridgeconstructorplayground\n\n Downloads: 428\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a809207e257b.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 115292399,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
       "name": "BoldVoice",
       "type": 1,
       "bundleID": "com.wellocution.iosapp",
@@ -491,48 +386,6 @@
       ]
     },
     {
-      "name": "Balance: Meditation & Sleep (Hacked)",
-      "developerName": "sidelix",
-      "version": "1.208.0",
-      "versionDate": "2026-08-12 23:31:16",
-      "versionDescription": "Improve your stress, sleep, and more with Balance\u2019s personalized guided meditation program.\r\n\r\nYOUR PERSONAL MEDITATION COACH\r\nBalance is your personal meditation coach. Each day, you\u2019ll answer questions about your meditation experience, goals, and preferences. Using an audio library of thousands of files, Balance assembles a daily guided meditation that\u2019s perfect for you. The more you share over time, the more personalized and effective your meditations become.\r\n\r\nLEARN MEDITATION FUNDAMENTALS\r\nBalance\u2019s daily meditations are organized in 10-day Plans that teach fundamental meditation skills geared toward your goals and needs. You\u2019ll discover how to bring awareness to your day, increase your focus among distractions, and find deep rel",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2225",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2462",
-      "appstore_download_count": 114,
-      "localizedDescription": "Improve your stress, sleep, and more with Balance\u2019s personalized guided meditation program.\r\n\r\nYOUR PERSONAL MEDITATION COACH\r\nBalance is your personal meditation coach. Each day, you\u2019ll answer questions about your meditation experience, goals, and preferences. Using an audio library of thousands of files, Balance assembles a daily guided meditation that\u2019s perfect for you. The more you share over time, the more personalized and effective your meditations become.\r\n\r\nLEARN MEDITATION FUNDAMENTALS\r\nBalance\u2019s daily meditations are organized in 10-day Plans that teach fundamental meditation skills geared toward your goals and needs. You\u2019ll discover how to bring awareness to your day, increase your focus among distractions, and find deep rel\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.elevateapp.kamino.kamino\n\n Downloads: 114\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7d020db8b3f.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 123789161,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "BeFreed: Personalized Learning (Hacked)",
-      "developerName": "sidelix",
-      "version": "4.5.5",
-      "versionDate": "2026-08-12 11:00:53",
-      "versionDescription": "Features:\r\n- subscription unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2147",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2384",
-      "appstore_download_count": 124,
-      "localizedDescription": "Features:\r\n- subscription unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: ai.befreed.freed-frontend-rn\n\n Downloads: 124\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7c524058a43.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 103888029,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
       "name": "BoldVoice",
       "type": 1,
       "bundleID": "com.wellocution.iosapp",
@@ -551,48 +404,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "Breeze (Hacked)",
-      "developerName": "sidelix",
-      "version": "3.6.2",
-      "versionDate": "2026-08-11 22:30:59",
-      "versionDescription": "Subscription Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2300",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2536",
-      "appstore_download_count": 116,
-      "localizedDescription": "Subscription Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.basenji.mood\n\n Downloads: 116\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7ba27879c30.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 196994807,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Best Brew Guide: Filtru Coffee (Hacked)",
-      "developerName": "sidelix",
-      "version": "4.7.2",
-      "versionDate": "2026-08-11 10:01:34",
-      "versionDescription": "Coffee is more than just a way to wake up in the morning, it's a way of life. With Filtru, you'll make the perfect cup each and every time and learn as you go.\r\n\r\nFiltru is your go-to app for learning and replicating the best way to make your favorite coffee. Gone are the days of pouring water over coffee and throwing in some milk! Filtru will tell you how much coffee to use, when and how much water to pour, how to stir, and so much more. By the time you've tasted a Filtru coffee, you'll wonder how you ever lived without it! Those just starting out will enjoy our augmented reality (AR) gear guides that put new accessories right on your kitchen counter, giving you a chance to take a look before splashing out on a new coffee gadget!\r\n\r\nCoffee fans",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2240",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2477",
-      "appstore_download_count": 109,
-      "localizedDescription": "Coffee is more than just a way to wake up in the morning, it's a way of life. With Filtru, you'll make the perfect cup each and every time and learn as you go.\r\n\r\nFiltru is your go-to app for learning and replicating the best way to make your favorite coffee. Gone are the days of pouring water over coffee and throwing in some milk! Filtru will tell you how much coffee to use, when and how much water to pour, how to stir, and so much more. By the time you've tasted a Filtru coffee, you'll wonder how you ever lived without it! Those just starting out will enjoy our augmented reality (AR) gear guides that put new accessories right on your kitchen counter, giving you a chance to take a look before splashing out on a new coffee gadget!\r\n\r\nCoffee fans\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.przemyslawbobak.filtru\n\n Downloads: 109\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7af2ba70e97.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 114286558,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {
@@ -677,27 +488,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "Bunpo: Language Learning (Hacked)",
-      "developerName": "sidelix",
-      "version": "3.20.0",
-      "versionDate": "2026-08-10 21:31:08",
-      "versionDescription": "Features:\r\n- subscription unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2217",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2454",
-      "appstore_download_count": 139,
-      "localizedDescription": "Features:\r\n- subscription unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.N2BunpouApp.yuki\n\n Downloads: 139\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7a42eb1b5eb.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 82317993,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {
@@ -848,27 +638,6 @@
       ]
     },
     {
-      "name": "Bend: Stretching & Flexibility (Hacked)",
-      "developerName": "sidelix",
-      "version": "7.6.5",
-      "versionDate": "2026-08-02 01:00:58",
-      "versionDescription": "Bend is the simple, affordable way to make stretching & movement a part of your daily routine. With over 15 million users, our quick & convenient routines help improve your flexibility and maintain your natural range of motion as you get older. We offer hundreds of exercises and easy-to-follow routines designed for all ages and experience levels. It's never too early to start stretching everyday!\r\n\r\n\u201cIt\u2019s like having a personal stretching coach in my pocket.\u201d \u2014 The New York Times\r\n\r\n\u201cI could never stick to my stretching routine. Then I found this app.\u201d \u2014 Wirecutter\r\n\r\nSTRETCHING IS IMPORTANT\r\n\r\nA simple, daily stretching routine can have a huge impact on your quality of life. Every time you stretch, you invest in your long-term hea",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2233",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2470",
-      "appstore_download_count": 111,
-      "localizedDescription": "Bend is the simple, affordable way to make stretching & movement a part of your daily routine. With over 15 million users, our quick & convenient routines help improve your flexibility and maintain your natural range of motion as you get older. We offer hundreds of exercises and easy-to-follow routines designed for all ages and experience levels. It's never too early to start stretching everyday!\r\n\r\n\u201cIt\u2019s like having a personal stretching coach in my pocket.\u201d \u2014 The New York Times\r\n\r\n\u201cI could never stick to my stretching routine. Then I found this app.\u201d \u2014 Wirecutter\r\n\r\nSTRETCHING IS IMPORTANT\r\n\r\nA simple, daily stretching routine can have a huge impact on your quality of life. Every time you stretch, you invest in your long-term hea\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.bowery-digital.bend\n\n Downloads: 111\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6e969e6dec5.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 199698109,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
       "name": "B612",
       "type": 1,
       "bundleID": "com.linecorp.b612",
@@ -908,27 +677,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "Bendy and the Ink Machine (Paid App)",
-      "developerName": "sidelix",
-      "version": "1.2.0",
-      "versionDate": "2026-07-31 01:54:41",
-      "versionDescription": "Henry was the lead animator at Joey Drew Studios in its 1930s heyday, a studio that was best known for producing animated cartoons of their most popular and beloved character, Bendy. Many years later Henry receives a mysterious invitation from Joey Drew himself to return to the old cartoon workshop. Journey deep into the sketchy madness of this twisted cartoon nightmare. \r\n\r\nFight the darkness. Escape the Ink Demon. Fear the Machine.\r\n\r\n\u2022 Varied Game Play! - First person combat, horror, puzzles, stealth and numerous hidden secrets.\r\n\u2022 A Beautiful Cartoon World! - Lovingly crafted by a small indie studio.\r\n\u2022 A Global Bendy Community! - Delve deep into the mystery and join the discussion at joeydrewstudios.com",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1911",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2148",
-      "appstore_download_count": 1522,
-      "localizedDescription": "Henry was the lead animator at Joey Drew Studios in its 1930s heyday, a studio that was best known for producing animated cartoons of their most popular and beloved character, Bendy. Many years later Henry receives a mysterious invitation from Joey Drew himself to return to the old cartoon workshop. Journey deep into the sketchy madness of this twisted cartoon nightmare. \r\n\r\nFight the darkness. Escape the Ink Demon. Fear the Machine.\r\n\r\n\u2022 Varied Game Play! - First person combat, horror, puzzles, stealth and numerous hidden secrets.\r\n\u2022 A Beautiful Cartoon World! - Lovingly crafted by a small indie studio.\r\n\u2022 A Global Bendy Community! - Delve deep into the mystery and join the discussion at joeydrewstudios.com\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.jds.batim\n\n Downloads: 1522\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6c002f8c097.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 495827984,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {
@@ -1310,48 +1058,6 @@
       ]
     },
     {
-      "name": "Brass - Icon Themes & Widgets (Hacked)",
-      "developerName": "sidelix",
-      "version": "3.1.81",
-      "versionDate": "2026-07-15 17:29:26",
-      "versionDescription": "Discover new inspirations for customizing your home screen!\r\n\r\nEasily download the icons of your choice and start with the customizing!\r\n\r\nCustom App Icons, Themes, and Widgets! Discover endless options and customize your home screen! Replace old and boring icons and widgets with a variety of unique themes. Discover new inspiration and personalize your device!\r\n\r\nBored of the usual style? Brass App is the solution. Customize your home screen with ease. Custom aesthetic icons, widgets, and themes!\r\n\r\n+Widgets+\r\nCustomize each widget, personalize your home screen with ease. Would you like a Weather Widget on your home screen? No problem, with Brass App aesthetic and convenient experience, is guaranteed. \r\n\r\n+App Icons+\r\nExplore the amazing collect",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2245",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2482",
-      "appstore_download_count": 135,
-      "localizedDescription": "Discover new inspirations for customizing your home screen!\r\n\r\nEasily download the icons of your choice and start with the customizing!\r\n\r\nCustom App Icons, Themes, and Widgets! Discover endless options and customize your home screen! Replace old and boring icons and widgets with a variety of unique themes. Discover new inspiration and personalize your device!\r\n\r\nBored of the usual style? Brass App is the solution. Customize your home screen with ease. Custom aesthetic icons, widgets, and themes!\r\n\r\n+Widgets+\r\nCustomize each widget, personalize your home screen with ease. Would you like a Weather Widget on your home screen? No problem, with Brass App aesthetic and convenient experience, is guaranteed. \r\n\r\n+App Icons+\r\nExplore the amazing collect\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.gorilla.brass\n\n Downloads: 135\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a57c351b7792.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 105281206,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Brawl Stars - Null's Brawl",
-      "developerName": "sidelix",
-      "version": "68.279",
-      "versionDate": "2026-07-15 04:32:10",
-      "versionDescription": "Fast paced 3v3 & 5v5 MOBA and Battle Royale made for mobile! Play online with friends or solo across a variety of PvP arena game modes in under three minutes.\r\n\r\n\r\nUnlock and upgrade dozens of Brawlers with powerful super abilities, star powers and gadgets! Collect unique skins to stand out and show off. Battle in a variety of mysterious arena locations within the MOBA Brawliverse!\r\n\r\n\r\n\r\n\r\n\u25c9 BATTLE IN MULTIPLE GAME MODES:\r\n\r\n\r\n\u25b6 Gem Grab (3v3,5v5): Team up for real time 3v3 and 5v5 MOBA arena PvP battles against online players from across the world. Team up to battle and out strategize the opposing team. Collect and hold 10 gems to win, but get fragged and lose your gems.\r\n\r\n\r\n\u25b6 Showdown (solo/duo): A MOBA battle royale style fight for su",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1946",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2183",
-      "appstore_download_count": 38442,
-      "localizedDescription": "Fast paced 3v3 & 5v5 MOBA and Battle Royale made for mobile! Play online with friends or solo across a variety of PvP arena game modes in under three minutes.\r\n\r\n\r\nUnlock and upgrade dozens of Brawlers with powerful super abilities, star powers and gadgets! Collect unique skins to stand out and show off. Battle in a variety of mysterious arena locations within the MOBA Brawliverse!\r\n\r\n\r\n\r\n\r\n\u25c9 BATTLE IN MULTIPLE GAME MODES:\r\n\r\n\r\n\u25b6 Gem Grab (3v3,5v5): Team up for real time 3v3 and 5v5 MOBA arena PvP battles against online players from across the world. Team up to battle and out strategize the opposing team. Collect and hold 10 gems to win, but get fragged and lose your gems.\r\n\r\n\r\n\u25b6 Showdown (solo/duo): A MOBA battle royale style fight for su\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.supercell.laser\n\n Downloads: 38442\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a570cf4f1141.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 1144159565,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
       "name": "BoldVoice",
       "type": 1,
       "bundleID": "com.wellocution.iosapp",
@@ -1415,27 +1121,6 @@
       ]
     },
     {
-      "name": "Blasphemous",
-      "developerName": "sidelix",
-      "version": "1.9",
-      "versionDate": "2026-07-13 21:43:38",
-      "versionDescription": "Fight. Endure. Break eternal damnation.\r\n\r\nBlasphemous is an award-winning 2D indie action platformer with soulslike elements, offering brutal hack and slash combat and deep exploration across a dark, gothic world steeped in penance and suffering.\r\n\r\nSet in the cursed land of Cvstodia, ravaged by a twisted curse known only as The Miracle, you play as The Penitent One, the last survivor of the Brotherhood of the Silent Sorrow, bound to a cycle of death and rebirth.\r\n\r\nFace monstrous enemies, navigate deadly traps, and uncover hidden secrets in pixel perfect handcrafted levels. As you fight for redemption, you'll explore desolate cathedrals, forsaken wastelands, and blood-soaked dungeons, encountering grotesque monsters, merciless bosses and torme",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1907",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2144",
-      "appstore_download_count": 2856,
-      "localizedDescription": "Fight. Endure. Break eternal damnation.\r\n\r\nBlasphemous is an award-winning 2D indie action platformer with soulslike elements, offering brutal hack and slash combat and deep exploration across a dark, gothic world steeped in penance and suffering.\r\n\r\nSet in the cursed land of Cvstodia, ravaged by a twisted curse known only as The Miracle, you play as The Penitent One, the last survivor of the Brotherhood of the Silent Sorrow, bound to a cycle of death and rebirth.\r\n\r\nFace monstrous enemies, navigate deadly traps, and uncover hidden secrets in pixel perfect handcrafted levels. As you fight for redemption, you'll explore desolate cathedrals, forsaken wastelands, and blood-soaked dungeons, encountering grotesque monsters, merciless bosses and torme\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.thegamekitchen.blasphemous\n\n Downloads: 2856\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a555bd6c8edf.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 829925668,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
       "name": "BoldVoice",
       "type": 1,
       "bundleID": "com.wellocution.iosapp",
@@ -1475,27 +1160,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "Bookshelf: Book Tracker & List (Hacked)",
-      "developerName": "sidelix",
-      "version": "2.18.17",
-      "versionDate": "2026-07-11 19:29:20",
-      "versionDescription": "Features:\r\n- subscription unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2126",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2363",
-      "appstore_download_count": 184,
-      "localizedDescription": "Features:\r\n- subscription unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: alexgerrese.summarize\n\n Downloads: 184\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a529979c4f1a.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 221581937,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {
@@ -1982,27 +1646,6 @@
       ]
     },
     {
-      "name": "Bully: Anniversary Edition (Free paid)",
-      "developerName": "sidelix",
-      "version": "1.4.1",
-      "versionDate": "2026-06-20 14:17:37",
-      "versionDescription": "Download and play Bully: Anniversary Edition for up to thirty minutes as a free trial. Purchase the full game as a one-time, in-app purchase to play without any time limits. GTA+ Members can enjoy unlimited access while subscribed for as long as it is included in GTA+.\r\n\r\nThe Anniversary Edition of Bully has been designed for mobile compatibility and includes four bonus classes and additional non-storyline missions in addition to everything from the original Bully release. \r\n\r\nThe Rockstar tradition of groundbreaking, original gameplay, and tongue-in-cheek storytelling invades the schoolyard.  \r\n \r\nAs a mischievous teenager, Jimmy Hopkins, you\u2019ll stand up to bullies, take on the liars, cheats, and snobs who are the most popular members of the ",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2104",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2341",
-      "appstore_download_count": 2094,
-      "localizedDescription": "Download and play Bully: Anniversary Edition for up to thirty minutes as a free trial. Purchase the full game as a one-time, in-app purchase to play without any time limits. GTA+ Members can enjoy unlimited access while subscribed for as long as it is included in GTA+.\r\n\r\nThe Anniversary Edition of Bully has been designed for mobile compatibility and includes four bonus classes and additional non-storyline missions in addition to everything from the original Bully release. \r\n\r\nThe Rockstar tradition of groundbreaking, original gameplay, and tongue-in-cheek storytelling invades the schoolyard.  \r\n \r\nAs a mischievous teenager, Jimmy Hopkins, you\u2019ll stand up to bullies, take on the liars, cheats, and snobs who are the most popular members of the \n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.rockstargames.bully\n\n Downloads: 2094\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a36d7f452e3f.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 1762259965,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
       "name": "BoldVoice",
       "type": 1,
       "bundleID": "com.wellocution.iosapp",
@@ -2021,48 +1664,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "Bring You Home (Paid app)",
-      "developerName": "sidelix",
-      "version": "1.0.4",
-      "versionDate": "2026-06-19 16:44:53",
-      "versionDescription": "From the creators of Love You to Bits, Alike Studio presents BRING YOU HOME\r\n\r\nBRING YOU HOME unravels the story of Polo, a humble alien hero who will traverse all kinds of worlds in a frenzied chase to rescue his kidnapped alien pet.\r\n\r\nBRING YOU HOME is a cute and accessible, purely visual, family-friendly puzzle adventure\u2026 with a twist in the gameplay. You don\u2019t control the hero, you control the level ITSELF! How? Change and rearrange the pieces of every level to unveil the right path for Polo!\r\n\r\nWith this innovative mechanic, even failing can be fun! If poor Polo finds a deadly but hilarious fate, just go back in time and rewind the level.\r\n\r\nVenture into oodles of worlds stuffed with magical characters, bizarre surprises, and many trea",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2097",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2334",
-      "appstore_download_count": 192,
-      "localizedDescription": "From the creators of Love You to Bits, Alike Studio presents BRING YOU HOME\r\n\r\nBRING YOU HOME unravels the story of Polo, a humble alien hero who will traverse all kinds of worlds in a frenzied chase to rescue his kidnapped alien pet.\r\n\r\nBRING YOU HOME is a cute and accessible, purely visual, family-friendly puzzle adventure\u2026 with a twist in the gameplay. You don\u2019t control the hero, you control the level ITSELF! How? Change and rearrange the pieces of every level to unveil the right path for Polo!\r\n\r\nWith this innovative mechanic, even failing can be fun! If poor Polo finds a deadly but hilarious fate, just go back in time and rewind the level.\r\n\r\nVenture into oodles of worlds stuffed with magical characters, bizarre surprises, and many trea\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.alikestudio.BYHgame\n\n Downloads: 192\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a35a8829186b.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 394823099,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Boxes: Lost Fragments (Hacked)",
-      "developerName": "sidelix",
-      "version": "1.52",
-      "versionDate": "2026-06-19 16:35:52",
-      "versionDescription": "Features: \r\n- Free purchases: click buy, then cancel",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2096",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2333",
-      "appstore_download_count": 277,
-      "localizedDescription": "Features: \r\n- Free purchases: click buy, then cancel\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.snapbreak.boxes\n\n Downloads: 277\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a35a7998ffa7.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 690049116,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {
@@ -2255,27 +1856,6 @@
       ]
     },
     {
-      "name": "Banana Kong (hacked)",
-      "developerName": "sidelix",
-      "version": "1.9.20",
-      "versionDate": "2026-06-14 15:08:56",
-      "versionDescription": "Features:\r\n\r\n- in app purchase\r\n- Sideloading bypass\r\n\r\nWarning: can buy everything but the subscription also after every purchase make sure to restart the app",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2060",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2297",
-      "appstore_download_count": 332,
-      "localizedDescription": "Features:\r\n\r\n- in app purchase\r\n- Sideloading bypass\r\n\r\nWarning: can buy everything but the subscription also after every purchase make sure to restart the app\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.FDGEntertainment.BananaKong\n\n Downloads: 332\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a2efaf8478b5.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 85555041,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
       "name": "Busuu",
       "type": 1,
       "bundleID": "com.busuu.english.app",
@@ -2294,27 +1874,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "Bazaart (hacked)",
-      "developerName": "sidelix",
-      "version": "26.3.5",
-      "versionDate": "2026-06-13 13:45:47",
-      "versionDescription": "Features:\r\n\r\n- hacked subscriptions",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1975",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2212",
-      "appstore_download_count": 369,
-      "localizedDescription": "Features:\r\n\r\n- hacked subscriptions\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: co.bazaart.app\n\n Downloads: 369\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_69b7486dc66d3.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 101016123,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {
@@ -3197,48 +2756,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "BimmerLink (Hacked)",
-      "developerName": "sidelix",
-      "version": "5.0.5",
-      "versionDate": "2026-05-19 08:40:31",
-      "versionDescription": "Features:\r\n- Full version unlocked\r\n- CarPlay add-on unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2006",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2243",
-      "appstore_download_count": 502,
-      "localizedDescription": "Features:\r\n- Full version unlocked\r\n- CarPlay add-on unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.stephangauch.BimmerDash\n\n Downloads: 502\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a09e7ad1aa27.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 27677087,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "BimmerCode (Hacked)",
-      "developerName": "sidelix",
-      "version": "4.4",
-      "versionDate": "2026-05-19 08:39:06",
-      "versionDescription": "Features:\r\n- Full Version Unlocked \u2014 Car\r\n- Full Version Unlocked \u2014 Motorcycle",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2007",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2244",
-      "appstore_download_count": 595,
-      "localizedDescription": "Features:\r\n- Full Version Unlocked \u2014 Car\r\n- Full Version Unlocked \u2014 Motorcycle\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.bimmerlink.BimmerLinkCoder\n\n Downloads: 595\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a09e81cc880f.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 80349367,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {
@@ -4184,48 +3701,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "Brain Test 4: hacked",
-      "developerName": "sidelix",
-      "version": "1.31.0",
-      "versionDate": "2026-04-27 18:12:03",
-      "versionDescription": "Features: \r\n\r\nIn app purchase",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1976",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2213",
-      "appstore_download_count": 595,
-      "localizedDescription": "Features: \r\n\r\nIn app purchase\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.unicostudio.braintest4\n\n Downloads: 595\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_69b7491bb3ea5.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 158112825,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Brain Test 2 (Hacked)",
-      "developerName": "sidelix",
-      "version": "1.24.05",
-      "versionDate": "2026-04-27 18:11:21",
-      "versionDescription": "features: \r\n- in app purchase",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1990",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2227",
-      "appstore_download_count": 628,
-      "localizedDescription": "features: \r\n- in app purchase\n\n --- \n\n More app Information:\n\n Category: Free in app purchases\n\n BundleID: com.unicostudio.braintest2\n\n Downloads: 628\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_69cd70e9e06eb.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 131611707,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {
@@ -9689,48 +9164,6 @@
       ]
     },
     {
-      "name": "Balatro",
-      "developerName": "sidelix",
-      "version": "1.3",
-      "versionDate": "2025-10-30 17:40:42",
-      "versionDescription": "Welcome to the official Balatro mobile game!\r\n\r\nHypnotic and endlessly satisfying, Balatro is a magical mix of card games like Solitaire and Poker, that lets you twist the rules in ways never seen before!\r\n\r\nYour goal is to beat the Boss Blinds by making strong poker hands.\r\n\r\nFind new Jokers that change the game and create awesome and exciting combos! Win enough chips to beat tricky bosses, and find hidden bonus hands and decks as you play. You\u2019ll need all the help you can get to beat the big boss, win the final challenge, and win the game.\r\n\r\nFeatures:\r\n\r\n* Remastered controls for touch screen devices.\r\n* Each run is different: every pick-up, discard and joker can dramatically alter the course of your run.\r\n* Multiple game items: discover ov",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1928",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2165",
-      "appstore_download_count": 1471,
-      "localizedDescription": "Welcome to the official Balatro mobile game!\r\n\r\nHypnotic and endlessly satisfying, Balatro is a magical mix of card games like Solitaire and Poker, that lets you twist the rules in ways never seen before!\r\n\r\nYour goal is to beat the Boss Blinds by making strong poker hands.\r\n\r\nFind new Jokers that change the game and create awesome and exciting combos! Win enough chips to beat tricky bosses, and find hidden bonus hands and decks as you play. You\u2019ll need all the help you can get to beat the big boss, win the final challenge, and win the game.\r\n\r\nFeatures:\r\n\r\n* Remastered controls for touch screen devices.\r\n* Each run is different: every pick-up, discard and joker can dramatically alter the course of your run.\r\n* Multiple game items: discover ov\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.playstack.balatropremium\n\n Downloads: 1471\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6903db38e77cc.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 61046151,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Black Border 2",
-      "developerName": "sidelix",
-      "version": "2.7.01",
-      "versionDate": "2025-10-30 16:55:45",
-      "versionDescription": "Inspect papers, prevent smuggling\u2014keep the border safe or profit from corruption.\r\n\r\nReady to become a Border Police Officer? Step into the world of Black Border 2: Border Patrol Simulator and experience the intense pressure of national security. As a Customs Officer, your duty is to protect the nation from illegal smuggling. Inspect passports, scrutinize documents, and use advanced tools to make life-or-death decisions in this gripping police simulator game.\r\n\r\nTake on the duty of a Border Patrol Agent and protect your nation's borders. Your role is crucial:\r\n\r\nDocument Inspection: Meticulously check passports, permits, and papers to approve or reject entrants.\r\n\r\nAdvanced Tools: Utilize X-ray scanners to reveal hidden items and weigh station",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1914",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2151",
-      "appstore_download_count": 486,
-      "localizedDescription": "Inspect papers, prevent smuggling\u2014keep the border safe or profit from corruption.\r\n\r\nReady to become a Border Police Officer? Step into the world of Black Border 2: Border Patrol Simulator and experience the intense pressure of national security. As a Customs Officer, your duty is to protect the nation from illegal smuggling. Inspect passports, scrutinize documents, and use advanced tools to make life-or-death decisions in this gripping police simulator game.\r\n\r\nTake on the duty of a Border Patrol Agent and protect your nation's borders. Your role is crucial:\r\n\r\nDocument Inspection: Meticulously check passports, permits, and papers to approve or reject entrants.\r\n\r\nAdvanced Tools: Utilize X-ray scanners to reveal hidden items and weigh station\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.bitzooma.blackborder2\n\n Downloads: 486\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6903d09df10e2.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 133445105,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
       "name": "Bearable",
       "type": 1,
       "bundleID": "co.codeleap.bearable",
@@ -9836,90 +9269,6 @@
       ]
     },
     {
-      "name": "Bridge Constructor Stunts",
-      "developerName": "sidelix",
-      "version": "2.7",
-      "versionDate": "2025-10-28 19:32:23",
-      "versionDescription": "The successful Bridge Constructor series \u2013 number 1 in the AppStore in over 60 countries, with over 35 million players worldwide \u2013 treads new paths with Bridge Constructor Stunts! \r\n\r\nStuntman and engineer in one? No problem with Bridge Constructor Stunts!\r\nBuild imposing ramps and loops to reach your goal in the diverse stages. But building structures alone isn't enough this time: you sit behind the wheel of the vehicles yourself and have to maneuver them skillfully to the goal. Collect stars, complete daredevil jumps, flips and spectacular stunts, leaving behind a trail of destruction across the entire level to beat the high score. But you can only do all that with perfectly constructed bridges and ramps.\r\n\r\nJoin the huge Let's Play commun",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1837",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2074",
-      "appstore_download_count": 304,
-      "localizedDescription": "The successful Bridge Constructor series \u2013 number 1 in the AppStore in over 60 countries, with over 35 million players worldwide \u2013 treads new paths with Bridge Constructor Stunts! \r\n\r\nStuntman and engineer in one? No problem with Bridge Constructor Stunts!\r\nBuild imposing ramps and loops to reach your goal in the diverse stages. But building structures alone isn't enough this time: you sit behind the wheel of the vehicles yourself and have to maneuver them skillfully to the goal. Collect stars, complete daredevil jumps, flips and spectacular stunts, leaving behind a trail of destruction across the entire level to beat the high score. But you can only do all that with perfectly constructed bridges and ramps.\r\n\r\nJoin the huge Let's Play commun\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.headupgames.bridgeconstructorstunts\n\n Downloads: 304\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6901520dec755.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 42020836,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Block\u00a0Blast\uff01",
-      "developerName": "lscs3",
-      "version": "6.4.5",
-      "versionDate": "2025-10-27 02:12:13",
-      "versionDescription": "Block Blast Tweak",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/329",
-      "download_page_url": "https://appstore.sidelix.vip/apps/173/1303",
-      "appstore_download_count": 888,
-      "localizedDescription": "Block Blast Tweak\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.blockpuzzle.us.ios\n\n Downloads: 888\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_68fc3fad4fad7.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 112206662,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "blurt.blog",
-      "developerName": "lscs3",
-      "version": "1.0.7",
-      "versionDate": "2025-10-27 00:28:07",
-      "versionDescription": "The build which was also submitted to the Apple for AppStore review",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1812",
-      "download_page_url": "https://appstore.sidelix.vip/apps/173/2051",
-      "appstore_download_count": 324,
-      "localizedDescription": "The build which was also submitted to the Apple for AppStore review\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: blog.blurt.blurt\n\n Downloads: 324\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761539134.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 19929503,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "BeReal++",
-      "developerName": "lscs3",
-      "version": "2.14.2",
-      "versionDate": "2025-10-27 00:04:00",
-      "versionDescription": "Tap the \u201cBeReal+\u201d text (It may be blank) at the top of the screen to upload BeReals from the camera roll\n\nView BeReals without posting your own\n\u2022 Upload BeReals from the camera roll:\n\t- Post on time, even if you're posting late\n\t- Set a custom location\n\t- Set a custom retake count\n\t- Add what you're currently playing or add a song\n\u2022 Download BeReals",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1760",
-      "download_page_url": "https://appstore.sidelix.vip/apps/173/2025",
-      "appstore_download_count": 307,
-      "localizedDescription": "Tap the \u201cBeReal+\u201d text (It may be blank) at the top of the screen to upload BeReals from the camera roll\n\nView BeReals without posting your own\n\u2022 Upload BeReals from the camera roll:\n\t- Post on time, even if you're posting late\n\t- Set a custom location\n\t- Set a custom retake count\n\t- Add what you're currently playing or add a song\n\u2022 Download BeReals\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: AlexisBarreyat.BeReal\n\n Downloads: 307\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761537762.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 62687960,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
       "name": "BEAT",
       "type": 1,
       "bundleID": "reels-maker-one",
@@ -9959,596 +9308,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "Brite",
-      "developerName": "Holloway",
-      "version": "24.1.8",
-      "versionDate": "2025-10-25 04:26:44",
-      "versionDescription": "Injected with Subscription Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1675",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1980",
-      "appstore_download_count": 230,
-      "localizedDescription": "Injected with Subscription Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: io.konveier.timo\n\n Downloads: 230\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761380444.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 25523098,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Breathwrk",
-      "developerName": "Holloway",
-      "version": "23.38",
-      "versionDate": "2025-10-25 04:25:52",
-      "versionDescription": "Injected with Subscription Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1667",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1976",
-      "appstore_download_count": 219,
-      "localizedDescription": "Injected with Subscription Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.breathwrk.ios\n\n Downloads: 219\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761380384.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 238273893,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Breathe",
-      "developerName": "Holloway",
-      "version": "1.4.19",
-      "versionDate": "2025-10-25 04:16:39",
-      "versionDescription": "Injected with Subscription Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1595",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1940",
-      "appstore_download_count": 219,
-      "localizedDescription": "Injected with Subscription Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.dynamicappdesign.breatheplus\n\n Downloads: 219\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761379824.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 142887346,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Bunpo",
-      "developerName": "Holloway",
-      "version": "2.25.0",
-      "versionDate": "2025-10-25 04:06:44",
-      "versionDescription": "Injected with Premium",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1519",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1902",
-      "appstore_download_count": 248,
-      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.N2BunpouApp.yuki\n\n Downloads: 248\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761379221.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 146784658,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "BillTracker",
-      "developerName": "Holloway",
-      "version": "3.12.112",
-      "versionDate": "2025-10-25 03:50:16",
-      "versionDescription": "Injected with Pro",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1387",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1836",
-      "appstore_download_count": 215,
-      "localizedDescription": "Injected with Pro\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.unofficialcalculators.payplan\n\n Downloads: 215\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761378204.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 49860163,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "BitLifeGO",
-      "developerName": "Holloway",
-      "version": "1.0.79",
-      "versionDate": "2025-10-25 03:49:10",
-      "versionDescription": "Injected with VIP",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1379",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1832",
-      "appstore_download_count": 1604,
-      "localizedDescription": "Injected with VIP\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.goodgamestudios.bitlife.go.lifesimulation\n\n Downloads: 1604\n\n Latest app store version: null",
-      "iconURL": "",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 155170871,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Badoo",
-      "developerName": "Holloway",
-      "version": "5.423.0",
-      "versionDate": "2025-10-25 03:42:00",
-      "versionDescription": "Injected with Premium",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1325",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1805",
-      "appstore_download_count": 411,
-      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.badoo.BadooSPP\n\n Downloads: 411\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761377601.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 64809849,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Benky",
-      "developerName": "Holloway",
-      "version": "2.4.2",
-      "versionDate": "2025-10-25 03:34:09",
-      "versionDescription": "Injected with Pro",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1263",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1774",
-      "appstore_download_count": 219,
-      "localizedDescription": "Injected with Pro\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: app.benkyo.Benkyo\n\n Downloads: 219\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761376982.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 104722072,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "BEAT",
-      "developerName": "Holloway",
-      "version": "1.21.1",
-      "versionDate": "2025-10-25 03:27:01",
-      "versionDescription": "Injected with Pro",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1205",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1745",
-      "appstore_download_count": 259,
-      "localizedDescription": "Injected with Pro\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: reels-maker-one\n\n Downloads: 259\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761376477.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 120750235,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "BodyFast",
-      "developerName": "Holloway",
-      "version": "3.49.3",
-      "versionDate": "2025-10-25 03:25:43",
-      "versionDescription": "Injected with Pro",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1195",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1740",
-      "appstore_download_count": 229,
-      "localizedDescription": "Injected with Pro\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: de.BodyFast.BodyFast2\n\n Downloads: 229\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761376405.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 46236894,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "BlitzerdePRO",
-      "developerName": "Holloway",
-      "version": "400.1.7",
-      "versionDate": "2025-10-25 03:25:28",
-      "versionDescription": "Injected with Pro",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1193",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1739",
-      "appstore_download_count": 307,
-      "localizedDescription": "Injected with Pro\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.eifrig.blitzerdepro\n\n Downloads: 307\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761376393.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 104002012,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "BXNG",
-      "developerName": "Holloway",
-      "version": "1.50",
-      "versionDate": "2025-10-25 03:18:08",
-      "versionDescription": "Injected with Subscription Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1137",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1711",
-      "appstore_download_count": 230,
-      "localizedDescription": "Injected with Subscription Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.app.BXNGApp\n\n Downloads: 230\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761375938.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 16847909,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "BackgroundMusic",
-      "developerName": "Holloway",
-      "version": "5.4.29",
-      "versionDate": "2025-10-25 03:16:14",
-      "versionDescription": "Injected with Subscription Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1125",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1705",
-      "appstore_download_count": 237,
-      "localizedDescription": "Injected with Subscription Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.flyingnayeem.nmVideoMergerJune\n\n Downloads: 237\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761375803.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 62666498,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Blossom",
-      "developerName": "Holloway",
-      "version": "2.62.27",
-      "versionDate": "2025-10-25 03:15:48",
-      "versionDescription": "Injected with Subscription Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1121",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1703",
-      "appstore_download_count": 235,
-      "localizedDescription": "Injected with Subscription Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.apalonapps.plants\n\n Downloads: 235\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761375777.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 127942833,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "ByePhotos",
-      "developerName": "Holloway",
-      "version": "1.15.1",
-      "versionDate": "2025-10-25 03:13:50",
-      "versionDescription": "Injected with Premium",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1105",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1695",
-      "appstore_download_count": 232,
-      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.panicbyte.byephotos\n\n Downloads: 232\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761375640.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 31005849,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Bazaart",
-      "developerName": "Holloway",
-      "version": "26.0.2",
-      "versionDate": "2025-10-25 03:05:43",
-      "versionDescription": "Injected with Premium",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1043",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1664",
-      "appstore_download_count": 305,
-      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: co.bazaart.app\n\n Downloads: 305\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761375126.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 90868099,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Boostcamp",
-      "developerName": "Holloway",
-      "version": "245",
-      "versionDate": "2025-10-25 02:58:47",
-      "versionDescription": "Injected with Subscription Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/989",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1637",
-      "appstore_download_count": 202,
-      "localizedDescription": "Injected with Subscription Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.bpmhealth.boostfitness\n\n Downloads: 202\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761374660.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 73337612,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "BeatMakerPro",
-      "developerName": "Holloway",
-      "version": "4.10.00",
-      "versionDate": "2025-10-25 02:39:25",
-      "versionDescription": "Injected with Pro",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/849",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1567",
-      "appstore_download_count": 212,
-      "localizedDescription": "Injected with Pro\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.mwm.sampler-app\n\n Downloads: 212\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761373471.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 117821569,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Beelinguapp",
-      "developerName": "sidelix",
-      "version": "3.8.44",
-      "versionDate": "2025-10-25 02:15:29",
-      "versionDescription": "Injected with Premium",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/659",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/1472",
-      "appstore_download_count": 178,
-      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.beelinguapp.beelinguapp\n\n Downloads: 178\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761372716.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 63060816,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [
-        "https://apps.nabzclan.vip/repos/esign.php"
-      ],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Balance",
-      "developerName": "Holloway",
-      "version": "1.189.0",
-      "versionDate": "2025-10-25 02:00:33",
-      "versionDescription": "Injected with Subscription Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/557",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1421",
-      "appstore_download_count": 187,
-      "localizedDescription": "Injected with Subscription Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.elevateapp.kamino.kamino\n\n Downloads: 187\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761371958.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 115618963,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "B42",
-      "developerName": "Holloway",
-      "version": "6.7.5",
-      "versionDate": "2025-10-25 01:53:19",
-      "versionDescription": "Injected with Premium",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/507",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1396",
-      "appstore_download_count": 179,
-      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.soccerFitYou.App\n\n Downloads: 179\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761371514.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 78621094,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Buddy",
-      "developerName": "Holloway",
-      "version": "13.5",
-      "versionDate": "2025-10-25 01:47:06",
-      "versionDescription": "Injected with Premium",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/465",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1375",
-      "appstore_download_count": 177,
-      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.iPwners.Plonkan\n\n Downloads: 177\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761371166.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 66994221,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "BandLab",
-      "developerName": "Holloway",
-      "version": "11.10.0",
-      "versionDate": "2025-10-25 01:42:12",
-      "versionDescription": "Injected with Boost Membership",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/433",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1359",
-      "appstore_download_count": 508,
-      "localizedDescription": "Injected with Boost Membership\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.bandlab.bandlab.iphone\n\n Downloads: 508\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761370868.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 164442860,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "BeautyPlus",
-      "developerName": "Holloway",
-      "version": "7.21.0",
-      "versionDate": "2025-10-25 01:41:51",
-      "versionDescription": "Injected with Premium",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/431",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1358",
-      "appstore_download_count": 416,
-      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.commsource.BeautyPlus\n\n Downloads: 416\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761370849.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 342552254,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Bearable",
-      "developerName": "Holloway",
-      "version": "1.0.570",
-      "versionDate": "2025-10-25 01:40:32",
-      "versionDescription": "Injected with Subscription Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/423",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1354",
-      "appstore_download_count": 167,
-      "localizedDescription": "Injected with Subscription Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: co.codeleap.bearable\n\n Downloads: 167\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761370760.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 55631008,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "B612",
-      "developerName": "Holloway",
-      "version": "14.5.20",
-      "versionDate": "2025-10-25 01:37:34",
-      "versionDescription": "Injected with Subscription Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/407",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1346",
-      "appstore_download_count": 231,
-      "localizedDescription": "Injected with Subscription Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.linecorp.b612\n\n Downloads: 231\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761370592.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 128949840,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Bend",
-      "developerName": "Holloway",
-      "version": "7.0.2",
-      "versionDate": "2025-10-25 01:36:30",
-      "versionDescription": "Injected with Pro",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/399",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1342",
-      "appstore_download_count": 185,
-      "localizedDescription": "Injected with Pro\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.bowery-digital.bend\n\n Downloads: 185\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761370537.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 94390077,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Busuu",
-      "developerName": "Holloway",
-      "version": "29.23.0",
-      "versionDate": "2025-10-25 01:31:26",
-      "versionDescription": "Injected with Subscription Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/367",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1326",
-      "appstore_download_count": 241,
-      "localizedDescription": "Injected with Subscription Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.busuu.english.app\n\n Downloads: 241\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761370266.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 154680578,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {

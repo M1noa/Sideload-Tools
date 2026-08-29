@@ -4,7 +4,7 @@
   "subtitle": "Auto-merged from 43 sources. Original URLs, PAL fields removed.",
   "description": "Alphabetical split of the original-links no-PAL catalog.",
   "iconURL": "https://avatars.githubusercontent.com/u/57844837",
-  "appCount": 193,
+  "appCount": 177,
   "sourceCount": 43,
   "apps": [
     {
@@ -29,27 +29,6 @@
       ]
     },
     {
-      "name": "Kwit (Hacked)",
-      "developerName": "sidelix",
-      "version": "4.35.0",
-      "versionDate": "2026-08-26 04:01:08",
-      "versionDescription": "Premium Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2378",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2614",
-      "appstore_download_count": 13,
-      "localizedDescription": "Premium Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: geeo.Kwit\n\n Downloads: 13\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a8e64e65b5b2.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 123229896,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
       "name": "KineMaster",
       "type": 1,
       "bundleID": "com.kinemaster.kios",
@@ -68,27 +47,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "Kitchen Stories Easy Recipes (Hacked)",
-      "developerName": "sidelix",
-      "version": "27.2.11",
-      "versionDate": "2026-08-01 18:46:37",
-      "versionDescription": "Features:\r\n- subscription unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2182",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2419",
-      "appstore_download_count": 118,
-      "localizedDescription": "Features:\r\n- subscription unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.AJNSNewMedia.KitchenStories\n\n Downloads: 118\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6e3ec9a39b0.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 78827469,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {
@@ -113,27 +71,6 @@
       ]
     },
     {
-      "name": "Knight Lancer (hacked)",
-      "developerName": "sidelix",
-      "version": "1.64",
-      "versionDate": "2026-07-26 14:00:08",
-      "versionDescription": "Feature:\r\n\r\n- in app purchase",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2066",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2303",
-      "appstore_download_count": 167,
-      "localizedDescription": "Feature:\r\n\r\n- in app purchase\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.ToweringTower.KnightLancer\n\n Downloads: 167\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6612d3ebabd.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 115551475,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
       "name": "KetoDiet",
       "type": 1,
       "bundleID": "com.lappir.keto",
@@ -152,27 +89,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "Knife Hit (Hacked)",
-      "developerName": "sidelix",
-      "version": "1.9.26",
-      "versionDate": "2026-07-19 22:11:23",
-      "versionDescription": "No Ads",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2292",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2528",
-      "appstore_download_count": 102,
-      "localizedDescription": "No Ads\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.ketchapp.knifehit\n\n Downloads: 102\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a5d4a09c9ea0.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 86861636,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {
@@ -281,27 +197,6 @@
       ]
     },
     {
-      "name": "Ksign",
-      "developerName": "sidelix",
-      "version": "1.6",
-      "versionDate": "2026-06-26 16:11:32",
-      "versionDescription": "iOS signing tool",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1844",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2081",
-      "appstore_download_count": 12666,
-      "localizedDescription": "iOS signing tool\n\n --- \n\n More app Information:\n\n Category: Tools\n\n BundleID: nya.asami.ksign\n\n Downloads: 12666\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761725594.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 16738319,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
       "name": "KetoDiet",
       "type": 1,
       "bundleID": "com.lappir.keto",
@@ -341,48 +236,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "Kid-E-Cats Educational Games (Hacked)",
-      "developerName": "sidelix",
-      "version": "12.8",
-      "versionDate": "2026-06-19 15:55:44",
-      "versionDescription": "Features: \r\n\r\n- in app purchase",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2092",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2329",
-      "appstore_download_count": 163,
-      "localizedDescription": "Features: \r\n\r\n- in app purchase\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: com.edujoy.kidecats2\n\n Downloads: 163\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a359e7f01722.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 45060853,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Koala Sampler \u2022 Beat Maker (Hacked)",
-      "developerName": "sidelix",
-      "version": "1.4145",
-      "versionDate": "2026-06-18 15:08:41",
-      "versionDescription": "Features:\r\n\r\nin app purchase",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2067",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2304",
-      "appstore_download_count": 163,
-      "localizedDescription": "Features:\r\n\r\nin app purchase\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.elf-audio.koala\n\n Downloads: 163\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a3441ea370c4.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 59169950,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {
@@ -2658,27 +2511,6 @@
       ]
     },
     {
-      "name": "King's League II",
-      "developerName": "sidelix",
-      "version": "4.0.3",
-      "versionDate": "2025-10-30 15:08:03",
-      "versionDescription": "Lead your team to victory! Recruit, train and manage fighters of different classes before entering tactical battles of wit and glory. In this sequel to an award-winning strategy simulation RPG, can you climb the King\u2019s League?\r\n\r\n\r\nEnter the King\u2019s League and prepare yourself for battle!\r\n\r\nKing\u2019s League II is the sequel to the award-winning strategy simulation RPG. Recruit and manage fighters of different classes before entering tactical battles of glory. Lead your team to victory and climb the most prestigious League in Kurestal!\r\n_______________\r\n\r\nAssemble your Best Roster of Fighters!\r\n\r\nBreak through defences with a team of damage dealers, or hold your position with steadfast defenders! Unique class traits allow you to develop strate",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1887",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2124",
-      "appstore_download_count": 310,
-      "localizedDescription": "Lead your team to victory! Recruit, train and manage fighters of different classes before entering tactical battles of wit and glory. In this sequel to an award-winning strategy simulation RPG, can you climb the King\u2019s League?\r\n\r\n\r\nEnter the King\u2019s League and prepare yourself for battle!\r\n\r\nKing\u2019s League II is the sequel to the award-winning strategy simulation RPG. Recruit and manage fighters of different classes before entering tactical battles of glory. Lead your team to victory and climb the most prestigious League in Kurestal!\r\n_______________\r\n\r\nAssemble your Best Roster of Fighters!\r\n\r\nBreak through defences with a team of damage dealers, or hold your position with steadfast defenders! Unique class traits allow you to develop strate\n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: com.kurechii.kingsleagueii\n\n Downloads: 310\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6903b70f0c963.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 1454042980,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
       "name": "KineMaster",
       "type": 1,
       "bundleID": "com.kinemaster.kios",
@@ -2781,176 +2613,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "Koloro",
-      "developerName": "Holloway",
-      "version": "4.4.8",
-      "versionDate": "2025-10-25 03:42:52",
-      "versionDescription": "Injected with Subscription Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1333",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1809",
-      "appstore_download_count": 473,
-      "localizedDescription": "Injected with Subscription Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: org.skydomain.foodcamera\n\n Downloads: 473\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761377667.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 96655197,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Karteto",
-      "developerName": "Holloway",
-      "version": "0.7.0",
-      "versionDate": "2025-10-25 03:37:25",
-      "versionDescription": "Injected with Premium",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1289",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1787",
-      "appstore_download_count": 221,
-      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.karteto.application\n\n Downloads: 221\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761377224.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 37355503,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "KetoDiet",
-      "developerName": "Holloway",
-      "version": "8.2.2",
-      "versionDate": "2025-10-25 03:27:14",
-      "versionDescription": "Injected with Subscription Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1207",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1746",
-      "appstore_download_count": 220,
-      "localizedDescription": "Injected with Subscription Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.lappir.keto\n\n Downloads: 220\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761376490.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 28735662,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "KeyLifts",
-      "developerName": "Holloway",
-      "version": "5.16.12",
-      "versionDate": "2025-10-25 03:03:32",
-      "versionDescription": "Injected with Pro",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1027",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1656",
-      "appstore_download_count": 2034,
-      "localizedDescription": "Injected with Pro\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: org.borrowedcache.ultimate531\n\n Downloads: 2034\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761374979.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 27664351,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Kanji",
-      "developerName": "Holloway",
-      "version": "1.5.20",
-      "versionDate": "2025-10-25 02:52:10",
-      "versionDescription": "Injected with Premium",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/949",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1617",
-      "appstore_download_count": 197,
-      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: howell.Kanji-\n\n Downloads: 197\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761374257.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 47304191,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "KineMaster",
-      "developerName": "sidelix",
-      "version": "7.8.12",
-      "versionDate": "2025-10-25 02:23:12",
-      "versionDescription": "Injected with Pro",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/715",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/1500",
-      "appstore_download_count": 309,
-      "localizedDescription": "Injected with Pro\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.kinemaster.kios\n\n Downloads: 309\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761372931.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 107857274,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [
-        "https://apps.nabzclan.vip/repos/esign.php"
-      ],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "KitchenStories",
-      "developerName": "Holloway",
-      "version": "26.0.5",
-      "versionDate": "2025-10-25 01:52:33",
-      "versionDescription": "Injected with Premium",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/501",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1393",
-      "appstore_download_count": 176,
-      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.AJNSNewMedia.KitchenStories\n\n Downloads: 176\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761371469.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 61009623,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Komoot",
-      "developerName": "Holloway",
-      "version": "2025.42.4",
-      "versionDate": "2025-10-25 01:28:02",
-      "versionDescription": "Injected with Premium",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/343",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1314",
-      "appstore_download_count": 230,
-      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: de.komoot.berlinbikeapp\n\n Downloads: 230\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761370059.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 165059879,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {

@@ -4,51 +4,9 @@
   "subtitle": "Auto-merged from 43 sources. Original URLs, PAL fields removed.",
   "description": "Alphabetical split of the original-links no-PAL catalog.",
   "iconURL": "https://avatars.githubusercontent.com/u/57844837",
-  "appCount": 33,
+  "appCount": 29,
   "sourceCount": 43,
   "apps": [
-    {
-      "name": "Zinnia",
-      "developerName": "Holloway",
-      "version": "1.48.1",
-      "versionDate": "2026-08-16 22:45:48",
-      "versionDescription": "Injected with Pro",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1539",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1912",
-      "appstore_download_count": 223,
-      "localizedDescription": "Injected with Pro\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.pixite.Zinnia\n\n Downloads: 223\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a823d82299b7.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 86849759,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Zen Color (Hacked)",
-      "developerName": "sidelix",
-      "version": "2.2.6",
-      "versionDate": "2026-08-14 19:16:15",
-      "versionDescription": "No Ads",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2323",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2559",
-      "appstore_download_count": 70,
-      "localizedDescription": "No Ads\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: happy.paint.color.coloring.number\n\n Downloads: 70\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7f694a691d2.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 145168294,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
     {
       "name": "ZombieCatchers",
       "type": 2,
@@ -488,48 +446,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "Zing",
-      "developerName": "Holloway",
-      "version": "1.114.0",
-      "versionDate": "2025-10-25 02:58:04",
-      "versionDescription": "Injected with Premium",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/983",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1634",
-      "appstore_download_count": 189,
-      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.coach.zing\n\n Downloads: 189\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761374614.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 277306570,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Zoomable",
-      "developerName": "Holloway",
-      "version": "3.4",
-      "versionDate": "2025-10-25 02:53:27",
-      "versionDescription": "Injected with Pro",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/953",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1619",
-      "appstore_download_count": 213,
-      "localizedDescription": "Injected with Pro\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.actowise.browser\n\n Downloads: 213\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761374317.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 5768378,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {

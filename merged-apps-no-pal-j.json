@@ -4,72 +4,9 @@
   "subtitle": "Auto-merged from 43 sources. Local cached URLs where available, PAL fields removed.",
   "description": "Alphabetical split of the cached no-PAL catalog for fast importing into KSign/Feather.",
   "iconURL": "https://avatars.githubusercontent.com/u/57844837",
-  "appCount": 16,
+  "appCount": 12,
   "sourceCount": 43,
   "apps": [
-    {
-      "name": "Japanese Rural Life Adventure (Apple Arcade)",
-      "developerName": "sidelix",
-      "version": "1.22.0",
-      "versionDate": "2026-08-01 17:15:01",
-      "versionDescription": "\"Live in the Japanese countryside surrounded by nature.\r\n\r\nFix up an old house, make the yard nice, grow your own crops, and become self-sufficient. \r\n\r\nView the cherry blossoms in the spring;\r\nattend the festival in the summer;\r\neat roasted sweet potatoes in the fall; \r\nhear the temple bell ring in winter, and then it's time for the first shrine visit of the New Year.\r\n\r\n- Build a pond and raise varicolored carp.\r\n- Catch wild fish and bugs and take photos of other wildlife.\r\n- Observe various Japanese customs throughout the year.\r\n- Help the village head revive the community. \r\n- Buy a mountain and explore your new backyard.\"",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2198",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2435",
-      "appstore_download_count": 137,
-      "localizedDescription": "\"Live in the Japanese countryside surrounded by nature.\r\n\r\nFix up an old house, make the yard nice, grow your own crops, and become self-sufficient. \r\n\r\nView the cherry blossoms in the spring;\r\nattend the festival in the summer;\r\neat roasted sweet potatoes in the fall; \r\nhear the temple bell ring in winter, and then it's time for the first shrine visit of the New Year.\r\n\r\n- Build a pond and raise varicolored carp.\r\n- Catch wild fish and bugs and take photos of other wildlife.\r\n- Observe various Japanese customs throughout the year.\r\n- Help the village head revive the community. \r\n- Buy a mountain and explore your new backyard.\"\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: jp.gamestart.japaneserural\n\n Downloads: 137\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6e2981e66c3.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 65762949,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "JournalCircle: Diary & Journal (Hacked)",
-      "developerName": "sidelix",
-      "version": "5.0.9",
-      "versionDate": "2026-07-19 02:21:18",
-      "versionDescription": "Discover JournalCircle, a journaling app featured on the App Store across multiple regions. JournalCircle combines AI-powered journaling, voice notes, mood tracking, and entry analysis to help you record your daily life with clarity. Users often mention that the clean, beautiful design makes them want to journal more consistently.\r\n\r\nJournalCircle is a journaling and life log app designed to manage your diary, mood, routines, goals, and daily records in one place.\r\n\r\nAI-powered journaling tools\r\nJournalCircle offers a range of AI features including voice journaling, AI-generated prompts, and automatic entry analysis to help you reflect more easily and understand patterns in your thoughts and emotions.\r\n\r\nVoice journaling and smart analysis\r\nReco",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2219",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2456",
-      "appstore_download_count": 121,
-      "localizedDescription": "Discover JournalCircle, a journaling app featured on the App Store across multiple regions. JournalCircle combines AI-powered journaling, voice notes, mood tracking, and entry analysis to help you record your daily life with clarity. Users often mention that the clean, beautiful design makes them want to journal more consistently.\r\n\r\nJournalCircle is a journaling and life log app designed to manage your diary, mood, routines, goals, and daily records in one place.\r\n\r\nAI-powered journaling tools\r\nJournalCircle offers a range of AI features including voice journaling, AI-generated prompts, and automatic entry analysis to help you reflect more easily and understand patterns in your thoughts and emotions.\r\n\r\nVoice journaling and smart analysis\r\nReco\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.genau.JournalCircle\n\n Downloads: 121\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a5c3380a95c4.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 19971976,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Jelly Splash: Fun Puzzle Game (Hacked)",
-      "developerName": "sidelix",
-      "version": "3.56.0",
-      "versionDate": "2026-06-19 16:04:52",
-      "versionDescription": "Features:\r\n- Free purchases: click buy, then cancel",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2095",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2332",
-      "appstore_download_count": 145,
-      "localizedDescription": "Features:\r\n- Free purchases: click buy, then cancel\n\n --- \n\n More app Information:\n\n Category: Tweaked Game\n\n BundleID: net.wooga.jellysplash\n\n Downloads: 145\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a35a085a51e6.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 103363707,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
     {
       "name": "JSCodePad",
       "type": 1,
@@ -278,27 +215,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "JSCodePad",
-      "developerName": "Holloway",
-      "version": "1.8.16",
-      "versionDate": "2025-10-25 02:51:39",
-      "versionDescription": "Injected with Subscription Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/945",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1615",
-      "appstore_download_count": 208,
-      "localizedDescription": "Injected with Subscription Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.markodevcic.js-code-pad\n\n Downloads: 208\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761374228.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 56257496,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {

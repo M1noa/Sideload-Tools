@@ -4,30 +4,9 @@
   "subtitle": "Auto-merged from 43 sources. Local cached URLs where available, PAL fields removed.",
   "description": "Alphabetical split of the cached no-PAL catalog for fast importing into KSign/Feather.",
   "iconURL": "https://avatars.githubusercontent.com/u/57844837",
-  "appCount": 258,
+  "appCount": 242,
   "sourceCount": 43,
   "apps": [
-    {
-      "name": "Youtube - YouTube Plus",
-      "developerName": "sidelix",
-      "version": "21.34.3",
-      "versionDate": "2026-08-27 01:44:49",
-      "versionDescription": "\u2139\ufe0f Features:\r\n\r\nContent download \u2014 save videos directly to your gallery.\r\n\r\nNo ads \u2014 neither from YouTube nor from bloggers.\r\n\r\nCustomizable interface \u2014 personalize the appearance, hide unnecessary elements, and enable dark mode for OLED displays.\r\n\r\nPlayer controls \u2014 adjust playback speed, quality, and behavior. Use gestures for convenience.\r\n\r\nAdditional options \u2014 save user settings, clear cache, and flexibly customize how the app works.",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1824",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2061",
-      "appstore_download_count": 47326,
-      "localizedDescription": "\u2139\ufe0f Features:\r\n\r\nContent download \u2014 save videos directly to your gallery.\r\n\r\nNo ads \u2014 neither from YouTube nor from bloggers.\r\n\r\nCustomizable interface \u2014 personalize the appearance, hide unnecessary elements, and enable dark mode for OLED displays.\r\n\r\nPlayer controls \u2014 adjust playback speed, quality, and behavior. Use gestures for convenience.\r\n\r\nAdditional options \u2014 save user settings, clear cache, and flexibly customize how the app works.\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.google.ios.youtube\n\n Downloads: 47326\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f966bc0bdb.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 165748632,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
     {
       "beta": false,
       "bundleIdentifier": "com.google.ios.youtube",
@@ -107,27 +86,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "YogaPlus",
-      "developerName": "Holloway",
-      "version": "6.9.8",
-      "versionDate": "2026-08-17 05:00:50",
-      "versionDescription": "Injected with Premium",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1419",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1852",
-      "appstore_download_count": 216,
-      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.breakthroughapps.Mary-Ochsner-Yoga\n\n Downloads: 216\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8295672e299.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 78810896,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {
@@ -482,27 +440,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "YouTube Music (hacked)",
-      "developerName": "sidelix",
-      "version": "9.23.4",
-      "versionDate": "2026-06-12 13:01:48",
-      "versionDescription": "features:\r\n\r\n- no ads\r\n\r\n- and more via settings",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2042",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2279",
-      "appstore_download_count": 1439,
-      "localizedDescription": "features:\r\n\r\n- no ads\r\n\r\n- and more via settings\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.google.ios.youtubemusic\n\n Downloads: 1439\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a2c3af3d90d0.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 97270472,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {
@@ -928,27 +865,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "YouTube - YTLite",
-      "developerName": "sidelix",
-      "version": "21.17.3",
-      "versionDate": "2026-05-03 11:17:35",
-      "versionDescription": "Features:\r\n\r\nYTLite\r\n\r\nYTUHD\r\n\r\nYouPiP\r\n\r\nYTABConfig\r\n\r\nYouMute\r\n\r\nDontEatMyContent\r\n\r\nReturn YouTube Dislikes\r\n\r\niSponsorBlock\r\n\r\nYouRememberCaption\r\n\r\nYTNoTracking\r\n\r\nYTNoCheckLocalNetWork\r\n\r\nBigYTMiniPlayer\r\n\r\nYTSpeed\r\n\r\nYTHoldForSpeed\r\n\r\nYTVideoOverlay\r\n\r\nYouQuality\r\n\r\nYTNoModernUI\r\n\r\nOLEDDarkmode\r\n\r\nOLDDarkmode\r\n\r\nLowContrastMode",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1862",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2099",
-      "appstore_download_count": 7566,
-      "localizedDescription": "Features:\r\n\r\nYTLite\r\n\r\nYTUHD\r\n\r\nYouPiP\r\n\r\nYTABConfig\r\n\r\nYouMute\r\n\r\nDontEatMyContent\r\n\r\nReturn YouTube Dislikes\r\n\r\niSponsorBlock\r\n\r\nYouRememberCaption\r\n\r\nYTNoTracking\r\n\r\nYTNoCheckLocalNetWork\r\n\r\nBigYTMiniPlayer\r\n\r\nYTSpeed\r\n\r\nYTHoldForSpeed\r\n\r\nYTVideoOverlay\r\n\r\nYouQuality\r\n\r\nYTNoModernUI\r\n\r\nOLEDDarkmode\r\n\r\nOLDDarkmode\r\n\r\nLowContrastMode\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.google.ios.youtube\n\n Downloads: 7566\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6902615b768c6.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 139138917,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {
@@ -2168,27 +2084,6 @@
       ]
     },
     {
-      "name": "YouTube - X",
-      "developerName": "sidelix",
-      "version": "20.47.3",
-      "versionDate": "2025-12-07 01:09:04",
-      "versionDescription": "A lightweight YouTube improvement tweak.\r\n\r\nby \r\n@PoomSmart\r\n@dayanch96\r\n@asdfzxcvbn",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1938",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2175",
-      "appstore_download_count": 6858,
-      "localizedDescription": "A lightweight YouTube improvement tweak.\r\n\r\nby \r\n@PoomSmart\r\n@dayanch96\r\n@asdfzxcvbn\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.google.ios.youtube\n\n Downloads: 6858\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_690aa3167a362.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 118909865,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
       "name": "Yazio",
       "type": 1,
       "bundleID": "com.yazio.ios.YAZIO",
@@ -2525,27 +2420,6 @@
       ]
     },
     {
-      "name": "YouTube - YT Reborn",
-      "developerName": "sidelix",
-      "version": "20.44.2",
-      "versionDate": "2025-11-04 20:08:23",
-      "versionDescription": "Injected with YouTube reborn unknown features included",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1864",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2101",
-      "appstore_download_count": 2404,
-      "localizedDescription": "Injected with YouTube reborn unknown features included\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.google.ios.youtube\n\n Downloads: 2404\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_690265c070a2a.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 131038057,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
       "name": "YouTubeMusic",
       "type": 1,
       "bundleID": "com.google.ios.youtubemusic",
@@ -2672,27 +2546,6 @@
       ]
     },
     {
-      "name": "YouTube++",
-      "developerName": "lscs3",
-      "version": "20.09.3",
-      "versionDate": "2025-10-27 00:05:36",
-      "versionDescription": "Tweak preferences can be found in the YouTube Settings\n\nFeatures:\n\n\u2022 Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\n\u2022 Copy video, comment, and post information\n\u2022 Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode\n\u2022 Player settings: Gestures, default quality, preferred audio track\n\u2022 Save, Load and Restore settings. Clear cache once or automatically on app startup\n\u2022 Built-in SponsorBlock\n\u2022 An",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1770",
-      "download_page_url": "https://appstore.sidelix.vip/apps/173/2030",
-      "appstore_download_count": 3569,
-      "localizedDescription": "Tweak preferences can be found in the YouTube Settings\n\nFeatures:\n\n\u2022 Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\n\u2022 Copy video, comment, and post information\n\u2022 Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode\n\u2022 Player settings: Gestures, default quality, preferred audio track\n\u2022 Save, Load and Restore settings. Clear cache once or automatically on app startup\n\u2022 Built-in SponsorBlock\n\u2022 An\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.google.ios.youtube\n\n Downloads: 3569\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761537792.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 112848236,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
       "name": "YAZIO",
       "type": 1,
       "bundleID": "com.yazio.ios.YAZIO",
@@ -2711,195 +2564,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "Yuka",
-      "developerName": "Holloway",
-      "version": "4.58",
-      "versionDate": "2025-10-25 04:27:54",
-      "versionDescription": "Injected with Premium",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1683",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1984",
-      "appstore_download_count": 429,
-      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: yuca.scanner\n\n Downloads: 429\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761380517.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 115568450,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "YogaWave",
-      "developerName": "Holloway",
-      "version": "11.16.2",
-      "versionDate": "2025-10-25 03:58:30",
-      "versionDescription": "Injected with Subscription Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1453",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1869",
-      "appstore_download_count": 218,
-      "localizedDescription": "Injected with Subscription Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.flyingnayeem.yoga\n\n Downloads: 218\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761378713.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 34134756,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "YPT",
-      "developerName": "Holloway",
-      "version": "800.0.40",
-      "versionDate": "2025-10-25 03:35:44",
-      "versionDescription": "Injected with Satella",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1275",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1780",
-      "appstore_download_count": 248,
-      "localizedDescription": "Injected with Satella\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.pallo.passionTimerScoped\n\n Downloads: 248\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761377104.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 171500943,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Yogger",
-      "developerName": "Holloway",
-      "version": "4.2.0",
-      "versionDate": "2025-10-25 03:26:45",
-      "versionDescription": "Injected with Pro",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1203",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1744",
-      "appstore_download_count": 206,
-      "localizedDescription": "Injected with Pro\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: io.yogger.Yogger\n\n Downloads: 206\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761376462.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 70931452,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "YouCut",
-      "developerName": "sidelix",
-      "version": "1.25.1",
-      "versionDate": "2025-10-25 02:14:15",
-      "versionDescription": "Injected with Premium",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/649",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/1467",
-      "appstore_download_count": 191,
-      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.shantanu.YouCut\n\n Downloads: 191\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761372684.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 79668567,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Yana",
-      "developerName": "Holloway",
-      "version": "5.2.0",
-      "versionDate": "2025-10-25 02:08:53",
-      "versionDescription": "Injected with Pro",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/611",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1448",
-      "appstore_download_count": 190,
-      "localizedDescription": "Injected with Pro\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.yana.yanapp\n\n Downloads: 190\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761372442.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 34409823,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "YouTubeOLED",
-      "developerName": "Holloway",
-      "version": "20.42.3",
-      "versionDate": "2025-10-25 01:58:59",
-      "versionDescription": "Injected with Premium",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/545",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1415",
-      "appstore_download_count": 2529,
-      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.google.ios.youtube\n\n Downloads: 2529\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761371861.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 130083531,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "YAZIO",
-      "developerName": "Holloway",
-      "version": "12.55.0",
-      "versionDate": "2025-10-25 01:55:57",
-      "versionDescription": "Injected with Subscription Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/525",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1405",
-      "appstore_download_count": 240,
-      "localizedDescription": "Injected with Subscription Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.yazio.ios.YAZIO\n\n Downloads: 240\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761371671.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 100148796,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "YouTubeMusic",
-      "developerName": "Holloway",
-      "version": "8.42.3",
-      "versionDate": "2025-10-25 01:35:50",
-      "versionDescription": "Injected with Premium",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/393",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1339",
-      "appstore_download_count": 1247,
-      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.google.ios.youtubemusic\n\n Downloads: 1247\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761370499.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 96601285,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {

@@ -4,9 +4,30 @@
   "subtitle": "Auto-merged from 43 sources. Original URLs, PAL fields removed.",
   "description": "Alphabetical split of the original-links no-PAL catalog.",
   "iconURL": "https://avatars.githubusercontent.com/u/57844837",
-  "appCount": 345,
+  "appCount": 314,
   "sourceCount": 43,
   "apps": [
+    {
+      "name": "NFCTools",
+      "type": 1,
+      "bundleID": "com.wakdev.wdnfc",
+      "bundleIdentifier": "com.wakdev.wdnfc",
+      "version": "3.2",
+      "versionDate": "2026-08-29",
+      "fullDate": "20260829141552",
+      "size": 7031449,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-08-2026/NFCTools_3.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-08-2026/NFCTools_3.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wakdev.wdnfc.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wakdev.wdnfc.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
     {
       "name": "NutriCoach",
       "type": 1,
@@ -152,27 +173,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "Napper: Baby Sleep Tracker (Hacked)",
-      "developerName": "sidelix",
-      "version": "6.65.0",
-      "versionDate": "2026-08-15 01:31:31",
-      "versionDescription": "Features:\r\n- subscription unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2155",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2392",
-      "appstore_download_count": 126,
-      "localizedDescription": "Features:\r\n- subscription unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.napper\n\n Downloads: 126\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a7fc13955a9e.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 59588342,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {
@@ -344,27 +344,6 @@
       ]
     },
     {
-      "name": "NARUTO: Ultimate Ninja STORM (Paid App)",
-      "developerName": "sidelix",
-      "version": "1.2.9",
-      "versionDate": "2026-07-31 01:30:06",
-      "versionDescription": "[Warning] Please Read Before Purchasing\r\nNo refunds (including exchanges for other products, services, etc.) are available after purchase, regardless of the reason.\r\nPlease ensure that your device is compatible via the app's Contact page (link below).\r\nhttps://bnfaq.channel.or.jp/title/3152\r\n\r\nYou are purchasing a license for digital goods. For full terms and conditions, please see the License Agreement below.\r\n\r\n[Game Summary]\r\nA Naruto game full of 3D competitive action!\r\nNARUTO: Ultimate Ninja STORM finally makes its way to smartphones!\r\nExperience the stories and battles of Naruto's childhood through beautiful graphics!\r\n\r\nGame Content\r\nUltimate Mission Mode\r\nRelive the stories and famous battles from Naruto's childhood! You can freely move ",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2338",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2574",
-      "appstore_download_count": 636,
-      "localizedDescription": "[Warning] Please Read Before Purchasing\r\nNo refunds (including exchanges for other products, services, etc.) are available after purchase, regardless of the reason.\r\nPlease ensure that your device is compatible via the app's Contact page (link below).\r\nhttps://bnfaq.channel.or.jp/title/3152\r\n\r\nYou are purchasing a license for digital goods. For full terms and conditions, please see the License Agreement below.\r\n\r\n[Game Summary]\r\nA Naruto game full of 3D competitive action!\r\nNARUTO: Ultimate Ninja STORM finally makes its way to smartphones!\r\nExperience the stories and battles of Naruto's childhood through beautiful graphics!\r\n\r\nGame Content\r\nUltimate Mission Mode\r\nRelive the stories and famous battles from Naruto's childhood! You can freely move \n\n --- \n\n More app Information:\n\n Category: Free Paid Apps\n\n BundleID: jp.co.bandainamcoent.BNEI0431\n\n Downloads: 636\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a6bf9d76b987.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 3232627380,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
       "name": "Notability",
       "type": 1,
       "bundleID": "com.gingerlabs.Notability",
@@ -467,27 +446,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "NoteCircle: To-Do List (Hacked)",
-      "developerName": "sidelix",
-      "version": "4.74",
-      "versionDate": "2026-07-20 09:17:50",
-      "versionDescription": "You organize your tasks. Then everything falls apart. NoteCircle is built for when nothing sticks\u2014and trusted by over 1 million users worldwide, with App Store features across the US, Europe, and Asia.\r\n\r\nWhy most to-do apps don\u2019t stick\r\nYou start motivated, but after a few days everything falls apart again. Tasks get buried, routines break, and important things slip through the cracks. NoteCircle solves this by giving you structure without clutter.\r\n\r\nOne clear system for your day and week\r\nNoteCircle brings tasks, routines, events, and checklists into one clean planner, so nothing is hidden in separate apps or screens. With a calm weekly view, you always know what needs attention today and what can wait.\r\n\r\nEspecially helpful when focus is",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2242",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2479",
-      "appstore_download_count": 97,
-      "localizedDescription": "You organize your tasks. Then everything falls apart. NoteCircle is built for when nothing sticks\u2014and trusted by over 1 million users worldwide, with App Store features across the US, Europe, and Asia.\r\n\r\nWhy most to-do apps don\u2019t stick\r\nYou start motivated, but after a few days everything falls apart again. Tasks get buried, routines break, and important things slip through the cracks. NoteCircle solves this by giving you structure without clutter.\r\n\r\nOne clear system for your day and week\r\nNoteCircle brings tasks, routines, events, and checklists into one clean planner, so nothing is hidden in separate apps or screens. With a calm weekly view, you always know what needs attention today and what can wait.\r\n\r\nEspecially helpful when focus is\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.thegenau.NoteCircle\n\n Downloads: 97\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a5d4a7e17553.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 23312038,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {
@@ -698,27 +656,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "Noise Machine - Brown, White (Hacked)",
-      "developerName": "sidelix",
-      "version": "6.2.6",
-      "versionDate": "2026-07-05 00:39:31",
-      "versionDescription": "Features:\r\n- subscription unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2149",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2386",
-      "appstore_download_count": 125,
-      "localizedDescription": "Features:\r\n- subscription unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.awave.noisemachine\n\n Downloads: 125\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a49a799d70c8.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 59941991,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {
@@ -1016,27 +953,6 @@
       ]
     },
     {
-      "name": "NFC Tools (Hacked)",
-      "developerName": "sidelix",
-      "version": "2.40",
-      "versionDate": "2026-06-18 09:48:42",
-      "versionDescription": "Features: \r\n\r\n- pro",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2049",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2286",
-      "appstore_download_count": 333,
-      "localizedDescription": "Features: \r\n\r\n- pro\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.wakdev.wdnfc\n\n Downloads: 333\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a2d89377fec7.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 10363879,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
       "name": "NotePlan",
       "type": 1,
       "bundleID": "co.noteplan.NotePlan3",
@@ -1142,27 +1058,6 @@
       ]
     },
     {
-      "name": "Notability: Smarter AI Notes (Hacked)",
-      "developerName": "sidelix",
-      "version": "16.3.2",
-      "versionDate": "2026-06-13 12:57:31",
-      "versionDescription": "Features:\r\n\r\nHacked subscription",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1962",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2199",
-      "appstore_download_count": 582,
-      "localizedDescription": "Features:\r\n\r\nHacked subscription\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.gingerlabs.Notability\n\n Downloads: 582\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_692ef8d2edd37.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 211896724,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
       "name": "NFCTools",
       "type": 1,
       "bundleID": "com.wakdev.wdnfc",
@@ -1223,90 +1118,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "Night Sky",
-      "developerName": "sidelix",
-      "version": "26.4",
-      "versionDate": "2026-06-10 12:46:29",
-      "versionDescription": "Night Sky is a powerful AI personal planetarium.\r\n\r\nQuickly identify stars, planets, constellations and satellites above by simply holding your iPhone, iPad or Apple Watch to the Night Sky!  This is all done magically.  Whether you\u2019re looking for a constellation, or the International Space Station, let Night Sky direct you to it, then explore the object in AR!\r\n\r\nFEATURE SET: \r\n\r\n- NIGHT SKY + AURA (Night Sky + Aura Subscription required) - Your Personal AI Super Astronomer!  Ask Night Sky Aura virtually anything about Space and it will know the answer.  Night Sky Aura fully interfaces with features within Night Sky, to direct you to objects you\u2019re interested in, provide information on anything to do with astronomy, or even show you how the ",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2026",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2263",
-      "appstore_download_count": 205,
-      "localizedDescription": "Night Sky is a powerful AI personal planetarium.\r\n\r\nQuickly identify stars, planets, constellations and satellites above by simply holding your iPhone, iPad or Apple Watch to the Night Sky!  This is all done magically.  Whether you\u2019re looking for a constellation, or the International Space Station, let Night Sky direct you to it, then explore the object in AR!\r\n\r\nFEATURE SET: \r\n\r\n- NIGHT SKY + AURA (Night Sky + Aura Subscription required) - Your Personal AI Super Astronomer!  Ask Night Sky Aura virtually anything about Space and it will know the answer.  Night Sky Aura fully interfaces with features within Night Sky, to direct you to objects you\u2019re interested in, provide information on anything to do with astronomy, or even show you how the \n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.icandiapps.nightsky\n\n Downloads: 205\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a29948503bec.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 797595391,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "NBA 2K24 Arcade Edition",
-      "developerName": "sidelix",
-      "version": "1.3",
-      "versionDate": "2026-06-10 11:28:56",
-      "versionDescription": "NBA 2K24 Arcade Edition \u2013 become an NBA superstar with MyCareer, play to win fans and get the support of iconic brands like Nike, Jordan or Adidas. Unlock NBA Legends to join your streetball team, fight artificial intelligence and earn virtual capital that you can use to unlock new shoes, accessories, outfits and tattoos (for the first time in Apple Arcade). Challenge in the \u201cGreatest\u201d mode and discover a whole new line-up of NBA superstars and legends. Create a team of your wildest dreams and fight with other GOAT squads in a decisive battle in the Greatest Fantasy Team Challenge. Sit on the map in spectator mode or play games corresponding to the NBA season using NBAToday. And here\u2019s what\u2019s interesting \u2013 it\u2019s not just about the g",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2022",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2259",
-      "appstore_download_count": 1195,
-      "localizedDescription": "NBA 2K24 Arcade Edition \u2013 become an NBA superstar with MyCareer, play to win fans and get the support of iconic brands like Nike, Jordan or Adidas. Unlock NBA Legends to join your streetball team, fight artificial intelligence and earn virtual capital that you can use to unlock new shoes, accessories, outfits and tattoos (for the first time in Apple Arcade). Challenge in the \u201cGreatest\u201d mode and discover a whole new line-up of NBA superstars and legends. Create a team of your wildest dreams and fight with other GOAT squads in a decisive battle in the Greatest Fantasy Team Challenge. Sit on the map in spectator mode or play games corresponding to the NBA season using NBAToday. And here\u2019s what\u2019s interesting \u2013 it\u2019s not just about the g\n\n --- \n\n More app Information:\n\n Category: Apple - Arcade Games\n\n BundleID: Nba2k2024\n\n Downloads: 1195\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1781104090.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 1667681846,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "NBA 2K15",
-      "developerName": "sidelix",
-      "version": "0.0.17",
-      "versionDate": "2026-06-10 11:20:11",
-      "versionDescription": "NBA 2K15 \u2013 improved release of the popular basketball simulator. Developers from 2K Sports tried their best \u2013 compared with the previous version, and improved physics and graphics, and even the intellect of rivals, and this makes the game even more attractive. So, the new Euroleague teams are waiting for their intense games within the framework of the League of Peace. Chicago Bulls, Miami Heat, Los Angeles Lakers and other basketball players are ready right now to fight with you for the title of the best of the best! The career mode will open doors for you to a great basketball! Compete with multiplayer and become the number one!",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2021",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2258",
-      "appstore_download_count": 792,
-      "localizedDescription": "NBA 2K15 \u2013 improved release of the popular basketball simulator. Developers from 2K Sports tried their best \u2013 compared with the previous version, and improved physics and graphics, and even the intellect of rivals, and this makes the game even more attractive. So, the new Euroleague teams are waiting for their intense games within the framework of the League of Peace. Chicago Bulls, Miami Heat, Los Angeles Lakers and other basketball players are ready right now to fight with you for the title of the best of the best! The career mode will open doors for you to a great basketball! Compete with multiplayer and become the number one!\n\n --- \n\n More app Information:\n\n Category: Removed from Apple App Store\n\n BundleID: Nba2k15\n\n Downloads: 792\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1781103809.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 1780307429,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "NBA 2K23 - Arcade Edition",
-      "developerName": "sidelix",
-      "version": "1.40",
-      "versionDate": "2026-06-10 11:10:04",
-      "versionDescription": "NBA 2K23 Arcade Edition \u2013 meet most of the basketball celebrities and join the ranks of the NBA team as a coach, as well as a general manager! Teach each character special skills, assign certain types of training to each of them, monitor the progress made, get important achievements, make your way to the list of the best players around the world and become legends of this sport. Change different strategies and experiment on games with any rivals, do not forget to control the finances of the team as well, so as not to remain bankrupt.",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2020",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2257",
-      "appstore_download_count": 532,
-      "localizedDescription": "NBA 2K23 Arcade Edition \u2013 meet most of the basketball celebrities and join the ranks of the NBA team as a coach, as well as a general manager! Teach each character special skills, assign certain types of training to each of them, monitor the progress made, get important achievements, make your way to the list of the best players around the world and become legends of this sport. Change different strategies and experiment on games with any rivals, do not forget to control the finances of the team as well, so as not to remain bankrupt.\n\n --- \n\n More app Information:\n\n Category: Removed from Apple App Store\n\n BundleID: NBA.2023\n\n Downloads: 532\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1781103676.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 1809464664,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {
@@ -1832,27 +1643,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "NT Deals (premium)",
-      "developerName": "sidelix",
-      "version": "2.6.2",
-      "versionDate": "2026-05-08 19:34:48",
-      "versionDescription": "features:\r\n\r\ncracked premium",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2005",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2242",
-      "appstore_download_count": 769,
-      "localizedDescription": "features:\r\n\r\ncracked premium\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.valeriichernov.NTDeals\n\n Downloads: 769\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_69fe71c791850.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 29917265,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {
@@ -4124,27 +3914,6 @@
       ]
     },
     {
-      "name": "Noteshelf3",
-      "developerName": "sidelix",
-      "version": "5.10",
-      "versionDate": "2025-12-02 09:36:53",
-      "versionDescription": "Injected with Premium",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/823",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/1554",
-      "appstore_download_count": 434,
-      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.fluidtouch.noteshelf3\n\n Downloads: 434\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761373366.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 209922988,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
       "name": "NOAARadar",
       "type": 1,
       "bundleID": "com.itwcalculator.worldradarfree",
@@ -4436,27 +4205,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "NeoServer: SSH Client|Terminal (Hacked)",
-      "developerName": "sidelix",
-      "version": "7.9.9",
-      "versionDate": "2025-11-16 22:11:18",
-      "versionDescription": "cracked subcription",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1943",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2180",
-      "appstore_download_count": 566,
-      "localizedDescription": "cracked subcription\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.neo.NeoMan\n\n Downloads: 566\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_691a9211815dd.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 20354780,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {
@@ -4796,407 +4544,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "Network",
-      "developerName": "Holloway",
-      "version": "9.10.3",
-      "versionDate": "2025-10-25 04:31:46",
-      "versionDescription": "Injected with Pro",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1713",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1999",
-      "appstore_download_count": 374,
-      "localizedDescription": "Injected with Pro\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: net.doublerew.NetworkUtilityPro\n\n Downloads: 374\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761380756.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 6018875,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "NcV17.126.6",
-      "developerName": "Holloway",
-      "version": "17.126.6",
-      "versionDate": "2025-10-25 04:29:15",
-      "versionDescription": "Enhanced version of NcV17.126.6 with premium features unlocked.",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1693",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1989",
-      "appstore_download_count": 251,
-      "localizedDescription": "Enhanced version of NcV17.126.6 with premium features unlocked.\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: nt.nc.ios\n\n Downloads: 251\n\n Latest app store version: null",
-      "iconURL": "",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 326030392,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "neurolist",
-      "developerName": "Holloway",
-      "version": "1.5.49",
-      "versionDate": "2025-10-25 04:20:03",
-      "versionDescription": "Injected with Subscription Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1625",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1955",
-      "appstore_download_count": 203,
-      "localizedDescription": "Injected with Subscription Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: neurolist.app.neurolist\n\n Downloads: 203\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761380040.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 33709823,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "NoiseMachine",
-      "developerName": "Holloway",
-      "version": "6.1.0",
-      "versionDate": "2025-10-25 04:00:33",
-      "versionDescription": "Injected with Premium",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1471",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1878",
-      "appstore_download_count": 213,
-      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.awave.noisemachine\n\n Downloads: 213\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761378848.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 15566064,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "nea",
-      "developerName": "Holloway",
-      "version": "1.3.1",
-      "versionDate": "2025-10-25 03:59:42",
-      "versionDescription": "Injected with Premium",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1463",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1874",
-      "appstore_download_count": 222,
-      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.keinois.nea.app\n\n Downloads: 222\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761378791.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 47681543,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "NutriCoach",
-      "developerName": "Holloway",
-      "version": "1.7.0",
-      "versionDate": "2025-10-25 03:57:51",
-      "versionDescription": "Injected with Subscription Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1447",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1866",
-      "appstore_download_count": 207,
-      "localizedDescription": "Injected with Subscription Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: nutrition.coach\n\n Downloads: 207\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761378670.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 45385978,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "NBv62258",
-      "developerName": "Holloway",
-      "version": "62.258",
-      "versionDate": "2025-10-25 03:45:41",
-      "versionDescription": "Injected with Premium",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1351",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1818",
-      "appstore_download_count": 226,
-      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: nt.nb.ios\n\n Downloads: 226\n\n Latest app store version: null",
-      "iconURL": "",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 805230661,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "NetworkScanner",
-      "developerName": "Holloway",
-      "version": "2.1",
-      "versionDate": "2025-10-25 03:25:12",
-      "versionDescription": "Injected with Pro",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1191",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1738",
-      "appstore_download_count": 288,
-      "localizedDescription": "Injected with Pro\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.spycamera.app\n\n Downloads: 288\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761376379.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 40883718,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Noir",
-      "developerName": "Holloway",
-      "version": "2025.1.8",
-      "versionDate": "2025-10-25 03:18:53",
-      "versionDescription": "Injected with Premium",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1143",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1714",
-      "appstore_download_count": 269,
-      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: nl.jeffreykuiken.NoirApp\n\n Downloads: 269\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761375982.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 10192025,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Noteshelf3",
-      "developerName": "Holloway",
-      "version": "5.4",
-      "versionDate": "2025-10-25 03:10:35",
-      "versionDescription": "Injected with Premium",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1079",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1682",
-      "appstore_download_count": 144,
-      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.fluidtouch.noteshelf3\n\n Downloads: 144\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761375434.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 174163246,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Narwhal",
-      "developerName": "Holloway",
-      "version": "2025.8.2",
-      "versionDate": "2025-10-25 03:01:39",
-      "versionDescription": "Injected with Pro",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1011",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1648",
-      "appstore_download_count": 2853,
-      "localizedDescription": "Injected with Pro\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.rickharrison.narwhal\n\n Downloads: 2853\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761374844.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 16649239,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "NRv121693",
-      "developerName": "Holloway",
-      "version": "12.169.3",
-      "versionDate": "2025-10-25 02:55:54",
-      "versionDescription": "Injected with Premium",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/967",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1626",
-      "appstore_download_count": 240,
-      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: nt.nr.ios\n\n Downloads: 240\n\n Latest app store version: null",
-      "iconURL": "",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 938293041,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "NotePlan",
-      "developerName": "Holloway",
-      "version": "3.19.1",
-      "versionDate": "2025-10-25 02:54:25",
-      "versionDescription": "Injected with Subscription Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/959",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1622",
-      "appstore_download_count": 204,
-      "localizedDescription": "Injected with Subscription Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: co.noteplan.NotePlan3\n\n Downloads: 204\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761374376.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 83036341,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Nerva",
-      "developerName": "Holloway",
-      "version": "45.4",
-      "versionDate": "2025-10-25 02:44:27",
-      "versionDescription": "Injected with Pro",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/889",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1587",
-      "appstore_download_count": 201,
-      "localizedDescription": "Injected with Pro\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.mindsethealth.ibs\n\n Downloads: 201\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761373761.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 74407544,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "NOAARadar",
-      "developerName": "sidelix",
-      "version": "5.15.1",
-      "versionDate": "2025-10-25 02:33:29",
-      "versionDescription": "Injected with Subscription Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/799",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/1542",
-      "appstore_download_count": 185,
-      "localizedDescription": "Injected with Subscription Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.itwcalculator.worldradarfree\n\n Downloads: 185\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761373266.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 136020097,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [
-        "https://apps.nabzclan.vip/repos/esign.php"
-      ],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Noteshelf3",
-      "developerName": "Holloway",
-      "version": "1.0",
-      "versionDate": "2025-10-25 02:20:58",
-      "versionDescription": "Injected with Premium",
-      "downloadURL": "",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1541",
-      "appstore_download_count": 0,
-      "localizedDescription": "Injected with Premium\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.fluidtouch.noteshelf3\n\n Downloads: 0\n\n Latest app store version: null",
-      "iconURL": "",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 0,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Notability",
-      "developerName": "Holloway",
-      "version": "15.0.16",
-      "versionDate": "2025-10-25 01:59:46",
-      "versionDescription": "Injected with Pro",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/551",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1418",
-      "appstore_download_count": 200,
-      "localizedDescription": "Injected with Pro\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.gingerlabs.Notability\n\n Downloads: 200\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761371908.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 198798158,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Noteful",
-      "developerName": "Holloway",
-      "version": "1.4.28",
-      "versionDate": "2025-10-25 01:52:18",
-      "versionDescription": "Injected with Pro",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/499",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1392",
-      "appstore_download_count": 195,
-      "localizedDescription": "Injected with Pro\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.noteful-technologies.noteful\n\n Downloads: 195\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761371454.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 94190792,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "NeoServer",
-      "developerName": "Holloway",
-      "version": "7.9.7",
-      "versionDate": "2025-10-25 01:49:25",
-      "versionDescription": "Injected with Subscription Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/479",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1382",
-      "appstore_download_count": 184,
-      "localizedDescription": "Injected with Subscription Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.neo.NeoMan\n\n Downloads: 184\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761371282.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 20331405,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {

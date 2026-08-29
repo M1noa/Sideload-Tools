@@ -4,51 +4,9 @@
   "subtitle": "Auto-merged from 43 sources. Original URLs, PAL fields removed.",
   "description": "Alphabetical split of the original-links no-PAL catalog.",
   "iconURL": "https://avatars.githubusercontent.com/u/57844837",
-  "appCount": 37,
+  "appCount": 31,
   "sourceCount": 43,
   "apps": [
-    {
-      "name": "Quiche Browser (Hacked)",
-      "developerName": "sidelix",
-      "version": "1.71",
-      "versionDate": "2026-07-15 17:28:44",
-      "versionDescription": "Features:\r\n- subscription unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2178",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2415",
-      "appstore_download_count": 180,
-      "localizedDescription": "Features:\r\n- subscription unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: org.quiche.Browser\n\n Downloads: 180\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a57c33a9e787.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 93226995,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Quitzilla: Quit Tracker (Hacked)",
-      "developerName": "sidelix",
-      "version": "1.4",
-      "versionDate": "2026-05-31 23:23:54",
-      "versionDescription": "Features:\r\n\r\n- hacked premium",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2010",
-      "download_page_url": "https://appstore.sidelix.vip/apps/11/2247",
-      "appstore_download_count": 226,
-      "localizedDescription": "Features:\r\n\r\n- hacked premium\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.despdevs.quitzilla\n\n Downloads: 226\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/icon_6a1cfaed630b7.jpg",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 24517183,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
     {
       "name": "QrCode",
       "type": 1,
@@ -299,90 +257,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "QuestionAI",
-      "developerName": "Holloway",
-      "version": "3.3.6",
-      "versionDate": "2025-10-25 04:15:23",
-      "versionDescription": "Injected with Pro",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1585",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1935",
-      "appstore_download_count": 298,
-      "localizedDescription": "Injected with Pro\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.qianfan.aihomework\n\n Downloads: 298\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761379738.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 65912676,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Qewie",
-      "developerName": "Holloway",
-      "version": "1.1.5",
-      "versionDate": "2025-10-25 04:14:09",
-      "versionDescription": "Injected with Pro",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1575",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1930",
-      "appstore_download_count": 217,
-      "localizedDescription": "Injected with Pro\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: elizabeth-studios.QR\n\n Downloads: 217\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761379663.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 11555153,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Quizlet",
-      "developerName": "Holloway",
-      "version": "10.2",
-      "versionDate": "2025-10-25 03:29:40",
-      "versionDescription": "Injected with Plus",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1225",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1755",
-      "appstore_download_count": 608,
-      "localizedDescription": "Injected with Plus\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.quizlet.quizlet\n\n Downloads: 608\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761376656.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 62094853,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "QrCode",
-      "developerName": "Holloway",
-      "version": "2025.9.3",
-      "versionDate": "2025-10-25 02:42:01",
-      "versionDescription": "Injected with Subscription Unlocked",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/871",
-      "download_page_url": "https://appstore.sidelix.vip/apps/13/1578",
-      "appstore_download_count": 207,
-      "localizedDescription": "Injected with Subscription Unlocked\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: com.internet-rocks.codescanner\n\n Downloads: 207\n\n Latest app store version: null",
-      "iconURL": "https://appstore.sidelix.vip/images/1761373628.png",
-      "tintColor": "018084",
-      "isLanZouCloud": 0,
-      "size": 109811880,
-      "type": "1",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {

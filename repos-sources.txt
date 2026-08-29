@@ -39,3 +39,5 @@ https://website.burrito.software/altstore/channels/burritosource.json
 https://wuxu1.github.io/wuxu-complete-plus.json
 https://wuxu1.github.io/wuxu-complete.json
 https://xitrix.github.io/iTorrent/AltStore.json
+https://source.ryuksign.com/
+https://altstore.fouadraheb.com

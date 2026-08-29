@@ -4,9 +4,30 @@
   "subtitle": "Auto-merged from 43 sources. Local cached URLs where available, PAL fields removed.",
   "description": "Alphabetical split of the cached no-PAL catalog for fast importing into KSign/Feather.",
   "iconURL": "https://avatars.githubusercontent.com/u/57844837",
-  "appCount": 811,
+  "appCount": 812,
   "sourceCount": 43,
   "apps": [
+    {
+      "name": "InShot",
+      "type": 1,
+      "bundleID": "com.camerasideas.InstaShot",
+      "bundleIdentifier": "com.camerasideas.InstaShot",
+      "version": "1.99.0",
+      "versionDate": "2026-08-29",
+      "fullDate": "20260829091953",
+      "size": 167537552,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-08-2026/InShot_1.99.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-08-2026/InShot_1.99.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.camerasideas.InstaShot.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.camerasideas.InstaShot.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
     {
       "name": "Infuse",
       "type": 1,
@@ -4818,8 +4839,8 @@
       "versionDescription": "iSH is a project to get a Linux shell environment running locally on your iOS device, using a usermode x86 emulator.",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1784",
       "download_page_url": "https://appstore.sidelix.vip/apps/173/2037",
-      "appstore_download_count": 395,
-      "localizedDescription": "iSH is a project to get a Linux shell environment running locally on your iOS device, using a usermode x86 emulator.\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: app.ish.iSH\n\n Downloads: 395\n\n Latest app store version: null",
+      "appstore_download_count": 396,
+      "localizedDescription": "iSH is a project to get a Linux shell environment running locally on your iOS device, using a usermode x86 emulator.\n\n --- \n\n More app Information:\n\n Category: Tweaked App\n\n BundleID: app.ish.iSH\n\n Downloads: 396\n\n Latest app store version: null",
       "iconURL": "https://appstore.sidelix.vip/images/1761539068.png",
       "tintColor": "018084",
       "isLanZouCloud": 0,

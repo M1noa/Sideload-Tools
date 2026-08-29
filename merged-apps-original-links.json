@@ -1,6 +1,6 @@
 {
-  "name": "Sideload-Tools Merged Catalog (Original Links)",
-  "identifier": "com.sideload-tools.merged.original",
+  "name": "Minoa's Combined (PAL)",
+  "identifier": "com.m1noa.sideload-tools.merged.pal",
   "subtitle": "Auto-merged from 41 AltStore/ESign sources. Original download URLs preserved.",
   "description": "Deduplicates by (name, bundleIdentifier, version). __source is the first source; __mirrors lists additional sources.",
   "iconURL": "https://avatars.githubusercontent.com/u/57844837",

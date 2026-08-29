@@ -1,6 +1,6 @@
 {
-  "name": "Sideload-Tools Merged Catalog",
-  "identifier": "com.sideload-tools.merged",
+  "name": "Minoa's Combined (Cached, PAL)",
+  "identifier": "com.m1noa.sideload-tools.merged.cached.pal",
   "subtitle": "Auto-merged from 41 AltStore/ESign sources. Local download URLs provided for cached files.",
   "description": "Deduplicates by (name, bundleIdentifier, version). downloadURL points to local repo copy if available, otherwise original URL. Downloads newest first; resumes from last run.",
   "iconURL": "https://avatars.githubusercontent.com/u/57844837",

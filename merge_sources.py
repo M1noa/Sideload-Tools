@@ -348,8 +348,8 @@ def main():
 
     write_catalog(
         MERGED_ORIGINAL_JSON,
-        'Sideload-Tools Merged Catalog (Original Links, PAL)',
-        'com.sideload-tools.merged.original',
+        "Minoa's Combined (PAL)",
+        'com.m1noa.sideload-tools.merged.pal',
         f'Auto-merged from {len(urls)} AltStore/ESign sources. Original download URLs preserved.',
         'Deduplicates by (name, bundleIdentifier, version). __source is the first source; __mirrors lists additional sources.',
         all_apps)
@@ -725,8 +725,8 @@ def main():
 
     write_catalog(
         MERGED_JSON,
-        'Sideload-Tools Merged Catalog (PAL)',
-        'com.sideload-tools.merged',
+        "Minoa's Combined (Cached, PAL)",
+        'com.m1noa.sideload-tools.merged.cached.pal',
         f'Auto-merged from {len(urls)} AltStore/ESign sources. Local download URLs provided for cached files.',
         'Deduplicates by (name, bundleIdentifier, version). downloadURL points to local repo copy if available, otherwise original URL. Downloads newest first; resumes from last run.',
         merged_apps)
@@ -734,16 +734,16 @@ def main():
     # no-pal variants: strip pal fields + leftover nested versions arrays
     write_catalog(
         MERGED_ORIGINAL_NO_PAL_JSON,
-        'Sideload-Tools Merged Catalog (Original Links)',
-        'com.sideload-tools.merged.original.nopal',
+        "Minoa's Combined",
+        'com.m1noa.sideload-tools.merged',
         f'Auto-merged from {len(urls)} AltStore/ESign sources. Original URLs, PAL fields removed for maximum compatibility.',
         'Same as the original-links catalog but strips appID/marketplaceID/permissions (AltStore PAL) and nested versions arrays.',
         [strip_pal(a) for a in all_apps])
 
     write_catalog(
         MERGED_NO_PAL_JSON,
-        'Sideload-Tools Merged Catalog',
-        'com.sideload-tools.merged.nopal',
+        "Minoa's Combined (Cached)",
+        'com.m1noa.sideload-tools.merged.cached',
         f'Auto-merged from {len(urls)} AltStore/ESign sources. Local cached URLs where available, PAL fields removed.',
         'Same as the merged catalog but strips appID/marketplaceID/permissions (AltStore PAL) and nested versions arrays.',
         [strip_pal(a) for a in merged_apps])

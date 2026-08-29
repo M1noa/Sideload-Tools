@@ -1,6 +1,6 @@
 {
-  "name": "Sideload-Tools Merged Catalog (No PAL)",
-  "identifier": "com.sideload-tools.merged.nopal",
+  "name": "Minoa's Combined (Cached)",
+  "identifier": "com.m1noa.sideload-tools.merged.cached",
   "subtitle": "Auto-merged from 41 AltStore/ESign sources. Local cached URLs where available, PAL fields removed.",
   "description": "Same as the merged catalog but strips appID/marketplaceID/permissions (AltStore PAL) and nested versions arrays.",
   "iconURL": "https://avatars.githubusercontent.com/u/57844837",

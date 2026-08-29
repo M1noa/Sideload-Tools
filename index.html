@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sideload-Tools: Add Catalogs</title>
+<style>
+  body { font-family: monospace; max-width: 720px; margin: 2rem auto; padding: 0 1rem; line-height: 1.5; background: #000; color: #e8e8e8; text-align: center; }
+  h1 { font-size: 1.9rem; text-align: center; color: #4aa3ff; letter-spacing: .5px; margin: 0 0 .5rem; }
+  h2 { font-size: 1.1rem; margin-top: 2rem; border-bottom: 1px solid #333; padding-bottom: .3rem; }
+  h3 { font-size: 1rem; margin: 1.25rem 0 .5rem; color: #4aa3ff; }
+  a { display: inline-flex; align-items: center; gap: .35rem; margin: .25rem .5rem .25rem 0; padding: .4rem .7rem; border: 1px solid #444; border-radius: 4px; text-decoration: none; color: #4aa3ff; }
+  a:hover { background: #111; }
+  p { color: #aaa; }
+  .note { color: #888; font-size: .85rem; }
+  button { color: #e8e8e8; border-color: #444; background: #111; display: inline-flex; align-items: center; gap: .35rem; }
+  button:hover { background: #1a1a1a; }
+  .pal { color: #ffd166; }
+  @media (prefers-color-scheme: light) {
+    body { background: #fff; color: #222; }
+    h2 { border-bottom-color: #ccc; }
+    h3 { color: #007AFF; }
+    a { border-color: #555; color: #007AFF; }
+    a:hover { background: #f0f0f0; }
+    p { color: #444; }
+    .note { color: #666; }
+    button { color: #222; border-color: #555; background: #fff; }
+    button:hover { background: #f0f0f0; }
+  }
+</style>
+</head>
+<body>
+<p style="text-align:center;">One-tap buttons to add the catalogs to your sideload app. Tap a button on your device, or use the copy button to grab the raw URL. Path-style apps (KSign, Feather) open directly; everything else uses a copyable link.</p>
+<h1>Sideload-Tools</h1>
+
+<p align="center">
+  <img alt="sources" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FM1noa%2FSideload-Tools%2Fmain%2Fbadge-sources.json">
+  <img alt="ipas" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FM1noa%2FSideload-Tools%2Fmain%2Fbadge-ipas.json">
+  <img alt="cached" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FM1noa%2FSideload-Tools%2Fmain%2Fbadge-cached.json">
+  </p>
+
+<div id="catalogs">
+  <h2>Original Link Catalogs</h2>
+  <p class="note">These point straight at the upstream source URLs. They work in every sideload app and never depend on this repo's storage. If an upstream source removes an app, that link stops working.</p>
+  <div id="cat-orig"></div>
+
+  <h2>Cached Catalogs</h2>
+  <p class="note">These re-host the IPA, dylib, and deb files inside this repo (the files/ folder). They keep working even if the original source goes offline. They depend on this repo staying under GitHub's size limits, so very large apps may fall back to original links.</p>
+  <div id="cat-cache"></div>
+</div>
+
+<script>
+  const ORIG_NOPAL  = "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/merged-apps-original-links-no-pal.json";
+  const ORIG_PAL    = "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/merged-apps-original-links.json";
+  const CACHE_NOPAL = "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/merged-apps-no-pal.json";
+  const CACHE_PAL   = "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/merged-apps.json";
+
+  const enc = u => encodeURIComponent(u).replace(/'/g, "%27");
+  const ICONS = {
+    "AltStore": "📦", "AltStore Classic": "📦", "SideStore": "📦", "ESign": "✍️",
+    "Feather": "🪶", "KSign": "🔏", "TrollApps": "🧌", "Scarlet": "🟥",
+    "StikStore": "🛒", "LiveContainer": "📱",
+  };
+  // raw:true -> append the URL unchanged (path-style schemes like ksign://source/ and
+  // feather://source/ require a literal https:// after the marker). false -> percent-encode
+  // (query-style schemes like ?url=).
+  const apps = [
+    { n: "AltStore",         s: "altstore://source?URL=",        raw: false },
+    { n: "AltStore Classic", s: "altstore-classic://source?url=", raw: false },
+    { n: "SideStore",        s: "sidestore://source?url=",       raw: false },
+    { n: "ESign",            s: "esign://addsource?url=",        raw: false },
+    { n: "Feather",          s: "feather://source/",             raw: true  },
+    { n: "KSign",            s: "ksign://source/",               raw: true  },
+    { n: "TrollApps",        s: "trollapps://add?url=",          raw: false },
+    { n: "Scarlet",          s: "scarlet://source=",             raw: false },
+    { n: "StikStore",        s: "stikstore://add-source?url=",   raw: false },
+    { n: "LiveContainer",    s: "livecontainer://source?url=",   raw: false },
+  ];
+  const link = (name, scheme, raw, url) => {
+    const a = document.createElement("a");
+    a.textContent = (ICONS[name] ? ICONS[name] + " " : "") + name;
+    a.href = raw ? scheme + url : scheme + enc(url);
+    return a;
+  };
+  const copyBtn = (label, url) => {
+    const b = document.createElement("button");
+    b.textContent = label;
+    b.style.cssText = "margin:.25rem .5rem .25rem 0;padding:.4rem .7rem;border:1px solid #555;border-radius:4px;cursor:pointer;font-family:monospace;";
+    b.onclick = () => navigator.clipboard.writeText(url)
+      .then(() => { b.textContent = "copied!"; setTimeout(() => b.textContent = label, 1200); })
+      .catch(() => { b.textContent = "copy failed"; });
+    return b;
+  };
+
+  // normal (no PAL) listed first, then PAL, inside each group
+  const groups = [
+    { el: document.getElementById("cat-orig"),  title: "Original Links",          url: ORIG_NOPAL,  pal: false },
+    { el: document.getElementById("cat-orig"),  title: "Original Links (PAL)",    url: ORIG_PAL,    pal: true  },
+    { el: document.getElementById("cat-cache"), title: "Cached",                  url: CACHE_NOPAL, pal: false },
+    { el: document.getElementById("cat-cache"), title: "Cached (PAL)",            url: CACHE_PAL,   pal: true  },
+  ];
+
+  for (const g of groups) {
+    const h = document.createElement("h3");
+    h.textContent = g.title;
+    if (g.pal) h.className = "pal";
+    g.el.appendChild(h);
+    for (const app of apps) {
+      g.el.appendChild(link(app.n, app.s, app.raw, g.url));
+    }
+    g.el.appendChild(copyBtn("copy raw url", g.url));
+  }
+
+</script>
+</body>
+</html>

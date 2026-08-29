@@ -1,4 +1,4 @@
-# Sideload-Tools
+# [Sideload-Tools](https://m1noa.github.io/Sideload-Tools/)
 
 Auto-merged AltStore/ESign app catalog from multiple sources. Updated every 12 hours.
 

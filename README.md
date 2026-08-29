@@ -1,4 +1,4 @@
-# Sideload-Tools
+# [Sideload-Tools](https://m1noa.github.io/Sideload-Tools/)
 
 <p align="center">
   <a href="https://m1noa.github.io/Sideload-Tools/"><strong>Open the Pages site with all add-source buttons</strong></a>

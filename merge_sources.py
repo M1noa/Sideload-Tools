@@ -46,7 +46,7 @@ def speedtest():
     print('::group::Speedtest')
     url = 'https://speed.hetzner.de/100MB.bin'
     tmp = os.path.join(TEMP_DIR, 'speedtest.tmp')
-    parallel = 3
+    parallel = 4
     try:
         subprocess.run(['curl', '-fsSL', '--max-time', '15', '-o', tmp, url],
                        capture_output=True, timeout=20)
@@ -55,11 +55,11 @@ def speedtest():
             mbps = byps * 8 // 10000000
             print(f'Downloaded {byps // 1048576} MB => ~{mbps} Mbps')
             if mbps > 200:
-                parallel = 8
+                parallel = 12
             elif mbps > 100:
-                parallel = 5
+                parallel = 8
             elif mbps > 50:
-                parallel = 4
+                parallel = 5
             os.remove(tmp)
         else:
             print('Speedtest failed, using defaults.')
@@ -80,7 +80,7 @@ def is_sideload_file(url):
 
 
 def fetch_sources(urls):
-    for url in urls:
+    def _fetch(url):
         safe = url_to_safe(url)
         tmp_file = os.path.join(TEMP_DIR, f'{safe}.json')
         print(f'::group::Fetching {url}')
@@ -88,6 +88,8 @@ def fetch_sources(urls):
                             '-o', tmp_file, url], capture_output=True)
         print('OK' if r.returncode == 0 else f'::warning::Failed to fetch {url}')
         print('::endgroup::')
+    with ThreadPoolExecutor(max_workers=8) as ex:
+        list(ex.map(_fetch, urls))
 
 
 def get_git_tracked_files():
@@ -252,25 +254,6 @@ def write_catalog(path, name, identifier, subtitle, description, apps):
         }, f, indent=2)
 
 
-def letter_slug(name):
-    c = (name or '?').strip()[:1].lower()
-    return c if (c.isalpha() and c.isascii()) else 'symbols'
-
-
-def write_letter_catalogs(apps, base_path, name_prefix, id_prefix, subtitle, description):
-    groups = defaultdict(list)
-    for a in apps:
-        groups[letter_slug(a.get('name', ''))].append(a)
-    manifest = []
-    for letter in sorted(groups.keys()):
-        capps = groups[letter]
-        path = base_path.replace('.json', f'-{letter}.json')
-        label = letter.upper() if letter != 'symbols' else '#'
-        identifier = f'{id_prefix}.{letter}'
-        write_catalog(path, f"{name_prefix} ({label})", identifier, subtitle, description, capps)
-        manifest.append({'letter': letter, 'name': label, 'count': len(capps),
-                         'file': os.path.basename(path)})
-    return manifest
 
 
 def main():
@@ -381,6 +364,8 @@ def main():
         sha256 = fdata.get('sha256', '')
         if sha256 and fdata.get('local_path'):
             hash_map[sha256].append(fkey)
+    # sha256 -> first tracked file_key for O(1) dedup during the download phase
+    sha_to_first = {sha: keys[0] for sha, keys in hash_map.items() if keys}
 
     # urls already known to exceed the file-size limit: skip re-testing
     too_large_cached = set()
@@ -389,6 +374,14 @@ def main():
             too_large_cached.add(fdata['original_url'])
 
     # build download queue (newest first)
+    # O(1) lookup of already-cached download URLs so the per-app scan below
+    # stays cheap (was an O(apps x tracking) linear scan per app)
+    url_to_tracked = {}
+    for fk, fd in tracking.items():
+        u = fd.get('original_url')
+        if u:
+            url_to_tracked.setdefault(u, fk)
+
     download_queue = []
     already_queued = set()
     skipped_cached = 0
@@ -411,12 +404,8 @@ def main():
             skipped_cached += 1
             continue
 
-        url_already = None
-        for fk, fd in tracking.items():
-            if fd.get('original_url') == dl_url and local_file_exists(fd.get('local_path')):
-                url_already = fk
-                break
-        if url_already:
+        url_already = url_to_tracked.get(dl_url)
+        if url_already and local_file_exists(tracking[url_already].get('local_path')):
             skipped_cached += 1
             continue
 
@@ -475,14 +464,9 @@ def main():
                     'name': name, 'ver': ver, 'local_path': '', 'sha256': '',
                     'size': 0, 'note': 'cached_too_large'}
 
-        # cheap head precheck for servers that report content-length
-        pre = head_too_large(dl_url)
-        if pre is not None and pre > MAX_FILE_SIZE:
-            too_large_cached.add(dl_url)
-            return {'file_key': file_key, 'app': app, 'status': 'skipped_size',
-                    'error': f'file too large (content-length {pre} > {MAX_FILE_SIZE})',
-                    'now': now, 'dl_url': dl_url, 'name': name, 'ver': ver,
-                    'local_path': '', 'sha256': '', 'size': pre, 'note': 'too_large'}
+        # size cap is enforced by curl --max-filesize inside download_file below: it
+        # aborts oversized files fast (no body when content-length is known) with no
+        # extra HEAD round trip. oversized urls get cached in too_large_cached after.
 
         tmp_dest = os.path.join(TEMP_DIR, f'dl_{idx}_{orig_filename}')
         status, error = download_file(dl_url, tmp_dest)
@@ -510,18 +494,16 @@ def main():
 
             sha256 = file_hash(tmp_dest)
 
-            # hash dedup against previously committed files
+            # hash dedup against previously committed files (O(1) via sha_to_first)
             existing_file = None
-            for existing_sha, keys in hash_map.items():
-                if existing_sha == sha256 and keys:
-                    first_key = keys[0]
-                    if first_key in tracking:
-                        ep = tracking[first_key].get('local_path', '')
-                        if local_file_exists(ep):
-                            existing_file = ep
-                            if file_key not in hash_map[sha256]:
-                                hash_map[sha256].append(file_key)
-                            break
+            first_key = sha_to_first.get(sha256)
+            if first_key and first_key in tracking:
+                ep = tracking[first_key].get('local_path', '')
+                if local_file_exists(ep):
+                    existing_file = ep
+                    if file_key not in hash_map[sha256]:
+                        hash_map[sha256].append(file_key)
+                        sha_to_first.setdefault(sha256, file_key)
 
             if existing_file:
                 result['local_path'] = existing_file
@@ -564,6 +546,7 @@ def main():
                 result['note'] = 'downloaded'
                 if sha256:
                     hash_map[sha256].append(file_key)
+                    sha_to_first.setdefault(sha256, file_key)
 
         return result
 
@@ -768,28 +751,6 @@ def main():
         f'Auto-merged from {len(urls)} AltStore/ESign sources. Local cached URLs where available, PAL fields removed.',
         'Same as the merged catalog but strips appID/marketplaceID/permissions (AltStore PAL) and nested versions arrays.',
         [strip_pal(a) for a in merged_apps])
-
-    # per-letter splits so each chunk is small and imports fast in ksign/feather.
-    # upstream metadata has almost no category data (169/13148 apps), so we split
-    # alphabetically by app name instead of by category.
-    cached_letter_manifest = write_letter_catalogs(
-        [strip_pal(a) for a in merged_apps], MERGED_NO_PAL_JSON,
-        "Minoa's Combined (Cached)", 'com.m1noa.sideload-tools.merged.cached',
-        f'Auto-merged from {len(urls)} sources. Local cached URLs where available, PAL fields removed.',
-        'Alphabetical split of the cached no-PAL catalog for fast importing into KSign/Feather.')
-    orig_letter_manifest = write_letter_catalogs(
-        [strip_pal(a) for a in all_apps], MERGED_ORIGINAL_NO_PAL_JSON,
-        "Minoa's Combined", 'com.m1noa.sideload-tools.merged',
-        f'Auto-merged from {len(urls)} sources. Original URLs, PAL fields removed.',
-        'Alphabetical split of the original-links no-PAL catalog.')
-    letters = []
-    for c in cached_letter_manifest:
-        o = next((x for x in orig_letter_manifest if x['letter'] == c['letter']), None)
-        letters.append({'letter': c['letter'], 'name': c['name'], 'count': c['count'],
-                        'cached_file': c['file'],
-                        'original_file': o['file'] if o else ''})
-    with open(os.path.join(SCRIPT_DIR, 'letters.json'), 'w') as f:
-        json.dump(letters, f, indent=2)
 
     # stats for shields.io endpoint badges (sources / total ipas / percent cached)
     sources = len(urls)

@@ -1,6 +1,6 @@
 <div align="center">
-  <h1><a href="https://m1noa.github.io/Sideload-Tools/">Sideload Tools</a></h1>
-  Auto-merged AltStore/ESign app catalog from multiple sources. Updated every 12 hours.
+  <h1><a href="https://m1noa.github.io/Sideload-Tools/">sideload tools</a></h1>
+  an auto-merged altstore/esign app catalog from a bunch of sources. updated every 12 hours.
 
   <img alt="sources" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FM1noa%2FSideload-Tools%2Fmain%2Fbadge-sources.json">
   <img alt="ipas" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FM1noa%2FSideload-Tools%2Fmain%2Fbadge-ipas.json">
@@ -9,54 +9,54 @@
 
 ---
 
-## Direct Links
+## direct links
 
-Plain URLs to paste into your sideload app's "add source" box. The normal catalogs are listed first.
+urls to paste straight into your sideload app's "add source" box.
 
-| Catalog | URL |
+| catalog | url |
 | --- | --- |
-| **Original Links** | `https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/merged-apps-original-links-no-pal.json` |
-| **Original Links (PAL)** | `https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/merged-apps-original-links.json` |
-| **Cached** | `https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/merged-apps-no-pal.json` |
-| **Cached (PAL)** | `https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/merged-apps.json` |
+| **original links** | `https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/merged-apps-original-links-no-pal.json` |
+| **original links (pal)** | `https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/merged-apps-original-links.json` |
+| **cached** | `https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/merged-apps-no-pal.json` |
+| **cached (pal)** | `https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/merged-apps.json` |
 
-## Two kinds of catalog
+## two kinds of catalog
 
-**Original Link catalogs** point straight at the upstream source URLs. They work in every sideload app and never depend on this repo's storage. If an upstream source removes an app, that link stops working.
+**original link catalogs** point right at the source urls. they work in every sideload app and don't depend on this repo's storage. if a source pulls an app, that link dies.
 
-**Cached catalogs** re-host the IPA, dylib, and deb files inside this repo (the `files/` folder). They keep working even if the original source goes offline. They depend on this repo staying under GitHub's size limits, so very large apps (over 100 MB) may not be cached and will fall back to their original link.
+**cached catalogs** re-host the ipa, dylib, and deb files here in `files/`. they keep working even if the source goes offline. only catch: apps over 100mb might not get cached and fall back to the original link.
 
-## Normal vs PAL
+## normal vs pal
 
-The normal catalogs strip AltStore PAL fields (`appID`, `marketplaceID`, `permissions`). Use these unless you run an AltStore PAL setup. They are the recommended default and work in KSign, Feather, SideStore, ESign, and every other sideload app.
+normal catalogs strip the altstore pal fields (`appID`, `marketplaceID`, `permissions`). use these unless you run a pal setup. they're the default and work in ksign, feather, sidestore, esign, and the rest.
 
-The **PAL** catalogs keep those fields for AltStore PAL sources. Pick PAL only if you actually need it.
+**pal** catalogs keep those fields. only grab them if you actually need pal.
 
-## Catalog Files
+## catalog files
 
-| File | Description |
+| file | description |
 | --- | --- |
-| [merged-apps-original-links-no-pal.json](./merged-apps-original-links-no-pal.json) | Original source URLs, PAL fields stripped (recommended) |
-| [merged-apps-original-links.json](./merged-apps-original-links.json) | Original source URLs, PAL fields kept |
-| [merged-apps-no-pal.json](./merged-apps-no-pal.json) | Local repo download URLs for cached files, PAL fields stripped (recommended) |
-| [merged-apps.json](./merged-apps.json) | Local repo download URLs for cached files, PAL fields kept |
-| [files/](./files/) | Cached IPA, dylib, and deb files |
+| [merged-apps-original-links-no-pal.json](./merged-apps-original-links-no-pal.json) | original source urls, no pal fields (recommended) |
+| [merged-apps-original-links.json](./merged-apps-original-links.json) | original source urls, pal fields kept |
+| [merged-apps-no-pal.json](./merged-apps-no-pal.json) | local repo urls for cached files, no pal fields (recommended) |
+| [merged-apps.json](./merged-apps.json) | local repo urls for cached files, pal fields kept |
+| [files/](./files/) | cached ipa, dylib, and deb files |
 
-## Add to Your Sideload App
+## add to your sideload app
 
-All the one-tap "add source" buttons live on the **[Sideload-Tools Pages site](https://m1noa.github.io/Sideload-Tools/)**. They don't render inline in this README. The site links the original-link catalogs (`merged-apps-original-links-no-pal.json` and `merged-apps-original-links.json`), since those work in every sideload app.
+all the one-tap "add source" buttons are on the **[sideload-tools pages site](https://m1noa.github.io/Sideload-Tools/)**. they don't show up in this readme. the site links the original-link catalogs (`merged-apps-original-links-no-pal.json` and `merged-apps-original-links.json`) since those work everywhere.
 
-## How It Works
+## how it works
 
-1. Fetches JSON from every URL in `repos-sources.txt`
-2. Deduplicates by `(name, bundleIdentifier, version)`
-3. Downloads all sideloadable files (ipa/dylib/deb) into `files/`
-4. Emits four catalogs:
-   - `merged-apps-original-links-no-pal.json`: original source URLs, PAL fields stripped
-   - `merged-apps-original-links.json`: original source URLs, PAL fields kept
-   - `merged-apps-no-pal.json`: local repo download URLs for cached files, PAL fields stripped
-   - `merged-apps.json`: local repo download URLs for cached files, PAL fields kept
-5. Sorts newest to oldest by version date
-6. Tracks download status, hashes, and duplicates in `apps-tracking.json`
+1. grabs json from every url in `repos-sources.txt`
+2. dedupes by `(name, bundleIdentifier, version)`
+3. downloads all sideloadable files (ipa/dylib/deb) into `files/`
+4. spits out four catalogs:
+   - `merged-apps-original-links-no-pal.json`: original urls, no pal
+   - `merged-apps-original-links.json`: original urls, pal kept
+   - `merged-apps-no-pal.json`: local urls for cached files, no pal
+   - `merged-apps.json`: local urls for cached files, pal kept
+5. sorts newest to oldest by version date
+6. tracks download status, hashes, and dupes in `apps-tracking.json`
 
-Runs via GitHub Action every 12 hours.
+runs on a github action every 12 hours.

@@ -1,5 +1,14 @@
 # Sideload-Tools
 
+<p align="center">
+  <a href="https://m1noa.github.io/Sideload-Tools/"><strong>Open the Pages site with all add-source buttons</strong></a>
+</p>
+<p align="center">
+  <a href="https://m1noa.github.io/Sideload-Tools/"><img alt="sources" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FM1noa%2FSideload-Tools%2Fmain%2Fstats.json&query=%24.sources&label=sources"></a>
+  <a href="https://m1noa.github.io/Sideload-Tools/"><img alt="ipas" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FM1noa%2FSideload-Tools%2Fmain%2Fstats.json&query=%24.total_apps&label=ipas"></a>
+  <a href="https://m1noa.github.io/Sideload-Tools/"><img alt="cached" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FM1noa%2FSideload-Tools%2Fmain%2Fstats.json&query=%24.percent_cached&label=cached"></a>
+</p>
+
 Auto-merged AltStore/ESign app catalog from multiple sources. Updated every 12 hours.
 
 ## Direct Links

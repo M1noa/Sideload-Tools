@@ -20,6 +20,7 @@ MERGED_ORIGINAL_JSON = os.path.join(SCRIPT_DIR, 'merged-apps-original-links.json
 MERGED_NO_PAL_JSON = os.path.join(SCRIPT_DIR, 'merged-apps-no-pal.json')
 MERGED_ORIGINAL_NO_PAL_JSON = os.path.join(SCRIPT_DIR, 'merged-apps-original-links-no-pal.json')
 TRACKING_JSON = os.path.join(SCRIPT_DIR, 'apps-tracking.json')
+STATS_JSON = os.path.join(SCRIPT_DIR, 'stats.json')
 FILES_DIR = os.path.join(SCRIPT_DIR, 'files')
 TEMP_DIR = tempfile.mkdtemp()
 SCRIPT_START_TIME = int(time.time())
@@ -97,6 +98,11 @@ def get_git_tracked_files():
 
 
 GIT_TRACKED_FILES = get_git_tracked_files()
+
+
+def local_file_exists(local_path):
+    # true only if the cached file is actually on disk (not merely tracked in git)
+    return bool(local_path) and os.path.exists(os.path.join(SCRIPT_DIR, local_path))
 
 
 def elapsed_seconds():
@@ -380,14 +386,13 @@ def main():
 
         existing_entry = tracking.get(file_key, {})
         existing_local = existing_entry.get('local_path', '')
-        if existing_local and existing_local in GIT_TRACKED_FILES:
+        if local_file_exists(existing_local):
             skipped_cached += 1
             continue
 
         url_already = None
         for fk, fd in tracking.items():
-            if fd.get('original_url') == dl_url and fd.get('local_path') \
-                    and fd['local_path'] in GIT_TRACKED_FILES:
+            if fd.get('original_url') == dl_url and local_file_exists(fd.get('local_path')):
                 url_already = fk
                 break
         if url_already:
@@ -491,7 +496,7 @@ def main():
                     first_key = keys[0]
                     if first_key in tracking:
                         ep = tracking[first_key].get('local_path', '')
-                        if ep and ep in GIT_TRACKED_FILES:
+                        if local_file_exists(ep):
                             existing_file = ep
                             if file_key not in hash_map[sha256]:
                                 hash_map[sha256].append(file_key)
@@ -698,7 +703,7 @@ def main():
         tracking_entry = tracking.get(file_key, {})
         local_path = tracking_entry.get('local_path', '')
         app_copy = dict(app)
-        if local_path:
+        if local_path and local_file_exists(local_path):
             app_copy['downloadURL'] = \
                 f'https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/{local_path}'
         else:
@@ -742,6 +747,22 @@ def main():
         f'Auto-merged from {len(urls)} AltStore/ESign sources. Local cached URLs where available, PAL fields removed.',
         'Same as the merged catalog but strips appID/marketplaceID/permissions (AltStore PAL) and nested versions arrays.',
         [strip_pal(a) for a in merged_apps])
+
+    # stats for shields.io endpoint badges (sources / total ipas / percent cached)
+    sources = len(urls)
+    total_apps = len(merged_apps)
+    cached = sum(1 for a in merged_apps
+                 if str(a.get('downloadURL', '')).startswith(
+                     'https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/'))
+    percent_cached = round(cached / total_apps * 100, 1) if total_apps else 0
+    with open(STATS_JSON, 'w') as f:
+        json.dump({
+            'schemaVersion': 1,
+            'sources': sources,
+            'total_apps': total_apps,
+            'cached': cached,
+            'percent_cached': percent_cached,
+        }, f, indent=2)
 
     with open(TRACKING_JSON, 'w') as f:
         json.dump(tracking, f, indent=2)

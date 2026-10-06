@@ -4,9 +4,397 @@
   "subtitle": "Auto-merged from 43 AltStore/ESign sources. Local download URLs provided for cached files.",
   "description": "Deduplicates by (name, bundleIdentifier, version). downloadURL points to local repo copy if available, otherwise original URL. Downloads newest first; resumes from last run.",
   "iconURL": "https://avatars.githubusercontent.com/u/57844837",
-  "appCount": 12723,
+  "appCount": 12732,
   "sourceCount": 43,
   "apps": [
+    {
+      "name": "iCube",
+      "bundleIdentifier": "com.joemattiello.iCube",
+      "developerName": "Provenance Emu",
+      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
+      "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
+      "iconURL": "https://icube-emu.com/icon-1024.png",
+      "tintColor": "#3B82F6",
+      "category": "games",
+      "screenshots": [
+        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
+        "https://icube-emu.com/screenshots/iphone/search.jpg",
+        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
+        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
+        "https://icube-emu.com/screenshots/iphone/shaders.jpg",
+        "https://icube-emu.com/screenshots/iphone/settings-graphics.jpg",
+        "https://icube-emu.com/screenshots/iphone/settings-controllers.jpg",
+        "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
+      ],
+      "version": "1.0.0",
+      "buildVersion": "251",
+      "date": "2026-10-06T11:24:32.190Z",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/Non-Jailbroken.ipa",
+      "size": 93646112,
+      "minOSVersion": "17.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "versionDate": "2026-10-06T11:24:32.190Z",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Provenance Alpha",
+      "bundleIdentifier": "com.provenance-emu.provenance.alpha",
+      "developerName": "Provenance-EMU",
+      "subtitle": "Latest dev builds - test new features early",
+      "localizedDescription": "Alpha build 2be44ff \u00b7 2026-10-06\n\nChanges in this build:\n\u2022 fix(testflight): retry transient network errors when distributing\n\u2022 fix(ci): don't split submodule paths on spaces in init verification\n\u2022 fix(ci): catch cloned-but-empty submodules after a failed init\n\u2022 feat(release): --notes-file for TestFlight \"What to Test\" text\n\u2022 ci(testflight): list the real changes in \"What to Test\" (#3728)\n\u2022 fix(netplay): make the bridge-state sink @Sendable for Xcode 26.3\n\u2022 fix(maint): re-launch under Python 3.11+ when started by an older one\n\u2022 fix(maint): terminal-only jobs, faster status, submodule-aware audit\n\u2022 fix(maint): order staleness by commit, not time; verify no-change runs\n\u2022 feat(scripts): add maint, a registry and dashboard for maintenance jobs\n\u2022 chore(scripts): sort Scripts/ into folders, drop dead scripts\n\u2022 update contributors\n\u2022 feat(dolphin): match iCube defaults, expose all CIR flags\n\u2022 dolphin core update\n\u2022 package resolved update\n\u2022 perf(library): drop per-entry package check from file index scan\n\u2022 fix(cloud): stop 0xDEAD10CC kills from sync work at suspension\n\u2022 feat(netplay): Dolphin boots every player into the game together\n\u2022 feat(launch): let the user unblock a stuck game launch\n\u2022 feat(netplay): mGBA link cable over the network with lockstep\n\u2022 fix(dolphin): keep the tvOS render view above the GPU view\n\u2022 build(dolphin): compile native netplay against this Dolphin revision\n\u2022 feat(netplay): Mednafen hosting with the embedded mednafen-server\n\u2022 feat(netplay): PPSSPP ad hoc for the native and libretro cores\n\u2022 feat(netplay): host start and restart-on-host steps for cores\n\u2022 docs: plan for native-core netplay (Mednafen, PPSSPP, Dolphin, mGBA)\n\u2022 fix(netplay): Game Center joins real addresses; relay off by default\n\u2022 fix(netplay): make thin-wrapper netplay actually exchange packets\n\u2022 chore: drop leftovers of the deleted RetroArch wrapper\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
+      "iconURL": "https://raw.githubusercontent.com/Provenance-Emu/Provenance/develop/Provenance/Resources/Assets.xcassets/AppIcon.appiconset/iTunesArtwork%402x.png",
+      "tintColor": "FF6B35",
+      "screenshotURLs": [],
+      "appPermissions": {
+        "entitlements": [
+          {
+            "name": "com.apple.security.application-groups"
+          },
+          {
+            "name": "com.apple.developer.icloud-services"
+          },
+          {
+            "name": "com.apple.developer.icloud-container-identifiers"
+          }
+        ],
+        "privacy": [
+          {
+            "name": "LocalNetwork",
+            "usageDescription": "Used to discover and connect to local network game servers for netplay."
+          },
+          {
+            "name": "Camera",
+            "usageDescription": "Used to scan QR codes for importing game data."
+          }
+        ]
+      },
+      "version": "3.4.0",
+      "buildVersion": "10357",
+      "marketingVersion": "3.4.0-alpha.20261006.2be44ff",
+      "date": "2026-10-06",
+      "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
+      "size": 654455005,
+      "minOSVersion": "17.0",
+      "versionDate": "2026-10-06",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iCube",
+      "bundleIdentifier": "com.joemattiello.iCube",
+      "developerName": "Provenance Emu",
+      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
+      "localizedDescription": "iCube 1.0.0-beta9-ios Beta 9 for iOS",
+      "iconURL": "https://icube-emu.com/icon-1024.png",
+      "tintColor": "#3B82F6",
+      "category": "games",
+      "screenshots": [
+        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
+        "https://icube-emu.com/screenshots/iphone/search.jpg",
+        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
+        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
+        "https://icube-emu.com/screenshots/iphone/shaders.jpg",
+        "https://icube-emu.com/screenshots/iphone/settings-graphics.jpg",
+        "https://icube-emu.com/screenshots/iphone/settings-controllers.jpg",
+        "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
+      ],
+      "version": "1.0.0-beta9-ios",
+      "buildVersion": "1.0.0-beta9-ios",
+      "date": "2026-10-06",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/iCube.ipa",
+      "size": 82799373,
+      "minOSVersion": "15.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "betaNumber": 9,
+      "versionDate": "2026-10-06",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ],
+      "__hash_duplicates": [
+        {
+          "name": "iCube",
+          "bundleIdentifier": "com.joemattiello.iCube",
+          "version": "1.0.0-beta9-ios"
+        }
+      ]
+    },
+    {
+      "name": "iCube",
+      "bundleIdentifier": "com.joemattiello.iCube",
+      "developerName": "Provenance Emu",
+      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
+      "localizedDescription": "iCube 1.0.0-beta8-ios Beta 8 for iOS",
+      "iconURL": "https://icube-emu.com/icon-1024.png",
+      "tintColor": "#3B82F6",
+      "category": "games",
+      "screenshots": [
+        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
+        "https://icube-emu.com/screenshots/iphone/search.jpg",
+        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
+        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
+        "https://icube-emu.com/screenshots/iphone/shaders.jpg",
+        "https://icube-emu.com/screenshots/iphone/settings-graphics.jpg",
+        "https://icube-emu.com/screenshots/iphone/settings-controllers.jpg",
+        "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
+      ],
+      "version": "1.0.0-beta8-ios",
+      "buildVersion": "1.0.0-beta8-ios",
+      "date": "2026-10-06",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/iCube.ipa",
+      "size": 82893911,
+      "minOSVersion": "15.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "betaNumber": 8,
+      "versionDate": "2026-10-06",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iCube",
+      "bundleIdentifier": "com.joemattiello.iCube",
+      "developerName": "Provenance Emu",
+      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
+      "localizedDescription": "iCube 1.0.0-beta7-ios Beta 7 for iOS",
+      "iconURL": "https://icube-emu.com/icon-1024.png",
+      "tintColor": "#3B82F6",
+      "category": "games",
+      "screenshots": [
+        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
+        "https://icube-emu.com/screenshots/iphone/search.jpg",
+        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
+        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
+        "https://icube-emu.com/screenshots/iphone/shaders.jpg",
+        "https://icube-emu.com/screenshots/iphone/settings-graphics.jpg",
+        "https://icube-emu.com/screenshots/iphone/settings-controllers.jpg",
+        "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
+      ],
+      "version": "1.0.0-beta7-ios",
+      "buildVersion": "1.0.0-beta7-ios",
+      "date": "2026-10-06",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/iCube.ipa",
+      "size": 82893502,
+      "minOSVersion": "15.6",
+      "platform": "iOS",
+      "isBeta": true,
+      "betaNumber": 7,
+      "versionDate": "2026-10-06",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ],
+      "__hash_duplicates": [
+        {
+          "name": "iCube",
+          "bundleIdentifier": "com.joemattiello.iCube",
+          "version": "1.0.0-beta9-ios"
+        }
+      ]
+    },
+    {
+      "name": "Athlytic",
+      "type": 1,
+      "bundleID": "myndarc.newFitnessApp",
+      "bundleIdentifier": "myndarc.newFitnessApp",
+      "version": "27.0.4",
+      "versionDate": "2026-10-06",
+      "fullDate": "20261006214735",
+      "size": 44399875,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-10-2026/Athlytic_27.0.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/Athlytic_27.0.4_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/myndarc.newFitnessApp.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/myndarc.newFitnessApp.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "swipewipe",
+      "type": 1,
+      "bundleID": "com.aoklab.fewerphotos",
+      "bundleIdentifier": "com.aoklab.fewerphotos",
+      "version": "3.5.0",
+      "versionDate": "2026-10-06",
+      "fullDate": "20261006193709",
+      "size": 159883458,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-10-2026/swipewipe_3.5.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-10-2026/swipewipe_3.5.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aoklab.fewerphotos.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aoklab.fewerphotos.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Yazio",
+      "type": 1,
+      "bundleID": "com.yazio.ios.YAZIO",
+      "bundleIdentifier": "com.yazio.ios.YAZIO",
+      "version": "26.40.1",
+      "versionDate": "2026-10-06",
+      "fullDate": "20261006155129",
+      "size": 220415526,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-10-2026/Yazio_26.40.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-10-2026/Yazio_26.40.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yazio.ios.YAZIO.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yazio.ios.YAZIO.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "edjingMix",
+      "type": 1,
+      "bundleID": "com.edjing.edjingdjturntable",
+      "bundleIdentifier": "com.edjing.edjingdjturntable",
+      "version": "9.3.2",
+      "versionDate": "2026-10-06",
+      "fullDate": "20261006131559",
+      "size": 191857568,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-10-2026/edjingMix_9.3.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-10-2026/edjingMix_9.3.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.edjing.edjingdjturntable.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.edjing.edjingdjturntable.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "SimplyDraw",
+      "type": 1,
+      "bundleID": "com.joytunes.Draw",
+      "bundleIdentifier": "com.joytunes.Draw",
+      "version": "1.15.0",
+      "versionDate": "2026-10-06",
+      "fullDate": "20261006125552",
+      "size": 55435051,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-10-2026/SimplyDraw_1.15.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/SimplyDraw_1.15.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.Draw.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.Draw.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Facetune",
+      "type": 1,
+      "bundleID": "com.lightricks.Facetune2",
+      "bundleIdentifier": "com.lightricks.Facetune2",
+      "version": "26.31",
+      "versionDate": "2026-10-06",
+      "fullDate": "20261006123023",
+      "size": 439748392,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-10-2026/Facetune_26.31_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-10-2026/Facetune_26.31_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Facetune2.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Facetune2.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Dropshare",
+      "type": 1,
+      "bundleID": "net.mkswap.Dropshare-iOS",
+      "bundleIdentifier": "net.mkswap.Dropshare-iOS",
+      "version": "3.65",
+      "versionDate": "2026-10-06",
+      "fullDate": "20261006112457",
+      "size": 74297529,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-10-2026/Dropshare_3.65_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/Dropshare_3.65_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.mkswap.Dropshare-iOS.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.mkswap.Dropshare-iOS.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Shapeyard",
+      "type": 1,
+      "bundleID": "app.chudo",
+      "bundleIdentifier": "app.chudo",
+      "version": "5.32",
+      "versionDate": "2026-10-06",
+      "fullDate": "20261006102443",
+      "size": 87718534,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-10-2026/Shapeyard_5.32_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/Shapeyard_5.32_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.chudo.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.chudo.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Picsart",
+      "type": 1,
+      "bundleID": "com.picsart.studio",
+      "bundleIdentifier": "com.picsart.studio",
+      "version": "30.9.2",
+      "versionDate": "2026-10-06",
+      "fullDate": "20261006102437",
+      "size": 119039152,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-10-2026/Picsart_30.9.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-10-2026/Picsart_30.9.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picsart.studio.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picsart.studio.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
     {
       "name": "Elevate",
       "type": 2,
@@ -743,205 +1131,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "iCube",
-      "bundleIdentifier": "com.joemattiello.iCube",
-      "developerName": "Provenance Emu",
-      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
-      "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
-      "iconURL": "https://icube-emu.com/icon-1024.png",
-      "tintColor": "#3B82F6",
-      "category": "games",
-      "screenshots": [
-        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
-        "https://icube-emu.com/screenshots/iphone/search.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
-        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
-        "https://icube-emu.com/screenshots/iphone/shaders.jpg",
-        "https://icube-emu.com/screenshots/iphone/settings-graphics.jpg",
-        "https://icube-emu.com/screenshots/iphone/settings-controllers.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
-      ],
-      "version": "1.0.0",
-      "buildVersion": "217",
-      "date": "2026-10-04T19:55:43.709Z",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/Non-Jailbroken.ipa",
-      "size": 93614176,
-      "minOSVersion": "17.0",
-      "platform": "iOS",
-      "isBeta": true,
-      "versionDate": "2026-10-04T19:55:43.709Z",
-      "__source": "https://provenance-emu.com/apps.json",
-      "__mirrors": [],
-      "__stores": [
-        "AltStore"
-      ]
-    },
-    {
-      "name": "Provenance Alpha",
-      "bundleIdentifier": "com.provenance-emu.provenance.alpha",
-      "developerName": "Provenance-EMU",
-      "subtitle": "Latest dev builds - test new features early",
-      "localizedDescription": "Alpha build 9315e78 \u00b7 2026-10-04\n\nChanges in this build:\n\u2022 feat(thin): real MIDI on/off toggle; drop thick-only port picker and comments\n\u2022 chore(cores): track Core-VirtualJaguar provenance, core back on master\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
-      "iconURL": "https://raw.githubusercontent.com/Provenance-Emu/Provenance/develop/Provenance/Resources/Assets.xcassets/AppIcon.appiconset/iTunesArtwork%402x.png",
-      "tintColor": "FF6B35",
-      "screenshotURLs": [],
-      "appPermissions": {
-        "entitlements": [
-          {
-            "name": "com.apple.security.application-groups"
-          },
-          {
-            "name": "com.apple.developer.icloud-services"
-          },
-          {
-            "name": "com.apple.developer.icloud-container-identifiers"
-          }
-        ],
-        "privacy": [
-          {
-            "name": "LocalNetwork",
-            "usageDescription": "Used to discover and connect to local network game servers for netplay."
-          },
-          {
-            "name": "Camera",
-            "usageDescription": "Used to scan QR codes for importing game data."
-          }
-        ]
-      },
-      "version": "3.4.0",
-      "buildVersion": "10328",
-      "marketingVersion": "3.4.0-alpha.20261004.9315e78",
-      "date": "2026-10-04",
-      "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
-      "size": 654308023,
-      "minOSVersion": "17.0",
-      "versionDate": "2026-10-04",
-      "__source": "https://provenance-emu.com/apps.json",
-      "__mirrors": [],
-      "__stores": [
-        "AltStore"
-      ]
-    },
-    {
-      "name": "iCube",
-      "bundleIdentifier": "com.joemattiello.iCube",
-      "developerName": "Provenance Emu",
-      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
-      "localizedDescription": "iCube 1.0.0-beta9-ios Beta 9 for iOS",
-      "iconURL": "https://icube-emu.com/icon-1024.png",
-      "tintColor": "#3B82F6",
-      "category": "games",
-      "screenshots": [
-        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
-        "https://icube-emu.com/screenshots/iphone/search.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
-        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
-        "https://icube-emu.com/screenshots/iphone/shaders.jpg",
-        "https://icube-emu.com/screenshots/iphone/settings-graphics.jpg",
-        "https://icube-emu.com/screenshots/iphone/settings-controllers.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
-      ],
-      "version": "1.0.0-beta9-ios",
-      "buildVersion": "1.0.0-beta9-ios",
-      "date": "2026-10-04",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/iCube.ipa",
-      "size": 82799373,
-      "minOSVersion": "15.0",
-      "platform": "iOS",
-      "isBeta": true,
-      "betaNumber": 9,
-      "versionDate": "2026-10-04",
-      "__source": "https://provenance-emu.com/apps.json",
-      "__mirrors": [],
-      "__stores": [
-        "AltStore"
-      ],
-      "__hash_duplicates": [
-        {
-          "name": "iCube",
-          "bundleIdentifier": "com.joemattiello.iCube",
-          "version": "1.0.0-beta9-ios"
-        }
-      ]
-    },
-    {
-      "name": "iCube",
-      "bundleIdentifier": "com.joemattiello.iCube",
-      "developerName": "Provenance Emu",
-      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
-      "localizedDescription": "iCube 1.0.0-beta8-ios Beta 8 for iOS",
-      "iconURL": "https://icube-emu.com/icon-1024.png",
-      "tintColor": "#3B82F6",
-      "category": "games",
-      "screenshots": [
-        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
-        "https://icube-emu.com/screenshots/iphone/search.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
-        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
-        "https://icube-emu.com/screenshots/iphone/shaders.jpg",
-        "https://icube-emu.com/screenshots/iphone/settings-graphics.jpg",
-        "https://icube-emu.com/screenshots/iphone/settings-controllers.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
-      ],
-      "version": "1.0.0-beta8-ios",
-      "buildVersion": "1.0.0-beta8-ios",
-      "date": "2026-10-04",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/iCube.ipa",
-      "size": 82893911,
-      "minOSVersion": "15.0",
-      "platform": "iOS",
-      "isBeta": true,
-      "betaNumber": 8,
-      "versionDate": "2026-10-04",
-      "__source": "https://provenance-emu.com/apps.json",
-      "__mirrors": [],
-      "__stores": [
-        "AltStore"
-      ]
-    },
-    {
-      "name": "iCube",
-      "bundleIdentifier": "com.joemattiello.iCube",
-      "developerName": "Provenance Emu",
-      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
-      "localizedDescription": "iCube 1.0.0-beta7-ios Beta 7 for iOS",
-      "iconURL": "https://icube-emu.com/icon-1024.png",
-      "tintColor": "#3B82F6",
-      "category": "games",
-      "screenshots": [
-        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
-        "https://icube-emu.com/screenshots/iphone/search.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
-        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
-        "https://icube-emu.com/screenshots/iphone/shaders.jpg",
-        "https://icube-emu.com/screenshots/iphone/settings-graphics.jpg",
-        "https://icube-emu.com/screenshots/iphone/settings-controllers.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
-      ],
-      "version": "1.0.0-beta7-ios",
-      "buildVersion": "1.0.0-beta7-ios",
-      "date": "2026-10-04",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/iCube.ipa",
-      "size": 82893502,
-      "minOSVersion": "15.6",
-      "platform": "iOS",
-      "isBeta": true,
-      "betaNumber": 7,
-      "versionDate": "2026-10-04",
-      "__source": "https://provenance-emu.com/apps.json",
-      "__mirrors": [],
-      "__stores": [
-        "AltStore"
-      ],
-      "__hash_duplicates": [
-        {
-          "name": "iCube",
-          "bundleIdentifier": "com.joemattiello.iCube",
-          "version": "1.0.0-beta9-ios"
-        }
       ]
     },
     {
@@ -2109,7 +2298,7 @@
       "fullDate": "20261001213305",
       "size": 20899183,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2026/CodeSnackIDE_6.2.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/CodeSnackIDE_6.2.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2026/CodeSnackIDE_6.2.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cloud-compiler.png",
@@ -2172,7 +2361,7 @@
       "fullDate": "20261001191707",
       "size": 34464524,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2026/TypeAI_4.1.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/TypeAI_4.1.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2026/TypeAI_4.1.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.codeway.AIKeyboard.png",
@@ -2319,7 +2508,7 @@
       "fullDate": "20261001072859",
       "size": 67208408,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2026/1Blocker_6.6.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/1Blocker_6.6.5_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2026/1Blocker_6.6.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.khanov.BlockerX.png",
@@ -2382,7 +2571,7 @@
       "fullDate": "20261001030250",
       "size": 29715040,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2026/HeavyBagPro_2.6.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/HeavyBagPro_2.6.3_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2026/HeavyBagPro_2.6.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.opentechiz.heavybagpro.png",
@@ -2403,7 +2592,7 @@
       "fullDate": "20261001015234",
       "size": 84522724,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2026/FitnessAI_24.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/FitnessAI_24.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2026/FitnessAI_24.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.jakemor.firness-ai.png",
@@ -2762,7 +2951,7 @@
       "fullDate": "20260930195010",
       "size": 20958572,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-09-2026/CodeSnackIDE_6.0.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/CodeSnackIDE_6.0.2_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-09-2026/CodeSnackIDE_6.0.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cloud-compiler.png",
@@ -3497,7 +3686,7 @@
       "fullDate": "20260929024220",
       "size": 7325847,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2026/NFCTools_3.4_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/NFCTools_3.4_Pro_@thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2026/NFCTools_3.4_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wakdev.wdnfc.png",
@@ -29830,6 +30019,48 @@
       "bundleIdentifier": "com.ryuk.ryukgram",
       "category": "social",
       "developerName": "Ryuk",
+      "downloadURL": "https://source.ryuksign.com/ipas/42ef855e5ed75796d22e.ipa",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/e5/f2/30e5f206-5a5b-c586-5d94-619f69c53448/Placeholder.mill/400x400bb-75.png",
+      "localizedDescription": "Updated for Instagram 439.0.0.\n\n### \u2728 Highlights\n- **Call recording** \u2014 record voice and video calls, with auto-record, smart video grids and a per-person browser to play them back\n- **Activity notifications** \u2014 one log for who read your messages plus who came online, went offline or started typing, per person, with an accurate green dot\n- **Grid feed** \u2014 turn your home feed into a tappable grid of thumbnails with stats and author overlays, per account\n- **Stories archive** \u2014 saves every story you post before it expires, with its media and full viewer list, per account\n- **Story viewers list** \u2014 a searchable, filterable, sortable and pinnable \"who viewed my story\", with each viewer's reaction shown\n- **Instagram Plus** \u2014 turn on some Instagram's paid subscriber features inside the app\n- **Custom button icons** \u2014 pick any Instagram icon or iOS symbol for the action and home-shortcut buttons\n\n### \ud83c\udd95 New features\n\n#### Messages\n- Activity notifications and Activity log \u2014 records who read your messages plus who came online, went offline or started typing, as a per-person timeline. Set each event to log silently, notify you, or both, and hold anyone to customise or mute them. A new accurate active-status option turns the green dot off the moment someone leaves. Filter by type and date, swipe or multi-select to delete, and lock the log behind your passcode\n- A dot in the DMs inbox to turn your active status on or off without opening settings\n- Keep deleted messages can now also keep the ones you unsend yourself, shown faded in chat and added to the deleted log\n- Mark chats seen locally \u2014 with read-receipt blocking on, opened chats look read on your device while the sender still gets no receipt; the eye button turns orange until you really mark seen\n- Hold the account name at the top of Direct to show or hide your hidden chats, with an optional passcode/Face ID lock\n- Messages-only mode is now its own menu, can turn on automatically during a daily window, and adds a notifications shortcut plus an optional home-shortcut button in the inbox header\n- Adding someone to a list (read-receipt blocking, hidden or locked chats, chat backgrounds, story viewer pins) now opens a picker of recent DMs with username search, instead of typing it in blind\n- The DM Draw feature can now send an image as your doodle \u2014 from the gallery, Photos, your Instagram or iOS stickers, or a pasted image \u2014 with an editor to crop, resize and remove the background\n- Custom chat backgrounds can now be videos or GIFs, framed with pan-zoom and trim, with the same opacity, blur and dim controls, and re-editable later\n- Hide suggested accounts and channels in Direct messages search\n\n#### Stories\n- Stories archive saves every story you post before it expires, with its media and full viewer list, per account. Browse by date in a grid, see who viewed, liked or reacted, with filter, sort, pinned viewers, an unread badge, optional alerts and its own backup and storage entry\n- The \"who viewed my story\" list is now searchable \u2014 filter (mutuals, following, follows you, verified, reacted, pinned), sort, and pin anyone to the top. Shows avatars, verified badges and each viewer's reaction, loads every viewer, and can switch back to Instagram's own list. Pick which one opens first\n- Marked-seen indicator \u2014 stories you already marked as seen hide the eye button or fill it green for 48 hours, per account\n- New \"Save image (no music)\" story download option for photo stories that have Instagram music on them\n- Story tray long-press \"Profile picture\" now also works in Instagram's new subscriber story preview menu\n\n#### Reels\n- New reels playback menu \u2014 hold the \u22ef or audio button for speed, seek (skip back/forward by a custom amount) and auto-scroll controls\n- Auto-scroll reels is back \u2014 Instagram default or RyukGram mode that keeps advancing after you swipe back\n- Filter reels by engagement \u2014 set a minimum for likes, comments, views or reposts and reels below it never show, plus an option to hide reels whose author hides their counts. Only the Reels tab is filtered by default, so reels you open from a post, profile or share stay untouched\n- Show when a reel was reposted \u2014 an optional date on the \"reposted this reel\" header\n\n#### Feed & Explore\n- New Grid feed \u2014 turn your home feed into a grid of post thumbnails showing likes, comments, views, shares and the author. Pinch to change columns, pull to refresh, tap a post to open it, or hold for a menu to like, follow, view profile, expand, share or copy the link. Choose which stats show, square or taller tiles, and how you switch back to Instagram's feed. Loads instantly, works per account and remembers where you left off\n- Search and explore grids now show stat pills on posts and reels \u2014 views, likes, comments, shares, reposts and date \u2014 with a page to pick which appear, reorder them and toggle them\n- New date format options \u2014 swap Instagram's relative timestamps on posts, notes, comments, stories and DMs for a fixed date, a preset like dd/MM/yyyy, or your own template, with a relative-time threshold\n- New \"Block surveys\" toggle \u2014 hides Instagram's in-app surveys and feedback prompts, including the \"Interested in this post?\" cards\n- Confirm feed refresh \u2014 an optional alert before a pull-to-refresh reloads the home feed\n- Refresh stories only \u2014 pull-to-refresh reloads just the stories tray and leaves the feed where it is\n\n#### Instants\n- Instants download now works on videos too \u2014 expand, save, share and download-all all handle video instants\n- Send a video from your gallery as an Instant \u2014 frame it square, trim any 7 seconds on a scrollable timeline, then hold to record\n- Confirm before capturing an Instant \u2014 an optional alert on a photo tap or held video, plus a confirm before tapping to switch Instants\n- Auto close the Instants viewer once you've seen them all\n\n#### Downloads & Gallery\n- Download manager got a rebuild \u2014 thumbnails for finished media, live size, speed and time left, a filter row, and swipe a row to cancel, retry or remove\n- Downloads now stay listed after you close the app and can be downloaded again from the history \u2014 kept from 12 hours up to forever, and cleared or exported from Backup and Storage\n- Download quality picker has an advanced view \u2014 download a video with no audio, or pick any of its audio tracks\n- Gallery \u2014 import your own photos, videos and files from the \u2022\u2022\u2022 menu, saved under an Imported filter\n- Gallery browsing got more controls \u2014 combine a sort with images, videos or favorites first, filter by date, pick 2 to 5 columns, and long-press a user section to select all their media\n- The gallery now uses Instagram icons throughout, grid tiles show a date chip, and long-pressing an item shows its date, source and size\n\n#### Profile\n- Profile card details now also show comment, share and repost counts, with a page to pick which stats appear, reorder them and toggle them\n- Followers and Following lists get a filter and sort button on Instagram's search bar \u2014 mutuals, following, follows you or verified, sorted by name or relationship\n- Profile Analyzer's badge now shows gains and losses \u2014 a green +N when a list grew, a red \u2212N when it shrank\n- Profile Analyzer is out of beta\n\n#### Interface & notifications\n- Action button and home-shortcut icons are now fully customisable \u2014 a searchable browser for any Instagram icon or iOS symbol, per button or shared, including Instagram's colourful pet stickers\n- Tab bar icon order is now a live tab bar preview \u2014 drag to reorder, drag one up to hide, tap a hidden icon to add it back\n- Story and disappearing-media overlay buttons can be repositioned by dragging them on a preview\n- The notification pill can be placed anywhere on a phone preview, not just top or bottom\n- Notifications mirrored to the iOS notification centre can now also show as system banners while you're using the app\n- The home shortcut button shows a red dot for new deleted messages, read receipts or call recordings, with a count next to each in its menu\n- Favorite GIFs long-press menu can now copy a GIF's link\n\n#### Privacy & backup\n- Device ID masking now also hides the vendor ID and machine ID, can block Apple device attestation, and can reset fresh while keeping masking on. A Device ID button on the login screen gives the same controls while signed out\n- Follow requests tracker shows a badge for updates you haven't opened yet\n- Backup's \"Feature data\" now opens a list where you tick exactly which stores to export, import or reset, instead of all-or-nothing\n- Backups can be locked with a password when exporting (AES-256), asked for only when you restore them\n\n#### General\n- Change Instagram's own interface language from the tweak \u2014 a picker with a full language list, including Arabic even if your device isn't set to it; restart to apply\n- New Instagram Plus menu in General \u2014 turns on Instagram's paid subscriber features inside the app, including story and message peek, fonts, the app icon picker and custom story lists, with a master on/off and reset\n- Tweak settings shows an occasional donate prompt after long-term use, easily dismissed or hidden for good\n\n### \ud83d\udee0 Fixes\n- Tapping someone in any RyukGram list now opens their profile inside RyukGram, so Back returns to the list instead of Instagram's home\n- Your gallery carries over to this update, with a one-time prompt to restore items saved by an older version, and gallery backups now import and export every item\n- The home shortcut button now shows on iPad\n- Custom chat background now fills behind the message input on Instagram 437 instead of leaving a black strip\n- Follow requests tracker no longer counts tapping \"Following\" on an already-followed account as a new request\n- Follow requests tracker no longer wrongly shows received requests as withdrawn, and loads pending requests reliably\n- Detailed color picker no longer crashes in the story drawing editor on Instagram 434\n- OLED theme no longer turns the RyukGram settings screens fully black\n- OLED theme no longer blacks out grey buttons like Follow/Following on profiles\n- Downloading reels or videos with newer Instagram audio (xHE-AAC) no longer fails\n- Feed scrolling is smoother, especially with the OLED theme enabled\n- Favorite GIFs now send and appear reliably in Direct messages\n- Deleted messages log now saves photos and videos at full quality instead of a low-res thumbnail\n- Deleted messages log no longer crashes when you pull to refresh right after leaving a chat\n- Reroute native Save now shows Instagram's Save and long-press Save on DM media even where Instagram hid them, including in vanish mode\n- Settings that need a restart now take effect after one restart instead of sometimes needing two\n- Auto-clear cache now runs reliably on the chosen interval and finishes even if you close Instagram mid-clear\n- Saving or sharing media now always uses a clean name (like username_stories_date) instead of the internal temporary filename\n- Reels action button stays visible on HDR reels, following Instagram's own tint like the like button does\n- No more crash when switching to the Reels tab on some accounts\n- Bulk saving Instants now labels each save with the account that posted it, even with several people's Instants on screen",
+      "minOSVersion": "15.0",
+      "name": "RyukGram",
+      "size": 205698610,
+      "subtitle": "RyukGram 410 side by side with Instagram \u00b7 by @axryuk",
+      "version": "410.1.0",
+      "versionDate": "2026-07-25T00:00:00Z",
+      "versionDescription": "Updated for Instagram 439.0.0.\n\n### \u2728 Highlights\n- **Call recording** \u2014 record voice and video calls, with auto-record, smart video grids and a per-person browser to play them back\n- **Activity notifications** \u2014 one log for who read your messages plus who came online, went offline or started typing, per person, with an accurate green dot\n- **Grid feed** \u2014 turn your home feed into a tappable grid of thumbnails with stats and author overlays, per account\n- **Stories archive** \u2014 saves every story you post before it expires, with its media and full viewer list, per account\n- **Story viewers list** \u2014 a searchable, filterable, sortable and pinnable \"who viewed my story\", with each viewer's reaction shown\n- **Instagram Plus** \u2014 turn on some Instagram's paid subscriber features inside the app\n- **Custom button icons** \u2014 pick any Instagram icon or iOS symbol for the action and home-shortcut buttons\n\n### \ud83c\udd95 New features\n\n#### Messages\n- Activity notifications and Activity log \u2014 records who read your messages plus who came online, went offline or started typing, as a per-person timeline. Set each event to log silently, notify you, or both, and hold anyone to customise or mute them. A new accurate active-status option turns the green dot off the moment someone leaves. Filter by type and date, swipe or multi-select to delete, and lock the log behind your passcode\n- A dot in the DMs inbox to turn your active status on or off without opening settings\n- Keep deleted messages can now also keep the ones you unsend yourself, shown faded in chat and added to the deleted log\n- Mark chats seen locally \u2014 with read-receipt blocking on, opened chats look read on your device while the sender still gets no receipt; the eye button turns orange until you really mark seen\n- Hold the account name at the top of Direct to show or hide your hidden chats, with an optional passcode/Face ID lock\n- Messages-only mode is now its own menu, can turn on automatically during a daily window, and adds a notifications shortcut plus an optional home-shortcut button in the inbox header\n- Adding someone to a list (read-receipt blocking, hidden or locked chats, chat backgrounds, story viewer pins) now opens a picker of recent DMs with username search, instead of typing it in blind\n- The DM Draw feature can now send an image as your doodle \u2014 from the gallery, Photos, your Instagram or iOS stickers, or a pasted image \u2014 with an editor to crop, resize and remove the background\n- Custom chat backgrounds can now be videos or GIFs, framed with pan-zoom and trim, with the same opacity, blur and dim controls, and re-editable later\n- Hide suggested accounts and channels in Direct messages search\n\n#### Stories\n- Stories archive saves every story you post before it expires, with its media and full viewer list, per account. Browse by date in a grid, see who viewed, liked or reacted, with filter, sort, pinned viewers, an unread badge, optional alerts and its own backup and storage entry\n- The \"who viewed my story\" list is now searchable \u2014 filter (mutuals, following, follows you, verified, reacted, pinned), sort, and pin anyone to the top. Shows avatars, verified badges and each viewer's reaction, loads every viewer, and can switch back to Instagram's own list. Pick which one opens first\n- Marked-seen indicator \u2014 stories you already marked as seen hide the eye button or fill it green for 48 hours, per account\n- New \"Save image (no music)\" story download option for photo stories that have Instagram music on them\n- Story tray long-press \"Profile picture\" now also works in Instagram's new subscriber story preview menu\n\n#### Reels\n- New reels playback menu \u2014 hold the \u22ef or audio button for speed, seek (skip back/forward by a custom amount) and auto-scroll controls\n- Auto-scroll reels is back \u2014 Instagram default or RyukGram mode that keeps advancing after you swipe back\n- Filter reels by engagement \u2014 set a minimum for likes, comments, views or reposts and reels below it never show, plus an option to hide reels whose author hides their counts. Only the Reels tab is filtered by default, so reels you open from a post, profile or share stay untouched\n- Show when a reel was reposted \u2014 an optional date on the \"reposted this reel\" header\n\n#### Feed & Explore\n- New Grid feed \u2014 turn your home feed into a grid of post thumbnails showing likes, comments, views, shares and the author. Pinch to change columns, pull to refresh, tap a post to open it, or hold for a menu to like, follow, view profile, expand, share or copy the link. Choose which stats show, square or taller tiles, and how you switch back to Instagram's feed. Loads instantly, works per account and remembers where you left off\n- Search and explore grids now show stat pills on posts and reels \u2014 views, likes, comments, shares, reposts and date \u2014 with a page to pick which appear, reorder them and toggle them\n- New date format options \u2014 swap Instagram's relative timestamps on posts, notes, comments, stories and DMs for a fixed date, a preset like dd/MM/yyyy, or your own template, with a relative-time threshold\n- New \"Block surveys\" toggle \u2014 hides Instagram's in-app surveys and feedback prompts, including the \"Interested in this post?\" cards\n- Confirm feed refresh \u2014 an optional alert before a pull-to-refresh reloads the home feed\n- Refresh stories only \u2014 pull-to-refresh reloads just the stories tray and leaves the feed where it is\n\n#### Instants\n- Instants download now works on videos too \u2014 expand, save, share and download-all all handle video instants\n- Send a video from your gallery as an Instant \u2014 frame it square, trim any 7 seconds on a scrollable timeline, then hold to record\n- Confirm before capturing an Instant \u2014 an optional alert on a photo tap or held video, plus a confirm before tapping to switch Instants\n- Auto close the Instants viewer once you've seen them all\n\n#### Downloads & Gallery\n- Download manager got a rebuild \u2014 thumbnails for finished media, live size, speed and time left, a filter row, and swipe a row to cancel, retry or remove\n- Downloads now stay listed after you close the app and can be downloaded again from the history \u2014 kept from 12 hours up to forever, and cleared or exported from Backup and Storage\n- Download quality picker has an advanced view \u2014 download a video with no audio, or pick any of its audio tracks\n- Gallery \u2014 import your own photos, videos and files from the \u2022\u2022\u2022 menu, saved under an Imported filter\n- Gallery browsing got more controls \u2014 combine a sort with images, videos or favorites first, filter by date, pick 2 to 5 columns, and long-press a user section to select all their media\n- The gallery now uses Instagram icons throughout, grid tiles show a date chip, and long-pressing an item shows its date, source and size\n\n#### Profile\n- Profile card details now also show comment, share and repost counts, with a page to pick which stats appear, reorder them and toggle them\n- Followers and Following lists get a filter and sort button on Instagram's search bar \u2014 mutuals, following, follows you or verified, sorted by name or relationship\n- Profile Analyzer's badge now shows gains and losses \u2014 a green +N when a list grew, a red \u2212N when it shrank\n- Profile Analyzer is out of beta\n\n#### Interface & notifications\n- Action button and home-shortcut icons are now fully customisable \u2014 a searchable browser for any Instagram icon or iOS symbol, per button or shared, including Instagram's colourful pet stickers\n- Tab bar icon order is now a live tab bar preview \u2014 drag to reorder, drag one up to hide, tap a hidden icon to add it back\n- Story and disappearing-media overlay buttons can be repositioned by dragging them on a preview\n- The notification pill can be placed anywhere on a phone preview, not just top or bottom\n- Notifications mirrored to the iOS notification centre can now also show as system banners while you're using the app\n- The home shortcut button shows a red dot for new deleted messages, read receipts or call recordings, with a count next to each in its menu\n- Favorite GIFs long-press menu can now copy a GIF's link\n\n#### Privacy & backup\n- Device ID masking now also hides the vendor ID and machine ID, can block Apple device attestation, and can reset fresh while keeping masking on. A Device ID button on the login screen gives the same controls while signed out\n- Follow requests tracker shows a badge for updates you haven't opened yet\n- Backup's \"Feature data\" now opens a list where you tick exactly which stores to export, import or reset, instead of all-or-nothing\n- Backups can be locked with a password when exporting (AES-256), asked for only when you restore them\n\n#### General\n- Change Instagram's own interface language from the tweak \u2014 a picker with a full language list, including Arabic even if your device isn't set to it; restart to apply\n- New Instagram Plus menu in General \u2014 turns on Instagram's paid subscriber features inside the app, including story and message peek, fonts, the app icon picker and custom story lists, with a master on/off and reset\n- Tweak settings shows an occasional donate prompt after long-term use, easily dismissed or hidden for good\n\n### \ud83d\udee0 Fixes\n- Tapping someone in any RyukGram list now opens their profile inside RyukGram, so Back returns to the list instead of Instagram's home\n- Your gallery carries over to this update, with a one-time prompt to restore items saved by an older version, and gallery backups now import and export every item\n- The home shortcut button now shows on iPad\n- Custom chat background now fills behind the message input on Instagram 437 instead of leaving a black strip\n- Follow requests tracker no longer counts tapping \"Following\" on an already-followed account as a new request\n- Follow requests tracker no longer wrongly shows received requests as withdrawn, and loads pending requests reliably\n- Detailed color picker no longer crashes in the story drawing editor on Instagram 434\n- OLED theme no longer turns the RyukGram settings screens fully black\n- OLED theme no longer blacks out grey buttons like Follow/Following on profiles\n- Downloading reels or videos with newer Instagram audio (xHE-AAC) no longer fails\n- Feed scrolling is smoother, especially with the OLED theme enabled\n- Favorite GIFs now send and appear reliably in Direct messages\n- Deleted messages log now saves photos and videos at full quality instead of a low-res thumbnail\n- Deleted messages log no longer crashes when you pull to refresh right after leaving a chat\n- Reroute native Save now shows Instagram's Save and long-press Save on DM media even where Instagram hid them, including in vanish mode\n- Settings that need a restart now take effect after one restart instead of sometimes needing two\n- Auto-clear cache now runs reliably on the chosen interval and finishes even if you close Instagram mid-clear\n- Saving or sharing media now always uses a clean name (like username_stories_date) instead of the internal temporary filename\n- Reels action button stays visible on HDR reels, following Instagram's own tint like the like button does\n- No more crash when switching to the Reels tab on some accounts\n- Bulk saving Instants now labels each save with the account that posted it, even with several people's Instants on screen",
+      "website": "https://source.ryuksign.com",
+      "buildVersion": "849447290",
+      "date": "2026-07-25T00:00:00Z",
+      "sha256": "f3ee8bc4f196bde7848dde5d84b7b29abd6ab14b6b4a4c91a2121287d67bd467",
+      "__source": "https://source.ryuksign.com/",
+      "__mirrors": [],
+      "__stores": [
+        "KSign"
+      ]
+    },
+    {
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Instagram uses your device's camera to do things like help you take photos, record videos and use effects.",
+          "NSMicrophoneUsageDescription": "Instagram uses your device's microphone to do things like help you record videos and preview audio effects.",
+          "NSPhotoLibraryUsageDescription": "Instagram uses access to your camera roll to do things like help you share photos and videos to Instagram, apply effects and suggest photos and videos to share.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your Camera Roll.",
+          "NSContactsUsageDescription": "Instagram will use your contacts to suggest people and things you care about, and offer a better service.",
+          "NSLocationWhenInUseUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places.",
+          "NSFaceIDUsageDescription": "Enable Face ID for quick and secure authentication on Instagram.",
+          "NSCalendarsUsageDescription": "This will let Instagram sync events to your calendar.",
+          "NSBluetoothAlwaysUsageDescription": "This allows your phone to find and connect to devices using a Bluetooth connection.",
+          "NSLocalNetworkUsageDescription": "Used to discover and connect to compatible streaming devices on your Wi-Fi network.",
+          "NSFocusStatusUsageDescription": "This allows Instagram to check whether you've been missing notifications from friends.",
+          "NSUserTrackingUsageDescription": "This helps Instagram personalize ads we show you."
+        }
+      },
+      "bundleIdentifier": "com.ryuk.ryukgram",
+      "category": "social",
+      "developerName": "Ryuk",
       "downloadURL": "https://source.ryuksign.com/ipas/a4e1fbf58798981c5f39.ipa",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/e5/f2/30e5f206-5a5b-c586-5d94-619f69c53448/Placeholder.mill/400x400bb-75.png",
       "localizedDescription": "Updated for Instagram 439.0.0.\n\n### \u2728 Highlights\n- **Call recording** \u2014 record voice and video calls, with auto-record, smart video grids and a per-person browser to play them back\n- **Activity notifications** \u2014 one log for who read your messages plus who came online, went offline or started typing, per person, with an accurate green dot\n- **Grid feed** \u2014 turn your home feed into a tappable grid of thumbnails with stats and author overlays, per account\n- **Stories archive** \u2014 saves every story you post before it expires, with its media and full viewer list, per account\n- **Story viewers list** \u2014 a searchable, filterable, sortable and pinnable \"who viewed my story\", with each viewer's reaction shown\n- **Instagram Plus** \u2014 turn on some Instagram's paid subscriber features inside the app\n- **Custom button icons** \u2014 pick any Instagram icon or iOS symbol for the action and home-shortcut buttons\n\n### \ud83c\udd95 New features\n\n#### Messages\n- Activity notifications and Activity log \u2014 records who read your messages plus who came online, went offline or started typing, as a per-person timeline. Set each event to log silently, notify you, or both, and hold anyone to customise or mute them. A new accurate active-status option turns the green dot off the moment someone leaves. Filter by type and date, swipe or multi-select to delete, and lock the log behind your passcode\n- A dot in the DMs inbox to turn your active status on or off without opening settings\n- Keep deleted messages can now also keep the ones you unsend yourself, shown faded in chat and added to the deleted log\n- Mark chats seen locally \u2014 with read-receipt blocking on, opened chats look read on your device while the sender still gets no receipt; the eye button turns orange until you really mark seen\n- Hold the account name at the top of Direct to show or hide your hidden chats, with an optional passcode/Face ID lock\n- Messages-only mode is now its own menu, can turn on automatically during a daily window, and adds a notifications shortcut plus an optional home-shortcut button in the inbox header\n- Adding someone to a list (read-receipt blocking, hidden or locked chats, chat backgrounds, story viewer pins) now opens a picker of recent DMs with username search, instead of typing it in blind\n- The DM Draw feature can now send an image as your doodle \u2014 from the gallery, Photos, your Instagram or iOS stickers, or a pasted image \u2014 with an editor to crop, resize and remove the background\n- Custom chat backgrounds can now be videos or GIFs, framed with pan-zoom and trim, with the same opacity, blur and dim controls, and re-editable later\n- Hide suggested accounts and channels in Direct messages search\n\n#### Stories\n- Stories archive saves every story you post before it expires, with its media and full viewer list, per account. Browse by date in a grid, see who viewed, liked or reacted, with filter, sort, pinned viewers, an unread badge, optional alerts and its own backup and storage entry\n- The \"who viewed my story\" list is now searchable \u2014 filter (mutuals, following, follows you, verified, reacted, pinned), sort, and pin anyone to the top. Shows avatars, verified badges and each viewer's reaction, loads every viewer, and can switch back to Instagram's own list. Pick which one opens first\n- Marked-seen indicator \u2014 stories you already marked as seen hide the eye button or fill it green for 48 hours, per account\n- New \"Save image (no music)\" story download option for photo stories that have Instagram music on them\n- Story tray long-press \"Profile picture\" now also works in Instagram's new subscriber story preview menu\n\n#### Reels\n- New reels playback menu \u2014 hold the \u22ef or audio button for speed, seek (skip back/forward by a custom amount) and auto-scroll controls\n- Auto-scroll reels is back \u2014 Instagram default or RyukGram mode that keeps advancing after you swipe back\n- Filter reels by engagement \u2014 set a minimum for likes, comments, views or reposts and reels below it never show, plus an option to hide reels whose author hides their counts. Only the Reels tab is filtered by default, so reels you open from a post, profile or share stay untouched\n- Show when a reel was reposted \u2014 an optional date on the \"reposted this reel\" header\n\n#### Feed & Explore\n- New Grid feed \u2014 turn your home feed into a grid of post thumbnails showing likes, comments, views, shares and the author. Pinch to change columns, pull to refresh, tap a post to open it, or hold for a menu to like, follow, view profile, expand, share or copy the link. Choose which stats show, square or taller tiles, and how you switch back to Instagram's feed. Loads instantly, works per account and remembers where you left off\n- Search and explore grids now show stat pills on posts and reels \u2014 views, likes, comments, shares, reposts and date \u2014 with a page to pick which appear, reorder them and toggle them\n- New date format options \u2014 swap Instagram's relative timestamps on posts, notes, comments, stories and DMs for a fixed date, a preset like dd/MM/yyyy, or your own template, with a relative-time threshold\n- New \"Block surveys\" toggle \u2014 hides Instagram's in-app surveys and feedback prompts, including the \"Interested in this post?\" cards\n- Confirm feed refresh \u2014 an optional alert before a pull-to-refresh reloads the home feed\n- Refresh stories only \u2014 pull-to-refresh reloads just the stories tray and leaves the feed where it is\n\n#### Instants\n- Instants download now works on videos too \u2014 expand, save, share and download-all all handle video instants\n- Send a video from your gallery as an Instant \u2014 frame it square, trim any 7 seconds on a scrollable timeline, then hold to record\n- Confirm before capturing an Instant \u2014 an optional alert on a photo tap or held video, plus a confirm before tapping to switch Instants\n- Auto close the Instants viewer once you've seen them all\n\n#### Downloads & Gallery\n- Download manager got a rebuild \u2014 thumbnails for finished media, live size, speed and time left, a filter row, and swipe a row to cancel, retry or remove\n- Downloads now stay listed after you close the app and can be downloaded again from the history \u2014 kept from 12 hours up to forever, and cleared or exported from Backup and Storage\n- Download quality picker has an advanced view \u2014 download a video with no audio, or pick any of its audio tracks\n- Gallery \u2014 import your own photos, videos and files from the \u2022\u2022\u2022 menu, saved under an Imported filter\n- Gallery browsing got more controls \u2014 combine a sort with images, videos or favorites first, filter by date, pick 2 to 5 columns, and long-press a user section to select all their media\n- The gallery now uses Instagram icons throughout, grid tiles show a date chip, and long-pressing an item shows its date, source and size\n\n#### Profile\n- Profile card details now also show comment, share and repost counts, with a page to pick which stats appear, reorder them and toggle them\n- Followers and Following lists get a filter and sort button on Instagram's search bar \u2014 mutuals, following, follows you or verified, sorted by name or relationship\n- Profile Analyzer's badge now shows gains and losses \u2014 a green +N when a list grew, a red \u2212N when it shrank\n- Profile Analyzer is out of beta\n\n#### Interface & notifications\n- Action button and home-shortcut icons are now fully customisable \u2014 a searchable browser for any Instagram icon or iOS symbol, per button or shared, including Instagram's colourful pet stickers\n- Tab bar icon order is now a live tab bar preview \u2014 drag to reorder, drag one up to hide, tap a hidden icon to add it back\n- Story and disappearing-media overlay buttons can be repositioned by dragging them on a preview\n- The notification pill can be placed anywhere on a phone preview, not just top or bottom\n- Notifications mirrored to the iOS notification centre can now also show as system banners while you're using the app\n- The home shortcut button shows a red dot for new deleted messages, read receipts or call recordings, with a count next to each in its menu\n- Favorite GIFs long-press menu can now copy a GIF's link\n\n#### Privacy & backup\n- Device ID masking now also hides the vendor ID and machine ID, can block Apple device attestation, and can reset fresh while keeping masking on. A Device ID button on the login screen gives the same controls while signed out\n- Follow requests tracker shows a badge for updates you haven't opened yet\n- Backup's \"Feature data\" now opens a list where you tick exactly which stores to export, import or reset, instead of all-or-nothing\n- Backups can be locked with a password when exporting (AES-256), asked for only when you restore them\n\n#### General\n- Change Instagram's own interface language from the tweak \u2014 a picker with a full language list, including Arabic even if your device isn't set to it; restart to apply\n- New Instagram Plus menu in General \u2014 turns on Instagram's paid subscriber features inside the app, including story and message peek, fonts, the app icon picker and custom story lists, with a master on/off and reset\n- Tweak settings shows an occasional donate prompt after long-term use, easily dismissed or hidden for good\n\n### \ud83d\udee0 Fixes\n- Tapping someone in any RyukGram list now opens their profile inside RyukGram, so Back returns to the list instead of Instagram's home\n- Your gallery carries over to this update, with a one-time prompt to restore items saved by an older version, and gallery backups now import and export every item\n- The home shortcut button now shows on iPad\n- Custom chat background now fills behind the message input on Instagram 437 instead of leaving a black strip\n- Follow requests tracker no longer counts tapping \"Following\" on an already-followed account as a new request\n- Follow requests tracker no longer wrongly shows received requests as withdrawn, and loads pending requests reliably\n- Detailed color picker no longer crashes in the story drawing editor on Instagram 434\n- OLED theme no longer turns the RyukGram settings screens fully black\n- OLED theme no longer blacks out grey buttons like Follow/Following on profiles\n- Downloading reels or videos with newer Instagram audio (xHE-AAC) no longer fails\n- Feed scrolling is smoother, especially with the OLED theme enabled\n- Favorite GIFs now send and appear reliably in Direct messages\n- Deleted messages log now saves photos and videos at full quality instead of a low-res thumbnail\n- Deleted messages log no longer crashes when you pull to refresh right after leaving a chat\n- Reroute native Save now shows Instagram's Save and long-press Save on DM media even where Instagram hid them, including in vanish mode\n- Settings that need a restart now take effect after one restart instead of sometimes needing two\n- Auto-clear cache now runs reliably on the chosen interval and finishes even if you close Instagram mid-clear\n- Saving or sharing media now always uses a clean name (like username_stories_date) instead of the internal temporary filename\n- Reels action button stays visible on HDR reels, following Instagram's own tint like the like button does\n- No more crash when switching to the Reels tab on some accounts\n- Bulk saving Instants now labels each save with the account that posted it, even with several people's Instants on screen",
@@ -29886,48 +30117,6 @@
       "buildVersion": "1021301964",
       "date": "2026-07-25T00:00:00Z",
       "sha256": "e5c9e392c399cd19f4220b27770724acd5aac55121962d4c9b36464b63c8acd0",
-      "__source": "https://source.ryuksign.com/",
-      "__mirrors": [],
-      "__stores": [
-        "KSign"
-      ]
-    },
-    {
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSCameraUsageDescription": "Instagram uses your device's camera to do things like help you take photos, record videos and use effects.",
-          "NSMicrophoneUsageDescription": "Instagram uses your device's microphone to do things like help you record videos and preview audio effects.",
-          "NSPhotoLibraryUsageDescription": "Instagram uses access to your camera roll to do things like help you share photos and videos to Instagram, apply effects and suggest photos and videos to share.",
-          "NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your Camera Roll.",
-          "NSContactsUsageDescription": "Instagram will use your contacts to suggest people and things you care about, and offer a better service.",
-          "NSLocationWhenInUseUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places.",
-          "NSLocationAlwaysAndWhenInUseUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places.",
-          "NSFaceIDUsageDescription": "Enable Face ID for quick and secure authentication on Instagram.",
-          "NSCalendarsUsageDescription": "This will let Instagram sync events to your calendar.",
-          "NSBluetoothAlwaysUsageDescription": "This allows your phone to find and connect to devices using a Bluetooth connection.",
-          "NSLocalNetworkUsageDescription": "Used to discover and connect to compatible streaming devices on your Wi-Fi network.",
-          "NSFocusStatusUsageDescription": "This allows Instagram to check whether you've been missing notifications from friends.",
-          "NSUserTrackingUsageDescription": "This helps Instagram personalize ads we show you."
-        }
-      },
-      "bundleIdentifier": "com.ryuk.ryukgram",
-      "category": "social",
-      "developerName": "Ryuk",
-      "downloadURL": "https://source.ryuksign.com/ipas/42ef855e5ed75796d22e.ipa",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/e5/f2/30e5f206-5a5b-c586-5d94-619f69c53448/Placeholder.mill/400x400bb-75.png",
-      "localizedDescription": "Updated for Instagram 439.0.0.\n\n### \u2728 Highlights\n- **Call recording** \u2014 record voice and video calls, with auto-record, smart video grids and a per-person browser to play them back\n- **Activity notifications** \u2014 one log for who read your messages plus who came online, went offline or started typing, per person, with an accurate green dot\n- **Grid feed** \u2014 turn your home feed into a tappable grid of thumbnails with stats and author overlays, per account\n- **Stories archive** \u2014 saves every story you post before it expires, with its media and full viewer list, per account\n- **Story viewers list** \u2014 a searchable, filterable, sortable and pinnable \"who viewed my story\", with each viewer's reaction shown\n- **Instagram Plus** \u2014 turn on some Instagram's paid subscriber features inside the app\n- **Custom button icons** \u2014 pick any Instagram icon or iOS symbol for the action and home-shortcut buttons\n\n### \ud83c\udd95 New features\n\n#### Messages\n- Activity notifications and Activity log \u2014 records who read your messages plus who came online, went offline or started typing, as a per-person timeline. Set each event to log silently, notify you, or both, and hold anyone to customise or mute them. A new accurate active-status option turns the green dot off the moment someone leaves. Filter by type and date, swipe or multi-select to delete, and lock the log behind your passcode\n- A dot in the DMs inbox to turn your active status on or off without opening settings\n- Keep deleted messages can now also keep the ones you unsend yourself, shown faded in chat and added to the deleted log\n- Mark chats seen locally \u2014 with read-receipt blocking on, opened chats look read on your device while the sender still gets no receipt; the eye button turns orange until you really mark seen\n- Hold the account name at the top of Direct to show or hide your hidden chats, with an optional passcode/Face ID lock\n- Messages-only mode is now its own menu, can turn on automatically during a daily window, and adds a notifications shortcut plus an optional home-shortcut button in the inbox header\n- Adding someone to a list (read-receipt blocking, hidden or locked chats, chat backgrounds, story viewer pins) now opens a picker of recent DMs with username search, instead of typing it in blind\n- The DM Draw feature can now send an image as your doodle \u2014 from the gallery, Photos, your Instagram or iOS stickers, or a pasted image \u2014 with an editor to crop, resize and remove the background\n- Custom chat backgrounds can now be videos or GIFs, framed with pan-zoom and trim, with the same opacity, blur and dim controls, and re-editable later\n- Hide suggested accounts and channels in Direct messages search\n\n#### Stories\n- Stories archive saves every story you post before it expires, with its media and full viewer list, per account. Browse by date in a grid, see who viewed, liked or reacted, with filter, sort, pinned viewers, an unread badge, optional alerts and its own backup and storage entry\n- The \"who viewed my story\" list is now searchable \u2014 filter (mutuals, following, follows you, verified, reacted, pinned), sort, and pin anyone to the top. Shows avatars, verified badges and each viewer's reaction, loads every viewer, and can switch back to Instagram's own list. Pick which one opens first\n- Marked-seen indicator \u2014 stories you already marked as seen hide the eye button or fill it green for 48 hours, per account\n- New \"Save image (no music)\" story download option for photo stories that have Instagram music on them\n- Story tray long-press \"Profile picture\" now also works in Instagram's new subscriber story preview menu\n\n#### Reels\n- New reels playback menu \u2014 hold the \u22ef or audio button for speed, seek (skip back/forward by a custom amount) and auto-scroll controls\n- Auto-scroll reels is back \u2014 Instagram default or RyukGram mode that keeps advancing after you swipe back\n- Filter reels by engagement \u2014 set a minimum for likes, comments, views or reposts and reels below it never show, plus an option to hide reels whose author hides their counts. Only the Reels tab is filtered by default, so reels you open from a post, profile or share stay untouched\n- Show when a reel was reposted \u2014 an optional date on the \"reposted this reel\" header\n\n#### Feed & Explore\n- New Grid feed \u2014 turn your home feed into a grid of post thumbnails showing likes, comments, views, shares and the author. Pinch to change columns, pull to refresh, tap a post to open it, or hold for a menu to like, follow, view profile, expand, share or copy the link. Choose which stats show, square or taller tiles, and how you switch back to Instagram's feed. Loads instantly, works per account and remembers where you left off\n- Search and explore grids now show stat pills on posts and reels \u2014 views, likes, comments, shares, reposts and date \u2014 with a page to pick which appear, reorder them and toggle them\n- New date format options \u2014 swap Instagram's relative timestamps on posts, notes, comments, stories and DMs for a fixed date, a preset like dd/MM/yyyy, or your own template, with a relative-time threshold\n- New \"Block surveys\" toggle \u2014 hides Instagram's in-app surveys and feedback prompts, including the \"Interested in this post?\" cards\n- Confirm feed refresh \u2014 an optional alert before a pull-to-refresh reloads the home feed\n- Refresh stories only \u2014 pull-to-refresh reloads just the stories tray and leaves the feed where it is\n\n#### Instants\n- Instants download now works on videos too \u2014 expand, save, share and download-all all handle video instants\n- Send a video from your gallery as an Instant \u2014 frame it square, trim any 7 seconds on a scrollable timeline, then hold to record\n- Confirm before capturing an Instant \u2014 an optional alert on a photo tap or held video, plus a confirm before tapping to switch Instants\n- Auto close the Instants viewer once you've seen them all\n\n#### Downloads & Gallery\n- Download manager got a rebuild \u2014 thumbnails for finished media, live size, speed and time left, a filter row, and swipe a row to cancel, retry or remove\n- Downloads now stay listed after you close the app and can be downloaded again from the history \u2014 kept from 12 hours up to forever, and cleared or exported from Backup and Storage\n- Download quality picker has an advanced view \u2014 download a video with no audio, or pick any of its audio tracks\n- Gallery \u2014 import your own photos, videos and files from the \u2022\u2022\u2022 menu, saved under an Imported filter\n- Gallery browsing got more controls \u2014 combine a sort with images, videos or favorites first, filter by date, pick 2 to 5 columns, and long-press a user section to select all their media\n- The gallery now uses Instagram icons throughout, grid tiles show a date chip, and long-pressing an item shows its date, source and size\n\n#### Profile\n- Profile card details now also show comment, share and repost counts, with a page to pick which stats appear, reorder them and toggle them\n- Followers and Following lists get a filter and sort button on Instagram's search bar \u2014 mutuals, following, follows you or verified, sorted by name or relationship\n- Profile Analyzer's badge now shows gains and losses \u2014 a green +N when a list grew, a red \u2212N when it shrank\n- Profile Analyzer is out of beta\n\n#### Interface & notifications\n- Action button and home-shortcut icons are now fully customisable \u2014 a searchable browser for any Instagram icon or iOS symbol, per button or shared, including Instagram's colourful pet stickers\n- Tab bar icon order is now a live tab bar preview \u2014 drag to reorder, drag one up to hide, tap a hidden icon to add it back\n- Story and disappearing-media overlay buttons can be repositioned by dragging them on a preview\n- The notification pill can be placed anywhere on a phone preview, not just top or bottom\n- Notifications mirrored to the iOS notification centre can now also show as system banners while you're using the app\n- The home shortcut button shows a red dot for new deleted messages, read receipts or call recordings, with a count next to each in its menu\n- Favorite GIFs long-press menu can now copy a GIF's link\n\n#### Privacy & backup\n- Device ID masking now also hides the vendor ID and machine ID, can block Apple device attestation, and can reset fresh while keeping masking on. A Device ID button on the login screen gives the same controls while signed out\n- Follow requests tracker shows a badge for updates you haven't opened yet\n- Backup's \"Feature data\" now opens a list where you tick exactly which stores to export, import or reset, instead of all-or-nothing\n- Backups can be locked with a password when exporting (AES-256), asked for only when you restore them\n\n#### General\n- Change Instagram's own interface language from the tweak \u2014 a picker with a full language list, including Arabic even if your device isn't set to it; restart to apply\n- New Instagram Plus menu in General \u2014 turns on Instagram's paid subscriber features inside the app, including story and message peek, fonts, the app icon picker and custom story lists, with a master on/off and reset\n- Tweak settings shows an occasional donate prompt after long-term use, easily dismissed or hidden for good\n\n### \ud83d\udee0 Fixes\n- Tapping someone in any RyukGram list now opens their profile inside RyukGram, so Back returns to the list instead of Instagram's home\n- Your gallery carries over to this update, with a one-time prompt to restore items saved by an older version, and gallery backups now import and export every item\n- The home shortcut button now shows on iPad\n- Custom chat background now fills behind the message input on Instagram 437 instead of leaving a black strip\n- Follow requests tracker no longer counts tapping \"Following\" on an already-followed account as a new request\n- Follow requests tracker no longer wrongly shows received requests as withdrawn, and loads pending requests reliably\n- Detailed color picker no longer crashes in the story drawing editor on Instagram 434\n- OLED theme no longer turns the RyukGram settings screens fully black\n- OLED theme no longer blacks out grey buttons like Follow/Following on profiles\n- Downloading reels or videos with newer Instagram audio (xHE-AAC) no longer fails\n- Feed scrolling is smoother, especially with the OLED theme enabled\n- Favorite GIFs now send and appear reliably in Direct messages\n- Deleted messages log now saves photos and videos at full quality instead of a low-res thumbnail\n- Deleted messages log no longer crashes when you pull to refresh right after leaving a chat\n- Reroute native Save now shows Instagram's Save and long-press Save on DM media even where Instagram hid them, including in vanish mode\n- Settings that need a restart now take effect after one restart instead of sometimes needing two\n- Auto-clear cache now runs reliably on the chosen interval and finishes even if you close Instagram mid-clear\n- Saving or sharing media now always uses a clean name (like username_stories_date) instead of the internal temporary filename\n- Reels action button stays visible on HDR reels, following Instagram's own tint like the like button does\n- No more crash when switching to the Reels tab on some accounts\n- Bulk saving Instants now labels each save with the account that posted it, even with several people's Instants on screen",
-      "minOSVersion": "15.0",
-      "name": "RyukGram",
-      "size": 205698610,
-      "subtitle": "RyukGram 410 side by side with Instagram \u00b7 by @axryuk",
-      "version": "410.1.0",
-      "versionDate": "2026-07-25T00:00:00Z",
-      "versionDescription": "Updated for Instagram 439.0.0.\n\n### \u2728 Highlights\n- **Call recording** \u2014 record voice and video calls, with auto-record, smart video grids and a per-person browser to play them back\n- **Activity notifications** \u2014 one log for who read your messages plus who came online, went offline or started typing, per person, with an accurate green dot\n- **Grid feed** \u2014 turn your home feed into a tappable grid of thumbnails with stats and author overlays, per account\n- **Stories archive** \u2014 saves every story you post before it expires, with its media and full viewer list, per account\n- **Story viewers list** \u2014 a searchable, filterable, sortable and pinnable \"who viewed my story\", with each viewer's reaction shown\n- **Instagram Plus** \u2014 turn on some Instagram's paid subscriber features inside the app\n- **Custom button icons** \u2014 pick any Instagram icon or iOS symbol for the action and home-shortcut buttons\n\n### \ud83c\udd95 New features\n\n#### Messages\n- Activity notifications and Activity log \u2014 records who read your messages plus who came online, went offline or started typing, as a per-person timeline. Set each event to log silently, notify you, or both, and hold anyone to customise or mute them. A new accurate active-status option turns the green dot off the moment someone leaves. Filter by type and date, swipe or multi-select to delete, and lock the log behind your passcode\n- A dot in the DMs inbox to turn your active status on or off without opening settings\n- Keep deleted messages can now also keep the ones you unsend yourself, shown faded in chat and added to the deleted log\n- Mark chats seen locally \u2014 with read-receipt blocking on, opened chats look read on your device while the sender still gets no receipt; the eye button turns orange until you really mark seen\n- Hold the account name at the top of Direct to show or hide your hidden chats, with an optional passcode/Face ID lock\n- Messages-only mode is now its own menu, can turn on automatically during a daily window, and adds a notifications shortcut plus an optional home-shortcut button in the inbox header\n- Adding someone to a list (read-receipt blocking, hidden or locked chats, chat backgrounds, story viewer pins) now opens a picker of recent DMs with username search, instead of typing it in blind\n- The DM Draw feature can now send an image as your doodle \u2014 from the gallery, Photos, your Instagram or iOS stickers, or a pasted image \u2014 with an editor to crop, resize and remove the background\n- Custom chat backgrounds can now be videos or GIFs, framed with pan-zoom and trim, with the same opacity, blur and dim controls, and re-editable later\n- Hide suggested accounts and channels in Direct messages search\n\n#### Stories\n- Stories archive saves every story you post before it expires, with its media and full viewer list, per account. Browse by date in a grid, see who viewed, liked or reacted, with filter, sort, pinned viewers, an unread badge, optional alerts and its own backup and storage entry\n- The \"who viewed my story\" list is now searchable \u2014 filter (mutuals, following, follows you, verified, reacted, pinned), sort, and pin anyone to the top. Shows avatars, verified badges and each viewer's reaction, loads every viewer, and can switch back to Instagram's own list. Pick which one opens first\n- Marked-seen indicator \u2014 stories you already marked as seen hide the eye button or fill it green for 48 hours, per account\n- New \"Save image (no music)\" story download option for photo stories that have Instagram music on them\n- Story tray long-press \"Profile picture\" now also works in Instagram's new subscriber story preview menu\n\n#### Reels\n- New reels playback menu \u2014 hold the \u22ef or audio button for speed, seek (skip back/forward by a custom amount) and auto-scroll controls\n- Auto-scroll reels is back \u2014 Instagram default or RyukGram mode that keeps advancing after you swipe back\n- Filter reels by engagement \u2014 set a minimum for likes, comments, views or reposts and reels below it never show, plus an option to hide reels whose author hides their counts. Only the Reels tab is filtered by default, so reels you open from a post, profile or share stay untouched\n- Show when a reel was reposted \u2014 an optional date on the \"reposted this reel\" header\n\n#### Feed & Explore\n- New Grid feed \u2014 turn your home feed into a grid of post thumbnails showing likes, comments, views, shares and the author. Pinch to change columns, pull to refresh, tap a post to open it, or hold for a menu to like, follow, view profile, expand, share or copy the link. Choose which stats show, square or taller tiles, and how you switch back to Instagram's feed. Loads instantly, works per account and remembers where you left off\n- Search and explore grids now show stat pills on posts and reels \u2014 views, likes, comments, shares, reposts and date \u2014 with a page to pick which appear, reorder them and toggle them\n- New date format options \u2014 swap Instagram's relative timestamps on posts, notes, comments, stories and DMs for a fixed date, a preset like dd/MM/yyyy, or your own template, with a relative-time threshold\n- New \"Block surveys\" toggle \u2014 hides Instagram's in-app surveys and feedback prompts, including the \"Interested in this post?\" cards\n- Confirm feed refresh \u2014 an optional alert before a pull-to-refresh reloads the home feed\n- Refresh stories only \u2014 pull-to-refresh reloads just the stories tray and leaves the feed where it is\n\n#### Instants\n- Instants download now works on videos too \u2014 expand, save, share and download-all all handle video instants\n- Send a video from your gallery as an Instant \u2014 frame it square, trim any 7 seconds on a scrollable timeline, then hold to record\n- Confirm before capturing an Instant \u2014 an optional alert on a photo tap or held video, plus a confirm before tapping to switch Instants\n- Auto close the Instants viewer once you've seen them all\n\n#### Downloads & Gallery\n- Download manager got a rebuild \u2014 thumbnails for finished media, live size, speed and time left, a filter row, and swipe a row to cancel, retry or remove\n- Downloads now stay listed after you close the app and can be downloaded again from the history \u2014 kept from 12 hours up to forever, and cleared or exported from Backup and Storage\n- Download quality picker has an advanced view \u2014 download a video with no audio, or pick any of its audio tracks\n- Gallery \u2014 import your own photos, videos and files from the \u2022\u2022\u2022 menu, saved under an Imported filter\n- Gallery browsing got more controls \u2014 combine a sort with images, videos or favorites first, filter by date, pick 2 to 5 columns, and long-press a user section to select all their media\n- The gallery now uses Instagram icons throughout, grid tiles show a date chip, and long-pressing an item shows its date, source and size\n\n#### Profile\n- Profile card details now also show comment, share and repost counts, with a page to pick which stats appear, reorder them and toggle them\n- Followers and Following lists get a filter and sort button on Instagram's search bar \u2014 mutuals, following, follows you or verified, sorted by name or relationship\n- Profile Analyzer's badge now shows gains and losses \u2014 a green +N when a list grew, a red \u2212N when it shrank\n- Profile Analyzer is out of beta\n\n#### Interface & notifications\n- Action button and home-shortcut icons are now fully customisable \u2014 a searchable browser for any Instagram icon or iOS symbol, per button or shared, including Instagram's colourful pet stickers\n- Tab bar icon order is now a live tab bar preview \u2014 drag to reorder, drag one up to hide, tap a hidden icon to add it back\n- Story and disappearing-media overlay buttons can be repositioned by dragging them on a preview\n- The notification pill can be placed anywhere on a phone preview, not just top or bottom\n- Notifications mirrored to the iOS notification centre can now also show as system banners while you're using the app\n- The home shortcut button shows a red dot for new deleted messages, read receipts or call recordings, with a count next to each in its menu\n- Favorite GIFs long-press menu can now copy a GIF's link\n\n#### Privacy & backup\n- Device ID masking now also hides the vendor ID and machine ID, can block Apple device attestation, and can reset fresh while keeping masking on. A Device ID button on the login screen gives the same controls while signed out\n- Follow requests tracker shows a badge for updates you haven't opened yet\n- Backup's \"Feature data\" now opens a list where you tick exactly which stores to export, import or reset, instead of all-or-nothing\n- Backups can be locked with a password when exporting (AES-256), asked for only when you restore them\n\n#### General\n- Change Instagram's own interface language from the tweak \u2014 a picker with a full language list, including Arabic even if your device isn't set to it; restart to apply\n- New Instagram Plus menu in General \u2014 turns on Instagram's paid subscriber features inside the app, including story and message peek, fonts, the app icon picker and custom story lists, with a master on/off and reset\n- Tweak settings shows an occasional donate prompt after long-term use, easily dismissed or hidden for good\n\n### \ud83d\udee0 Fixes\n- Tapping someone in any RyukGram list now opens their profile inside RyukGram, so Back returns to the list instead of Instagram's home\n- Your gallery carries over to this update, with a one-time prompt to restore items saved by an older version, and gallery backups now import and export every item\n- The home shortcut button now shows on iPad\n- Custom chat background now fills behind the message input on Instagram 437 instead of leaving a black strip\n- Follow requests tracker no longer counts tapping \"Following\" on an already-followed account as a new request\n- Follow requests tracker no longer wrongly shows received requests as withdrawn, and loads pending requests reliably\n- Detailed color picker no longer crashes in the story drawing editor on Instagram 434\n- OLED theme no longer turns the RyukGram settings screens fully black\n- OLED theme no longer blacks out grey buttons like Follow/Following on profiles\n- Downloading reels or videos with newer Instagram audio (xHE-AAC) no longer fails\n- Feed scrolling is smoother, especially with the OLED theme enabled\n- Favorite GIFs now send and appear reliably in Direct messages\n- Deleted messages log now saves photos and videos at full quality instead of a low-res thumbnail\n- Deleted messages log no longer crashes when you pull to refresh right after leaving a chat\n- Reroute native Save now shows Instagram's Save and long-press Save on DM media even where Instagram hid them, including in vanish mode\n- Settings that need a restart now take effect after one restart instead of sometimes needing two\n- Auto-clear cache now runs reliably on the chosen interval and finishes even if you close Instagram mid-clear\n- Saving or sharing media now always uses a clean name (like username_stories_date) instead of the internal temporary filename\n- Reels action button stays visible on HDR reels, following Instagram's own tint like the like button does\n- No more crash when switching to the Reels tab on some accounts\n- Bulk saving Instants now labels each save with the account that posted it, even with several people's Instants on screen",
-      "website": "https://source.ryuksign.com",
-      "buildVersion": "849447290",
-      "date": "2026-07-25T00:00:00Z",
-      "sha256": "f3ee8bc4f196bde7848dde5d84b7b29abd6ab14b6b4a4c91a2121287d67bd467",
       "__source": "https://source.ryuksign.com/",
       "__mirrors": [],
       "__stores": [
@@ -33368,7 +33557,7 @@
       "version": "3.8.0",
       "versionDate": "2026-07-17T07:44:20Z",
       "versionDescription": "LiveContainer 3.8.0\r \n> [!Warning]\r\n> The standalone version requires SideStore 0.6.2+ or AltStore 2.2.1+ for installation.\r\n> To install LiveContainer with built-in SideStore (\"LiveContainer+SideStore.ipa\"), please use [Impactor](https://github.com/khcrysalis/Impactor) or [iloader](https://github.com/nab138/iloader). See [our installation guide](https://livecontainer.github.io/docs/installation/lc_sidestore) for details.\r \nNew Features\r \nStorage Management\r \n\u2022 Added a new storage management view with a breakdown of app bundles, containers, temporary files, app group data, tweaks, and other files. (Hidden apps' size is included in \"other\" section until unlocked)\r\n\u2022 Added per-app storage details, including app bundle size, container sizes, and last-used date.\r\n\u2022 Added actions to clean temporary files and caches, including guest app caches and LiveContainer's own caches.\r \nMultiple LiveContainers\r\n\u2022 Added configurable launch priority for multiple LiveContainer instances, making shared-app shortcuts choose available instances in the order you prefer. (1367)\r \nShare to Apps in LiveContainer\r\nAdded a share extension to LiveContainer. When you share a URL or a file from iOS's share sheet, LiveContainer will ask which app you would like to open the URL/file in, so the old share to LiveContainer shortcut method is no longer needed. When an ipa file is shared in this way, LiveContainer will ask if you want to install it in LiveContainer or in the built-in SideStore (if installed) (1357)\r \nMultitasking\r \n\u2022 Added per-app multitask preferences. Each app can now follow the global setting, always launch in multitask mode, or avoid multitask mode. (1208)\r\n\u2022 Improved multitask dock behavior: the dock can be made smaller, hidden more cleanly, and has improved padding. (1228, 1250)\r\n\u2022 Added more multitask window animations and improved native-window scene handling.\r\n\u2022 URL schemes and \"open-url\" payloads can be passed to already-running multitask apps and native windows.\r \nJIT\r\n\u2022 Added StosDebug support as a JIT enabler.\r \nTweakLoader\r\nYou can now disable tweaks in the \"Tweaks\" page in LiveContainer's UI. by @SAOMDVN\r \nImprovements\r\n\u2022 Added support for manually setting a container's IDFV. (1194)\r\n\u2022 IDFV spoofing works even when Tweakloader is not loaded.\r\n\u2022 Reworked signing logic for tweaks and app installation, with multithreaded signing support.\r\n\u2022 Download alerts now block tab switching while a download is in progress.\r\n\u2022 Crash reports are shown in a sheet instead of a large alert for better performance on newer iOS versions.\r\n\u2022 Add a \"Clear Notification\" button (1388)\r\n\u2022 Added some popular NSBonjourServices keys so apps can discover AirPlay devices and remote pairing pairable hosts in the local network. (1417)\r \nBug Fixes\r \n\u2022 Fixed \"livecontainer://open-url\" dropping the deep link when launching an app from a cold start. (1339)\r\n\u2022 Fixed the Add to Home Screen menu failing or behaving incorrectly by replacing the SwiftUI context menu implementation. (1209)\r\n\u2022 Fixed a crash when opening Container Preferences if the app did not contain an \"en.lproj\" path. (1239)\r\n\u2022 Fixed apps and AltStore sources not being searchable in some cases. (1365, 1368)\r\n\u2022 Fixed converting a shared app back to private after aborting an install with the same bundle identifier, which could leave stale container state behind. (1347)\r\n\u2022 Fixed shortcuts and JIT flows getting stuck on a busy LiveContainer instance instead of using another available instance. (1386)\r\n\u2022 Fixed file picker not workings for some apps because Tweakloader is not loaded after enabling \"Hide LiveContainer from dyld API\". (1430)\r\n\u2022 Fixed several app launch compatibility issues on iOS 26.5 beta, and some multitask/JIT app launches. (1300, 1310, 1329)\r\n\u2022 Fixed multitask keyboard focus issues on iOS 17.4+, including cases where the keyboard would not appear, Passwords would immediately close, or video playback would freeze in multitask mode. (1402, 844, 870)\r\n\u2022 Added support for iOS 27 developer beta. (1394, 1417, 1416)\r\n\u2022 Fix background downloads in multitask apps (choosing \"Keep App Extensions (Register App ID for Each Extension)\" is required). (1415)\r \nLocalization\r \n\u2022 Updated translations. Added Spanish translation by @Deci8BelioS\r \nCredits\r \nThanks to everyone who contributed code, fixes, testing, and reports for this release, including @boa-z, @ruri1208, @Project516, @yazdipour, @stossy11, and @SAOMDVN.\r \nGreat thanks to everyone who helped translate LiveContainer.",
-      "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/3.8.0/LiveContainer.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/LiveContainer.ipa",
       "localizedDescription": "LiveContainer 3.8.0\r \n> [!Warning]\r\n> The standalone version requires SideStore 0.6.2+ or AltStore 2.2.1+ for installation.\r\n> To install LiveContainer with built-in SideStore (\"LiveContainer+SideStore.ipa\"), please use [Impactor](https://github.com/khcrysalis/Impactor) or [iloader](https://github.com/nab138/iloader). See [our installation guide](https://livecontainer.github.io/docs/installation/lc_sidestore) for details.\r \nNew Features\r \nStorage Management\r \n\u2022 Added a new storage management view with a breakdown of app bundles, containers, temporary files, app group data, tweaks, and other files. (Hidden apps' size is included in \"other\" section until unlocked)\r\n\u2022 Added per-app storage details, including app bundle size, container sizes, and last-used date.\r\n\u2022 Added actions to clean temporary files and caches, including guest app caches and LiveContainer's own caches.\r \nMultiple LiveContainers\r\n\u2022 Added configurable launch priority for multiple LiveContainer instances, making shared-app shortcuts choose available instances in the order you prefer. (1367)\r \nShare to Apps in LiveContainer\r\nAdded a share extension to LiveContainer. When you share a URL or a file from iOS's share sheet, LiveContainer will ask which app you would like to open the URL/file in, so the old share to LiveContainer shortcut method is no longer needed. When an ipa file is shared in this way, LiveContainer will ask if you want to install it in LiveContainer or in the built-in SideStore (if installed) (1357)\r \nMultitasking\r \n\u2022 Added per-app multitask preferences. Each app can now follow the global setting, always launch in multitask mode, or avoid multitask mode. (1208)\r\n\u2022 Improved multitask dock behavior: the dock can be made smaller, hidden more cleanly, and has improved padding. (1228, 1250)\r\n\u2022 Added more multitask window animations and improved native-window scene handling.\r\n\u2022 URL schemes and \"open-url\" payloads can be passed to already-running multitask apps and native windows.\r \nJIT\r\n\u2022 Added StosDebug support as a JIT enabler.\r \nTweakLoader\r\nYou can now disable tweaks in the \"Tweaks\" page in LiveContainer's UI. by @SAOMDVN\r \nImprovements\r\n\u2022 Added support for manually setting a container's IDFV. (1194)\r\n\u2022 IDFV spoofing works even when Tweakloader is not loaded.\r\n\u2022 Reworked signing logic for tweaks and app installation, with multithreaded signing support.\r\n\u2022 Download alerts now block tab switching while a download is in progress.\r\n\u2022 Crash reports are shown in a sheet instead of a large alert for better performance on newer iOS versions.\r\n\u2022 Add a \"Clear Notification\" button (1388)\r\n\u2022 Added some popular NSBonjourServices keys so apps can discover AirPlay devices and remote pairing pairable hosts in the local network. (1417)\r \nBug Fixes\r \n\u2022 Fixed \"livecontainer://open-url\" dropping the deep link when launching an app from a cold start. (1339)\r\n\u2022 Fixed the Add to Home Screen menu failing or behaving incorrectly by replacing the SwiftUI context menu implementation. (1209)\r\n\u2022 Fixed a crash when opening Container Preferences if the app did not contain an \"en.lproj\" path. (1239)\r\n\u2022 Fixed apps and AltStore sources not being searchable in some cases. (1365, 1368)\r\n\u2022 Fixed converting a shared app back to private after aborting an install with the same bundle identifier, which could leave stale container state behind. (1347)\r\n\u2022 Fixed shortcuts and JIT flows getting stuck on a busy LiveContainer instance instead of using another available instance. (1386)\r\n\u2022 Fixed file picker not workings for some apps because Tweakloader is not loaded after enabling \"Hide LiveContainer from dyld API\". (1430)\r\n\u2022 Fixed several app launch compatibility issues on iOS 26.5 beta, and some multitask/JIT app launches. (1300, 1310, 1329)\r\n\u2022 Fixed multitask keyboard focus issues on iOS 17.4+, including cases where the keyboard would not appear, Passwords would immediately close, or video playback would freeze in multitask mode. (1402, 844, 870)\r\n\u2022 Added support for iOS 27 developer beta. (1394, 1417, 1416)\r\n\u2022 Fix background downloads in multitask apps (choosing \"Keep App Extensions (Register App ID for Each Extension)\" is required). (1415)\r \nLocalization\r \n\u2022 Updated translations. Added Spanish translation by @Deci8BelioS\r \nCredits\r \nThanks to everyone who contributed code, fixes, testing, and reports for this release, including @boa-z, @ruri1208, @Project516, @yazdipour, @stossy11, and @SAOMDVN.\r \nGreat thanks to everyone who helped translate LiveContainer.",
       "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/AppIcon1024.png",
       "tintColor": "#0784FC",
@@ -33437,6 +33626,13 @@
       "__stores": [
         "LiveContainer",
         "AltStore"
+      ],
+      "__hash_duplicates": [
+        {
+          "name": "LiveContainer",
+          "bundleIdentifier": "com.kdt.livecontainer",
+          "version": "3.4.0"
+        }
       ]
     },
     {
@@ -200016,7 +200212,7 @@
       "fullDate": "20250905041046",
       "size": 2876027,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-09-2025/Linkjar_1.9_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/Linkjar_1.9_Pro_@thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-09-2025/Linkjar_1.9_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ventures.bench.linkjar-ios.png",
@@ -219935,7 +220131,7 @@
       "version": "3.4.0",
       "versionDate": "2025-04-20T07:00:00Z",
       "versionDescription": "LiveContainer 3.8.0\r \n> [!Warning]\r\n> The standalone version requires SideStore 0.6.2+ or AltStore 2.2.1+ for installation.\r\n> To install LiveContainer with built-in SideStore (\"LiveContainer+SideStore.ipa\"), please use [Impactor](https://github.com/khcrysalis/Impactor) or [iloader](https://github.com/nab138/iloader). See [our installation guide](https://livecontainer.github.io/docs/installation/lc_sidestore) for details.\r \nNew Features\r \nStorage Management\r \n\u2022 Added a new storage management view with a breakdown of app bundles, containers, temporary files, app group data, tweaks, and other files. (Hidden apps' size is included in \"other\" section until unlocked)\r\n\u2022 Added per-app storage details, including app bundle size, container sizes, and last-used date.\r\n\u2022 Added actions to clean temporary files and caches, including guest app caches and LiveContainer's own caches.\r \nMultiple LiveContainers\r\n\u2022 Added configurable launch priority for multiple LiveContainer instances, making shared-app shortcuts choose available instances in the order you prefer. (1367)\r \nShare to Apps in LiveContainer\r\nAdded a share extension to LiveContainer. When you share a URL or a file from iOS's share sheet, LiveContainer will ask which app you would like to open the URL/file in, so the old share to LiveContainer shortcut method is no longer needed. When an ipa file is shared in this way, LiveContainer will ask if you want to install it in LiveContainer or in the built-in SideStore (if installed) (1357)\r \nMultitasking\r \n\u2022 Added per-app multitask preferences. Each app can now follow the global setting, always launch in multitask mode, or avoid multitask mode. (1208)\r\n\u2022 Improved multitask dock behavior: the dock can be made smaller, hidden more cleanly, and has improved padding. (1228, 1250)\r\n\u2022 Added more multitask window animations and improved native-window scene handling.\r\n\u2022 URL schemes and \"open-url\" payloads can be passed to already-running multitask apps and native windows.\r \nJIT\r\n\u2022 Added StosDebug support as a JIT enabler.\r \nTweakLoader\r\nYou can now disable tweaks in the \"Tweaks\" page in LiveContainer's UI. by @SAOMDVN\r \nImprovements\r\n\u2022 Added support for manually setting a container's IDFV. (1194)\r\n\u2022 IDFV spoofing works even when Tweakloader is not loaded.\r\n\u2022 Reworked signing logic for tweaks and app installation, with multithreaded signing support.\r\n\u2022 Download alerts now block tab switching while a download is in progress.\r\n\u2022 Crash reports are shown in a sheet instead of a large alert for better performance on newer iOS versions.\r\n\u2022 Add a \"Clear Notification\" button (1388)\r\n\u2022 Added some popular NSBonjourServices keys so apps can discover AirPlay devices and remote pairing pairable hosts in the local network. (1417)\r \nBug Fixes\r \n\u2022 Fixed \"livecontainer://open-url\" dropping the deep link when launching an app from a cold start. (1339)\r\n\u2022 Fixed the Add to Home Screen menu failing or behaving incorrectly by replacing the SwiftUI context menu implementation. (1209)\r\n\u2022 Fixed a crash when opening Container Preferences if the app did not contain an \"en.lproj\" path. (1239)\r\n\u2022 Fixed apps and AltStore sources not being searchable in some cases. (1365, 1368)\r\n\u2022 Fixed converting a shared app back to private after aborting an install with the same bundle identifier, which could leave stale container state behind. (1347)\r\n\u2022 Fixed shortcuts and JIT flows getting stuck on a busy LiveContainer instance instead of using another available instance. (1386)\r\n\u2022 Fixed file picker not workings for some apps because Tweakloader is not loaded after enabling \"Hide LiveContainer from dyld API\". (1430)\r\n\u2022 Fixed several app launch compatibility issues on iOS 26.5 beta, and some multitask/JIT app launches. (1300, 1310, 1329)\r\n\u2022 Fixed multitask keyboard focus issues on iOS 17.4+, including cases where the keyboard would not appear, Passwords would immediately close, or video playback would freeze in multitask mode. (1402, 844, 870)\r\n\u2022 Added support for iOS 27 developer beta. (1394, 1417, 1416)\r\n\u2022 Fix background downloads in multitask apps (choosing \"Keep App Extensions (Register App ID for Each Extension)\" is required). (1415)\r \nLocalization\r \n\u2022 Updated translations. Added Spanish translation by @Deci8BelioS\r \nCredits\r \nThanks to everyone who contributed code, fixes, testing, and reports for this release, including @boa-z, @ruri1208, @Project516, @yazdipour, @stossy11, and @SAOMDVN.\r \nGreat thanks to everyone who helped translate LiveContainer.",
-      "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/3.4.0/LiveContainer.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/LiveContainer.ipa",
       "localizedDescription": "\u26a0\ufe0fThis version \u26a0\ufe0fREQUIRES\u26a0\ufe0f SideStore 0.6.0+ / AltStore 2.0+ to install.\r \nThis version improved app re-signing experience, add support for new JIT enablers, increased compatibility with relatively old apps and add translation for Arabic, French, German, Japanese, Portuguese and Swedish.\r \n>[!Note]\r\nLiveContainer has upgraded SDK version to 18.2, which breaks some apps that works on previous versions. Fortunately we have developed the \"Spoof SDK Version\" feature, forcing system libraries to operate in the SDK version the app is built with. You can enable \"Spoof SDK Version\".\r \n\r\nNew Features\r\n1. New Re-Sign Strategy\r\nInstead of keeping track of expiration date, LiveContainer now directly ask iOS to determine whether the code signature is valid, which significantly decreases app re-sign rate. For now your apps will be re-signed only if their code signature is invalid, which probably happens when your certificate is expired (usually takes a year), or is revoked (when you reinstall SideStore/AltStore).\r \n2. Support for StikJIT(StikDebug), SideStore JIT\r\n [StikJIT(StikDebug)](https://github.com/StephenDev0/StikJIT) is the newest on-device JIT enabler powered by [idevice](https://github.com/jkcoxson/idevice). You can now install it both as a standalone app or install it inside LiveContainer. See 265 item 5.8 for more information.\r \nSideStore has recently switched its backend to idevice and added on-device JIT support. For now its JIT URL Scheme has not been implemented so you have to manually enable JIT for LiveContainer.\r \n3. Spoof SDK version\r\nSpoofing SDK version forces system libraries to operate in the SDK version the app is built with. This fix works surprisingly well so we decided to enable it by default for newly installed apps. This fixes some old apps crashing because of the new SDK. We also removed the \"Bypass AssertBarrierOnQueue\" fix since the root cause is SDK version.\r \nFix 421 422\r \n4. Support Import Certificate From SideStore\r\nWith [this SideStore pr](https://github.com/SideStore/SideStore/pull/959), we can now directly retrieve certificate from SideStore (0.6.2-20250420.25+) without the patch, thus simplifying the process of enabling JIT-Less mode.\r \n5. Game Mode Support\r\nWith the SDK version upgrade, LiveContainer now supports game mode. If you don't need it, you can turn it off in the control center. \r \nBug Fixes\r\n1. Fix a regression caused by NSBundle path fix. Fix 409\r\n2. Keep app's plugin folder in case some apps need files inside. Fix hugeBlack/LiveContainer43\r\n3. Add TPRO rw in overwrite exec path in case the executable path is TPRO protected. Fix 327\r\n4. Replace all \"withCheckedContinuation\" with \"withUnsafeContinuation\" to solve crash on iOS 18.0 beta. Fix 435\r\n5. Add file permission to solve some sign issues. Fix 448\r \nRemoved Features\r\nThe following features are removed because it's not useful in current version or constantly causing issues.\r\n1. AltSign: We drop AltSign support because it's constantly causing issues and it's relatively old.\r\n2. Bypass AssertBarrierOnQueue: It is replaced by \"Spoof SDK version\"\r\n3. Sign Only on Signature Expires: It's now useless as we directly determine if an app's code signature is valid by asking the system.\r \nTranslation\r\nLiveContainer is now translated into Arabic, Simplified Chinese, French, German, Japanese, Portuguese and Swedish\r\n\u2022 Arabic: translated by dlshad2\r\n\u2022 French: translated by @p-sage\r\n\u2022 German: translated by @BeityBytes\r\n\u2022 Japanese: translated by @naolad\r\n\u2022 Portuguese: translated by damn_the_daniel\r\n\u2022 Swedish: translated by @se2crid\r \nCredit\r\nShout out to @khanhduytran0 for doing a lot of research under the hood!\r \nOther\r\nLiveContainer is now migrated from a Theos project to a Xcode project, which simplifies the development and significantly decreased Github Actions build time (2 minutes now and around 10 minutes previously)",
       "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/AppIcon1024.png",
       "tintColor": "#0784FC",
@@ -220844,7 +221040,7 @@
       "version": "1.6",
       "versionDate": "2025-02-22T21:37:29-05:00",
       "versionDescription": "Added new animation!",
-      "downloadURL": "https://github.com/neoarz/Countdown-App/releases/download/1.6/Countdown.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/Countdown.ipa",
       "localizedDescription": "Added new animation!",
       "iconURL": "https://github.com/neoarz/Countdown-App/raw/main/Assets/CountdownLogo.jpg",
       "tintColor": "000",
@@ -228378,7 +228574,7 @@
       "version": "3.0.0",
       "versionDate": "2024-12-16T07:00:00Z",
       "versionDescription": "LiveContainer 3.8.0\r \n> [!Warning]\r\n> The standalone version requires SideStore 0.6.2+ or AltStore 2.2.1+ for installation.\r\n> To install LiveContainer with built-in SideStore (\"LiveContainer+SideStore.ipa\"), please use [Impactor](https://github.com/khcrysalis/Impactor) or [iloader](https://github.com/nab138/iloader). See [our installation guide](https://livecontainer.github.io/docs/installation/lc_sidestore) for details.\r \nNew Features\r \nStorage Management\r \n\u2022 Added a new storage management view with a breakdown of app bundles, containers, temporary files, app group data, tweaks, and other files. (Hidden apps' size is included in \"other\" section until unlocked)\r\n\u2022 Added per-app storage details, including app bundle size, container sizes, and last-used date.\r\n\u2022 Added actions to clean temporary files and caches, including guest app caches and LiveContainer's own caches.\r \nMultiple LiveContainers\r\n\u2022 Added configurable launch priority for multiple LiveContainer instances, making shared-app shortcuts choose available instances in the order you prefer. (1367)\r \nShare to Apps in LiveContainer\r\nAdded a share extension to LiveContainer. When you share a URL or a file from iOS's share sheet, LiveContainer will ask which app you would like to open the URL/file in, so the old share to LiveContainer shortcut method is no longer needed. When an ipa file is shared in this way, LiveContainer will ask if you want to install it in LiveContainer or in the built-in SideStore (if installed) (1357)\r \nMultitasking\r \n\u2022 Added per-app multitask preferences. Each app can now follow the global setting, always launch in multitask mode, or avoid multitask mode. (1208)\r\n\u2022 Improved multitask dock behavior: the dock can be made smaller, hidden more cleanly, and has improved padding. (1228, 1250)\r\n\u2022 Added more multitask window animations and improved native-window scene handling.\r\n\u2022 URL schemes and \"open-url\" payloads can be passed to already-running multitask apps and native windows.\r \nJIT\r\n\u2022 Added StosDebug support as a JIT enabler.\r \nTweakLoader\r\nYou can now disable tweaks in the \"Tweaks\" page in LiveContainer's UI. by @SAOMDVN\r \nImprovements\r\n\u2022 Added support for manually setting a container's IDFV. (1194)\r\n\u2022 IDFV spoofing works even when Tweakloader is not loaded.\r\n\u2022 Reworked signing logic for tweaks and app installation, with multithreaded signing support.\r\n\u2022 Download alerts now block tab switching while a download is in progress.\r\n\u2022 Crash reports are shown in a sheet instead of a large alert for better performance on newer iOS versions.\r\n\u2022 Add a \"Clear Notification\" button (1388)\r\n\u2022 Added some popular NSBonjourServices keys so apps can discover AirPlay devices and remote pairing pairable hosts in the local network. (1417)\r \nBug Fixes\r \n\u2022 Fixed \"livecontainer://open-url\" dropping the deep link when launching an app from a cold start. (1339)\r\n\u2022 Fixed the Add to Home Screen menu failing or behaving incorrectly by replacing the SwiftUI context menu implementation. (1209)\r\n\u2022 Fixed a crash when opening Container Preferences if the app did not contain an \"en.lproj\" path. (1239)\r\n\u2022 Fixed apps and AltStore sources not being searchable in some cases. (1365, 1368)\r\n\u2022 Fixed converting a shared app back to private after aborting an install with the same bundle identifier, which could leave stale container state behind. (1347)\r\n\u2022 Fixed shortcuts and JIT flows getting stuck on a busy LiveContainer instance instead of using another available instance. (1386)\r\n\u2022 Fixed file picker not workings for some apps because Tweakloader is not loaded after enabling \"Hide LiveContainer from dyld API\". (1430)\r\n\u2022 Fixed several app launch compatibility issues on iOS 26.5 beta, and some multitask/JIT app launches. (1300, 1310, 1329)\r\n\u2022 Fixed multitask keyboard focus issues on iOS 17.4+, including cases where the keyboard would not appear, Passwords would immediately close, or video playback would freeze in multitask mode. (1402, 844, 870)\r\n\u2022 Added support for iOS 27 developer beta. (1394, 1417, 1416)\r\n\u2022 Fix background downloads in multitask apps (choosing \"Keep App Extensions (Register App ID for Each Extension)\" is required). (1415)\r \nLocalization\r \n\u2022 Updated translations. Added Spanish translation by @Deci8BelioS\r \nCredits\r \nThanks to everyone who contributed code, fixes, testing, and reports for this release, including @boa-z, @ruri1208, @Project516, @yazdipour, @stossy11, and @SAOMDVN.\r \nGreat thanks to everyone who helped translate LiveContainer.",
-      "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/3.0.0/com.kdt.livecontainer_3.0.0.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/com.kdt.livecontainer_3.0.0.ipa",
       "localizedDescription": "Features\r\niOS 18.2+ Support\r \nSwiftUI rewrite (153)\r\nLiveContainer now has a AltStore-like UI. \r\n\u2022 Main page is colorful now (192) by @slds1 \r\n\u2022 SideJITServer/JITStreamer 2.0 support\r\n\u2022 AltStore support\r\n\u2022 New JITLess mode that patch your store, so no jitless renew is required\r\n\u2022 Locking(164) apps by @fkunn1326 & hiding apps\r \nMultiple LiveContainer (153)\r\nNow you can install 2 LiveContainers to run 2 apps at the same time. App and their data, Keychains and most preferences can be shared between these two. If user open an app via URL Scheme or from My Apps screen, the LiveContainer that last ran that app will be switched to.\r \nBetter Open in App Support (153)\r\nIt turns out that some apps don't rely on URL Schemes and use Universal Links instead. In this update, the web page's \"apple-app-site-association\" will be checked and LiveContainer will launch app based on it.\r \nLocalization (153)\r\nLocalization is now supported. You can add a language in LiveContainerSwiftUI project and add your translation in \"Localizable.xcstrings\", then submit your translation as PR. We may consider adding something like a Crowdin page if it\u2019s large enough (?)\r \nDedicated AltStore/SideStore source (156)\r \nFixes\r\niOS file picker issue (153): 68, 123, 142\r \nDuplicated Flutter-based app bundle name (153): 112\r\n",
       "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/AppIcon1024.png",
       "tintColor": "#0784FC",
@@ -229518,7 +229714,7 @@
       "version": "1.3",
       "versionDate": "2024-11-17",
       "size": 574441,
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/CarTube-1.3.ipa",
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-17-2024/CarTube-1.3.ipa",
       "developerName": "Avangelista",
       "localizedDescription": "YouTube for CarPlay, without a jailbreak. Features include no ads, skip sponsored segments via SponsorBlock, some system integrations, etc\nLast updated: 01-23-2023\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.avangelista.CarTube.png",
@@ -229714,7 +229910,7 @@
       "version": "1.12.1.",
       "versionDate": "2024-11-14",
       "size": 162585,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-14-2024/TrollSpeed-1.12.1.tipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/TrollSpeed-1.12.1.tipa",
       "developerName": "Lessica",
       "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 06-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png",
@@ -235847,7 +236043,7 @@
       "version": "1.10.2",
       "versionDate": "2024-10-14",
       "size": 161220,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollSpeed/TrollSpeed-1.10.2.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/TrollSpeed-1.10.2.ipa",
       "developerName": "Lessica",
       "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 06-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png",

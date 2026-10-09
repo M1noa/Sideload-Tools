@@ -8,45 +8,11 @@
   "sourceCount": 43,
   "apps": [
     {
-      "name": "iCube",
-      "bundleIdentifier": "com.joemattiello.iCube",
-      "developerName": "Provenance Emu",
-      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
-      "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
-      "iconURL": "https://icube-emu.com/icon-1024.png",
-      "tintColor": "#3B82F6",
-      "category": "games",
-      "screenshots": [
-        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
-        "https://icube-emu.com/screenshots/iphone/search.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
-        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
-        "https://icube-emu.com/screenshots/iphone/shaders.jpg",
-        "https://icube-emu.com/screenshots/iphone/settings-graphics.jpg",
-        "https://icube-emu.com/screenshots/iphone/settings-controllers.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
-      ],
-      "version": "1.0.0",
-      "buildVersion": "277",
-      "date": "2026-10-08T11:02:45.147Z",
-      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-277/Non-Jailbroken.ipa",
-      "size": 93534350,
-      "minOSVersion": "17.0",
-      "platform": "iOS",
-      "isBeta": true,
-      "versionDate": "2026-10-08T11:02:45.147Z",
-      "__source": "https://provenance-emu.com/apps.json",
-      "__mirrors": [],
-      "__stores": [
-        "AltStore"
-      ]
-    },
-    {
       "name": "Provenance Alpha",
       "bundleIdentifier": "com.provenance-emu.provenance.alpha",
       "developerName": "Provenance-EMU",
       "subtitle": "Latest dev builds - test new features early",
-      "localizedDescription": "Alpha build 34df2e9 \u00b7 2026-10-08\n\nChanges in this build:\n\u2022 feat(azahar): skins drive the screen layout; live options; CIA boot\n\u2022 feat(skins): remove the yellow touch indicators\n\u2022 feat(dolphin): texture pack, graphics mod and OSD options\n\u2022 build: hide weak C++ exports in PVlibDolphin and PVEmuThree\n\u2022 docs: azahar weak-symbol and xcodegen gotchas\n\u2022 build(azahar): keep PVAzahar's C++ symbols private to the image\n\u2022 enable skins in 3ds\n\u2022 fix(azahar): run the emu thread on a 16 MB stack\n\u2022 update dolphin\n\u2022 fix(azahar): hand MoltenVK to Vulkan::Instance via the EmuWindow\n\u2022 feat(jit): pass pid in the StikDebug enable-jit URL\n\u2022 feat(jit): replace pre-launch JIT alert with in-game no-JIT toast\n\u2022 fix(azahar): populate lle_modules on iOS too; New 3DS mode off by default\n\u2022 update metadata\n\u2022 fix(maint): fall back to the next free port when 8765 is taken\n\u2022 fix(azahar): populate lle_modules before Load; valid audio session options\n\u2022 feat(dolphin): dual core on by default\n\u2022 fix(tests): use the real lowercase RetroArch scripts/ path\n\u2022 update dolphin core\n\u2022 ci(maint): run the script-tests job on PRs and develop pushes\n\u2022 dolphin SIMD paired-single arithmetic on ARM64 default on\n\u2022 azahar build fix\n\u2022 chore: auto-update license manifest (#3729)\n\u2022 fix(ci): list never-cloned submodules first in the init failure report\n\u2022 fix(azahar): bind self before the main-actor boot callback\n\u2022 refactor(ui): drop the GL presenter's lock on the Swift core\n\u2022 fix(core): join the emulation loop off the main thread when quitting\n\u2022 fix(stella): keep light-gun and trackball input off the emulation lock\n\u2022 fix(thin): make cheevos callback blocks atomic and snapshot before calling\n\u2022 fix(core): never block the main thread on the emulation lock when pausing\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
+      "localizedDescription": "Alpha build 588fc4d \u00b7 2026-10-09\n\nChanges in this build:\n\u2022 fix(skins): own-surface cores get both skin screens, not the smallest one\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
       "iconURL": "https://raw.githubusercontent.com/Provenance-Emu/Provenance/develop/Provenance/Resources/Assets.xcassets/AppIcon.appiconset/iTunesArtwork%402x.png",
       "tintColor": "FF6B35",
       "screenshotURLs": [],
@@ -74,13 +40,70 @@
         ]
       },
       "version": "3.4.0",
-      "buildVersion": "10476",
-      "marketingVersion": "3.4.0-alpha.20261008.34df2e9",
-      "date": "2026-10-08",
+      "buildVersion": "10478",
+      "marketingVersion": "3.4.0-alpha.20261009.588fc4d",
+      "date": "2026-10-09",
       "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
-      "size": 663941362,
+      "size": 664357146,
       "minOSVersion": "17.0",
-      "versionDate": "2026-10-08",
+      "versionDate": "2026-10-09",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "VDIT",
+      "type": 1,
+      "bundleID": "me.imgbase.videoday",
+      "bundleIdentifier": "me.imgbase.videoday",
+      "version": "4.3.1",
+      "versionDate": "2026-10-09",
+      "fullDate": "20261009091000",
+      "size": 223535643,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-10-2026/VDIT_4.3.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-10-2026/VDIT_4.3.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/me.imgbase.videoday.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/me.imgbase.videoday.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [
+        "https://repository.apptesters.org"
+      ],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iCube",
+      "bundleIdentifier": "com.joemattiello.iCube",
+      "developerName": "Provenance Emu",
+      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
+      "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
+      "iconURL": "https://icube-emu.com/icon-1024.png",
+      "tintColor": "#3B82F6",
+      "category": "games",
+      "screenshots": [
+        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
+        "https://icube-emu.com/screenshots/iphone/search.jpg",
+        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
+        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
+        "https://icube-emu.com/screenshots/iphone/shaders.jpg",
+        "https://icube-emu.com/screenshots/iphone/settings-graphics.jpg",
+        "https://icube-emu.com/screenshots/iphone/settings-controllers.jpg",
+        "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
+      ],
+      "version": "1.0.0",
+      "buildVersion": "277",
+      "date": "2026-10-08T11:02:45.147Z",
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-277/Non-Jailbroken.ipa",
+      "size": 93534350,
+      "minOSVersion": "17.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "versionDate": "2026-10-08T11:02:45.147Z",
       "__source": "https://provenance-emu.com/apps.json",
       "__mirrors": [],
       "__stores": [
@@ -187,27 +210,6 @@
       "betaNumber": 7,
       "versionDate": "2026-10-08",
       "__source": "https://provenance-emu.com/apps.json",
-      "__mirrors": [],
-      "__stores": [
-        "AltStore"
-      ]
-    },
-    {
-      "name": "VDIT",
-      "type": 1,
-      "bundleID": "me.imgbase.videoday",
-      "bundleIdentifier": "me.imgbase.videoday",
-      "version": "4.3.1",
-      "versionDate": "2026-10-08",
-      "fullDate": "20261008232740",
-      "size": 223535643,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-10-2026/VDIT_4.3.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-10-2026/VDIT_4.3.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/me.imgbase.videoday.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/me.imgbase.videoday.png",
-      "__source": "https://repository.apptesters.org",
       "__mirrors": [],
       "__stores": [
         "AltStore"

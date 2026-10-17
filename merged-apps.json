@@ -27,14 +27,60 @@
         "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
       ],
       "version": "1.0.0",
-      "buildVersion": "344",
-      "date": "2026-10-16T04:59:10.519Z",
+      "buildVersion": "348",
+      "date": "2026-10-17T00:02:00.393Z",
       "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/Non-Jailbroken.ipa",
-      "size": 97848847,
+      "size": 97849228,
       "minOSVersion": "17.0",
       "platform": "iOS",
       "isBeta": true,
-      "versionDate": "2026-10-16T04:59:10.519Z",
+      "versionDate": "2026-10-17T00:02:00.393Z",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Provenance Alpha",
+      "bundleIdentifier": "com.provenance-emu.provenance.alpha",
+      "developerName": "Provenance-EMU",
+      "subtitle": "Latest dev builds - test new features early",
+      "localizedDescription": "Alpha build 3520a91 \u00b7 2026-10-17\n\nChanges in this build:\n\u2022 fix(build): drop duplicate Provenance-Dev keys left by the develop merge\n\u2022 fix(build): archive Provenance (AppStore) with Xcode 27\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
+      "iconURL": "https://raw.githubusercontent.com/Provenance-Emu/Provenance/develop/Provenance/Resources/Assets.xcassets/AppIcon.appiconset/iTunesArtwork%402x.png",
+      "tintColor": "FF6B35",
+      "screenshotURLs": [],
+      "appPermissions": {
+        "entitlements": [
+          {
+            "name": "com.apple.security.application-groups"
+          },
+          {
+            "name": "com.apple.developer.icloud-services"
+          },
+          {
+            "name": "com.apple.developer.icloud-container-identifiers"
+          }
+        ],
+        "privacy": [
+          {
+            "name": "LocalNetwork",
+            "usageDescription": "Used to discover and connect to local network game servers for netplay."
+          },
+          {
+            "name": "Camera",
+            "usageDescription": "Used to scan QR codes for importing game data."
+          }
+        ]
+      },
+      "version": "3.4.0",
+      "buildVersion": "10836",
+      "marketingVersion": "3.4.0-alpha.20261017.3520a91",
+      "date": "2026-10-17",
+      "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
+      "size": 774605188,
+      "minOSVersion": "17.0",
+      "versionDate": "2026-10-17",
       "__source": "https://provenance-emu.com/apps.json",
       "__mirrors": [],
       "__stores": [
@@ -62,14 +108,14 @@
       ],
       "version": "1.0.0-beta9-ios",
       "buildVersion": "1.0.0-beta9-ios",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/iCube.ipa",
       "size": 82799373,
       "minOSVersion": "15.0",
       "platform": "iOS",
       "isBeta": true,
       "betaNumber": 9,
-      "versionDate": "2026-10-16",
+      "versionDate": "2026-10-17",
       "__source": "https://provenance-emu.com/apps.json",
       "__mirrors": [],
       "__stores": [
@@ -79,7 +125,7 @@
         {
           "name": "iCube",
           "bundleIdentifier": "com.joemattiello.iCube",
-          "version": "1.0.0-beta9-ios"
+          "version": "1.0.0-beta7-ios"
         },
         {
           "name": "iCube",
@@ -109,14 +155,14 @@
       ],
       "version": "1.0.0-beta8-ios",
       "buildVersion": "1.0.0-beta8-ios",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/iCube.ipa",
       "size": 82893911,
       "minOSVersion": "15.0",
       "platform": "iOS",
       "isBeta": true,
       "betaNumber": 8,
-      "versionDate": "2026-10-16",
+      "versionDate": "2026-10-17",
       "__source": "https://provenance-emu.com/apps.json",
       "__mirrors": [],
       "__stores": [
@@ -151,18 +197,25 @@
       ],
       "version": "1.0.0-beta7-ios",
       "buildVersion": "1.0.0-beta7-ios",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/iCube.ipa",
       "size": 82893502,
       "minOSVersion": "15.6",
       "platform": "iOS",
       "isBeta": true,
       "betaNumber": 7,
-      "versionDate": "2026-10-16",
+      "versionDate": "2026-10-17",
       "__source": "https://provenance-emu.com/apps.json",
       "__mirrors": [],
       "__stores": [
         "AltStore"
+      ],
+      "__hash_duplicates": [
+        {
+          "name": "iCube",
+          "bundleIdentifier": "com.joemattiello.iCube",
+          "version": "1.0.0-beta9-ios"
+        }
       ]
     },
     {
@@ -171,11 +224,11 @@
       "bundleID": "me.imgbase.videoday",
       "bundleIdentifier": "me.imgbase.videoday",
       "version": "4.3.1",
-      "versionDate": "2026-10-16",
-      "fullDate": "20261016210728",
+      "versionDate": "2026-10-17",
+      "fullDate": "20261017073933",
       "size": 223535643,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-10-2026/VDIT_4.3.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-10-2026/VDIT_4.3.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-10-2026/VDIT_4.3.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-10-2026/VDIT_4.3.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/me.imgbase.videoday.png",
@@ -189,46 +242,55 @@
       ]
     },
     {
-      "name": "Provenance Alpha",
-      "bundleIdentifier": "com.provenance-emu.provenance.alpha",
-      "developerName": "Provenance-EMU",
-      "subtitle": "Latest dev builds - test new features early",
-      "localizedDescription": "Alpha build ef3cebc \u00b7 2026-10-15\n\nChanges in this build:\n\u2022 fix(sharing): key peers by app and pid; ecs serve defaults to http:8473\n\u2022 docs(sharing): phase 5 as built, ECS proposals, device checklist\n\u2022 feat(ui): Content Servers in Nearby Libraries\n\u2022 feat(sharing): emulator-content-server client (ECSSource)\n\u2022 docs(sharing): phase 4 as built, device checklist, changelog\n\u2022 ci(spm): name failing tests instead of only the totals\n\u2022 build(plist): list _pvlibrary._tcp and _pvcontent._tcp for Bonjour\n\u2022 feat(ui): Nearby Libraries browses Provenance peers; share every system\n\u2022 feat(sharing): v1.1 extension and the shared _pvlibrary._tcp type\n\u2022 fix(import): name every new disc-set folder after the game's MD5\n\u2022 fix(sharing): approval timeout really times out; iCube key needs a disc id\n\u2022 docs(sharing): phase 3 as built, device checklist, changelog\n\u2022 feat(ui): Share This Library settings, owner prompts, trusted devices\n\u2022 feat(sharing): serve the library to iFly and iCube (legacy dialects)\n\u2022 docs(import): say what MD5-named set folders do and don't settle\n\u2022 fix(import): merge CD set metadata from data-track and cue MD5\n\u2022 fix(icloud): only real set folders join disc-set grouping\n\u2022 fix(icloud): import a disc set once its last file downloads\n\u2022 docs(sharing): phase 2 as built, device checklist, changelog\n\u2022 feat(ui): Copy button in Nearby Libraries hands games to the importer\n\u2022 feat(sharing): copy a game from an iFly or iCube library\n\u2022 fix(import): queue duplicate check matches a name in its own folder\n\u2022 fix(import): name a clashing set folder after the game's MD5\n\u2022 fix(import): look CD sets up in OpenVGDB by their cue too\n\u2022 fix(import): materialize GDI system list as an Array\n\u2022 build(dolphin): bump iCube to 9e56197285 (exit-time mutex race fixes)\n\u2022 fix(import): identify disc sets by data track, not index MD5\n\u2022 refactor(import): system-folder lookup for set files in PVFileSystem\n\u2022 fix(import): give each multi-file disc set its own folder\n\u2022 fix(sharing): playable systems need a launchable core; lazy identity\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
-      "iconURL": "https://raw.githubusercontent.com/Provenance-Emu/Provenance/develop/Provenance/Resources/Assets.xcassets/AppIcon.appiconset/iTunesArtwork%402x.png",
-      "tintColor": "FF6B35",
-      "screenshotURLs": [],
+      "name": "Aidoku",
+      "bundleIdentifier": "app.aidoku.Aidoku",
+      "developerName": "Skitty",
+      "subtitle": "Free and open source manga reader for iOS and iPadOS",
+      "localizedDescription": "A small build update for 0.9 with a number of bug fixes.\n\n\u2022 Fixed some pages not loading in webtoon reader\n\u2022 Improved webtoon reader memory usage (hopefully fixes crash after reading multiple chapters)\n\u2022 Fixed crash when searching anywhere in the macOS app\n\u2022 Various other bug fixes",
+      "iconURL": "https://aidoku.app/images/apple-touch-icon.png",
+      "tintColor": "ff375f",
+      "category": "entertainment",
+      "screenshots": [
+        {
+          "imageURL": "https://aidoku.app/images/library.png",
+          "width": 450,
+          "height": 908
+        },
+        {
+          "imageURL": "https://aidoku.app/images/source.png",
+          "width": 450,
+          "height": 908
+        },
+        {
+          "imageURL": "https://aidoku.app/images/reader.png",
+          "width": 450,
+          "height": 908
+        }
+      ],
       "appPermissions": {
         "entitlements": [
-          {
-            "name": "com.apple.security.application-groups"
-          },
-          {
-            "name": "com.apple.developer.icloud-services"
-          },
-          {
-            "name": "com.apple.developer.icloud-container-identifiers"
-          }
+          "aps-environment",
+          "com.apple.developer.icloud-container-environment",
+          "com.apple.developer.icloud-container-identifiers",
+          "com.apple.developer.icloud-services",
+          "com.apple.developer.ubiquity-container-identifiers",
+          "com.apple.developer.ubiquity-kvstore-identifier",
+          "com.apple.developer.user-fonts"
         ],
-        "privacy": [
-          {
-            "name": "LocalNetwork",
-            "usageDescription": "Used to discover and connect to local network game servers for netplay."
-          },
-          {
-            "name": "Camera",
-            "usageDescription": "Used to scan QR codes for importing game data."
-          }
-        ]
+        "privacy": {
+          "NSFaceIDUsageDescription": "Aidoku needs FaceID permissions for user-defined settings",
+          "NSPhotoLibraryUsageDescription": "Aidoku needs permission to save pages in your photo library",
+          "NSLocalNetworkUsageDescription": "Aidoku needs permission to connect to local Komga servers"
+        }
       },
-      "version": "3.4.0",
-      "buildVersion": "10799",
-      "marketingVersion": "3.4.0-alpha.20261015.ef3cebc",
-      "date": "2026-10-15",
-      "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
-      "size": 769299756,
-      "minOSVersion": "17.0",
-      "versionDate": "2026-10-15",
-      "__source": "https://provenance-emu.com/apps.json",
+      "version": "0.9",
+      "date": "2026-10-16",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/Aidoku.ipa",
+      "size": 14753154,
+      "minOSVersion": "15.0",
+      "buildVersion": "4",
+      "versionDate": "2026-10-16",
+      "__source": "https://raw.githubusercontent.com/Aidoku/Aidoku/altstore/apps.json",
       "__mirrors": [],
       "__stores": [
         "AltStore"
@@ -4398,7 +4460,7 @@
       "fullDate": "20260929024220",
       "size": 7325847,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2026/NFCTools_3.4_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/NFCTools_3.4_Pro_@thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2026/NFCTools_3.4_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wakdev.wdnfc.png",
@@ -8200,7 +8262,7 @@
       "fullDate": "20260921125725",
       "size": 7242461,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-09-2026/NFCTools_3.3.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/NFCTools_3.3.1_Pro_@thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-09-2026/NFCTools_3.3.1_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wakdev.wdnfc.png",
@@ -15858,61 +15920,6 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.endel.endel.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.endel.endel.png",
       "__source": "https://repository.apptesters.org",
-      "__mirrors": [],
-      "__stores": [
-        "AltStore"
-      ]
-    },
-    {
-      "name": "Aidoku",
-      "bundleIdentifier": "app.aidoku.Aidoku",
-      "developerName": "Skitty",
-      "subtitle": "Free and open source manga reader for iOS and iPadOS",
-      "localizedDescription": "\u2022 OCR dictionary support (iOS 18+): import Yomitan\u2022compatible dictionaries in the app and look up words while reading.\n\u2022 Suwayomi built\u2022in source: read and track from a Suwayomi instance, just like Komga and Kavita.\n\u2022 Auto scroll for webtoon reader: enable and press the play button to scroll without touching your device.\n\u2022 Fixed CloudFlare handling: CloudFlare issues that caused external sources to break should be resolved.\n\u2022 Overall performance improvements: the library loads much faster (@Amqx), and the webtoon reader was improved.\n\u2022 Source stability fixes and disable option: the issue where sources were causing the app to crash should not happen again, and now you can even disable a source that is broken until it receives an update.\n\u2022 Many more things: see [the website](https://aidoku.app/release\u2022notes/) for a more complete list.",
-      "iconURL": "https://aidoku.app/images/apple-touch-icon.png",
-      "tintColor": "ff375f",
-      "category": "entertainment",
-      "screenshots": [
-        {
-          "imageURL": "https://aidoku.app/images/library.png",
-          "width": 450,
-          "height": 908
-        },
-        {
-          "imageURL": "https://aidoku.app/images/source.png",
-          "width": 450,
-          "height": 908
-        },
-        {
-          "imageURL": "https://aidoku.app/images/reader.png",
-          "width": 450,
-          "height": 908
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [
-          "aps-environment",
-          "com.apple.developer.icloud-container-environment",
-          "com.apple.developer.icloud-container-identifiers",
-          "com.apple.developer.icloud-services",
-          "com.apple.developer.ubiquity-container-identifiers",
-          "com.apple.developer.ubiquity-kvstore-identifier",
-          "com.apple.developer.user-fonts"
-        ],
-        "privacy": {
-          "NSFaceIDUsageDescription": "Aidoku needs FaceID permissions for user-defined settings",
-          "NSPhotoLibraryUsageDescription": "Aidoku needs permission to save pages in your photo library",
-          "NSLocalNetworkUsageDescription": "Aidoku needs permission to connect to local Komga servers"
-        }
-      },
-      "version": "0.9",
-      "date": "2026-09-03",
-      "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.9/Aidoku.ipa",
-      "size": 14731108,
-      "minOSVersion": "15.0",
-      "buildVersion": "3",
-      "versionDate": "2026-09-03",
-      "__source": "https://raw.githubusercontent.com/Aidoku/Aidoku/altstore/apps.json",
       "__mirrors": [],
       "__stores": [
         "AltStore"
@@ -236827,7 +236834,7 @@
       "version": "1.9.2.",
       "versionDate": "2024-10-14",
       "size": 147136,
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/TrollSpeed-1.9.2.tipa",
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollSpeed/TrollSpeed-1.9.2.tipa",
       "developerName": "Lessica",
       "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 06-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png",
@@ -237493,7 +237500,7 @@
       "version": "1.4.0",
       "versionDate": "2024-10-14",
       "size": 49628,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollLEDs/TrollLEDs-1.4.0.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/TrollLEDs-1.4.0.ipa",
       "developerName": "PoomSmart",
       "localizedDescription": "Control individual flashlight LEDs. Note: Refer to the original GitHub repository to find the list of supported devices.\nLast updated: 02-04-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.ps.TrollLEDs.png",
@@ -264590,7 +264597,7 @@
       "version": "1.0",
       "versionDate": "2024-09-27",
       "size": 2187660,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Aidoku/Aidoku.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/Aidoku.ipa",
       "developerName": "Aidoku",
       "localizedDescription": "Webtoon/manga browser\nLast updated: 05-13-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/xyz.skitty.Aidoku.png",

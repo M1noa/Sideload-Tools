@@ -4,9 +4,51 @@
   "subtitle": "Auto-merged from 43 AltStore/ESign sources. Original download URLs preserved.",
   "description": "Deduplicates by (name, bundleIdentifier, version). __source is the first source; __mirrors lists additional sources.",
   "iconURL": "https://avatars.githubusercontent.com/u/57844837",
-  "appCount": 13040,
+  "appCount": 13045,
   "sourceCount": 43,
   "apps": [
+    {
+      "name": "fGet",
+      "type": 1,
+      "bundleID": "com.penguinbit.fastdownload",
+      "bundleIdentifier": "com.penguinbit.fastdownload",
+      "version": "1.7.1",
+      "versionDate": "2026-10-25",
+      "fullDate": "20261025055756",
+      "size": 19692098,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-10-2026/fGet_1.7.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-10-2026/fGet_1.7.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.penguinbit.fastdownload.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.penguinbit.fastdownload.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Sofa",
+      "type": 1,
+      "bundleID": "com.astrio.Sofa",
+      "bundleIdentifier": "com.astrio.Sofa",
+      "version": "5.4.2",
+      "versionDate": "2026-10-25",
+      "fullDate": "20261025043550",
+      "size": 220816237,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-10-2026/Sofa_5.4.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-10-2026/Sofa_5.4.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.astrio.Sofa.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.astrio.Sofa.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
     {
       "id": "WA-SL",
       "developerName": "Fouad Raheb",
@@ -260,6 +302,134 @@
       "minOSVersion": "17.0",
       "versionDate": "2026-10-24",
       "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "Ryuk",
+      "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.36/f214ece9-3bbf-40ae-90e7-742ad253430R.ipa",
+      "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
+      "localizedDescription": "Just look up information for SCInsta if you're confused about usage",
+      "name": "Instagram (RyukGram)",
+      "screenshotURLs": [
+        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot1.jpg",
+        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot2.jpg",
+        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot3.jpg",
+        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot4.jpg"
+      ],
+      "size": 91750400,
+      "subtitle": "Additional features and fixes by Ryuk based on SCInsta | If you want to donate: - https://ko-fi.com/driftywinds",
+      "tintColor": "C13584",
+      "version": "452.0.0",
+      "versionDate": "2026-10-24",
+      "versionDescription": "Updated to v452.0.0, RyukGram v1.5.0",
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.associated-appclip-app-identifiers",
+          "com.apple.security.application-groups",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.storekit.request-data",
+          "com.apple.developer.ubiquity-container-identifiers",
+          "com.apple.developer.usernotifications.communication",
+          "com.apple.developer.usernotifications.time-sensitive",
+          "get-task-allow",
+          "com.apple.developer.kernel.extended-virtual-addressing",
+          "com.apple.developer.networking.HotspotConfiguration",
+          "com.apple.developer.icloud-container-environment",
+          "com.apple.developer.icloud-container-identifiers",
+          "com.apple.developer.ubiquity-kvstore-identifier",
+          "com.apple.developer.icloud-services",
+          "com.apple.developer.kernel.increased-memory-limit",
+          "keychain-access-groups",
+          "com.apple.developer.avfoundation.multitasking-camera-access",
+          "com.apple.developer.usernotifications.filtering",
+          "aps-environment",
+          "com.apple.developer.networking.wifi-info"
+        ],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "This app requires Bluetooth access for connecting to nearby devices.",
+          "NSCalendarsUsageDescription": "This app requires access to your calendars for social event integration.",
+          "NSCameraUsageDescription": "This app requires camera access to capture photos and videos.",
+          "NSContactsUsageDescription": "This app requires access to your contacts for enhanced social features.",
+          "NSFaceIDUsageDescription": "This app requires Face ID for secure authentication.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "This app requires location access even when in the background for geotagging.",
+          "NSLocationUsageDescription": "This app requires location access to provide local content.",
+          "NSLocationWhenInUseUsageDescription": "This app requires location access while using the app.",
+          "NSMicrophoneUsageDescription": "This app requires microphone access for recording audio and videos.",
+          "NSFocusStatusUsageDescription": "This app uses focus status to optimize notifications.",
+          "NSPhotoLibraryAddUsageDescription": "This app requires access to add photos to your library.",
+          "NSPhotoLibraryUsageDescription": "This app requires access to your photo library.",
+          "NSUserTrackingUsageDescription": "This app uses tracking to deliver personalized content."
+        }
+      },
+      "__source": "https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/master/AltStore/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Pillow",
+      "type": 1,
+      "bundleID": "com.neybox.Pillow",
+      "bundleIdentifier": "com.neybox.Pillow",
+      "version": "6.7.1",
+      "versionDate": "2026-10-24",
+      "fullDate": "20261024223658",
+      "size": 576804160,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2026/Pillow_6.7.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2026/Pillow_6.7.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neybox.Pillow.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neybox.Pillow.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "DtdSounds",
+      "type": 1,
+      "bundleID": "com.dtd.aroundu",
+      "bundleIdentifier": "com.dtd.aroundu",
+      "version": "2.6",
+      "versionDate": "2026-10-24",
+      "fullDate": "20261024212032",
+      "size": 188431708,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2026/DtdSounds_2.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2026/DtdSounds_2.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dtd.aroundu.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dtd.aroundu.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "TikTok",
+      "type": 1,
+      "bundleID": "com.zhiliaoapp.musically",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "version": "47.4.0",
+      "versionDate": "2026-10-24",
+      "fullDate": "20261024203348",
+      "size": 480771961,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2026/TikTok_47.4.0_ASJTikTok_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2026/TikTok_47.4.0_ASJTikTok_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with ASJTikTok",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
+      "__source": "https://repository.apptesters.org",
       "__mirrors": [],
       "__stores": [
         "AltStore"
@@ -757,16 +927,19 @@
       "name": "SceneBox",
       "bundleIdentifier": "app.scenebox.SceneBox",
       "developerName": "",
-      "subtitle": "",
-      "localizedDescription": "Initial addition.",
-      "iconURL": "",
-      "tintColor": "d81a14",
-      "category": "Utilities",
+      "subtitle": "Free Movie/TV Show Streaming!",
+      "localizedDescription": "Added v1.0.4",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/master/apps/SceneBox/icon.png",
+      "tintColor": "8e8a1a",
+      "category": "Entertainment",
       "beta": false,
-      "screenshotURLs": [],
+      "screenshotURLs": [
+        "https://onejailbreak.com/site/assets/files/3996/scenebox-2.414x0-is.webp",
+        "https://onejailbreak.com/site/assets/files/3996/scenebox-4.414x0-is.webp"
+      ],
       "version": "1.0.4",
       "versionDate": "2026-10-24",
-      "versionDescription": "Initial addition.",
+      "versionDescription": "Added v1.0.4",
       "size": 30593765,
       "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SceneBox.v1.0.4.ipa",
       "appPermissions": {
@@ -7294,71 +7467,6 @@
       "date": "2026-10-16",
       "sha256": "3361a5c0607e4da12d4584f10d43bb7177974b33b21fd186b95dcf0336c853e8",
       "__source": "https://wuxu1.github.io/wuxu-complete-plus.json",
-      "__mirrors": [],
-      "__stores": [
-        "AltStore"
-      ]
-    },
-    {
-      "beta": false,
-      "bundleIdentifier": "com.burbn.instagram",
-      "developerName": "Ryuk",
-      "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.35/7843d00a-e2fb-4d34-948a-fb02d8d528R2.ipa",
-      "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
-      "localizedDescription": "Just look up information for SCInsta if you're confused about usage",
-      "name": "Instagram (RyukGram)",
-      "screenshotURLs": [
-        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot1.jpg",
-        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot2.jpg",
-        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot3.jpg",
-        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot4.jpg"
-      ],
-      "size": 91750400,
-      "subtitle": "Additional features and fixes by Ryuk based on SCInsta | If you want to donate: - https://ko-fi.com/driftywinds",
-      "tintColor": "C13584",
-      "version": "451.0.0",
-      "versionDate": "2026-10-13",
-      "versionDescription": "Updated to v451.0.0, RyukGram v1.4.5",
-      "appPermissions": {
-        "entitlements": [
-          "com.apple.developer.associated-appclip-app-identifiers",
-          "com.apple.security.application-groups",
-          "com.apple.developer.associated-domains",
-          "com.apple.developer.storekit.request-data",
-          "com.apple.developer.ubiquity-container-identifiers",
-          "com.apple.developer.usernotifications.communication",
-          "com.apple.developer.usernotifications.time-sensitive",
-          "get-task-allow",
-          "com.apple.developer.kernel.extended-virtual-addressing",
-          "com.apple.developer.networking.HotspotConfiguration",
-          "com.apple.developer.icloud-container-environment",
-          "com.apple.developer.icloud-container-identifiers",
-          "com.apple.developer.ubiquity-kvstore-identifier",
-          "com.apple.developer.icloud-services",
-          "com.apple.developer.kernel.increased-memory-limit",
-          "keychain-access-groups",
-          "com.apple.developer.avfoundation.multitasking-camera-access",
-          "com.apple.developer.usernotifications.filtering",
-          "aps-environment",
-          "com.apple.developer.networking.wifi-info"
-        ],
-        "privacy": {
-          "NSBluetoothAlwaysUsageDescription": "This app requires Bluetooth access for connecting to nearby devices.",
-          "NSCalendarsUsageDescription": "This app requires access to your calendars for social event integration.",
-          "NSCameraUsageDescription": "This app requires camera access to capture photos and videos.",
-          "NSContactsUsageDescription": "This app requires access to your contacts for enhanced social features.",
-          "NSFaceIDUsageDescription": "This app requires Face ID for secure authentication.",
-          "NSLocationAlwaysAndWhenInUseUsageDescription": "This app requires location access even when in the background for geotagging.",
-          "NSLocationUsageDescription": "This app requires location access to provide local content.",
-          "NSLocationWhenInUseUsageDescription": "This app requires location access while using the app.",
-          "NSMicrophoneUsageDescription": "This app requires microphone access for recording audio and videos.",
-          "NSFocusStatusUsageDescription": "This app uses focus status to optimize notifications.",
-          "NSPhotoLibraryAddUsageDescription": "This app requires access to add photos to your library.",
-          "NSPhotoLibraryUsageDescription": "This app requires access to your photo library.",
-          "NSUserTrackingUsageDescription": "This app uses tracking to deliver personalized content."
-        }
-      },
-      "__source": "https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/master/AltStore/apps.json",
       "__mirrors": [],
       "__stores": [
         "AltStore"

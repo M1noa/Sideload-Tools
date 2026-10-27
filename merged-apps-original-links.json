@@ -4,9 +4,328 @@
   "subtitle": "Auto-merged from 43 AltStore/ESign sources. Original download URLs preserved.",
   "description": "Deduplicates by (name, bundleIdentifier, version). __source is the first source; __mirrors lists additional sources.",
   "iconURL": "https://avatars.githubusercontent.com/u/57844837",
-  "appCount": 13091,
+  "appCount": 13105,
   "sourceCount": 43,
   "apps": [
+    {
+      "name": "Provenance Alpha",
+      "bundleIdentifier": "com.provenance-emu.provenance.alpha",
+      "developerName": "Provenance-EMU",
+      "subtitle": "Latest dev builds - test new features early",
+      "localizedDescription": "Alpha build 9cf1808 \u00b7 2026-10-27\n\nChanges in this build:\n\u2022 fix(moltenvk): strip arm64e from the tvOS dynamic framework\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
+      "iconURL": "https://raw.githubusercontent.com/Provenance-Emu/Provenance/develop/Provenance/Resources/Assets.xcassets/AppIcon.appiconset/iTunesArtwork%402x.png",
+      "tintColor": "FF6B35",
+      "screenshotURLs": [],
+      "appPermissions": {
+        "entitlements": [
+          {
+            "name": "com.apple.security.application-groups"
+          },
+          {
+            "name": "com.apple.developer.icloud-services"
+          },
+          {
+            "name": "com.apple.developer.icloud-container-identifiers"
+          }
+        ],
+        "privacy": [
+          {
+            "name": "LocalNetwork",
+            "usageDescription": "Used to discover and connect to local network game servers for netplay."
+          },
+          {
+            "name": "Camera",
+            "usageDescription": "Used to scan QR codes for importing game data."
+          }
+        ]
+      },
+      "version": "3.4.0",
+      "buildVersion": "10938",
+      "marketingVersion": "3.4.0-alpha.20261027.9cf1808",
+      "date": "2026-10-27",
+      "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
+      "size": 781373271,
+      "minOSVersion": "17.0",
+      "versionDate": "2026-10-27",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "RiseSleep",
+      "type": 1,
+      "bundleID": "com.risesci.nyx",
+      "bundleIdentifier": "com.risesci.nyx",
+      "version": "0.1.643",
+      "versionDate": "2026-10-27",
+      "fullDate": "20261027220022",
+      "size": 133897418,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/RiseSleep_0.1.643_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/RiseSleep_0.1.643_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "OraWeather",
+      "type": 1,
+      "bundleID": "com.itwcalculator.worldradarfree",
+      "bundleIdentifier": "com.itwcalculator.worldradarfree",
+      "version": "6.4.0",
+      "versionDate": "2026-10-27",
+      "fullDate": "20261027214315",
+      "size": 120717870,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/OraWeather_6.4.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/OraWeather_6.4.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.itwcalculator.worldradarfree.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.itwcalculator.worldradarfree.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Wikiloc",
+      "type": 1,
+      "bundleID": "com.wikiloc.wikiloc",
+      "bundleIdentifier": "com.wikiloc.wikiloc",
+      "version": "3.31.1",
+      "versionDate": "2026-10-27",
+      "fullDate": "20261027210103",
+      "size": 135668216,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/Wikiloc_3.31.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/Wikiloc_3.31.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wikiloc.wikiloc.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wikiloc.wikiloc.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "FontCandy",
+      "type": 1,
+      "bundleID": "com.aaronray.fontcandy",
+      "bundleIdentifier": "com.aaronray.fontcandy",
+      "version": "6.2.5",
+      "versionDate": "2026-10-27",
+      "fullDate": "20261027210057",
+      "size": 113029057,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/FontCandy_6.2.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/FontCandy_6.2.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aaronray.fontcandy.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aaronray.fontcandy.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "ThePiano",
+      "type": 2,
+      "bundleID": "com.impalastudios.pianofree",
+      "bundleIdentifier": "com.impalastudios.pianofree",
+      "version": "2.25.1",
+      "versionDate": "2026-10-27",
+      "fullDate": "20261027202357",
+      "size": 125943962,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/ThePiano_2.25.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/ThePiano_2.25.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.impalastudios.pianofree.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.impalastudios.pianofree.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "PixelColor",
+      "type": 1,
+      "bundleID": "com.djitlabs.pixelcolor",
+      "bundleIdentifier": "com.djitlabs.pixelcolor",
+      "version": "6.05.00",
+      "versionDate": "2026-10-27",
+      "fullDate": "20261027200228",
+      "size": 55488714,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/PixelColor_6.05.00_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/PixelColor_6.05.00_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.djitlabs.pixelcolor.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.djitlabs.pixelcolor.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "FLTR",
+      "type": 1,
+      "bundleID": "com.feelty",
+      "bundleIdentifier": "com.feelty",
+      "version": "4.22.1",
+      "versionDate": "2026-10-27",
+      "fullDate": "20261027181029",
+      "size": 113962139,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/FLTR_4.22.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/FLTR_4.22.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.feelty.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.feelty.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "AIRetouch",
+      "type": 1,
+      "bundleID": "com.picretouch.photoeditor",
+      "bundleIdentifier": "com.picretouch.photoeditor",
+      "version": "1.2.2",
+      "versionDate": "2026-10-27",
+      "fullDate": "20261027155342",
+      "size": 41363054,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/AIRetouch_1.2.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/AIRetouch_1.2.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picretouch.photoeditor.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picretouch.photoeditor.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Cleanup",
+      "type": 1,
+      "bundleID": "com.codeway.cleanerplus",
+      "bundleIdentifier": "com.codeway.cleanerplus",
+      "version": "6.25.1",
+      "versionDate": "2026-10-27",
+      "fullDate": "20261027151733",
+      "size": 85004770,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/Cleanup_6.25.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/Cleanup_6.25.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.codeway.cleanerplus.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.codeway.cleanerplus.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Yazio",
+      "type": 1,
+      "bundleID": "com.yazio.ios.YAZIO",
+      "bundleIdentifier": "com.yazio.ios.YAZIO",
+      "version": "26.43.2",
+      "versionDate": "2026-10-27",
+      "fullDate": "20261027140529",
+      "size": 213994257,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/Yazio_26.43.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/Yazio_26.43.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yazio.ios.YAZIO.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yazio.ios.YAZIO.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "HabitKit",
+      "type": 1,
+      "bundleID": "com.roehl.habitkit",
+      "bundleIdentifier": "com.roehl.habitkit",
+      "version": "1.19.0",
+      "versionDate": "2026-10-27",
+      "fullDate": "20261027134419",
+      "size": 107979834,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/HabitKit_1.19.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/HabitKit_1.19.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.roehl.habitkit.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.roehl.habitkit.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "LUTStudio",
+      "type": 1,
+      "bundleID": "com.solveit.lut-studio",
+      "bundleIdentifier": "com.solveit.lut-studio",
+      "version": "4.1.2",
+      "versionDate": "2026-10-27",
+      "fullDate": "20261027130802",
+      "size": 141221128,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/LUTStudio_4.1.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/LUTStudio_4.1.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.solveit.lut-studio.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.solveit.lut-studio.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "SCRL",
+      "type": 1,
+      "bundleID": "com.dopedevelopment.Panels",
+      "bundleIdentifier": "com.dopedevelopment.Panels",
+      "version": "9.61",
+      "versionDate": "2026-10-27",
+      "fullDate": "20261027092035",
+      "size": 85921709,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/SCRL_9.61_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/SCRL_9.61_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dopedevelopment.Panels.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dopedevelopment.Panels.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
     {
       "name": "Athlytic",
       "type": 1,
@@ -155,6 +474,74 @@
       ]
     },
     {
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/46/c4/bf46c48e-94bb-c30d-601f-d73ed5a70689/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
+      "size": 269572222,
+      "category": "Social",
+      "beta": false,
+      "versionDescription": "\u2022 X updated to v12.38",
+      "developerName": "Densor",
+      "localizedDescription": "\u2022 X updated to v12.38",
+      "subtitle": "An new tweak for X!",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Twitter.v12.38.+.NFB.v7.2.0.ipa",
+      "tintColor": "030303",
+      "version": "12.38",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/82/3c/21823c75-d122-f771-fba1-2521b3f3237e/1242x2688-1.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/65/a8/8e/65a88e08-0c52-8675-0b0e-c7ef2dad4325/1242x2688-2.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f3/05/b5/f305b570-fe21-58cc-a892-10108e6f162d/1242x2688-3.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/af/79/0b/af790b7a-d04b-575b-b00f-1aa0b54c9f3e/1242x2688-4.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/a3/90/34a390d6-1cca-d3b1-c330-fc0a019606ba/1242x2688-5.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/da/b3/45dab368-3c35-b8c8-c82d-a706b53667ec/1242x2688-6.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/78/72/1b787247-45dc-8eae-a4be-4a3c4e0de9da/1242x2688-7.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/79/df/00/79df00e8-bdab-aa97-914e-56b94a4c0a0b/1242x2688-8.jpg/320x480bb.jpg"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "application-identifier",
+          "aps-environment",
+          "com.apple.developer.applesignin",
+          "com.apple.developer.associated-appclip-app-identifiers",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.devicecheck.appattest-environment",
+          "com.apple.developer.kernel.extended-virtual-addressing",
+          "com.apple.developer.kernel.increased-memory-limit",
+          "com.apple.developer.networking.carrier-constrained.app-optimized",
+          "com.apple.developer.networking.carrier-constrained.appcategory",
+          "com.apple.developer.pass-type-identifiers",
+          "com.apple.developer.payment-pass-provisioning",
+          "com.apple.developer.siri",
+          "com.apple.developer.team-identifier",
+          "com.apple.developer.usernotifications.communication",
+          "com.apple.developer.usernotifications.time-sensitive",
+          "com.apple.security.application-groups",
+          "keychain-access-groups"
+        ],
+        "privacy": {
+          "NSCalendarsUsageDescription": "Add events to your calendar from X.",
+          "NSCameraUsageDescription": "Capture and post photos and videos from X.",
+          "NSContactsUsageDescription": "We will securely upload your contacts to our servers to help you connect with friends and suggest users to follow on X.",
+          "NSFaceIDUsageDescription": "Use FaceID to authenticate on X.",
+          "NSLocationUsageDescription": "Enjoy the X experience tailored to your location.",
+          "NSLocationWhenInUseUsageDescription": "Enjoy the X experience tailored to your location.",
+          "NSMicrophoneUsageDescription": "Capture and post videos with sound from X.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you download photos and videos to your Photos.",
+          "NSPhotoLibraryUsageDescription": "Allow access to share photos from your camera roll.",
+          "NSSpeechRecognitionUsageDescription": "Going forward, whenever you choose to share captions on this device, Apple will provide the service. Doing so helps make sure people of all hearing abilities can access your content.",
+          "NSUserTrackingUsageDescription": "This helps X show you more relevant ads."
+        }
+      },
+      "name": "X++",
+      "versionDate": "2026-10-27",
+      "date": "2026-10-27",
+      "sha256": "288f45bc382a91c0cdd90e0476d73ccb700f786b8956ca9b40b5bbfcf28e6363",
+      "__source": "https://wuxu1.github.io/wuxu-complete-plus.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
       "name": "iCube",
       "bundleIdentifier": "com.joemattiello.iCube",
       "developerName": "Provenance Emu",
@@ -174,14 +561,14 @@
         "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
       ],
       "version": "1.0.0",
-      "buildVersion": "395",
-      "date": "2026-10-26T07:55:31.270Z",
-      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-395/Non-Jailbroken.ipa",
-      "size": 98839241,
+      "buildVersion": "399",
+      "date": "2026-10-26T22:49:01.369Z",
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-399/Non-Jailbroken.ipa",
+      "size": 98842553,
       "minOSVersion": "17.0",
       "platform": "iOS",
       "isBeta": true,
-      "versionDate": "2026-10-26T07:55:31.270Z",
+      "versionDate": "2026-10-26T22:49:01.369Z",
       "__source": "https://provenance-emu.com/apps.json",
       "__mirrors": [],
       "__stores": [
@@ -1517,52 +1904,6 @@
       ]
     },
     {
-      "name": "Provenance Alpha",
-      "bundleIdentifier": "com.provenance-emu.provenance.alpha",
-      "developerName": "Provenance-EMU",
-      "subtitle": "Latest dev builds - test new features early",
-      "localizedDescription": "Alpha build 1a5cea4 \u00b7 2026-10-24\n\nChanges in this build:\n\u2022 fix(tvos): consistent retro settings pages and working focus highlight\n\u2022 feat(video): working Image Smoothing modes, drop placebo video settings\n\u2022 build(moltenvk): update vendored MoltenVK to 1.4.2\n\u2022 fix(core): convert real-time thread constraints to mach ticks correctly\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
-      "iconURL": "https://raw.githubusercontent.com/Provenance-Emu/Provenance/develop/Provenance/Resources/Assets.xcassets/AppIcon.appiconset/iTunesArtwork%402x.png",
-      "tintColor": "FF6B35",
-      "screenshotURLs": [],
-      "appPermissions": {
-        "entitlements": [
-          {
-            "name": "com.apple.security.application-groups"
-          },
-          {
-            "name": "com.apple.developer.icloud-services"
-          },
-          {
-            "name": "com.apple.developer.icloud-container-identifiers"
-          }
-        ],
-        "privacy": [
-          {
-            "name": "LocalNetwork",
-            "usageDescription": "Used to discover and connect to local network game servers for netplay."
-          },
-          {
-            "name": "Camera",
-            "usageDescription": "Used to scan QR codes for importing game data."
-          }
-        ]
-      },
-      "version": "3.4.0",
-      "buildVersion": "10922",
-      "marketingVersion": "3.4.0-alpha.20261024.1a5cea4",
-      "date": "2026-10-24",
-      "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
-      "size": 778390694,
-      "minOSVersion": "17.0",
-      "versionDate": "2026-10-24",
-      "__source": "https://provenance-emu.com/apps.json",
-      "__mirrors": [],
-      "__stores": [
-        "AltStore"
-      ]
-    },
-    {
       "name": "Pillow",
       "type": 1,
       "bundleID": "com.neybox.Pillow",
@@ -2050,7 +2391,7 @@
       "size": 265803606,
       "category": "Social",
       "beta": false,
-      "versionDescription": "\u2022 X updated to v12.37",
+      "versionDescription": "\u2022 X updated to v12.38",
       "developerName": "Densor",
       "localizedDescription": "\u2022 X updated to v12.37",
       "subtitle": "An new tweak for X!",
@@ -7647,7 +7988,7 @@
       "size": 270082729,
       "category": "Social",
       "beta": false,
-      "versionDescription": "\u2022 X updated to v12.37",
+      "versionDescription": "\u2022 X updated to v12.38",
       "developerName": "Densor",
       "localizedDescription": "\u2022 X updated to v12.36",
       "subtitle": "An new tweak for X!",
@@ -8459,7 +8800,7 @@
       "size": 266435836,
       "category": "Social",
       "beta": false,
-      "versionDescription": "\u2022 X updated to v12.37",
+      "versionDescription": "\u2022 X updated to v12.38",
       "developerName": "Densor",
       "localizedDescription": "\u2022 X updated to v12.35\n\u2022 NFB updated to v7.2.0",
       "subtitle": "An new tweak for X!",
@@ -229374,7 +229715,7 @@
       "size": 119000000,
       "category": "Social",
       "beta": false,
-      "versionDescription": "\u2022 X updated to v12.37",
+      "versionDescription": "\u2022 X updated to v12.38",
       "developerName": "Densor",
       "localizedDescription": "\u2022 Updated X to v10.83\n\u2022 Replaced BHTwitter with TwiGalaxy",
       "subtitle": "An new tweak for X!",
@@ -258991,7 +259332,7 @@
       "size": 119000000,
       "category": "Social",
       "beta": false,
-      "versionDescription": "\u2022 X updated to v12.37",
+      "versionDescription": "\u2022 X updated to v12.38",
       "developerName": "Densor",
       "localizedDescription": "\u2022 Updated X to v10.62\n\u2022 Updated BHTwitter to v4.3-4",
       "subtitle": "An new tweak for X!",
@@ -276045,7 +276386,7 @@
       "size": 93000000,
       "category": "Social",
       "beta": false,
-      "versionDescription": "\u2022 X updated to v12.37",
+      "versionDescription": "\u2022 X updated to v12.38",
       "developerName": "Densor",
       "localizedDescription": "\u2022 Updated X to v10.39.0",
       "subtitle": "An new tweak for X!",
@@ -278803,7 +279144,7 @@
       "size": 93000000,
       "category": "Social",
       "beta": false,
-      "versionDescription": "\u2022 X updated to v12.37",
+      "versionDescription": "\u2022 X updated to v12.38",
       "developerName": "Densor",
       "localizedDescription": "\u2022 Updated X to v10.22.0",
       "subtitle": "An new tweak for X!",
@@ -281997,7 +282338,7 @@
       "size": 93000000,
       "category": "Social",
       "beta": false,
-      "versionDescription": "\u2022 X updated to v12.37",
+      "versionDescription": "\u2022 X updated to v12.38",
       "developerName": "Densor",
       "localizedDescription": "\u2022 Updated X to v10.10.0",
       "subtitle": "An new tweak for X!",

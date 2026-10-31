@@ -4,7 +4,7 @@
   "subtitle": "Auto-merged from 43 AltStore/ESign sources. Original download URLs preserved.",
   "description": "Deduplicates by (name, bundleIdentifier, version). __source is the first source; __mirrors lists additional sources.",
   "iconURL": "https://avatars.githubusercontent.com/u/57844837",
-  "appCount": 13192,
+  "appCount": 13199,
   "sourceCount": 43,
   "apps": [
     {
@@ -27,14 +27,156 @@
         "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
       ],
       "version": "1.0.0",
-      "buildVersion": "409",
-      "date": "2026-10-31T01:30:05.334Z",
-      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-409/Non-Jailbroken.ipa",
-      "size": 98875144,
+      "buildVersion": "411",
+      "date": "2026-10-31T03:29:42.284Z",
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-411/Non-Jailbroken.ipa",
+      "size": 98875146,
       "minOSVersion": "17.0",
       "platform": "iOS",
       "isBeta": true,
-      "versionDate": "2026-10-31T01:30:05.334Z",
+      "versionDate": "2026-10-31T03:29:42.284Z",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Provenance Alpha",
+      "bundleIdentifier": "com.provenance-emu.provenance.alpha",
+      "developerName": "Provenance-EMU",
+      "subtitle": "Latest dev builds - test new features early",
+      "localizedDescription": "Alpha build 13fcf3c \u00b7 2026-10-31\n\nChanges in this build:\n\u2022 refactor(ui): drop TVAlertController and the UIKit alert shims\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
+      "iconURL": "https://raw.githubusercontent.com/Provenance-Emu/Provenance/develop/Provenance/Resources/Assets.xcassets/AppIcon.appiconset/iTunesArtwork%402x.png",
+      "tintColor": "FF6B35",
+      "screenshotURLs": [],
+      "appPermissions": {
+        "entitlements": [
+          {
+            "name": "com.apple.security.application-groups"
+          },
+          {
+            "name": "com.apple.developer.icloud-services"
+          },
+          {
+            "name": "com.apple.developer.icloud-container-identifiers"
+          }
+        ],
+        "privacy": [
+          {
+            "name": "LocalNetwork",
+            "usageDescription": "Used to discover and connect to local network game servers for netplay."
+          },
+          {
+            "name": "Camera",
+            "usageDescription": "Used to scan QR codes for importing game data."
+          }
+        ]
+      },
+      "version": "3.4.0",
+      "buildVersion": "10980",
+      "marketingVersion": "3.4.0-alpha.20261031.13fcf3c",
+      "date": "2026-10-31",
+      "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
+      "size": 780656858,
+      "minOSVersion": "17.0",
+      "versionDate": "2026-10-31",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iFly",
+      "bundleIdentifier": "com.provenance.ifly",
+      "developerName": "Provenance Emu",
+      "subtitle": "Dreamcast Emulator for iOS & tvOS",
+      "localizedDescription": "iFly 1.0.0 (build 1793414823) for iOS",
+      "iconURL": "https://ifly-emu.com/icon-1024.png",
+      "tintColor": "#ff6900",
+      "category": "games",
+      "screenshots": [
+        "https://ifly-emu.com/screenshots/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
+        "https://ifly-emu.com/screenshots/iphone/search.jpg",
+        "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
+        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+      ],
+      "version": "1.0.0+1793414823",
+      "buildVersion": "1793414823",
+      "date": "2026-10-31",
+      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1793414823/iFly-1.0.0-1793414823.ipa",
+      "size": 132854929,
+      "minOSVersion": "17.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "versionDate": "2026-10-31",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iFly",
+      "bundleIdentifier": "com.provenance.ifly",
+      "developerName": "Provenance Emu",
+      "subtitle": "Dreamcast Emulator for iOS & tvOS",
+      "localizedDescription": "iFly 1.0.0 (build 1793411785) for iOS",
+      "iconURL": "https://ifly-emu.com/icon-1024.png",
+      "tintColor": "#ff6900",
+      "category": "games",
+      "screenshots": [
+        "https://ifly-emu.com/screenshots/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
+        "https://ifly-emu.com/screenshots/iphone/search.jpg",
+        "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
+        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+      ],
+      "version": "1.0.0+1793411785",
+      "buildVersion": "1793411785",
+      "date": "2026-10-31",
+      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1793411785/iFly-1.0.0-1793411785.ipa",
+      "size": 132854917,
+      "minOSVersion": "17.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "versionDate": "2026-10-31",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iFly",
+      "bundleIdentifier": "com.provenance.ifly",
+      "developerName": "Provenance Emu",
+      "subtitle": "Dreamcast Emulator for iOS & tvOS",
+      "localizedDescription": "iFly 1.0.0 (build 1793406805) for iOS",
+      "iconURL": "https://ifly-emu.com/icon-1024.png",
+      "tintColor": "#ff6900",
+      "category": "games",
+      "screenshots": [
+        "https://ifly-emu.com/screenshots/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
+        "https://ifly-emu.com/screenshots/iphone/search.jpg",
+        "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
+        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+      ],
+      "version": "1.0.0+1793406805",
+      "buildVersion": "1793406805",
+      "date": "2026-10-31",
+      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1793406805/iFly-1.0.0-1793406805.ipa",
+      "size": 132854902,
+      "minOSVersion": "17.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "versionDate": "2026-10-31",
       "__source": "https://provenance-emu.com/apps.json",
       "__mirrors": [],
       "__stores": [
@@ -141,6 +283,90 @@
       "betaNumber": 7,
       "versionDate": "2026-10-31",
       "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Uplens",
+      "type": 1,
+      "bundleID": "app.uplens",
+      "bundleIdentifier": "app.uplens",
+      "version": "4.4.0",
+      "versionDate": "2026-10-31",
+      "fullDate": "20261031213835",
+      "size": 178715846,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/Uplens_4.4.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/Uplens_4.4.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.uplens.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.uplens.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "TORVPN",
+      "type": 1,
+      "bundleID": "com.youssef.developer.Full-Browser",
+      "bundleIdentifier": "com.youssef.developer.Full-Browser",
+      "version": "12.4",
+      "versionDate": "2026-10-31",
+      "fullDate": "20261031183130",
+      "size": 177524833,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/TORVPN_12.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/TORVPN_12.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.youssef.developer.Full-Browser.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.youssef.developer.Full-Browser.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Pillow",
+      "type": 1,
+      "bundleID": "com.neybox.Pillow",
+      "bundleIdentifier": "com.neybox.Pillow",
+      "version": "6.7.3",
+      "versionDate": "2026-10-31",
+      "fullDate": "20261031180939",
+      "size": 576798056,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/Pillow_6.7.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/Pillow_6.7.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neybox.Pillow.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neybox.Pillow.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "NoFusion",
+      "type": 1,
+      "bundleID": "com.grey.swiftcamera",
+      "bundleIdentifier": "com.grey.swiftcamera",
+      "version": "2.5.61",
+      "versionDate": "2026-10-31",
+      "fullDate": "20261031104041",
+      "size": 117431260,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/NoFusion_2.5.61_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/NoFusion_2.5.61_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grey.swiftcamera.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grey.swiftcamera.png",
+      "__source": "https://repository.apptesters.org",
       "__mirrors": [],
       "__stores": [
         "AltStore"
@@ -375,52 +601,6 @@
       "version": "34702",
       "versionDate": "2026-10-30T19:04:11+00:00",
       "__source": "https://pokemmo.eu/altstore/",
-      "__mirrors": [],
-      "__stores": [
-        "AltStore"
-      ]
-    },
-    {
-      "name": "Provenance Alpha",
-      "bundleIdentifier": "com.provenance-emu.provenance.alpha",
-      "developerName": "Provenance-EMU",
-      "subtitle": "Latest dev builds - test new features early",
-      "localizedDescription": "Alpha build bb7a451 \u00b7 2026-10-30\n\nChanges in this build:\n\u2022 test(ui): compare resolved SkinKit palette colors across theme changes\n\u2022 build: checkpoint resolved SkinKit game-screen selection fix\n\u2022 fix(topshelf): preserve cover aspect and refresh rendered caches\n\u2022 docs: preserve debug API evidence paths for consolidated testing\n\u2022 refactor(ui): replace remaining UIKit alerts and storyboards with PVAlert\n\u2022 docs: record netplay simulator validation and develop integration checklist\n\u2022 fix(netplay): connect tvOS filter focus to the game grid\n\u2022 fix(netplay): keep tvOS library controls readable across focus changes\n\u2022 fix(themes): apply palette and focus styling across shared UI\n\u2022 feat(netplay): add library-first hub and verified multiplayer eligibility\n\u2022 refactor(ui): keep bundle localization outside alert controllers\n\u2022 build: allow Xcode 27 dev workspace generation\n\u2022 fix(ui): preserve localization helpers after alert cleanup\n\u2022 docs: record deferred controller remap checks\n\u2022 fix(themes): refine premium palettes and persist RetroWave\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
-      "iconURL": "https://raw.githubusercontent.com/Provenance-Emu/Provenance/develop/Provenance/Resources/Assets.xcassets/AppIcon.appiconset/iTunesArtwork%402x.png",
-      "tintColor": "FF6B35",
-      "screenshotURLs": [],
-      "appPermissions": {
-        "entitlements": [
-          {
-            "name": "com.apple.security.application-groups"
-          },
-          {
-            "name": "com.apple.developer.icloud-services"
-          },
-          {
-            "name": "com.apple.developer.icloud-container-identifiers"
-          }
-        ],
-        "privacy": [
-          {
-            "name": "LocalNetwork",
-            "usageDescription": "Used to discover and connect to local network game servers for netplay."
-          },
-          {
-            "name": "Camera",
-            "usageDescription": "Used to scan QR codes for importing game data."
-          }
-        ]
-      },
-      "version": "3.4.0",
-      "buildVersion": "10973",
-      "marketingVersion": "3.4.0-alpha.20261030.bb7a451",
-      "date": "2026-10-30",
-      "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
-      "size": 780609659,
-      "minOSVersion": "17.0",
-      "versionDate": "2026-10-30",
-      "__source": "https://provenance-emu.com/apps.json",
       "__mirrors": [],
       "__stores": [
         "AltStore"

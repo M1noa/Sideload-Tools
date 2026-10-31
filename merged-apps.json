@@ -4,13 +4,381 @@
   "subtitle": "Auto-merged from 43 AltStore/ESign sources. Local download URLs provided for cached files.",
   "description": "Deduplicates by (name, bundleIdentifier, version). downloadURL points to local repo copy if available, otherwise original URL. Downloads newest first; resumes from last run.",
   "iconURL": "https://avatars.githubusercontent.com/u/57844837",
-  "appCount": 13181,
+  "appCount": 13192,
   "sourceCount": 43,
   "apps": [
     {
+      "name": "iCube",
+      "bundleIdentifier": "com.joemattiello.iCube",
+      "developerName": "Provenance Emu",
+      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
+      "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
+      "iconURL": "https://icube-emu.com/icon-1024.png",
+      "tintColor": "#3B82F6",
+      "category": "games",
+      "screenshots": [
+        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
+        "https://icube-emu.com/screenshots/iphone/search.jpg",
+        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
+        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
+        "https://icube-emu.com/screenshots/iphone/shaders.jpg",
+        "https://icube-emu.com/screenshots/iphone/settings-graphics.jpg",
+        "https://icube-emu.com/screenshots/iphone/settings-controllers.jpg",
+        "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
+      ],
+      "version": "1.0.0",
+      "buildVersion": "409",
+      "date": "2026-10-31T01:30:05.334Z",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/Non-Jailbroken.ipa",
+      "size": 98875144,
+      "minOSVersion": "17.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "versionDate": "2026-10-31T01:30:05.334Z",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iCube",
+      "bundleIdentifier": "com.joemattiello.iCube",
+      "developerName": "Provenance Emu",
+      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
+      "localizedDescription": "iCube 1.0.0-beta9-ios Beta 9 for iOS",
+      "iconURL": "https://icube-emu.com/icon-1024.png",
+      "tintColor": "#3B82F6",
+      "category": "games",
+      "screenshots": [
+        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
+        "https://icube-emu.com/screenshots/iphone/search.jpg",
+        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
+        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
+        "https://icube-emu.com/screenshots/iphone/shaders.jpg",
+        "https://icube-emu.com/screenshots/iphone/settings-graphics.jpg",
+        "https://icube-emu.com/screenshots/iphone/settings-controllers.jpg",
+        "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
+      ],
+      "version": "1.0.0-beta9-ios",
+      "buildVersion": "1.0.0-beta9-ios",
+      "date": "2026-10-31",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/iCube.ipa",
+      "size": 82799373,
+      "minOSVersion": "15.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "betaNumber": 9,
+      "versionDate": "2026-10-31",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ],
+      "__hash_duplicates": [
+        {
+          "name": "iCube",
+          "bundleIdentifier": "com.joemattiello.iCube",
+          "version": "1.0.0-beta9-ios"
+        },
+        {
+          "name": "iCube",
+          "bundleIdentifier": "com.joemattiello.iCube",
+          "version": "1.0.0-beta7-ios"
+        }
+      ]
+    },
+    {
+      "name": "iCube",
+      "bundleIdentifier": "com.joemattiello.iCube",
+      "developerName": "Provenance Emu",
+      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
+      "localizedDescription": "iCube 1.0.0-beta8-ios Beta 8 for iOS",
+      "iconURL": "https://icube-emu.com/icon-1024.png",
+      "tintColor": "#3B82F6",
+      "category": "games",
+      "screenshots": [
+        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
+        "https://icube-emu.com/screenshots/iphone/search.jpg",
+        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
+        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
+        "https://icube-emu.com/screenshots/iphone/shaders.jpg",
+        "https://icube-emu.com/screenshots/iphone/settings-graphics.jpg",
+        "https://icube-emu.com/screenshots/iphone/settings-controllers.jpg",
+        "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
+      ],
+      "version": "1.0.0-beta8-ios",
+      "buildVersion": "1.0.0-beta8-ios",
+      "date": "2026-10-31",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/iCube.ipa",
+      "size": 82893911,
+      "minOSVersion": "15.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "betaNumber": 8,
+      "versionDate": "2026-10-31",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iCube",
+      "bundleIdentifier": "com.joemattiello.iCube",
+      "developerName": "Provenance Emu",
+      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
+      "localizedDescription": "iCube 1.0.0-beta7-ios Beta 7 for iOS",
+      "iconURL": "https://icube-emu.com/icon-1024.png",
+      "tintColor": "#3B82F6",
+      "category": "games",
+      "screenshots": [
+        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
+        "https://icube-emu.com/screenshots/iphone/search.jpg",
+        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
+        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
+        "https://icube-emu.com/screenshots/iphone/shaders.jpg",
+        "https://icube-emu.com/screenshots/iphone/settings-graphics.jpg",
+        "https://icube-emu.com/screenshots/iphone/settings-controllers.jpg",
+        "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
+      ],
+      "version": "1.0.0-beta7-ios",
+      "buildVersion": "1.0.0-beta7-ios",
+      "date": "2026-10-31",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/iCube.ipa",
+      "size": 82893502,
+      "minOSVersion": "15.6",
+      "platform": "iOS",
+      "isBeta": true,
+      "betaNumber": 7,
+      "versionDate": "2026-10-31",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ],
+      "__hash_duplicates": [
+        {
+          "name": "iCube",
+          "bundleIdentifier": "com.joemattiello.iCube",
+          "version": "1.0.0-beta9-ios"
+        }
+      ]
+    },
+    {
+      "name": "LEMOFM",
+      "type": 1,
+      "bundleID": "com.LEMO.LemoFM",
+      "bundleIdentifier": "com.LEMO.LemoFM",
+      "version": "2.4.0",
+      "versionDate": "2026-10-31",
+      "fullDate": "20261031084901",
+      "size": 112340731,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/LEMOFM_2.4.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/LEMOFM_2.4.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.LEMO.LemoFM.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.LEMO.LemoFM.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Tachimanga",
+      "type": 1,
+      "bundleID": "com.mangacrush.ios",
+      "bundleIdentifier": "com.mangacrush.ios",
+      "version": "5.3",
+      "versionDate": "2026-10-31",
+      "fullDate": "20261031071635",
+      "size": 135260522,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/Tachimanga_5.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/Tachimanga_5.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mangacrush.ios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mangacrush.ios.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Calendars",
+      "type": 1,
+      "bundleID": "com.readdle.CalendarsLite",
+      "bundleIdentifier": "com.readdle.CalendarsLite",
+      "version": "5.41.2",
+      "versionDate": "2026-10-31",
+      "fullDate": "20261031045942",
+      "size": 320410155,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/Calendars_5.41.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/Calendars_5.41.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.CalendarsLite.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.CalendarsLite.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Lampa",
+      "type": 1,
+      "bundleID": "com.lampa.photo",
+      "bundleIdentifier": "com.lampa.photo",
+      "version": "2.2.0",
+      "versionDate": "2026-10-31",
+      "fullDate": "20261031031232",
+      "size": 84070070,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/Lampa_2.2.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/Lampa_2.2.0_Premium_@thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lampa.photo.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lampa.photo.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "rPlayer",
+      "type": 1,
+      "bundleID": "com.wangyuehuan.vrtef",
+      "bundleIdentifier": "com.wangyuehuan.vrtef",
+      "version": "8.0.0",
+      "versionDate": "2026-10-31",
+      "fullDate": "20261031025121",
+      "size": 62464700,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/rPlayer_8.0.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/rPlayer_8.0.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wangyuehuan.vrtef.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wangyuehuan.vrtef.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Habits",
+      "type": 1,
+      "bundleID": "com.dreamer.Habits",
+      "bundleIdentifier": "com.dreamer.Habits",
+      "version": "3.38",
+      "versionDate": "2026-10-31",
+      "fullDate": "20261031023952",
+      "size": 248826313,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/Habits_3.38_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/Habits_3.38_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dreamer.Habits.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dreamer.Habits.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "RiseSleep",
+      "type": 1,
+      "bundleID": "com.risesci.nyx",
+      "bundleIdentifier": "com.risesci.nyx",
+      "version": "0.1.645",
+      "versionDate": "2026-10-31",
+      "fullDate": "20261031015757",
+      "size": 133263005,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/RiseSleep_0.1.645_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/RiseSleep_0.1.645_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "ProCCD",
+      "type": 1,
+      "bundleID": "com.yengshine.proccd",
+      "bundleIdentifier": "com.yengshine.proccd",
+      "version": "7.0.0",
+      "versionDate": "2026-10-31",
+      "fullDate": "20261031015113",
+      "size": 242031361,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/ProCCD_7.0.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/ProCCD_7.0.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yengshine.proccd.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yengshine.proccd.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "GrowMe",
+      "type": 1,
+      "bundleID": "com.book.summaries.reading",
+      "bundleIdentifier": "com.book.summaries.reading",
+      "version": "1.4.4",
+      "versionDate": "2026-10-31",
+      "fullDate": "20261031013850",
+      "size": 186446501,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/GrowMe_1.4.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/GrowMe_1.4.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.book.summaries.reading.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.book.summaries.reading.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "OfflineMusic",
+      "type": 1,
+      "bundleID": "com.offlinemusic",
+      "bundleIdentifier": "com.offlinemusic",
+      "version": "3.9.9",
+      "versionDate": "2026-10-31",
+      "fullDate": "20261031000129",
+      "size": 85197355,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/OfflineMusic_3.9.9_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/OfflineMusic_3.9.9_Pro_@thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.offlinemusic.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.offlinemusic.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
       "bundleIdentifier": "eu.pokemmo.client",
       "developerName": "PokeMMO",
-      "downloadURL": "https://dl.pokemmo.com/PokeMMO-Client.ipa?r=34693",
+      "downloadURL": "https://dl.pokemmo.com/PokeMMO-Client.ipa?r=34702",
       "iconURL": "https://pokemmo.com/build/images/altstore.f5930b35.png",
       "localizedDescription": "PokeMMO is a free to play mmorpg, come join a growing community as you level up and discover new monsters. Available now on PC, Android, iOS, Mac, and Linux.",
       "name": "PokeMMO",
@@ -21,10 +389,10 @@
         "https://pokemmo.com/build/images/screenshot/e.ed0aa85b.png",
         "https://pokemmo.com/build/images/screenshot/a.debf11f5.png"
       ],
-      "size": 132552770,
+      "size": 132600918,
       "tintColor": "73ACE2",
-      "version": "34693",
-      "versionDate": "2026-10-30T15:39:39+00:00",
+      "version": "34702",
+      "versionDate": "2026-10-30T19:04:11+00:00",
       "__source": "https://pokemmo.eu/altstore/",
       "__mirrors": [],
       "__stores": [
@@ -72,6 +440,27 @@
       "minOSVersion": "17.0",
       "versionDate": "2026-10-30",
       "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "VlogNow",
+      "type": 1,
+      "bundleID": "com.frontrow.vlog",
+      "bundleIdentifier": "com.frontrow.vlog",
+      "version": "2.24.0",
+      "versionDate": "2026-10-30",
+      "fullDate": "20261030231655",
+      "size": 506105811,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-10-2026/VlogNow_2.24.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-10-2026/VlogNow_2.24.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frontrow.vlog.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frontrow.vlog.png",
+      "__source": "https://repository.apptesters.org",
       "__mirrors": [],
       "__stores": [
         "AltStore"
@@ -1148,171 +1537,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "iCube",
-      "bundleIdentifier": "com.joemattiello.iCube",
-      "developerName": "Provenance Emu",
-      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
-      "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
-      "iconURL": "https://icube-emu.com/icon-1024.png",
-      "tintColor": "#3B82F6",
-      "category": "games",
-      "screenshots": [
-        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
-        "https://icube-emu.com/screenshots/iphone/search.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
-        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
-        "https://icube-emu.com/screenshots/iphone/shaders.jpg",
-        "https://icube-emu.com/screenshots/iphone/settings-graphics.jpg",
-        "https://icube-emu.com/screenshots/iphone/settings-controllers.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
-      ],
-      "version": "1.0.0",
-      "buildVersion": "407",
-      "date": "2026-10-28T23:44:55.085Z",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/Non-Jailbroken.ipa",
-      "size": 98869532,
-      "minOSVersion": "17.0",
-      "platform": "iOS",
-      "isBeta": true,
-      "versionDate": "2026-10-28T23:44:55.085Z",
-      "__source": "https://provenance-emu.com/apps.json",
-      "__mirrors": [],
-      "__stores": [
-        "AltStore"
-      ]
-    },
-    {
-      "name": "iCube",
-      "bundleIdentifier": "com.joemattiello.iCube",
-      "developerName": "Provenance Emu",
-      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
-      "localizedDescription": "iCube 1.0.0-beta9-ios Beta 9 for iOS",
-      "iconURL": "https://icube-emu.com/icon-1024.png",
-      "tintColor": "#3B82F6",
-      "category": "games",
-      "screenshots": [
-        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
-        "https://icube-emu.com/screenshots/iphone/search.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
-        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
-        "https://icube-emu.com/screenshots/iphone/shaders.jpg",
-        "https://icube-emu.com/screenshots/iphone/settings-graphics.jpg",
-        "https://icube-emu.com/screenshots/iphone/settings-controllers.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
-      ],
-      "version": "1.0.0-beta9-ios",
-      "buildVersion": "1.0.0-beta9-ios",
-      "date": "2026-10-28",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/iCube.ipa",
-      "size": 82799373,
-      "minOSVersion": "15.0",
-      "platform": "iOS",
-      "isBeta": true,
-      "betaNumber": 9,
-      "versionDate": "2026-10-28",
-      "__source": "https://provenance-emu.com/apps.json",
-      "__mirrors": [],
-      "__stores": [
-        "AltStore"
-      ],
-      "__hash_duplicates": [
-        {
-          "name": "iCube",
-          "bundleIdentifier": "com.joemattiello.iCube",
-          "version": "1.0.0-beta8-ios"
-        },
-        {
-          "name": "iCube",
-          "bundleIdentifier": "com.joemattiello.iCube",
-          "version": "1.0.0-beta7-ios"
-        }
-      ]
-    },
-    {
-      "name": "iCube",
-      "bundleIdentifier": "com.joemattiello.iCube",
-      "developerName": "Provenance Emu",
-      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
-      "localizedDescription": "iCube 1.0.0-beta8-ios Beta 8 for iOS",
-      "iconURL": "https://icube-emu.com/icon-1024.png",
-      "tintColor": "#3B82F6",
-      "category": "games",
-      "screenshots": [
-        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
-        "https://icube-emu.com/screenshots/iphone/search.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
-        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
-        "https://icube-emu.com/screenshots/iphone/shaders.jpg",
-        "https://icube-emu.com/screenshots/iphone/settings-graphics.jpg",
-        "https://icube-emu.com/screenshots/iphone/settings-controllers.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
-      ],
-      "version": "1.0.0-beta8-ios",
-      "buildVersion": "1.0.0-beta8-ios",
-      "date": "2026-10-28",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/iCube.ipa",
-      "size": 82893911,
-      "minOSVersion": "15.0",
-      "platform": "iOS",
-      "isBeta": true,
-      "betaNumber": 8,
-      "versionDate": "2026-10-28",
-      "__source": "https://provenance-emu.com/apps.json",
-      "__mirrors": [],
-      "__stores": [
-        "AltStore"
-      ],
-      "__hash_duplicates": [
-        {
-          "name": "iCube",
-          "bundleIdentifier": "com.joemattiello.iCube",
-          "version": "1.0.0-beta9-ios"
-        }
-      ]
-    },
-    {
-      "name": "iCube",
-      "bundleIdentifier": "com.joemattiello.iCube",
-      "developerName": "Provenance Emu",
-      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
-      "localizedDescription": "iCube 1.0.0-beta7-ios Beta 7 for iOS",
-      "iconURL": "https://icube-emu.com/icon-1024.png",
-      "tintColor": "#3B82F6",
-      "category": "games",
-      "screenshots": [
-        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
-        "https://icube-emu.com/screenshots/iphone/search.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
-        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
-        "https://icube-emu.com/screenshots/iphone/shaders.jpg",
-        "https://icube-emu.com/screenshots/iphone/settings-graphics.jpg",
-        "https://icube-emu.com/screenshots/iphone/settings-controllers.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
-      ],
-      "version": "1.0.0-beta7-ios",
-      "buildVersion": "1.0.0-beta7-ios",
-      "date": "2026-10-28",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/iCube.ipa",
-      "size": 82893502,
-      "minOSVersion": "15.6",
-      "platform": "iOS",
-      "isBeta": true,
-      "betaNumber": 7,
-      "versionDate": "2026-10-28",
-      "__source": "https://provenance-emu.com/apps.json",
-      "__mirrors": [],
-      "__stores": [
-        "AltStore"
-      ],
-      "__hash_duplicates": [
-        {
-          "name": "iCube",
-          "bundleIdentifier": "com.joemattiello.iCube",
-          "version": "1.0.0-beta9-ios"
-        }
       ]
     },
     {
@@ -2438,7 +2662,7 @@
       "fullDate": "20261027045543",
       "size": 102892667,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/InCollage_2.2.80_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/InCollage_2.2.80_Premium_@thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/InCollage_2.2.80_Premium_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/PhotoEditor.PhotoCollage.inCollage.png",
@@ -2480,7 +2704,7 @@
       "fullDate": "20261027015120",
       "size": 56046465,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/Coconote_2.52_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/Coconote_2.52_Pro_@thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/Coconote_2.52_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bbauman.Scripty.png",
@@ -3049,7 +3273,7 @@
       "fullDate": "20261026212616",
       "size": 45695059,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-10-2026/VideoLite_626001_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/VideoLite_626001_Pro_@thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-10-2026/VideoLite_626001_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.videobrowser.ios.png",
@@ -3322,7 +3546,7 @@
       "fullDate": "20261026040517",
       "size": 19703121,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-10-2026/fGet_1.7.2_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/fGet_1.7.2_Pro_@thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-10-2026/fGet_1.7.2_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.penguinbit.fastdownload.png",
@@ -3343,7 +3567,7 @@
       "fullDate": "20261026040514",
       "size": 13634159,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-10-2026/UnifiedDictionary_36.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/UnifiedDictionary_36.4_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-10-2026/UnifiedDictionary_36.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bravolol.bravoLang.chineseDictionary.png",
@@ -3385,7 +3609,7 @@
       "fullDate": "20261026032732",
       "size": 7359780,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-10-2026/NFCTools_3.5_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-10-2026/NFCTools_3.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/NFCTools_3.5_Pro_@thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wakdev.wdnfc.png",
@@ -44924,7 +45148,7 @@
       "version": "3.8.0",
       "versionDate": "2026-07-17T07:44:20Z",
       "versionDescription": "LiveContainer 3.8.0\r \n> [!Warning]\r\n> The standalone version requires SideStore 0.6.2+ or AltStore 2.2.1+ for installation.\r\n> To install LiveContainer with built-in SideStore (\"LiveContainer+SideStore.ipa\"), please use [Impactor](https://github.com/khcrysalis/Impactor) or [iloader](https://github.com/nab138/iloader). See [our installation guide](https://livecontainer.github.io/docs/installation/lc_sidestore) for details.\r \nNew Features\r \nStorage Management\r \n\u2022 Added a new storage management view with a breakdown of app bundles, containers, temporary files, app group data, tweaks, and other files. (Hidden apps' size is included in \"other\" section until unlocked)\r\n\u2022 Added per-app storage details, including app bundle size, container sizes, and last-used date.\r\n\u2022 Added actions to clean temporary files and caches, including guest app caches and LiveContainer's own caches.\r \nMultiple LiveContainers\r\n\u2022 Added configurable launch priority for multiple LiveContainer instances, making shared-app shortcuts choose available instances in the order you prefer. (1367)\r \nShare to Apps in LiveContainer\r\nAdded a share extension to LiveContainer. When you share a URL or a file from iOS's share sheet, LiveContainer will ask which app you would like to open the URL/file in, so the old share to LiveContainer shortcut method is no longer needed. When an ipa file is shared in this way, LiveContainer will ask if you want to install it in LiveContainer or in the built-in SideStore (if installed) (1357)\r \nMultitasking\r \n\u2022 Added per-app multitask preferences. Each app can now follow the global setting, always launch in multitask mode, or avoid multitask mode. (1208)\r\n\u2022 Improved multitask dock behavior: the dock can be made smaller, hidden more cleanly, and has improved padding. (1228, 1250)\r\n\u2022 Added more multitask window animations and improved native-window scene handling.\r\n\u2022 URL schemes and \"open-url\" payloads can be passed to already-running multitask apps and native windows.\r \nJIT\r\n\u2022 Added StosDebug support as a JIT enabler.\r \nTweakLoader\r\nYou can now disable tweaks in the \"Tweaks\" page in LiveContainer's UI. by @SAOMDVN\r \nImprovements\r\n\u2022 Added support for manually setting a container's IDFV. (1194)\r\n\u2022 IDFV spoofing works even when Tweakloader is not loaded.\r\n\u2022 Reworked signing logic for tweaks and app installation, with multithreaded signing support.\r\n\u2022 Download alerts now block tab switching while a download is in progress.\r\n\u2022 Crash reports are shown in a sheet instead of a large alert for better performance on newer iOS versions.\r\n\u2022 Add a \"Clear Notification\" button (1388)\r\n\u2022 Added some popular NSBonjourServices keys so apps can discover AirPlay devices and remote pairing pairable hosts in the local network. (1417)\r \nBug Fixes\r \n\u2022 Fixed \"livecontainer://open-url\" dropping the deep link when launching an app from a cold start. (1339)\r\n\u2022 Fixed the Add to Home Screen menu failing or behaving incorrectly by replacing the SwiftUI context menu implementation. (1209)\r\n\u2022 Fixed a crash when opening Container Preferences if the app did not contain an \"en.lproj\" path. (1239)\r\n\u2022 Fixed apps and AltStore sources not being searchable in some cases. (1365, 1368)\r\n\u2022 Fixed converting a shared app back to private after aborting an install with the same bundle identifier, which could leave stale container state behind. (1347)\r\n\u2022 Fixed shortcuts and JIT flows getting stuck on a busy LiveContainer instance instead of using another available instance. (1386)\r\n\u2022 Fixed file picker not workings for some apps because Tweakloader is not loaded after enabling \"Hide LiveContainer from dyld API\". (1430)\r\n\u2022 Fixed several app launch compatibility issues on iOS 26.5 beta, and some multitask/JIT app launches. (1300, 1310, 1329)\r\n\u2022 Fixed multitask keyboard focus issues on iOS 17.4+, including cases where the keyboard would not appear, Passwords would immediately close, or video playback would freeze in multitask mode. (1402, 844, 870)\r\n\u2022 Added support for iOS 27 developer beta. (1394, 1417, 1416)\r\n\u2022 Fix background downloads in multitask apps (choosing \"Keep App Extensions (Register App ID for Each Extension)\" is required). (1415)\r \nLocalization\r \n\u2022 Updated translations. Added Spanish translation by @Deci8BelioS\r \nCredits\r \nThanks to everyone who contributed code, fixes, testing, and reports for this release, including @boa-z, @ruri1208, @Project516, @yazdipour, @stossy11, and @SAOMDVN.\r \nGreat thanks to everyone who helped translate LiveContainer.",
-      "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/3.8.0/LiveContainer.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/LiveContainer.ipa",
       "localizedDescription": "LiveContainer 3.8.0\r \n> [!Warning]\r\n> The standalone version requires SideStore 0.6.2+ or AltStore 2.2.1+ for installation.\r\n> To install LiveContainer with built-in SideStore (\"LiveContainer+SideStore.ipa\"), please use [Impactor](https://github.com/khcrysalis/Impactor) or [iloader](https://github.com/nab138/iloader). See [our installation guide](https://livecontainer.github.io/docs/installation/lc_sidestore) for details.\r \nNew Features\r \nStorage Management\r \n\u2022 Added a new storage management view with a breakdown of app bundles, containers, temporary files, app group data, tweaks, and other files. (Hidden apps' size is included in \"other\" section until unlocked)\r\n\u2022 Added per-app storage details, including app bundle size, container sizes, and last-used date.\r\n\u2022 Added actions to clean temporary files and caches, including guest app caches and LiveContainer's own caches.\r \nMultiple LiveContainers\r\n\u2022 Added configurable launch priority for multiple LiveContainer instances, making shared-app shortcuts choose available instances in the order you prefer. (1367)\r \nShare to Apps in LiveContainer\r\nAdded a share extension to LiveContainer. When you share a URL or a file from iOS's share sheet, LiveContainer will ask which app you would like to open the URL/file in, so the old share to LiveContainer shortcut method is no longer needed. When an ipa file is shared in this way, LiveContainer will ask if you want to install it in LiveContainer or in the built-in SideStore (if installed) (1357)\r \nMultitasking\r \n\u2022 Added per-app multitask preferences. Each app can now follow the global setting, always launch in multitask mode, or avoid multitask mode. (1208)\r\n\u2022 Improved multitask dock behavior: the dock can be made smaller, hidden more cleanly, and has improved padding. (1228, 1250)\r\n\u2022 Added more multitask window animations and improved native-window scene handling.\r\n\u2022 URL schemes and \"open-url\" payloads can be passed to already-running multitask apps and native windows.\r \nJIT\r\n\u2022 Added StosDebug support as a JIT enabler.\r \nTweakLoader\r\nYou can now disable tweaks in the \"Tweaks\" page in LiveContainer's UI. by @SAOMDVN\r \nImprovements\r\n\u2022 Added support for manually setting a container's IDFV. (1194)\r\n\u2022 IDFV spoofing works even when Tweakloader is not loaded.\r\n\u2022 Reworked signing logic for tweaks and app installation, with multithreaded signing support.\r\n\u2022 Download alerts now block tab switching while a download is in progress.\r\n\u2022 Crash reports are shown in a sheet instead of a large alert for better performance on newer iOS versions.\r\n\u2022 Add a \"Clear Notification\" button (1388)\r\n\u2022 Added some popular NSBonjourServices keys so apps can discover AirPlay devices and remote pairing pairable hosts in the local network. (1417)\r \nBug Fixes\r \n\u2022 Fixed \"livecontainer://open-url\" dropping the deep link when launching an app from a cold start. (1339)\r\n\u2022 Fixed the Add to Home Screen menu failing or behaving incorrectly by replacing the SwiftUI context menu implementation. (1209)\r\n\u2022 Fixed a crash when opening Container Preferences if the app did not contain an \"en.lproj\" path. (1239)\r\n\u2022 Fixed apps and AltStore sources not being searchable in some cases. (1365, 1368)\r\n\u2022 Fixed converting a shared app back to private after aborting an install with the same bundle identifier, which could leave stale container state behind. (1347)\r\n\u2022 Fixed shortcuts and JIT flows getting stuck on a busy LiveContainer instance instead of using another available instance. (1386)\r\n\u2022 Fixed file picker not workings for some apps because Tweakloader is not loaded after enabling \"Hide LiveContainer from dyld API\". (1430)\r\n\u2022 Fixed several app launch compatibility issues on iOS 26.5 beta, and some multitask/JIT app launches. (1300, 1310, 1329)\r\n\u2022 Fixed multitask keyboard focus issues on iOS 17.4+, including cases where the keyboard would not appear, Passwords would immediately close, or video playback would freeze in multitask mode. (1402, 844, 870)\r\n\u2022 Added support for iOS 27 developer beta. (1394, 1417, 1416)\r\n\u2022 Fix background downloads in multitask apps (choosing \"Keep App Extensions (Register App ID for Each Extension)\" is required). (1415)\r \nLocalization\r \n\u2022 Updated translations. Added Spanish translation by @Deci8BelioS\r \nCredits\r \nThanks to everyone who contributed code, fixes, testing, and reports for this release, including @boa-z, @ruri1208, @Project516, @yazdipour, @stossy11, and @SAOMDVN.\r \nGreat thanks to everyone who helped translate LiveContainer.",
       "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/AppIcon1024.png",
       "tintColor": "#0784FC",
@@ -133821,7 +134045,7 @@
       "fullDate": "20260106061815",
       "size": 4009675,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-01-2026/NFCTools_2.35_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/NFCTools_2.35_Pro_@thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-01-2026/NFCTools_2.35_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wakdev.wdnfc.png",
@@ -231515,7 +231739,7 @@
       "version": "3.4.0",
       "versionDate": "2025-04-20T07:00:00Z",
       "versionDescription": "LiveContainer 3.8.0\r \n> [!Warning]\r\n> The standalone version requires SideStore 0.6.2+ or AltStore 2.2.1+ for installation.\r\n> To install LiveContainer with built-in SideStore (\"LiveContainer+SideStore.ipa\"), please use [Impactor](https://github.com/khcrysalis/Impactor) or [iloader](https://github.com/nab138/iloader). See [our installation guide](https://livecontainer.github.io/docs/installation/lc_sidestore) for details.\r \nNew Features\r \nStorage Management\r \n\u2022 Added a new storage management view with a breakdown of app bundles, containers, temporary files, app group data, tweaks, and other files. (Hidden apps' size is included in \"other\" section until unlocked)\r\n\u2022 Added per-app storage details, including app bundle size, container sizes, and last-used date.\r\n\u2022 Added actions to clean temporary files and caches, including guest app caches and LiveContainer's own caches.\r \nMultiple LiveContainers\r\n\u2022 Added configurable launch priority for multiple LiveContainer instances, making shared-app shortcuts choose available instances in the order you prefer. (1367)\r \nShare to Apps in LiveContainer\r\nAdded a share extension to LiveContainer. When you share a URL or a file from iOS's share sheet, LiveContainer will ask which app you would like to open the URL/file in, so the old share to LiveContainer shortcut method is no longer needed. When an ipa file is shared in this way, LiveContainer will ask if you want to install it in LiveContainer or in the built-in SideStore (if installed) (1357)\r \nMultitasking\r \n\u2022 Added per-app multitask preferences. Each app can now follow the global setting, always launch in multitask mode, or avoid multitask mode. (1208)\r\n\u2022 Improved multitask dock behavior: the dock can be made smaller, hidden more cleanly, and has improved padding. (1228, 1250)\r\n\u2022 Added more multitask window animations and improved native-window scene handling.\r\n\u2022 URL schemes and \"open-url\" payloads can be passed to already-running multitask apps and native windows.\r \nJIT\r\n\u2022 Added StosDebug support as a JIT enabler.\r \nTweakLoader\r\nYou can now disable tweaks in the \"Tweaks\" page in LiveContainer's UI. by @SAOMDVN\r \nImprovements\r\n\u2022 Added support for manually setting a container's IDFV. (1194)\r\n\u2022 IDFV spoofing works even when Tweakloader is not loaded.\r\n\u2022 Reworked signing logic for tweaks and app installation, with multithreaded signing support.\r\n\u2022 Download alerts now block tab switching while a download is in progress.\r\n\u2022 Crash reports are shown in a sheet instead of a large alert for better performance on newer iOS versions.\r\n\u2022 Add a \"Clear Notification\" button (1388)\r\n\u2022 Added some popular NSBonjourServices keys so apps can discover AirPlay devices and remote pairing pairable hosts in the local network. (1417)\r \nBug Fixes\r \n\u2022 Fixed \"livecontainer://open-url\" dropping the deep link when launching an app from a cold start. (1339)\r\n\u2022 Fixed the Add to Home Screen menu failing or behaving incorrectly by replacing the SwiftUI context menu implementation. (1209)\r\n\u2022 Fixed a crash when opening Container Preferences if the app did not contain an \"en.lproj\" path. (1239)\r\n\u2022 Fixed apps and AltStore sources not being searchable in some cases. (1365, 1368)\r\n\u2022 Fixed converting a shared app back to private after aborting an install with the same bundle identifier, which could leave stale container state behind. (1347)\r\n\u2022 Fixed shortcuts and JIT flows getting stuck on a busy LiveContainer instance instead of using another available instance. (1386)\r\n\u2022 Fixed file picker not workings for some apps because Tweakloader is not loaded after enabling \"Hide LiveContainer from dyld API\". (1430)\r\n\u2022 Fixed several app launch compatibility issues on iOS 26.5 beta, and some multitask/JIT app launches. (1300, 1310, 1329)\r\n\u2022 Fixed multitask keyboard focus issues on iOS 17.4+, including cases where the keyboard would not appear, Passwords would immediately close, or video playback would freeze in multitask mode. (1402, 844, 870)\r\n\u2022 Added support for iOS 27 developer beta. (1394, 1417, 1416)\r\n\u2022 Fix background downloads in multitask apps (choosing \"Keep App Extensions (Register App ID for Each Extension)\" is required). (1415)\r \nLocalization\r \n\u2022 Updated translations. Added Spanish translation by @Deci8BelioS\r \nCredits\r \nThanks to everyone who contributed code, fixes, testing, and reports for this release, including @boa-z, @ruri1208, @Project516, @yazdipour, @stossy11, and @SAOMDVN.\r \nGreat thanks to everyone who helped translate LiveContainer.",
-      "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/3.4.0/LiveContainer.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/LiveContainer.ipa",
       "localizedDescription": "\u26a0\ufe0fThis version \u26a0\ufe0fREQUIRES\u26a0\ufe0f SideStore 0.6.0+ / AltStore 2.0+ to install.\r \nThis version improved app re-signing experience, add support for new JIT enablers, increased compatibility with relatively old apps and add translation for Arabic, French, German, Japanese, Portuguese and Swedish.\r \n>[!Note]\r\nLiveContainer has upgraded SDK version to 18.2, which breaks some apps that works on previous versions. Fortunately we have developed the \"Spoof SDK Version\" feature, forcing system libraries to operate in the SDK version the app is built with. You can enable \"Spoof SDK Version\".\r \n\r\nNew Features\r\n1. New Re-Sign Strategy\r\nInstead of keeping track of expiration date, LiveContainer now directly ask iOS to determine whether the code signature is valid, which significantly decreases app re-sign rate. For now your apps will be re-signed only if their code signature is invalid, which probably happens when your certificate is expired (usually takes a year), or is revoked (when you reinstall SideStore/AltStore).\r \n2. Support for StikJIT(StikDebug), SideStore JIT\r\n [StikJIT(StikDebug)](https://github.com/StephenDev0/StikJIT) is the newest on-device JIT enabler powered by [idevice](https://github.com/jkcoxson/idevice). You can now install it both as a standalone app or install it inside LiveContainer. See 265 item 5.8 for more information.\r \nSideStore has recently switched its backend to idevice and added on-device JIT support. For now its JIT URL Scheme has not been implemented so you have to manually enable JIT for LiveContainer.\r \n3. Spoof SDK version\r\nSpoofing SDK version forces system libraries to operate in the SDK version the app is built with. This fix works surprisingly well so we decided to enable it by default for newly installed apps. This fixes some old apps crashing because of the new SDK. We also removed the \"Bypass AssertBarrierOnQueue\" fix since the root cause is SDK version.\r \nFix 421 422\r \n4. Support Import Certificate From SideStore\r\nWith [this SideStore pr](https://github.com/SideStore/SideStore/pull/959), we can now directly retrieve certificate from SideStore (0.6.2-20250420.25+) without the patch, thus simplifying the process of enabling JIT-Less mode.\r \n5. Game Mode Support\r\nWith the SDK version upgrade, LiveContainer now supports game mode. If you don't need it, you can turn it off in the control center. \r \nBug Fixes\r\n1. Fix a regression caused by NSBundle path fix. Fix 409\r\n2. Keep app's plugin folder in case some apps need files inside. Fix hugeBlack/LiveContainer43\r\n3. Add TPRO rw in overwrite exec path in case the executable path is TPRO protected. Fix 327\r\n4. Replace all \"withCheckedContinuation\" with \"withUnsafeContinuation\" to solve crash on iOS 18.0 beta. Fix 435\r\n5. Add file permission to solve some sign issues. Fix 448\r \nRemoved Features\r\nThe following features are removed because it's not useful in current version or constantly causing issues.\r\n1. AltSign: We drop AltSign support because it's constantly causing issues and it's relatively old.\r\n2. Bypass AssertBarrierOnQueue: It is replaced by \"Spoof SDK version\"\r\n3. Sign Only on Signature Expires: It's now useless as we directly determine if an app's code signature is valid by asking the system.\r \nTranslation\r\nLiveContainer is now translated into Arabic, Simplified Chinese, French, German, Japanese, Portuguese and Swedish\r\n\u2022 Arabic: translated by dlshad2\r\n\u2022 French: translated by @p-sage\r\n\u2022 German: translated by @BeityBytes\r\n\u2022 Japanese: translated by @naolad\r\n\u2022 Portuguese: translated by damn_the_daniel\r\n\u2022 Swedish: translated by @se2crid\r \nCredit\r\nShout out to @khanhduytran0 for doing a lot of research under the hood!\r \nOther\r\nLiveContainer is now migrated from a Theos project to a Xcode project, which simplifies the development and significantly decreased Github Actions build time (2 minutes now and around 10 minutes previously)",
       "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/AppIcon1024.png",
       "tintColor": "#0784FC",
@@ -231581,13 +231805,6 @@
       "__mirrors": [],
       "__stores": [
         "LiveContainer"
-      ],
-      "__hash_duplicates": [
-        {
-          "name": "LiveContainer",
-          "bundleIdentifier": "com.kdt.livecontainer",
-          "version": "3.8.0"
-        }
       ]
     },
     {
@@ -248284,7 +248501,7 @@
       "version": "1.4.0",
       "versionDate": "2024-10-14",
       "size": 49628,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollLEDs/TrollLEDs-1.4.0.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/TrollLEDs-1.4.0.ipa",
       "developerName": "PoomSmart",
       "localizedDescription": "Control individual flashlight LEDs. Note: Refer to the original GitHub repository to find the list of supported devices.\nLast updated: 02-04-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.ps.TrollLEDs.png",
@@ -252486,7 +252703,7 @@
       "version": "1.3.0",
       "versionDate": "2024-10-13",
       "size": 30408,
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/ResolutionSetterTS-1.3.0.ipa",
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ResolutionSetterTS/ResolutionSetterTS-1.3.0.ipa",
       "developerName": "",
       "localizedDescription": "",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.michael.resolutionsetter.png",

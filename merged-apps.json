@@ -4,9 +4,586 @@
   "subtitle": "Auto-merged from 43 AltStore/ESign sources. Local download URLs provided for cached files.",
   "description": "Deduplicates by (name, bundleIdentifier, version). downloadURL points to local repo copy if available, otherwise original URL. Downloads newest first; resumes from last run.",
   "iconURL": "https://avatars.githubusercontent.com/u/57844837",
-  "appCount": 13256,
+  "appCount": 13278,
   "sourceCount": 43,
   "apps": [
+    {
+      "name": "YouTube Plus (iOS17+)",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "dvntm",
+      "version": "21.43.5",
+      "versionDate": "2026-11-03T04:00:00+03:00",
+      "versionDescription": "YouTube Plus v6.0\n\nYouTube Plus Player\n- New built-in player for downloaded videos and for streaming videos straight from YouTube without downloading\n- Queue, video quality selection, subtitles, audio tracks, ambient mode, SponsorBlock, sleep timer, Discord RPC, gestures, mini player, background playback, Picture-in-Picture and more\n- Remembers playback progress and resumes where you left off\n- Option to open videos in the YouTube Plus player instead of YouTube's\n\nDownloads\n- New Downloads tab with shared, separate and private sections\n- Select multiple files and act on them at once\n- Resume interrupted downloads\n- Download whole playlists\n- Download later action in the download menu\n- Edit metadata before and after downloading\n- Convert videos and songs before downloading or any time later\n- Downloads keep running in the background\n- Download sheet remembers the last selected post-download action and encoding preset\n- Improved downloader engine with support for new YouTube versions\n\nParental control\n- Passcode for YouTube and YouTube Plus settings, account switching and the tab bar menu\n- Restricted mode\n- External link blocking\n- Watch history\n- Daily limit and allowed hours\n- Channel blocklist and allowlist\n\nYouTube Player\n- Improved speed controls in the player overlay\n- Inverted fullscreen option in the player overlay\n- Loop button in the player overlay\n- Rearrange the tweak's buttons in the player overlay\n- Option to disable Picture-in-Picture\n- Added \"Don't offer SharePlay\" option\n- Option to keep feed videos muted when pressing the volume buttons\n- Sleep timer can stop playback after a chosen chapter\n- Improved selection of quality, subtitles and audio tracks\n- Set several preferred languages for audio tracks and subtitles\n- Option to enable captions when the preferred audio track isn't available\n- More options to hide buttons under the player and in the context menu\n- Improved playback fix mechanism\n- Fixed YouTube Premium downloads on sideloaded installs (requires a YouTube Premium subscription)\n\nFeed & Shorts\n- Hide sponsored videos in profiles, new Playables and other feed elements (see the Feed section)\n- Hide the new ads in Shorts\n- Improved hiding of unwanted elements\n- Fixed Shorts auto-skip on newer versions\n\nTab bar\n- Add playlists as tabs\n- Improved tab editor, tabs can now be edited offline\n- The Downloads tab no longer reappears on every launch\n\nSponsorBlock\n- Submit segments, vote on existing ones and change their categories\n- View all sponsor segments from the SponsorBlock menu in the player overlay\n\nInterface & Settings\n- Liquid Glass support (enable in Interface settings)\n- The keyboard always stays original regardless of the selected interface, except for the floating keyboard\n- Removed the OLED keyboard on iOS 27 (no longer works on sideload)\n- Fixed sheets not following the YouTube theme\n- More options to hide navigation bar buttons\n- All menus redesigned, improved search bar and Split View support on iPad\n- License status and date in the tweak's settings\n- Fixed random \"Access denied\" errors\n\nOther\n- Adapted for YouTube 21.43 and iPhone Duo: floating tab bar, new channel watermarks, OLED theme in the new feed\n- Fixed playback issues\n- Improved support for legacy versions\n- Improved opening of videos from links",
+      "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ytp_6.0+21.43.5.ipa",
+      "localizedDescription": "This version contains YouTube Plus, Return YouTube Dislikes, DontEatMyContent and Open in Safari extension\n\nFeatures:\n- Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\n- Copy video, comment, and post information\n- Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode\n- Player settings: Gestures, default quality, preferred audio track\n- Save, Load and Restore settings. Clear cache once or automatically on app startup\n- Built-in SponsorBlock\n- And much, much more\n\nYouTube Plus preferences can be found in the YouTube settings",
+      "iconURL": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png",
+      "tintColor": "E36678",
+      "isLanZouCloud": 0,
+      "size": 149520411,
+      "type": 1,
+      "__source": "https://github.com/dvntm0/AltStore/raw/refs/heads/main/esign.json",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
+      ]
+    },
+    {
+      "name": "YouTube Plus (iOS16+)",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "dvntm",
+      "version": "21.32.4",
+      "versionDate": "2026-11-03T04:00:00+03:00",
+      "versionDescription": "YouTube Plus v6.0\n\nYouTube Plus Player\n- New built-in player for downloaded videos and for streaming videos straight from YouTube without downloading\n- Queue, video quality selection, subtitles, audio tracks, ambient mode, SponsorBlock, sleep timer, Discord RPC, gestures, mini player, background playback, Picture-in-Picture and more\n- Remembers playback progress and resumes where you left off\n- Option to open videos in the YouTube Plus player instead of YouTube's\n\nDownloads\n- New Downloads tab with shared, separate and private sections\n- Select multiple files and act on them at once\n- Resume interrupted downloads\n- Download whole playlists\n- Download later action in the download menu\n- Edit metadata before and after downloading\n- Convert videos and songs before downloading or any time later\n- Downloads keep running in the background\n- Download sheet remembers the last selected post-download action and encoding preset\n- Improved downloader engine with support for new YouTube versions\n\nParental control\n- Passcode for YouTube and YouTube Plus settings, account switching and the tab bar menu\n- Restricted mode\n- External link blocking\n- Watch history\n- Daily limit and allowed hours\n- Channel blocklist and allowlist\n\nYouTube Player\n- Improved speed controls in the player overlay\n- Inverted fullscreen option in the player overlay\n- Loop button in the player overlay\n- Rearrange the tweak's buttons in the player overlay\n- Option to disable Picture-in-Picture\n- Added \"Don't offer SharePlay\" option\n- Option to keep feed videos muted when pressing the volume buttons\n- Sleep timer can stop playback after a chosen chapter\n- Improved selection of quality, subtitles and audio tracks\n- Set several preferred languages for audio tracks and subtitles\n- Option to enable captions when the preferred audio track isn't available\n- More options to hide buttons under the player and in the context menu\n- Improved playback fix mechanism\n- Fixed YouTube Premium downloads on sideloaded installs (requires a YouTube Premium subscription)\n\nFeed & Shorts\n- Hide sponsored videos in profiles, new Playables and other feed elements (see the Feed section)\n- Hide the new ads in Shorts\n- Improved hiding of unwanted elements\n- Fixed Shorts auto-skip on newer versions\n\nTab bar\n- Add playlists as tabs\n- Improved tab editor, tabs can now be edited offline\n- The Downloads tab no longer reappears on every launch\n\nSponsorBlock\n- Submit segments, vote on existing ones and change their categories\n- View all sponsor segments from the SponsorBlock menu in the player overlay\n\nInterface & Settings\n- Liquid Glass support (enable in Interface settings)\n- The keyboard always stays original regardless of the selected interface, except for the floating keyboard\n- Removed the OLED keyboard on iOS 27 (no longer works on sideload)\n- Fixed sheets not following the YouTube theme\n- More options to hide navigation bar buttons\n- All menus redesigned, improved search bar and Split View support on iPad\n- License status and date in the tweak's settings\n- Fixed random \"Access denied\" errors\n\nOther\n- Adapted for YouTube 21.43 and iPhone Duo: floating tab bar, new channel watermarks, OLED theme in the new feed\n- Fixed playback issues\n- Improved support for legacy versions\n- Improved opening of videos from links",
+      "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ytp_6.0+21.32.4.ipa",
+      "localizedDescription": "This version contains YouTube Plus, Return YouTube Dislikes, DontEatMyContent and Open in Safari extension\n\nFeatures:\n- Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\n- Copy video, comment, and post information\n- Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode\n- Player settings: Gestures, default quality, preferred audio track\n- Save, Load and Restore settings. Clear cache once or automatically on app startup\n- Built-in SponsorBlock\n- And much, much more\n\nYouTube Plus preferences can be found in the YouTube settings",
+      "iconURL": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png",
+      "tintColor": "E36678",
+      "isLanZouCloud": 0,
+      "size": 138878175,
+      "type": 1,
+      "__source": "https://github.com/dvntm0/AltStore/raw/refs/heads/main/esign.json",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
+      ]
+    },
+    {
+      "name": "YouTube Plus (iOS15+)",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "dvntm",
+      "version": "20.21.6",
+      "versionDate": "2026-11-03T04:00:00+03:00",
+      "versionDescription": "YouTube Plus v6.0\n\nYouTube Plus Player\n- New built-in player for downloaded videos and for streaming videos straight from YouTube without downloading\n- Queue, video quality selection, subtitles, audio tracks, ambient mode, SponsorBlock, sleep timer, Discord RPC, gestures, mini player, background playback, Picture-in-Picture and more\n- Remembers playback progress and resumes where you left off\n- Option to open videos in the YouTube Plus player instead of YouTube's\n\nDownloads\n- New Downloads tab with shared, separate and private sections\n- Select multiple files and act on them at once\n- Resume interrupted downloads\n- Download whole playlists\n- Download later action in the download menu\n- Edit metadata before and after downloading\n- Convert videos and songs before downloading or any time later\n- Downloads keep running in the background\n- Download sheet remembers the last selected post-download action and encoding preset\n- Improved downloader engine with support for new YouTube versions\n\nParental control\n- Passcode for YouTube and YouTube Plus settings, account switching and the tab bar menu\n- Restricted mode\n- External link blocking\n- Watch history\n- Daily limit and allowed hours\n- Channel blocklist and allowlist\n\nYouTube Player\n- Improved speed controls in the player overlay\n- Inverted fullscreen option in the player overlay\n- Loop button in the player overlay\n- Rearrange the tweak's buttons in the player overlay\n- Option to disable Picture-in-Picture\n- Added \"Don't offer SharePlay\" option\n- Option to keep feed videos muted when pressing the volume buttons\n- Sleep timer can stop playback after a chosen chapter\n- Improved selection of quality, subtitles and audio tracks\n- Set several preferred languages for audio tracks and subtitles\n- Option to enable captions when the preferred audio track isn't available\n- More options to hide buttons under the player and in the context menu\n- Improved playback fix mechanism\n- Fixed YouTube Premium downloads on sideloaded installs (requires a YouTube Premium subscription)\n\nFeed & Shorts\n- Hide sponsored videos in profiles, new Playables and other feed elements (see the Feed section)\n- Hide the new ads in Shorts\n- Improved hiding of unwanted elements\n- Fixed Shorts auto-skip on newer versions\n\nTab bar\n- Add playlists as tabs\n- Improved tab editor, tabs can now be edited offline\n- The Downloads tab no longer reappears on every launch\n\nSponsorBlock\n- Submit segments, vote on existing ones and change their categories\n- View all sponsor segments from the SponsorBlock menu in the player overlay\n\nInterface & Settings\n- Liquid Glass support (enable in Interface settings)\n- The keyboard always stays original regardless of the selected interface, except for the floating keyboard\n- Removed the OLED keyboard on iOS 27 (no longer works on sideload)\n- Fixed sheets not following the YouTube theme\n- More options to hide navigation bar buttons\n- All menus redesigned, improved search bar and Split View support on iPad\n- License status and date in the tweak's settings\n- Fixed random \"Access denied\" errors\n\nOther\n- Adapted for YouTube 21.43 and iPhone Duo: floating tab bar, new channel watermarks, OLED theme in the new feed\n- Fixed playback issues\n- Improved support for legacy versions\n- Improved opening of videos from links",
+      "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ytp_6.0+20.21.6.ipa",
+      "localizedDescription": "This version contains YouTube Plus, Return YouTube Dislikes, DontEatMyContent and Open in Safari extension\n\nFeatures:\n- Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\n- Copy video, comment, and post information\n- Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode\n- Player settings: Gestures, default quality, preferred audio track\n- Save, Load and Restore settings. Clear cache once or automatically on app startup\n- Built-in SponsorBlock\n- And much, much more\n\nYouTube Plus preferences can be found in the YouTube settings",
+      "iconURL": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png",
+      "tintColor": "E36678",
+      "isLanZouCloud": 0,
+      "size": 124589969,
+      "type": 1,
+      "__source": "https://github.com/dvntm0/AltStore/raw/refs/heads/main/esign.json",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
+      ]
+    },
+    {
+      "name": "YouTube Plus (iOS14+)",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "dvntm",
+      "version": "19.20.2",
+      "versionDate": "2026-11-03T04:00:00+03:00",
+      "versionDescription": "YouTube Plus v6.0\n\nYouTube Plus Player\n- New built-in player for downloaded videos and for streaming videos straight from YouTube without downloading\n- Queue, video quality selection, subtitles, audio tracks, ambient mode, SponsorBlock, sleep timer, Discord RPC, gestures, mini player, background playback, Picture-in-Picture and more\n- Remembers playback progress and resumes where you left off\n- Option to open videos in the YouTube Plus player instead of YouTube's\n\nDownloads\n- New Downloads tab with shared, separate and private sections\n- Select multiple files and act on them at once\n- Resume interrupted downloads\n- Download whole playlists\n- Download later action in the download menu\n- Edit metadata before and after downloading\n- Convert videos and songs before downloading or any time later\n- Downloads keep running in the background\n- Download sheet remembers the last selected post-download action and encoding preset\n- Improved downloader engine with support for new YouTube versions\n\nParental control\n- Passcode for YouTube and YouTube Plus settings, account switching and the tab bar menu\n- Restricted mode\n- External link blocking\n- Watch history\n- Daily limit and allowed hours\n- Channel blocklist and allowlist\n\nYouTube Player\n- Improved speed controls in the player overlay\n- Inverted fullscreen option in the player overlay\n- Loop button in the player overlay\n- Rearrange the tweak's buttons in the player overlay\n- Option to disable Picture-in-Picture\n- Added \"Don't offer SharePlay\" option\n- Option to keep feed videos muted when pressing the volume buttons\n- Sleep timer can stop playback after a chosen chapter\n- Improved selection of quality, subtitles and audio tracks\n- Set several preferred languages for audio tracks and subtitles\n- Option to enable captions when the preferred audio track isn't available\n- More options to hide buttons under the player and in the context menu\n- Improved playback fix mechanism\n- Fixed YouTube Premium downloads on sideloaded installs (requires a YouTube Premium subscription)\n\nFeed & Shorts\n- Hide sponsored videos in profiles, new Playables and other feed elements (see the Feed section)\n- Hide the new ads in Shorts\n- Improved hiding of unwanted elements\n- Fixed Shorts auto-skip on newer versions\n\nTab bar\n- Add playlists as tabs\n- Improved tab editor, tabs can now be edited offline\n- The Downloads tab no longer reappears on every launch\n\nSponsorBlock\n- Submit segments, vote on existing ones and change their categories\n- View all sponsor segments from the SponsorBlock menu in the player overlay\n\nInterface & Settings\n- Liquid Glass support (enable in Interface settings)\n- The keyboard always stays original regardless of the selected interface, except for the floating keyboard\n- Removed the OLED keyboard on iOS 27 (no longer works on sideload)\n- Fixed sheets not following the YouTube theme\n- More options to hide navigation bar buttons\n- All menus redesigned, improved search bar and Split View support on iPad\n- License status and date in the tweak's settings\n- Fixed random \"Access denied\" errors\n\nOther\n- Adapted for YouTube 21.43 and iPhone Duo: floating tab bar, new channel watermarks, OLED theme in the new feed\n- Fixed playback issues\n- Improved support for legacy versions\n- Improved opening of videos from links",
+      "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ytp_6.0+19.20.2.ipa",
+      "localizedDescription": "This version contains YouTube Plus, Return YouTube Dislikes, DontEatMyContent and Open in Safari extension\n\nFeatures:\n- Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\n- Copy video, comment, and post information\n- Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode\n- Player settings: Gestures, default quality, preferred audio track\n- Save, Load and Restore settings. Clear cache once or automatically on app startup\n- Built-in SponsorBlock\n- And much, much more\n\nYouTube Plus preferences can be found in the YouTube settings",
+      "iconURL": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png",
+      "tintColor": "E36678",
+      "isLanZouCloud": 0,
+      "size": 118802184,
+      "type": 1,
+      "__source": "https://github.com/dvntm0/AltStore/raw/refs/heads/main/esign.json",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
+      ]
+    },
+    {
+      "name": "iCube",
+      "bundleIdentifier": "com.joemattiello.iCube",
+      "developerName": "Provenance Emu",
+      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
+      "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
+      "iconURL": "https://icube-emu.com/icon-1024.png",
+      "tintColor": "#3B82F6",
+      "category": "games",
+      "screenshots": [
+        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
+        "https://icube-emu.com/screenshots/iphone/search.jpg",
+        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
+        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
+        "https://icube-emu.com/screenshots/iphone/shaders.jpg",
+        "https://icube-emu.com/screenshots/iphone/settings-graphics.jpg",
+        "https://icube-emu.com/screenshots/iphone/settings-controllers.jpg",
+        "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
+      ],
+      "version": "1.0.0",
+      "buildVersion": "429",
+      "date": "2026-11-03T02:53:04.433Z",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/Non-Jailbroken.ipa",
+      "size": 98944020,
+      "minOSVersion": "17.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "versionDate": "2026-11-03T02:53:04.433Z",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Provenance Alpha",
+      "bundleIdentifier": "com.provenance-emu.provenance.alpha",
+      "developerName": "Provenance-EMU",
+      "subtitle": "Latest dev builds - test new features early",
+      "localizedDescription": "Alpha build 890dc87 \u00b7 2026-11-03\n\nChanges in this build:\n\u2022 build(deps): bump SkinKit to 0.1.1 for the D-pad drag fix\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
+      "iconURL": "https://raw.githubusercontent.com/Provenance-Emu/Provenance/develop/Provenance/Resources/Assets.xcassets/AppIcon.appiconset/iTunesArtwork%402x.png",
+      "tintColor": "FF6B35",
+      "screenshotURLs": [],
+      "appPermissions": {
+        "entitlements": [
+          {
+            "name": "com.apple.security.application-groups"
+          },
+          {
+            "name": "com.apple.developer.icloud-services"
+          },
+          {
+            "name": "com.apple.developer.icloud-container-identifiers"
+          }
+        ],
+        "privacy": [
+          {
+            "name": "LocalNetwork",
+            "usageDescription": "Used to discover and connect to local network game servers for netplay."
+          },
+          {
+            "name": "Camera",
+            "usageDescription": "Used to scan QR codes for importing game data."
+          }
+        ]
+      },
+      "version": "3.4.0",
+      "buildVersion": "11000",
+      "marketingVersion": "3.4.0-alpha.20261103.890dc87",
+      "date": "2026-11-03",
+      "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
+      "size": 780893689,
+      "minOSVersion": "17.0",
+      "versionDate": "2026-11-03",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iFly",
+      "bundleIdentifier": "com.provenance.ifly",
+      "developerName": "Provenance Emu",
+      "subtitle": "Dreamcast Emulator for iOS & tvOS",
+      "localizedDescription": "iFly 1.0.0 (build 1793663689) for iOS",
+      "iconURL": "https://ifly-emu.com/icon-1024.png",
+      "tintColor": "#ff6900",
+      "category": "games",
+      "screenshots": [
+        "https://ifly-emu.com/screenshots/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
+        "https://ifly-emu.com/screenshots/iphone/search.jpg",
+        "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
+        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+      ],
+      "version": "1.0.0+1793663689",
+      "buildVersion": "1793663689",
+      "date": "2026-11-03",
+      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1793663689/iFly-1.0.0-1793663689.ipa",
+      "size": 133145293,
+      "minOSVersion": "17.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "versionDate": "2026-11-03",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iCube",
+      "bundleIdentifier": "com.joemattiello.iCube",
+      "developerName": "Provenance Emu",
+      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
+      "localizedDescription": "iCube 1.0.0-beta9-ios Beta 9 for iOS",
+      "iconURL": "https://icube-emu.com/icon-1024.png",
+      "tintColor": "#3B82F6",
+      "category": "games",
+      "screenshots": [
+        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
+        "https://icube-emu.com/screenshots/iphone/search.jpg",
+        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
+        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
+        "https://icube-emu.com/screenshots/iphone/shaders.jpg",
+        "https://icube-emu.com/screenshots/iphone/settings-graphics.jpg",
+        "https://icube-emu.com/screenshots/iphone/settings-controllers.jpg",
+        "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
+      ],
+      "version": "1.0.0-beta9-ios",
+      "buildVersion": "1.0.0-beta9-ios",
+      "date": "2026-11-03",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/iCube.ipa",
+      "size": 82799373,
+      "minOSVersion": "15.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "betaNumber": 9,
+      "versionDate": "2026-11-03",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ],
+      "__hash_duplicates": [
+        {
+          "name": "iCube",
+          "bundleIdentifier": "com.joemattiello.iCube",
+          "version": "1.0.0-beta7-ios"
+        },
+        {
+          "name": "iCube",
+          "bundleIdentifier": "com.joemattiello.iCube",
+          "version": "1.0.0-beta8-ios"
+        }
+      ]
+    },
+    {
+      "name": "iCube",
+      "bundleIdentifier": "com.joemattiello.iCube",
+      "developerName": "Provenance Emu",
+      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
+      "localizedDescription": "iCube 1.0.0-beta8-ios Beta 8 for iOS",
+      "iconURL": "https://icube-emu.com/icon-1024.png",
+      "tintColor": "#3B82F6",
+      "category": "games",
+      "screenshots": [
+        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
+        "https://icube-emu.com/screenshots/iphone/search.jpg",
+        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
+        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
+        "https://icube-emu.com/screenshots/iphone/shaders.jpg",
+        "https://icube-emu.com/screenshots/iphone/settings-graphics.jpg",
+        "https://icube-emu.com/screenshots/iphone/settings-controllers.jpg",
+        "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
+      ],
+      "version": "1.0.0-beta8-ios",
+      "buildVersion": "1.0.0-beta8-ios",
+      "date": "2026-11-03",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/iCube.ipa",
+      "size": 82893911,
+      "minOSVersion": "15.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "betaNumber": 8,
+      "versionDate": "2026-11-03",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ],
+      "__hash_duplicates": [
+        {
+          "name": "iCube",
+          "bundleIdentifier": "com.joemattiello.iCube",
+          "version": "1.0.0-beta9-ios"
+        }
+      ]
+    },
+    {
+      "name": "iCube",
+      "bundleIdentifier": "com.joemattiello.iCube",
+      "developerName": "Provenance Emu",
+      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
+      "localizedDescription": "iCube 1.0.0-beta7-ios Beta 7 for iOS",
+      "iconURL": "https://icube-emu.com/icon-1024.png",
+      "tintColor": "#3B82F6",
+      "category": "games",
+      "screenshots": [
+        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
+        "https://icube-emu.com/screenshots/iphone/search.jpg",
+        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
+        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
+        "https://icube-emu.com/screenshots/iphone/shaders.jpg",
+        "https://icube-emu.com/screenshots/iphone/settings-graphics.jpg",
+        "https://icube-emu.com/screenshots/iphone/settings-controllers.jpg",
+        "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
+      ],
+      "version": "1.0.0-beta7-ios",
+      "buildVersion": "1.0.0-beta7-ios",
+      "date": "2026-11-03",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/iCube.ipa",
+      "size": 82893502,
+      "minOSVersion": "15.6",
+      "platform": "iOS",
+      "isBeta": true,
+      "betaNumber": 7,
+      "versionDate": "2026-11-03",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ],
+      "__hash_duplicates": [
+        {
+          "name": "iCube",
+          "bundleIdentifier": "com.joemattiello.iCube",
+          "version": "1.0.0-beta9-ios"
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "Ryuk",
+      "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.37/43d6c872-d02a-4cc5-8dee-274cd2dd053R.ipa",
+      "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
+      "localizedDescription": "Just look up information for SCInsta if you're confused about usage",
+      "name": "Instagram (RyukGram)",
+      "screenshotURLs": [
+        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot1.jpg",
+        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot2.jpg",
+        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot3.jpg",
+        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot4.jpg"
+      ],
+      "size": 91750400,
+      "subtitle": "Additional features and fixes by Ryuk based on SCInsta | If you want to donate: - https://ko-fi.com/driftywinds",
+      "tintColor": "C13584",
+      "version": "454.0.0",
+      "versionDate": "2026-11-03",
+      "versionDescription": "Updated to v454.0.0, RyukGram v1.5.1",
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.associated-appclip-app-identifiers",
+          "com.apple.security.application-groups",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.storekit.request-data",
+          "com.apple.developer.ubiquity-container-identifiers",
+          "com.apple.developer.usernotifications.communication",
+          "com.apple.developer.usernotifications.time-sensitive",
+          "get-task-allow",
+          "com.apple.developer.kernel.extended-virtual-addressing",
+          "com.apple.developer.networking.HotspotConfiguration",
+          "com.apple.developer.icloud-container-environment",
+          "com.apple.developer.icloud-container-identifiers",
+          "com.apple.developer.ubiquity-kvstore-identifier",
+          "com.apple.developer.icloud-services",
+          "com.apple.developer.kernel.increased-memory-limit",
+          "keychain-access-groups",
+          "com.apple.developer.avfoundation.multitasking-camera-access",
+          "com.apple.developer.usernotifications.filtering",
+          "aps-environment",
+          "com.apple.developer.networking.wifi-info"
+        ],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "This app requires Bluetooth access for connecting to nearby devices.",
+          "NSCalendarsUsageDescription": "This app requires access to your calendars for social event integration.",
+          "NSCameraUsageDescription": "This app requires camera access to capture photos and videos.",
+          "NSContactsUsageDescription": "This app requires access to your contacts for enhanced social features.",
+          "NSFaceIDUsageDescription": "This app requires Face ID for secure authentication.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "This app requires location access even when in the background for geotagging.",
+          "NSLocationUsageDescription": "This app requires location access to provide local content.",
+          "NSLocationWhenInUseUsageDescription": "This app requires location access while using the app.",
+          "NSMicrophoneUsageDescription": "This app requires microphone access for recording audio and videos.",
+          "NSFocusStatusUsageDescription": "This app uses focus status to optimize notifications.",
+          "NSPhotoLibraryAddUsageDescription": "This app requires access to add photos to your library.",
+          "NSPhotoLibraryUsageDescription": "This app requires access to your photo library.",
+          "NSUserTrackingUsageDescription": "This app uses tracking to deliver personalized content."
+        }
+      },
+      "__source": "https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/master/AltStore/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Unzip",
+      "type": 1,
+      "bundleID": "com.cuilingshi.fileextract",
+      "bundleIdentifier": "com.cuilingshi.fileextract",
+      "version": "6.3",
+      "versionDate": "2026-11-03",
+      "fullDate": "20261103084126",
+      "size": 54832963,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/Unzip_6.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/Unzip_6.3_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cuilingshi.fileextract.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cuilingshi.fileextract.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "UnifiedDictionary",
+      "type": 1,
+      "bundleID": "com.bravolol.bravoLang.chineseDictionary",
+      "bundleIdentifier": "com.bravolol.bravoLang.chineseDictionary",
+      "version": "36.5",
+      "versionDate": "2026-11-03",
+      "fullDate": "20261103070912",
+      "size": 13621823,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/UnifiedDictionary_36.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/UnifiedDictionary_36.5_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bravolol.bravoLang.chineseDictionary.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bravolol.bravoLang.chineseDictionary.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Compress",
+      "type": 1,
+      "bundleID": "com.newmarketinglab.ImageCompressor",
+      "bundleIdentifier": "com.newmarketinglab.ImageCompressor",
+      "version": "3.5",
+      "versionDate": "2026-11-03",
+      "fullDate": "20261103064703",
+      "size": 5817381,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/Compress_3.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/Compress_3.5_Premium_@thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.newmarketinglab.ImageCompressor.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.newmarketinglab.ImageCompressor.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "AdobeFresco",
+      "type": 1,
+      "bundleID": "com.adobe.fresco.ios",
+      "bundleIdentifier": "com.adobe.fresco.ios",
+      "version": "8.0.0",
+      "versionDate": "2026-11-03",
+      "fullDate": "20261103053410",
+      "size": 838051851,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/AdobeFresco_8.0.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/AdobeFresco_8.0.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.fresco.ios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.fresco.ios.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "NightSky",
+      "type": 1,
+      "bundleID": "com.icandiapps.nightsky",
+      "bundleIdentifier": "com.icandiapps.nightsky",
+      "version": "27.2",
+      "versionDate": "2026-11-03",
+      "fullDate": "20261103050201",
+      "size": 310391446,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/NightSky_27.2_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/NightSky_27.2_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Plus",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.icandiapps.nightsky.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.icandiapps.nightsky.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "CalculatorAir",
+      "type": 1,
+      "bundleID": "com.CalculatorForiPad.InternetRocks",
+      "bundleIdentifier": "com.CalculatorForiPad.InternetRocks",
+      "version": "2026.10.14",
+      "versionDate": "2026-11-03",
+      "fullDate": "20261103045531",
+      "size": 66554225,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/CalculatorAir_2026.10.14_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/CalculatorAir_2026.10.14_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.CalculatorForiPad.InternetRocks.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.CalculatorForiPad.InternetRocks.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "ProCCD",
+      "type": 1,
+      "bundleID": "com.yengshine.proccd",
+      "bundleIdentifier": "com.yengshine.proccd",
+      "version": "7.0.1",
+      "versionDate": "2026-11-03",
+      "fullDate": "20261103044358",
+      "size": 242034621,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/ProCCD_7.0.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/ProCCD_7.0.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yengshine.proccd.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yengshine.proccd.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "FindAir",
+      "type": 1,
+      "bundleID": "co.airapps.finderbot",
+      "bundleIdentifier": "co.airapps.finderbot",
+      "version": "2026.11.1",
+      "versionDate": "2026-11-03",
+      "fullDate": "20261103043636",
+      "size": 65375886,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/FindAir_2026.11.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/FindAir_2026.11.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.finderbot.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.finderbot.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "NeoServer",
+      "type": 1,
+      "bundleID": "com.neo.NeoMan",
+      "bundleIdentifier": "com.neo.NeoMan",
+      "version": "8.4.8",
+      "versionDate": "2026-11-03",
+      "fullDate": "20261103033408",
+      "size": 27416143,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/NeoServer_8.4.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/NeoServer_8.4.8_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neo.NeoMan.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neo.NeoMan.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
     {
       "name": "Documents",
       "type": 1,
@@ -65,6 +642,176 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.evolve.helm.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.evolve.helm.png",
       "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/46/c4/bf46c48e-94bb-c30d-601f-d73ed5a70689/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
+      "size": 270815817,
+      "category": "Social",
+      "beta": false,
+      "versionDescription": "\u2022 X updated to v12.40\n\u2022 NFB updated to v7.3.1",
+      "developerName": "Densor",
+      "localizedDescription": "\u2022 X updated to v12.40\n\u2022 NFB updated to v7.3.1",
+      "subtitle": "An new tweak for X!",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/X.v12.40.+.NFB.v7.3.1.ipa",
+      "tintColor": "030303",
+      "version": "12.40",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/82/3c/21823c75-d122-f771-fba1-2521b3f3237e/1242x2688-1.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/65/a8/8e/65a88e08-0c52-8675-0b0e-c7ef2dad4325/1242x2688-2.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f3/05/b5/f305b570-fe21-58cc-a892-10108e6f162d/1242x2688-3.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/af/79/0b/af790b7a-d04b-575b-b00f-1aa0b54c9f3e/1242x2688-4.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/a3/90/34a390d6-1cca-d3b1-c330-fc0a019606ba/1242x2688-5.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/da/b3/45dab368-3c35-b8c8-c82d-a706b53667ec/1242x2688-6.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/78/72/1b787247-45dc-8eae-a4be-4a3c4e0de9da/1242x2688-7.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/79/df/00/79df00e8-bdab-aa97-914e-56b94a4c0a0b/1242x2688-8.jpg/320x480bb.jpg"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "application-identifier",
+          "aps-environment",
+          "com.apple.developer.applesignin",
+          "com.apple.developer.associated-appclip-app-identifiers",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.devicecheck.appattest-environment",
+          "com.apple.developer.kernel.extended-virtual-addressing",
+          "com.apple.developer.kernel.increased-memory-limit",
+          "com.apple.developer.networking.carrier-constrained.app-optimized",
+          "com.apple.developer.networking.carrier-constrained.appcategory",
+          "com.apple.developer.pass-type-identifiers",
+          "com.apple.developer.payment-pass-provisioning",
+          "com.apple.developer.siri",
+          "com.apple.developer.team-identifier",
+          "com.apple.developer.usernotifications.communication",
+          "com.apple.developer.usernotifications.time-sensitive",
+          "com.apple.security.application-groups",
+          "keychain-access-groups"
+        ],
+        "privacy": {
+          "NSAlarmKitUsageDescription": "Grok Bot can set alarms and timers when you ask it to.",
+          "NSCalendarsFullAccessUsageDescription": "Grok Bot can read your calendar when you ask about your schedule, and add, change, or delete events when you ask it to.",
+          "NSCalendarsUsageDescription": "Add events to your calendar from X.",
+          "NSCameraUsageDescription": "Capture and post photos and videos from X.",
+          "NSContactsUsageDescription": "We will securely upload your contacts to our servers to help you connect with friends and suggest users to follow on X.",
+          "NSFaceIDUsageDescription": "Use FaceID to authenticate on X.",
+          "NSLocationUsageDescription": "Enjoy the X experience tailored to your location.",
+          "NSLocationWhenInUseUsageDescription": "Enjoy the X experience tailored to your location.",
+          "NSMicrophoneUsageDescription": "Capture and post videos with sound from X.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you download photos and videos to your Photos.",
+          "NSPhotoLibraryUsageDescription": "Allow access to share photos from your camera roll.",
+          "NSRemindersFullAccessUsageDescription": "Grok Bot can read your reminders when you ask about them, and add, change, or delete reminders when you ask it to.",
+          "NSSpeechRecognitionUsageDescription": "Going forward, whenever you choose to share captions on this device, Apple will provide the service. Doing so helps make sure people of all hearing abilities can access your content.",
+          "NSUserTrackingUsageDescription": "This helps X show you more relevant ads."
+        }
+      },
+      "name": "X++",
+      "versionDate": "2026-11-03",
+      "date": "2026-11-03",
+      "sha256": "64919cb4186b566bf66b3b0ff1e1bd6720b59f9a1780e0cda26c61fd0e50463f",
+      "__source": "https://wuxu1.github.io/wuxu-complete-plus.json",
+      "__mirrors": [
+        "https://wuxu1.github.io/wuxu-complete.json"
+      ],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "category": "Social",
+      "version": "47.6.0",
+      "size": 521461976,
+      "tintColor": "0b0b0b",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a1/6a/6ca16a58-1937-7122-e65b-2d901f84fdbb/oEEEv6yBAvIC3s9IGZ1A83wu5TAjAsxiAjLig.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/ce/2f/27ce2fc4-a338-95ab-3bbe-1b9062cf537d/e6733d76-8afb-4efa-b9a1-9937cdd227f7_STEM_iOS_2208.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/b8/d5/b2b8d5ce-7852-5c2c-1bce-4c812c04cb65/329e308a-8a6a-40d8-a1a1-ada1c34e45e8_Mother_iOS_2208.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/77/8b/25778baf-1cdf-6732-6fd0-2ec81e1323f0/aebb5dbd-18b1-423e-b417-f6f7864e3404_Recipe_iOS_2208.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/2e/c2/992ec242-7589-7262-cfd6-11a6115674d0/426a0b06-acb2-4cec-b9a0-b0e69a124d7e_Winter_AI_iOS_2208.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/ea/c0/bceac0a7-89bb-7aac-eeec-4ee64625ce47/4e4d8986-3144-4362-a170-18cb3bab6dd6_Hocky_iOS_2208.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/77/bd/2177bd1d-f668-33ec-0c40-dd2d15e1ff1a/1c75c2b6-1845-4523-b90b-01b54f039b78_Pet_iOS_2208.png/392x696bb.png"
+      ],
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "subtitle": "TikTok with added features.",
+      "beta": false,
+      "versionDescription": "\u2022 TikTok updated to v47.6.0\n\u2022 gtok updated to v2.5",
+      "versionDate": "2026-11-03",
+      "appPermissions": {
+        "entitlements": [
+          "application-identifier",
+          "aps-environment",
+          "com.apple.developer.applesignin",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.declared-age-range",
+          "com.apple.developer.group-session",
+          "com.apple.developer.in-app-payments",
+          "com.apple.developer.kernel.extended-virtual-addressing",
+          "com.apple.developer.kernel.increased-memory-limit",
+          "com.apple.developer.networking.multicast",
+          "com.apple.developer.networking.wifi-info",
+          "com.apple.developer.pass-type-identifiers",
+          "com.apple.developer.payment-pass-provisioning",
+          "com.apple.developer.siri",
+          "com.apple.developer.storekit.request-data",
+          "com.apple.developer.team-identifier",
+          "com.apple.developer.usernotifications.communication",
+          "com.apple.developer.usernotifications.time-sensitive",
+          "com.apple.security.application-groups",
+          "keychain-access-groups"
+        ],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "To select sound from your library, allow us to access your Apple Music.",
+          "NSBluetoothAlwaysUsageDescription": "This will allow \"TikTok\" to find and connect to Bluetooth accessories. This app may also use Bluetooth to connect with nearby devices.",
+          "NSBluetoothPeripheralUsageDescription": "This will allow \"TikTok\" to find and connect to Bluetooth accessories. This app may also use Bluetooth to connect with nearby devices.",
+          "NSCalendarsUsageDescription": "Add events to your device calendar to get reminders when events start.",
+          "NSCameraUsageDescription": "You'll be able to record video.",
+          "NSContactsUsageDescription": "Sync your contacts to easily find people you know on TikTok. Your contacts will only be used to help you connect with friends.",
+          "NSFaceIDUsageDescription": "We'll use this to unlock features that require added security.",
+          "NSLocalNetworkUsageDescription": "The TikTok app will be able to discover and connect with devices that have the TikTok app installed for camera and screen sharing.",
+          "NSLocationWhenInUseUsageDescription": "If location services are enabled, TikTok will collect, store and use your device's approximate location to improve your experience.",
+          "NSMicrophoneUsageDescription": "To record audio, allow us to access your Microphone.",
+          "NSPhotoLibraryAddUsageDescription": "To upload from or download to your device, allow access to your photos in your phone settings.",
+          "NSPhotoLibraryUsageDescription": "To upload from or download to your device, allow access to your photos in your phone settings.",
+          "NSUserTrackingUsageDescription": "This allows TikTok to provide you with a better ads experience."
+        }
+      },
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/70/42/50704260-89c4-2aa4-7740-4a6a621af5db/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "developerName": "aJBbo",
+      "localizedDescription": "\u2022 TikTok updated to v47.6.0\n\u2022 gtok updated to v2.5",
+      "name": "TikTok++",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/TikTok.v47.6.0.+.gtok.v2.5.ipa",
+      "date": "2026-11-03",
+      "sha256": "cbd9ee6226fec5cf2fa8894cd9f45add058590c796f8e37bf617fac32e3ea71d",
+      "__source": "https://wuxu1.github.io/wuxu-complete-plus.json",
+      "__mirrors": [
+        "https://wuxu1.github.io/wuxu-complete.json"
+      ],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "bundleIdentifier": "eu.pokemmo.client",
+      "developerName": "PokeMMO",
+      "downloadURL": "https://dl.pokemmo.com/PokeMMO-Client.ipa?r=34932",
+      "iconURL": "https://pokemmo.com/build/images/altstore.f5930b35.png",
+      "localizedDescription": "PokeMMO is a free to play mmorpg, come join a growing community as you level up and discover new monsters. Available now on PC, Android, iOS, Mac, and Linux.",
+      "name": "PokeMMO",
+      "screenshotURLs": [
+        "https://pokemmo.com/build/images/screenshot/c.b5d935d8.png",
+        "https://pokemmo.com/build/images/screenshot/b.3a233486.png",
+        "https://pokemmo.com/build/images/screenshot/d.4080dd9c.png",
+        "https://pokemmo.com/build/images/screenshot/e.ed0aa85b.png",
+        "https://pokemmo.com/build/images/screenshot/a.debf11f5.png"
+      ],
+      "size": 133280699,
+      "tintColor": "73ACE2",
+      "version": "34932",
+      "versionDate": "2026-11-02T23:33:57+00:00",
+      "__source": "https://pokemmo.eu/altstore/",
       "__mirrors": [],
       "__stores": [
         "AltStore"
@@ -283,44 +1030,222 @@
       ]
     },
     {
-      "name": "Provenance Alpha",
-      "bundleIdentifier": "com.provenance-emu.provenance.alpha",
-      "developerName": "Provenance-EMU",
-      "subtitle": "Latest dev builds - test new features early",
-      "localizedDescription": "Alpha build b6069a2 \u00b7 2026-11-02\n\nChanges in this build:\n\u2022 test: isolate UI core fixtures from native bridges\n\u2022 test: verify SkinKit follows coordinated theme accents\n\u2022 build: align PVUI lockfile with resolved dependency graph\n\u2022 build: isolate PVUI package test workspace and state\n\u2022 fix: retain library input ownership and clear hidden search\n\u2022 fix: address Copilot review \u2014 sidebar close, free ROMs host, search reset, tvOS test guard\n\u2022 feat: redesign library navigation and pause chrome\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
-      "iconURL": "https://raw.githubusercontent.com/Provenance-Emu/Provenance/develop/Provenance/Resources/Assets.xcassets/AppIcon.appiconset/iTunesArtwork%402x.png",
-      "tintColor": "FF6B35",
-      "screenshotURLs": [],
-      "appPermissions": {
-        "entitlements": [
-          {
-            "name": "com.apple.security.application-groups"
-          },
-          {
-            "name": "com.apple.developer.icloud-services"
-          },
-          {
-            "name": "com.apple.developer.icloud-container-identifiers"
-          }
-        ],
-        "privacy": [
-          {
-            "name": "LocalNetwork",
-            "usageDescription": "Used to discover and connect to local network game servers for netplay."
-          },
-          {
-            "name": "Camera",
-            "usageDescription": "Used to scan QR codes for importing game data."
-          }
-        ]
-      },
-      "version": "3.4.0",
-      "buildVersion": "10998",
-      "marketingVersion": "3.4.0-alpha.20261102.b6069a2",
+      "name": "iFly",
+      "bundleIdentifier": "com.provenance.ifly",
+      "developerName": "Provenance Emu",
+      "subtitle": "Dreamcast Emulator for iOS & tvOS",
+      "localizedDescription": "iFly 1.0.0 (build 1793661737) for iOS",
+      "iconURL": "https://ifly-emu.com/icon-1024.png",
+      "tintColor": "#ff6900",
+      "category": "games",
+      "screenshots": [
+        "https://ifly-emu.com/screenshots/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
+        "https://ifly-emu.com/screenshots/iphone/search.jpg",
+        "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
+        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+      ],
+      "version": "1.0.0+1793661737",
+      "buildVersion": "1793661737",
       "date": "2026-11-02",
-      "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
-      "size": 780937406,
+      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1793661737/iFly-1.0.0-1793661737.ipa",
+      "size": 133145279,
       "minOSVersion": "17.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "versionDate": "2026-11-02",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iFly",
+      "bundleIdentifier": "com.provenance.ifly",
+      "developerName": "Provenance Emu",
+      "subtitle": "Dreamcast Emulator for iOS & tvOS",
+      "localizedDescription": "iFly 1.0.0 (build 1793661024) for iOS",
+      "iconURL": "https://ifly-emu.com/icon-1024.png",
+      "tintColor": "#ff6900",
+      "category": "games",
+      "screenshots": [
+        "https://ifly-emu.com/screenshots/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
+        "https://ifly-emu.com/screenshots/iphone/search.jpg",
+        "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
+        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+      ],
+      "version": "1.0.0+1793661024",
+      "buildVersion": "1793661024",
+      "date": "2026-11-02",
+      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1793661024/iFly-1.0.0-1793661024.ipa",
+      "size": 133145306,
+      "minOSVersion": "17.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "versionDate": "2026-11-02",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iFly",
+      "bundleIdentifier": "com.provenance.ifly",
+      "developerName": "Provenance Emu",
+      "subtitle": "Dreamcast Emulator for iOS & tvOS",
+      "localizedDescription": "iFly 1.0.0 (build 1793659803) for iOS",
+      "iconURL": "https://ifly-emu.com/icon-1024.png",
+      "tintColor": "#ff6900",
+      "category": "games",
+      "screenshots": [
+        "https://ifly-emu.com/screenshots/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
+        "https://ifly-emu.com/screenshots/iphone/search.jpg",
+        "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
+        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+      ],
+      "version": "1.0.0+1793659803",
+      "buildVersion": "1793659803",
+      "date": "2026-11-02",
+      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1793659803/iFly-1.0.0-1793659803.ipa",
+      "size": 133145302,
+      "minOSVersion": "17.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "versionDate": "2026-11-02",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iFly",
+      "bundleIdentifier": "com.provenance.ifly",
+      "developerName": "Provenance Emu",
+      "subtitle": "Dreamcast Emulator for iOS & tvOS",
+      "localizedDescription": "iFly 1.0.0 (build 1793658447) for iOS",
+      "iconURL": "https://ifly-emu.com/icon-1024.png",
+      "tintColor": "#ff6900",
+      "category": "games",
+      "screenshots": [
+        "https://ifly-emu.com/screenshots/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
+        "https://ifly-emu.com/screenshots/iphone/search.jpg",
+        "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
+        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+      ],
+      "version": "1.0.0+1793658447",
+      "buildVersion": "1793658447",
+      "date": "2026-11-02",
+      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1793658447/iFly-1.0.0-1793658447.ipa",
+      "size": 133143905,
+      "minOSVersion": "17.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "versionDate": "2026-11-02",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iFly",
+      "bundleIdentifier": "com.provenance.ifly",
+      "developerName": "Provenance Emu",
+      "subtitle": "Dreamcast Emulator for iOS & tvOS",
+      "localizedDescription": "iFly 1.0.0 (build 1793657811) for iOS",
+      "iconURL": "https://ifly-emu.com/icon-1024.png",
+      "tintColor": "#ff6900",
+      "category": "games",
+      "screenshots": [
+        "https://ifly-emu.com/screenshots/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
+        "https://ifly-emu.com/screenshots/iphone/search.jpg",
+        "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
+        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+      ],
+      "version": "1.0.0+1793657811",
+      "buildVersion": "1793657811",
+      "date": "2026-11-02",
+      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1793657811/iFly-1.0.0-1793657811.ipa",
+      "size": 133143897,
+      "minOSVersion": "17.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "versionDate": "2026-11-02",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iFly",
+      "bundleIdentifier": "com.provenance.ifly",
+      "developerName": "Provenance Emu",
+      "subtitle": "Dreamcast Emulator for iOS & tvOS",
+      "localizedDescription": "iFly 1.0.0 (build 1793600633) for iOS",
+      "iconURL": "https://ifly-emu.com/icon-1024.png",
+      "tintColor": "#ff6900",
+      "category": "games",
+      "screenshots": [
+        "https://ifly-emu.com/screenshots/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
+        "https://ifly-emu.com/screenshots/iphone/search.jpg",
+        "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
+        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+      ],
+      "version": "1.0.0+1793600633",
+      "buildVersion": "1793600633",
+      "date": "2026-11-02",
+      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1793600633/iFly-1.0.0-1793600633.ipa",
+      "size": 133119819,
+      "minOSVersion": "17.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "versionDate": "2026-11-02",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iFly",
+      "bundleIdentifier": "com.provenance.ifly",
+      "developerName": "Provenance Emu",
+      "subtitle": "Dreamcast Emulator for iOS & tvOS",
+      "localizedDescription": "iFly 1.0.0 (build 1793599972) for iOS",
+      "iconURL": "https://ifly-emu.com/icon-1024.png",
+      "tintColor": "#ff6900",
+      "category": "games",
+      "screenshots": [
+        "https://ifly-emu.com/screenshots/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
+        "https://ifly-emu.com/screenshots/iphone/search.jpg",
+        "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
+        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+      ],
+      "version": "1.0.0+1793599972",
+      "buildVersion": "1793599972",
+      "date": "2026-11-02",
+      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1793599972/iFly-1.0.0-1793599972.ipa",
+      "size": 133119821,
+      "minOSVersion": "17.0",
+      "platform": "iOS",
+      "isBeta": true,
       "versionDate": "2026-11-02",
       "__source": "https://provenance-emu.com/apps.json",
       "__mirrors": [],
@@ -917,6 +1842,122 @@
       ]
     },
     {
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/f9/36/22f936bd-f61d-d1e1-8227-7352688e9367/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "\u2022 SoundCloud updated to v8.85.0",
+      "size": 356714248,
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud.v8.85.0.+.NexaSC.ipa",
+      "versionDate": "2026-11-02",
+      "beta": false,
+      "versionDescription": "\u2022 SoundCloud updated to v8.85.0",
+      "appPermissions": {
+        "entitlements": [
+          "application-identifier",
+          "aps-environment",
+          "com.apple.developer.applesignin",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.carplay-audio",
+          "com.apple.developer.mediasetup",
+          "com.apple.developer.siri",
+          "com.apple.developer.team-identifier",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSBluetoothPeripheralUsageDescription": "SoundCloud would like to use bluetooth.",
+          "NSCameraUsageDescription": "bla-bla-bla",
+          "NSLocalNetworkUsageDescription": "SoundCloud uses the local network to discover Cast-enabled devices on your WiFi network.",
+          "NSMicrophoneUsageDescription": "SoundCloud would like to use the microphone.",
+          "NSPhotoLibraryAddUsageDescription": "SoundCloud would like to access the photos library.",
+          "NSPhotoLibraryUsageDescription": "SoundCloud would like to store a photo.",
+          "NSSiriUsageDescription": "SoundCloud would like to use Siri",
+          "NSUserTrackingUsageDescription": "This helps us personalize your tracks and show ads that match your energy."
+        }
+      },
+      "category": "Entertainment",
+      "developerName": "VAXMG",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/55/5c/b1/555cb18f-d974-428d-9233-e2b6d36f3694/01.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/60/69/a26069d7-2b4a-2405-5643-c7c90338de09/02.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/d7/d6/02d7d6c9-99a5-33ac-3d3b-f0c1d2980398/03.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/f6/38/37f6384f-ae80-8e83-3f2b-806fb6fd4ad2/04.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/99/25/57992551-9713-826b-99d2-698ca86e5532/05.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/44/4a/35444a3a-ccc7-b520-e536-c4f1567cf488/6_U00279.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/a2/5d/6aa25d36-12c5-6772-2bcb-4afb4bea9b60/07.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/1f/4d/c61f4d4f-567a-fc0f-4db9-7e6c197a07c2/08.jpg/320x480bb.jpg"
+      ],
+      "name": "SoundCloud++",
+      "subtitle": "SoundCloud with no ads! Read Description.",
+      "tintColor": "0a0a0a",
+      "bundleIdentifier": "com.soundcloud.TouchApp",
+      "version": "8.85.0",
+      "date": "2026-11-02",
+      "sha256": "fb8694dd116bf55f62a4ad80bed3c26910c0574f74346642ce6d564f4275829c",
+      "__source": "https://wuxu1.github.io/wuxu-complete-plus.json",
+      "__mirrors": [
+        "https://wuxu1.github.io/wuxu-complete.json"
+      ],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "BuildBox",
+      "bundleIdentifier": "com.mikevillarroel.buildbox",
+      "developerName": "MikeBuilds",
+      "subtitle": "Compile, sign and install iOS apps from your iPhone",
+      "localizedDescription": "\u2022 BuildBox updated to v2.1.4",
+      "iconURL": "https://mikevillarroel.github.io/mikebuilds-source/icons/buildbox.png",
+      "tintColor": "2f7cf6",
+      "category": "utilities",
+      "beta": false,
+      "screenshotURLs": [],
+      "version": "2.1.4",
+      "versionDate": "2026-11-02",
+      "versionDescription": "\u2022 BuildBox updated to v2.1.4",
+      "size": 15595926,
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/BuildBox-2.1.4.ipa",
+      "appPermissions": {
+        "privacy": {}
+      },
+      "date": "2026-11-02",
+      "minOSVersion": "18.0",
+      "__source": "https://wuxu1.github.io/wuxu-complete-plus.json",
+      "__mirrors": [
+        "https://wuxu1.github.io/wuxu-complete.json"
+      ],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "BuildBox",
+      "bundleIdentifier": "com.mikevillarroel.buildbox",
+      "developerName": "MikeBuilds",
+      "subtitle": "Compile, sign and install iOS apps from your iPhone",
+      "localizedDescription": "\u2022 BuildBox updated to v2.1.3",
+      "iconURL": "https://mikevillarroel.github.io/mikebuilds-source/icons/buildbox.png",
+      "tintColor": "2f7cf6",
+      "category": "utilities",
+      "beta": false,
+      "screenshotURLs": [],
+      "version": "2.1.3",
+      "versionDate": "2026-11-02",
+      "versionDescription": "\u2022 BuildBox updated to v2.1.4",
+      "size": 15651369,
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/BuildBox-2.1.3.ipa",
+      "appPermissions": {
+        "privacy": {}
+      },
+      "date": "2026-11-02",
+      "minOSVersion": "18.0",
+      "__source": "https://wuxu1.github.io/wuxu-complete-plus.json",
+      "__mirrors": [
+        "https://wuxu1.github.io/wuxu-complete.json"
+      ],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
       "name": "BuildBox",
       "bundleIdentifier": "com.mikevillarroel.buildbox",
       "developerName": "MikeBuilds",
@@ -929,7 +1970,7 @@
       "screenshotURLs": [],
       "version": "2.1.1",
       "versionDate": "2026-11-02",
-      "versionDescription": "\u2022 BuildBox updated to v2.1.1",
+      "versionDescription": "\u2022 BuildBox updated to v2.1.4",
       "size": 16290025,
       "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/BuildBox-2.1.1.ipa",
       "appPermissions": {
@@ -958,7 +1999,7 @@
       "screenshotURLs": [],
       "version": "2.1.0",
       "versionDate": "2026-11-02",
-      "versionDescription": "\u2022 BuildBox updated to v2.1.1",
+      "versionDescription": "\u2022 BuildBox updated to v2.1.4",
       "size": 17956353,
       "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/BuildBox.v2.1.0.ipa",
       "appPermissions": {
@@ -1090,64 +2131,6 @@
       "__mirrors": [
         "https://wuxu1.github.io/wuxu-complete.json"
       ],
-      "__stores": [
-        "AltStore"
-      ]
-    },
-    {
-      "bundleIdentifier": "eu.pokemmo.client",
-      "developerName": "PokeMMO",
-      "downloadURL": "https://dl.pokemmo.com/PokeMMO-Client.ipa?r=34868",
-      "iconURL": "https://pokemmo.com/build/images/altstore.f5930b35.png",
-      "localizedDescription": "PokeMMO is a free to play mmorpg, come join a growing community as you level up and discover new monsters. Available now on PC, Android, iOS, Mac, and Linux.",
-      "name": "PokeMMO",
-      "screenshotURLs": [
-        "https://pokemmo.com/build/images/screenshot/c.b5d935d8.png",
-        "https://pokemmo.com/build/images/screenshot/b.3a233486.png",
-        "https://pokemmo.com/build/images/screenshot/d.4080dd9c.png",
-        "https://pokemmo.com/build/images/screenshot/e.ed0aa85b.png",
-        "https://pokemmo.com/build/images/screenshot/a.debf11f5.png"
-      ],
-      "size": 133306996,
-      "tintColor": "73ACE2",
-      "version": "34868",
-      "versionDate": "2026-11-01T06:13:42+00:00",
-      "__source": "https://pokemmo.eu/altstore/",
-      "__mirrors": [],
-      "__stores": [
-        "AltStore"
-      ]
-    },
-    {
-      "name": "iCube",
-      "bundleIdentifier": "com.joemattiello.iCube",
-      "developerName": "Provenance Emu",
-      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
-      "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
-      "iconURL": "https://icube-emu.com/icon-1024.png",
-      "tintColor": "#3B82F6",
-      "category": "games",
-      "screenshots": [
-        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
-        "https://icube-emu.com/screenshots/iphone/search.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
-        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
-        "https://icube-emu.com/screenshots/iphone/shaders.jpg",
-        "https://icube-emu.com/screenshots/iphone/settings-graphics.jpg",
-        "https://icube-emu.com/screenshots/iphone/settings-controllers.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
-      ],
-      "version": "1.0.0",
-      "buildVersion": "421",
-      "date": "2026-11-01T03:55:03.962Z",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/Non-Jailbroken.ipa",
-      "size": 98943996,
-      "minOSVersion": "17.0",
-      "platform": "iOS",
-      "isBeta": true,
-      "versionDate": "2026-11-01T03:55:03.962Z",
-      "__source": "https://provenance-emu.com/apps.json",
-      "__mirrors": [],
       "__stores": [
         "AltStore"
       ]
@@ -1374,130 +2357,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "iCube",
-      "bundleIdentifier": "com.joemattiello.iCube",
-      "developerName": "Provenance Emu",
-      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
-      "localizedDescription": "iCube 1.0.0-beta9-ios Beta 9 for iOS",
-      "iconURL": "https://icube-emu.com/icon-1024.png",
-      "tintColor": "#3B82F6",
-      "category": "games",
-      "screenshots": [
-        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
-        "https://icube-emu.com/screenshots/iphone/search.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
-        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
-        "https://icube-emu.com/screenshots/iphone/shaders.jpg",
-        "https://icube-emu.com/screenshots/iphone/settings-graphics.jpg",
-        "https://icube-emu.com/screenshots/iphone/settings-controllers.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
-      ],
-      "version": "1.0.0-beta9-ios",
-      "buildVersion": "1.0.0-beta9-ios",
-      "date": "2026-11-01",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/iCube.ipa",
-      "size": 82799373,
-      "minOSVersion": "15.0",
-      "platform": "iOS",
-      "isBeta": true,
-      "betaNumber": 9,
-      "versionDate": "2026-11-01",
-      "__source": "https://provenance-emu.com/apps.json",
-      "__mirrors": [],
-      "__stores": [
-        "AltStore"
-      ],
-      "__hash_duplicates": [
-        {
-          "name": "iCube",
-          "bundleIdentifier": "com.joemattiello.iCube",
-          "version": "1.0.0-beta9-ios"
-        },
-        {
-          "name": "iCube",
-          "bundleIdentifier": "com.joemattiello.iCube",
-          "version": "1.0.0-beta7-ios"
-        }
-      ]
-    },
-    {
-      "name": "iCube",
-      "bundleIdentifier": "com.joemattiello.iCube",
-      "developerName": "Provenance Emu",
-      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
-      "localizedDescription": "iCube 1.0.0-beta8-ios Beta 8 for iOS",
-      "iconURL": "https://icube-emu.com/icon-1024.png",
-      "tintColor": "#3B82F6",
-      "category": "games",
-      "screenshots": [
-        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
-        "https://icube-emu.com/screenshots/iphone/search.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
-        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
-        "https://icube-emu.com/screenshots/iphone/shaders.jpg",
-        "https://icube-emu.com/screenshots/iphone/settings-graphics.jpg",
-        "https://icube-emu.com/screenshots/iphone/settings-controllers.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
-      ],
-      "version": "1.0.0-beta8-ios",
-      "buildVersion": "1.0.0-beta8-ios",
-      "date": "2026-11-01",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/iCube.ipa",
-      "size": 82893911,
-      "minOSVersion": "15.0",
-      "platform": "iOS",
-      "isBeta": true,
-      "betaNumber": 8,
-      "versionDate": "2026-11-01",
-      "__source": "https://provenance-emu.com/apps.json",
-      "__mirrors": [],
-      "__stores": [
-        "AltStore"
-      ]
-    },
-    {
-      "name": "iCube",
-      "bundleIdentifier": "com.joemattiello.iCube",
-      "developerName": "Provenance Emu",
-      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
-      "localizedDescription": "iCube 1.0.0-beta7-ios Beta 7 for iOS",
-      "iconURL": "https://icube-emu.com/icon-1024.png",
-      "tintColor": "#3B82F6",
-      "category": "games",
-      "screenshots": [
-        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
-        "https://icube-emu.com/screenshots/iphone/search.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
-        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
-        "https://icube-emu.com/screenshots/iphone/shaders.jpg",
-        "https://icube-emu.com/screenshots/iphone/settings-graphics.jpg",
-        "https://icube-emu.com/screenshots/iphone/settings-controllers.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
-      ],
-      "version": "1.0.0-beta7-ios",
-      "buildVersion": "1.0.0-beta7-ios",
-      "date": "2026-11-01",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/iCube.ipa",
-      "size": 82893502,
-      "minOSVersion": "15.6",
-      "platform": "iOS",
-      "isBeta": true,
-      "betaNumber": 7,
-      "versionDate": "2026-11-01",
-      "__source": "https://provenance-emu.com/apps.json",
-      "__mirrors": [],
-      "__stores": [
-        "AltStore"
-      ],
-      "__hash_duplicates": [
-        {
-          "name": "iCube",
-          "bundleIdentifier": "com.joemattiello.iCube",
-          "version": "1.0.0-beta9-ios"
-        }
       ]
     },
     {
@@ -3074,7 +3933,7 @@
       "fullDate": "20261029013920",
       "size": 93546426,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2026/Boostcamp_267_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/Boostcamp_267_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2026/Boostcamp_267_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bpmhealth.boostfitness.png",
@@ -3137,7 +3996,7 @@
       "fullDate": "20261029001203",
       "size": 85195766,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2026/OfflineMusic_3.9.8_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/OfflineMusic_3.9.8_Pro_@thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2026/OfflineMusic_3.9.8_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.offlinemusic.png",
@@ -3153,7 +4012,7 @@
       "size": 273566238,
       "category": "Social",
       "beta": false,
-      "versionDescription": "\u2022 X updated to v12.39\n\u2022 NFB updated to v7.3.0",
+      "versionDescription": "\u2022 X updated to v12.40\n\u2022 NFB updated to v7.3.1",
       "developerName": "Densor",
       "localizedDescription": "\u2022 X updated to v12.39\n\u2022 NFB updated to v7.3.0",
       "subtitle": "An new tweak for X!",
@@ -3193,6 +4052,8 @@
           "keychain-access-groups"
         ],
         "privacy": {
+          "NSAlarmKitUsageDescription": "Grok Bot can set alarms and timers when you ask it to.",
+          "NSCalendarsFullAccessUsageDescription": "Grok Bot can read your calendar when you ask about your schedule, and add, change, or delete events when you ask it to.",
           "NSCalendarsUsageDescription": "Add events to your calendar from X.",
           "NSCameraUsageDescription": "Capture and post photos and videos from X.",
           "NSContactsUsageDescription": "We will securely upload your contacts to our servers to help you connect with friends and suggest users to follow on X.",
@@ -3202,6 +4063,7 @@
           "NSMicrophoneUsageDescription": "Capture and post videos with sound from X.",
           "NSPhotoLibraryAddUsageDescription": "This lets you download photos and videos to your Photos.",
           "NSPhotoLibraryUsageDescription": "Allow access to share photos from your camera roll.",
+          "NSRemindersFullAccessUsageDescription": "Grok Bot can read your reminders when you ask about them, and add, change, or delete reminders when you ask it to.",
           "NSSpeechRecognitionUsageDescription": "Going forward, whenever you choose to share captions on this device, Apple will provide the service. Doing so helps make sure people of all hearing abilities can access your content.",
           "NSUserTrackingUsageDescription": "This helps X show you more relevant ads."
         }
@@ -3606,7 +4468,7 @@
       "fullDate": "20261028095357",
       "size": 60084643,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2026/QrCode_2026.10.12_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/QrCode_2026.10.12_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2026/QrCode_2026.10.12_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
@@ -3711,7 +4573,7 @@
       "fullDate": "20261028064714",
       "size": 41673464,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2026/AIRetouch_1.3.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/AIRetouch_1.3.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2026/AIRetouch_1.3.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picretouch.photoeditor.png",
@@ -4464,7 +5326,7 @@
       "size": 269750542,
       "category": "Social",
       "beta": false,
-      "versionDescription": "\u2022 X updated to v12.39\n\u2022 NFB updated to v7.3.0",
+      "versionDescription": "\u2022 X updated to v12.40\n\u2022 NFB updated to v7.3.1",
       "developerName": "Densor",
       "localizedDescription": "\u2022 X updated to v12.38.1",
       "subtitle": "An new tweak for X!",
@@ -4504,6 +5366,8 @@
           "keychain-access-groups"
         ],
         "privacy": {
+          "NSAlarmKitUsageDescription": "Grok Bot can set alarms and timers when you ask it to.",
+          "NSCalendarsFullAccessUsageDescription": "Grok Bot can read your calendar when you ask about your schedule, and add, change, or delete events when you ask it to.",
           "NSCalendarsUsageDescription": "Add events to your calendar from X.",
           "NSCameraUsageDescription": "Capture and post photos and videos from X.",
           "NSContactsUsageDescription": "We will securely upload your contacts to our servers to help you connect with friends and suggest users to follow on X.",
@@ -4513,6 +5377,7 @@
           "NSMicrophoneUsageDescription": "Capture and post videos with sound from X.",
           "NSPhotoLibraryAddUsageDescription": "This lets you download photos and videos to your Photos.",
           "NSPhotoLibraryUsageDescription": "Allow access to share photos from your camera roll.",
+          "NSRemindersFullAccessUsageDescription": "Grok Bot can read your reminders when you ask about them, and add, change, or delete reminders when you ask it to.",
           "NSSpeechRecognitionUsageDescription": "Going forward, whenever you choose to share captions on this device, Apple will provide the service. Doing so helps make sure people of all hearing abilities can access your content.",
           "NSUserTrackingUsageDescription": "This helps X show you more relevant ads."
         }
@@ -4534,7 +5399,7 @@
       "size": 269572222,
       "category": "Social",
       "beta": false,
-      "versionDescription": "\u2022 X updated to v12.39\n\u2022 NFB updated to v7.3.0",
+      "versionDescription": "\u2022 X updated to v12.40\n\u2022 NFB updated to v7.3.1",
       "developerName": "Densor",
       "localizedDescription": "\u2022 X updated to v12.38",
       "subtitle": "An new tweak for X!",
@@ -4574,6 +5439,8 @@
           "keychain-access-groups"
         ],
         "privacy": {
+          "NSAlarmKitUsageDescription": "Grok Bot can set alarms and timers when you ask it to.",
+          "NSCalendarsFullAccessUsageDescription": "Grok Bot can read your calendar when you ask about your schedule, and add, change, or delete events when you ask it to.",
           "NSCalendarsUsageDescription": "Add events to your calendar from X.",
           "NSCameraUsageDescription": "Capture and post photos and videos from X.",
           "NSContactsUsageDescription": "We will securely upload your contacts to our servers to help you connect with friends and suggest users to follow on X.",
@@ -4583,6 +5450,7 @@
           "NSMicrophoneUsageDescription": "Capture and post videos with sound from X.",
           "NSPhotoLibraryAddUsageDescription": "This lets you download photos and videos to your Photos.",
           "NSPhotoLibraryUsageDescription": "Allow access to share photos from your camera roll.",
+          "NSRemindersFullAccessUsageDescription": "Grok Bot can read your reminders when you ask about them, and add, change, or delete reminders when you ask it to.",
           "NSSpeechRecognitionUsageDescription": "Going forward, whenever you choose to share captions on this device, Apple will provide the service. Doing so helps make sure people of all hearing abilities can access your content.",
           "NSUserTrackingUsageDescription": "This helps X show you more relevant ads."
         }
@@ -4606,7 +5474,7 @@
       "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud.v8.84.0.+.NexaSC.ipa",
       "versionDate": "2026-10-27",
       "beta": false,
-      "versionDescription": "\u2022 SoundCloud updated to v8.84.0",
+      "versionDescription": "\u2022 SoundCloud updated to v8.85.0",
       "appPermissions": {
         "entitlements": [
           "application-identifier",
@@ -4715,71 +5583,6 @@
       "__mirrors": [
         "https://wuxu1.github.io/wuxu-complete.json"
       ],
-      "__stores": [
-        "AltStore"
-      ]
-    },
-    {
-      "beta": false,
-      "bundleIdentifier": "com.burbn.instagram",
-      "developerName": "Ryuk",
-      "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.36/eaa7335b-876d-47c8-9d7c-b98331e7c3R2.ipa",
-      "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
-      "localizedDescription": "Just look up information for SCInsta if you're confused about usage",
-      "name": "Instagram (RyukGram)",
-      "screenshotURLs": [
-        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot1.jpg",
-        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot2.jpg",
-        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot3.jpg",
-        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot4.jpg"
-      ],
-      "size": 91750400,
-      "subtitle": "Additional features and fixes by Ryuk based on SCInsta | If you want to donate: - https://ko-fi.com/driftywinds",
-      "tintColor": "C13584",
-      "version": "453.0.0",
-      "versionDate": "2026-10-26",
-      "versionDescription": "Updated to v453.0.0, RyukGram v1.5.0",
-      "appPermissions": {
-        "entitlements": [
-          "com.apple.developer.associated-appclip-app-identifiers",
-          "com.apple.security.application-groups",
-          "com.apple.developer.associated-domains",
-          "com.apple.developer.storekit.request-data",
-          "com.apple.developer.ubiquity-container-identifiers",
-          "com.apple.developer.usernotifications.communication",
-          "com.apple.developer.usernotifications.time-sensitive",
-          "get-task-allow",
-          "com.apple.developer.kernel.extended-virtual-addressing",
-          "com.apple.developer.networking.HotspotConfiguration",
-          "com.apple.developer.icloud-container-environment",
-          "com.apple.developer.icloud-container-identifiers",
-          "com.apple.developer.ubiquity-kvstore-identifier",
-          "com.apple.developer.icloud-services",
-          "com.apple.developer.kernel.increased-memory-limit",
-          "keychain-access-groups",
-          "com.apple.developer.avfoundation.multitasking-camera-access",
-          "com.apple.developer.usernotifications.filtering",
-          "aps-environment",
-          "com.apple.developer.networking.wifi-info"
-        ],
-        "privacy": {
-          "NSBluetoothAlwaysUsageDescription": "This app requires Bluetooth access for connecting to nearby devices.",
-          "NSCalendarsUsageDescription": "This app requires access to your calendars for social event integration.",
-          "NSCameraUsageDescription": "This app requires camera access to capture photos and videos.",
-          "NSContactsUsageDescription": "This app requires access to your contacts for enhanced social features.",
-          "NSFaceIDUsageDescription": "This app requires Face ID for secure authentication.",
-          "NSLocationAlwaysAndWhenInUseUsageDescription": "This app requires location access even when in the background for geotagging.",
-          "NSLocationUsageDescription": "This app requires location access to provide local content.",
-          "NSLocationWhenInUseUsageDescription": "This app requires location access while using the app.",
-          "NSMicrophoneUsageDescription": "This app requires microphone access for recording audio and videos.",
-          "NSFocusStatusUsageDescription": "This app uses focus status to optimize notifications.",
-          "NSPhotoLibraryAddUsageDescription": "This app requires access to add photos to your library.",
-          "NSPhotoLibraryUsageDescription": "This app requires access to your photo library.",
-          "NSUserTrackingUsageDescription": "This app uses tracking to deliver personalized content."
-        }
-      },
-      "__source": "https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/master/AltStore/apps.json",
-      "__mirrors": [],
       "__stores": [
         "AltStore"
       ]
@@ -5298,7 +6101,7 @@
       "fullDate": "20261026032732",
       "size": 7359780,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-10-2026/NFCTools_3.5_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-10-2026/NFCTools_3.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/NFCTools_3.5_Pro_@thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wakdev.wdnfc.png",
@@ -5389,7 +6192,7 @@
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "subtitle": "TikTok with added features.",
       "beta": false,
-      "versionDescription": "\u2022 TikTok updated to v47.5.0\n\u2022 RXTikTok updated to v2.0.4",
+      "versionDescription": "\u2022 TikTok updated to v47.6.0\n\u2022 gtok updated to v2.5",
       "versionDate": "2026-10-26",
       "appPermissions": {
         "entitlements": [
@@ -5683,7 +6486,7 @@
       "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud.v8.83.1.NexaSC.ipa",
       "versionDate": "2026-10-25",
       "beta": false,
-      "versionDescription": "\u2022 SoundCloud updated to v8.84.0",
+      "versionDescription": "\u2022 SoundCloud updated to v8.85.0",
       "appPermissions": {
         "entitlements": [
           "application-identifier",
@@ -6434,7 +7237,7 @@
       "size": 265803606,
       "category": "Social",
       "beta": false,
-      "versionDescription": "\u2022 X updated to v12.39\n\u2022 NFB updated to v7.3.0",
+      "versionDescription": "\u2022 X updated to v12.40\n\u2022 NFB updated to v7.3.1",
       "developerName": "Densor",
       "localizedDescription": "\u2022 X updated to v12.37",
       "subtitle": "An new tweak for X!",
@@ -6474,6 +7277,8 @@
           "keychain-access-groups"
         ],
         "privacy": {
+          "NSAlarmKitUsageDescription": "Grok Bot can set alarms and timers when you ask it to.",
+          "NSCalendarsFullAccessUsageDescription": "Grok Bot can read your calendar when you ask about your schedule, and add, change, or delete events when you ask it to.",
           "NSCalendarsUsageDescription": "Add events to your calendar from X.",
           "NSCameraUsageDescription": "Capture and post photos and videos from X.",
           "NSContactsUsageDescription": "We will securely upload your contacts to our servers to help you connect with friends and suggest users to follow on X.",
@@ -6483,6 +7288,7 @@
           "NSMicrophoneUsageDescription": "Capture and post videos with sound from X.",
           "NSPhotoLibraryAddUsageDescription": "This lets you download photos and videos to your Photos.",
           "NSPhotoLibraryUsageDescription": "Allow access to share photos from your camera roll.",
+          "NSRemindersFullAccessUsageDescription": "Grok Bot can read your reminders when you ask about them, and add, change, or delete reminders when you ask it to.",
           "NSSpeechRecognitionUsageDescription": "Going forward, whenever you choose to share captions on this device, Apple will provide the service. Doing so helps make sure people of all hearing abilities can access your content.",
           "NSUserTrackingUsageDescription": "This helps X show you more relevant ads."
         }
@@ -7680,7 +8486,7 @@
       "fullDate": "20261022224716",
       "size": 5817396,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2026/Compress_3.4_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2026/Compress_3.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/Compress_3.4_Premium_@thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.newmarketinglab.ImageCompressor.png",
@@ -12000,7 +12806,7 @@
       "size": 270082729,
       "category": "Social",
       "beta": false,
-      "versionDescription": "\u2022 X updated to v12.39\n\u2022 NFB updated to v7.3.0",
+      "versionDescription": "\u2022 X updated to v12.40\n\u2022 NFB updated to v7.3.1",
       "developerName": "Densor",
       "localizedDescription": "\u2022 X updated to v12.36",
       "subtitle": "An new tweak for X!",
@@ -12040,6 +12846,8 @@
           "keychain-access-groups"
         ],
         "privacy": {
+          "NSAlarmKitUsageDescription": "Grok Bot can set alarms and timers when you ask it to.",
+          "NSCalendarsFullAccessUsageDescription": "Grok Bot can read your calendar when you ask about your schedule, and add, change, or delete events when you ask it to.",
           "NSCalendarsUsageDescription": "Add events to your calendar from X.",
           "NSCameraUsageDescription": "Capture and post photos and videos from X.",
           "NSContactsUsageDescription": "We will securely upload your contacts to our servers to help you connect with friends and suggest users to follow on X.",
@@ -12049,6 +12857,7 @@
           "NSMicrophoneUsageDescription": "Capture and post videos with sound from X.",
           "NSPhotoLibraryAddUsageDescription": "This lets you download photos and videos to your Photos.",
           "NSPhotoLibraryUsageDescription": "Allow access to share photos from your camera roll.",
+          "NSRemindersFullAccessUsageDescription": "Grok Bot can read your reminders when you ask about them, and add, change, or delete reminders when you ask it to.",
           "NSSpeechRecognitionUsageDescription": "Going forward, whenever you choose to share captions on this device, Apple will provide the service. Doing so helps make sure people of all hearing abilities can access your content.",
           "NSUserTrackingUsageDescription": "This helps X show you more relevant ads."
         }
@@ -12581,7 +13390,7 @@
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "subtitle": "TikTok with added features.",
       "beta": false,
-      "versionDescription": "\u2022 TikTok updated to v47.5.0\n\u2022 RXTikTok updated to v2.0.4",
+      "versionDescription": "\u2022 TikTok updated to v47.6.0\n\u2022 gtok updated to v2.5",
       "versionDate": "2026-10-19",
       "appPermissions": {
         "entitlements": [
@@ -12644,7 +13453,7 @@
       "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud.v8.83.0.NexaSC.ipa",
       "versionDate": "2026-10-19",
       "beta": false,
-      "versionDescription": "\u2022 SoundCloud updated to v8.84.0",
+      "versionDescription": "\u2022 SoundCloud updated to v8.85.0",
       "appPermissions": {
         "entitlements": [
           "application-identifier",
@@ -12826,7 +13635,7 @@
       "size": 266435836,
       "category": "Social",
       "beta": false,
-      "versionDescription": "\u2022 X updated to v12.39\n\u2022 NFB updated to v7.3.0",
+      "versionDescription": "\u2022 X updated to v12.40\n\u2022 NFB updated to v7.3.1",
       "developerName": "Densor",
       "localizedDescription": "\u2022 X updated to v12.35\n\u2022 NFB updated to v7.2.0",
       "subtitle": "An new tweak for X!",
@@ -12866,6 +13675,8 @@
           "keychain-access-groups"
         ],
         "privacy": {
+          "NSAlarmKitUsageDescription": "Grok Bot can set alarms and timers when you ask it to.",
+          "NSCalendarsFullAccessUsageDescription": "Grok Bot can read your calendar when you ask about your schedule, and add, change, or delete events when you ask it to.",
           "NSCalendarsUsageDescription": "Add events to your calendar from X.",
           "NSCameraUsageDescription": "Capture and post photos and videos from X.",
           "NSContactsUsageDescription": "We will securely upload your contacts to our servers to help you connect with friends and suggest users to follow on X.",
@@ -12875,6 +13686,7 @@
           "NSMicrophoneUsageDescription": "Capture and post videos with sound from X.",
           "NSPhotoLibraryAddUsageDescription": "This lets you download photos and videos to your Photos.",
           "NSPhotoLibraryUsageDescription": "Allow access to share photos from your camera roll.",
+          "NSRemindersFullAccessUsageDescription": "Grok Bot can read your reminders when you ask about them, and add, change, or delete reminders when you ask it to.",
           "NSSpeechRecognitionUsageDescription": "Going forward, whenever you choose to share captions on this device, Apple will provide the service. Doing so helps make sure people of all hearing abilities can access your content.",
           "NSUserTrackingUsageDescription": "This helps X show you more relevant ads."
         }
@@ -42596,7 +43408,7 @@
       "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud++.v8.71.0.ipa",
       "versionDate": "2026-07-28",
       "beta": false,
-      "versionDescription": "\u2022 SoundCloud updated to v8.84.0",
+      "versionDescription": "\u2022 SoundCloud updated to v8.85.0",
       "appPermissions": {
         "entitlements": [
           "application-identifier",
@@ -46932,66 +47744,6 @@
           "bundleIdentifier": "com.kdt.livecontainer",
           "version": "3.4.0"
         }
-      ]
-    },
-    {
-      "name": "YouTube Plus (iOS16+)",
-      "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "dvntm",
-      "version": "21.16.2",
-      "versionDate": "2026-07-17T07:00:00+03:00",
-      "versionDescription": "YouTube Plus v5.2.2\n\nIMPORTANT: Starting from this version, YTPlus requires an active Patreon subscription for full access. If you prefer free usage, please stay on version 5.2b4.\n\n- New account system (check it out in YTPlus Settings)\n- Fixed Download button not working with the new YouTube interface\n- Fixed progress bar coloring on the latest YouTube versions\n- Fixed SponsorBlock skipping issues\n- Fixed an issue where player gestures couldn't set brightness to 0\n- Fixed the option to hide the More videos button for playlists in the player overlay\n- Hidden new ads",
-      "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ytp_5.2.2+21.16.2.ipa",
-      "localizedDescription": "This version contains YouTube Plus, YouPiP, YTUHD, Return YouTube Dislikes and Open in Safari extension\n\nFeatures:\n- Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\n- Copy video, comment, and post information\n- Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode\n- Player settings: Gestures, default quality, preferred audio track\n- Save, Load and Restore settings. Clear cache once or automatically on app startup\n- Built-in SponsorBlock\n- And much, much more\n\nYouTube Plus preferences can be found in the YouTube settings",
-      "iconURL": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png",
-      "tintColor": "E36678",
-      "isLanZouCloud": 0,
-      "size": 122826892,
-      "type": 1,
-      "__source": "https://github.com/dvntm0/AltStore/raw/refs/heads/main/esign.json",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "YouTube Plus (iOS15+)",
-      "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "dvntm",
-      "version": "20.21.6",
-      "versionDate": "2026-07-17T07:00:00+03:00",
-      "versionDescription": "YouTube Plus v5.2.2\n\nIMPORTANT: Starting from this version, YTPlus requires an active Patreon subscription for full access. If you prefer free usage, please stay on version 5.2b4.\n\n- New account system (check it out in YTPlus Settings)\n- Fixed Download button not working with the new YouTube interface\n- Fixed progress bar coloring on the latest YouTube versions\n- Fixed SponsorBlock skipping issues\n- Fixed an issue where player gestures couldn't set brightness to 0\n- Fixed the option to hide the More videos button for playlists in the player overlay\n- Hidden new ads",
-      "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ytp_5.2.2+20.21.6.ipa",
-      "localizedDescription": "This version contains YouTube Plus, YouPiP, YTUHD, Return YouTube Dislikes and Open in Safari extension\n\nFeatures:\n- Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\n- Copy video, comment, and post information\n- Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode\n- Player settings: Gestures, default quality, preferred audio track\n- Save, Load and Restore settings. Clear cache once or automatically on app startup\n- Built-in SponsorBlock\n- And much, much more\n\nYouTube Plus preferences can be found in the YouTube settings",
-      "iconURL": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png",
-      "tintColor": "E36678",
-      "isLanZouCloud": 0,
-      "size": 115173409,
-      "type": 1,
-      "__source": "https://github.com/dvntm0/AltStore/raw/refs/heads/main/esign.json",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "YouTube Plus (iOS14+)",
-      "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "dvntm",
-      "version": "19.20.2",
-      "versionDate": "2026-07-17T07:00:00+03:00",
-      "versionDescription": "YouTube Plus v5.2.2\n\nIMPORTANT: Starting from this version, YTPlus requires an active Patreon subscription for full access. If you prefer free usage, please stay on version 5.2b4.\n\n- New account system (check it out in YTPlus Settings)\n- Fixed Download button not working with the new YouTube interface\n- Fixed progress bar coloring on the latest YouTube versions\n- Fixed SponsorBlock skipping issues\n- Fixed an issue where player gestures couldn't set brightness to 0\n- Fixed the option to hide the More videos button for playlists in the player overlay\n- Hidden new ads",
-      "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ytp_5.2.2+19.20.2.ipa",
-      "localizedDescription": "This version contains YouTube Plus, YouPiP, YTUHD, Return YouTube Dislikes and Open in Safari extension\n\nFeatures:\n- Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\n- Copy video, comment, and post information\n- Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode\n- Player settings: Gestures, default quality, preferred audio track\n- Save, Load and Restore settings. Clear cache once or automatically on app startup\n- Built-in SponsorBlock\n- And much, much more\n\nYouTube Plus preferences can be found in the YouTube settings",
-      "iconURL": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png",
-      "tintColor": "E36678",
-      "isLanZouCloud": 0,
-      "size": 109385656,
-      "type": 1,
-      "__source": "https://github.com/dvntm0/AltStore/raw/refs/heads/main/esign.json",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
       ]
     },
     {
@@ -59638,35 +60390,6 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ulisesolave.Fitia.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ulisesolave.Fitia.png",
       "__source": "https://repository.apptesters.org",
-      "__mirrors": [],
-      "__stores": [
-        "AltStore"
-      ]
-    },
-    {
-      "name": "DolphiniOS (Public Beta)",
-      "bundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
-      "developerName": "OatmealDome",
-      "subtitle": "Test the latest DolphiniOS.",
-      "localizedDescription": "Beta 6 adds support for JIT on non-jailbroken devices running iOS 26.6 and iOS 27 beta.",
-      "iconURL": "https://cdn.oatmealdome.me/dolphinios/AppIcon.appiconset/BetaAppStore.png",
-      "tintColor": "ffbb3d",
-      "screenshotURLs": [
-        "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_1.PNG",
-        "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_2.PNG",
-        "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_3_reup.PNG",
-        "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_4_edit.png"
-      ],
-      "beta": false,
-      "version": "5.0.0b6",
-      "versionDate": "2026-06-16T21:42:57.0000000Z",
-      "versionDescription": "Beta 6 adds support for JIT on non-jailbroken devices running iOS 26.6 and iOS 27 beta.",
-      "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b6/Non-Jailbroken.ipa",
-      "size": 17963367,
-      "date": "2026-06-16T21:42:57.0000000Z",
-      "minOSVersion": "14.0",
-      "maxOSVersion": "99.0",
-      "__source": "https://altstore.oatmealdome.me",
       "__mirrors": [],
       "__stores": [
         "AltStore"
@@ -188567,19 +189290,27 @@
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_3_reup.PNG",
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_4_edit.png"
       ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": [
+          {
+            "name": "LocalNetwork",
+            "usageDescription": "DolphiniOS uses the local network to find and communicate with AltServer."
+          }
+        ]
+      },
       "beta": false,
+      "appID": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
       "version": "5.0.0b4",
-      "versionDate": "2025-10-23T02:30:00.0000000Z",
-      "versionDescription": "Beta 6 adds support for JIT on non-jailbroken devices running iOS 26.6 and iOS 27 beta.",
+      "date": "2025-10-23T02:30:00.0000000Z",
       "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b4/Non-Jailbroken.ipa",
       "size": 17958943,
-      "date": "2025-10-23T02:30:00.0000000Z",
+      "sha256": "3654f513e01944e4b1e1abe4a44057c7291875fbf5a822f17f36bff74a3ee27c",
       "minOSVersion": "14.0",
       "maxOSVersion": "99.0",
-      "__source": "https://altstore.oatmealdome.me",
-      "__mirrors": [
-        "https://quarksources.github.io/quantumsource.json"
-      ],
+      "versionDate": "2025-10-23T02:30:00.0000000Z",
+      "__source": "https://quarksources.github.io/quantumsource.json",
+      "__mirrors": [],
       "__stores": [
         "AltStore"
       ]
@@ -191426,7 +192157,7 @@
       "bundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
       "developerName": "OatmealDome",
       "subtitle": "Test the latest DolphiniOS.",
-      "localizedDescription": "Adds support for emulating Skylander Portal of Power, fixes JIT on some devices running iOS 17 and 18, and fixes random errors with JIT on iOS 26.",
+      "localizedDescription": "Adds support for emulating Skylander Portal of Power, and fixes JIT on some devices running iOS 17 and 18.",
       "iconURL": "https://cdn.oatmealdome.me/dolphinios/AppIcon.appiconset/BetaAppStore.png",
       "tintColor": "ffbb3d",
       "screenshotURLs": [
@@ -191435,19 +192166,27 @@
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_3_reup.PNG",
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_4_edit.png"
       ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": [
+          {
+            "name": "LocalNetwork",
+            "usageDescription": "DolphiniOS uses the local network to find and communicate with AltServer."
+          }
+        ]
+      },
       "beta": false,
+      "appID": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
       "version": "5.0.0b3",
-      "versionDate": "2025-10-18T00:00:00.0000000Z",
-      "versionDescription": "Beta 6 adds support for JIT on non-jailbroken devices running iOS 26.6 and iOS 27 beta.",
+      "date": "2025-10-18T00:00:00.0000000Z",
       "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b3/Non-Jailbroken.ipa",
       "size": 17958943,
-      "date": "2025-10-18T00:00:00.0000000Z",
+      "sha256": "9016d50856ca21b0f923f8ad4d72c97288a38ba92bea288ec8ccfb0d9388b369",
       "minOSVersion": "14.0",
       "maxOSVersion": "99.0",
-      "__source": "https://altstore.oatmealdome.me",
-      "__mirrors": [
-        "https://quarksources.github.io/quantumsource.json"
-      ],
+      "versionDate": "2025-10-18T00:00:00.0000000Z",
+      "__source": "https://quarksources.github.io/quantumsource.json",
+      "__mirrors": [],
       "__stores": [
         "AltStore"
       ]
@@ -194343,19 +195082,27 @@
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_3_reup.PNG",
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_4_edit.png"
       ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": [
+          {
+            "name": "LocalNetwork",
+            "usageDescription": "DolphiniOS uses the local network to find and communicate with AltServer."
+          }
+        ]
+      },
       "beta": false,
+      "appID": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
       "version": "5.0.0b2",
-      "versionDate": "2025-10-13T00:00:00.0000000Z",
-      "versionDescription": "Beta 6 adds support for JIT on non-jailbroken devices running iOS 26.6 and iOS 27 beta.",
+      "date": "2025-10-13T00:00:00.0000000Z",
       "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b2/Non-Jailbroken.ipa",
       "size": 17958943,
-      "date": "2025-10-13T00:00:00.0000000Z",
+      "sha256": "9f7e91e76d7aae2c4aa662e4654668dc7a16795af5fdae5da2b4e6d25c66d0bf",
       "minOSVersion": "14.0",
       "maxOSVersion": "99.0",
-      "__source": "https://altstore.oatmealdome.me",
-      "__mirrors": [
-        "https://quarksources.github.io/quantumsource.json"
-      ],
+      "versionDate": "2025-10-13T00:00:00.0000000Z",
+      "__source": "https://quarksources.github.io/quantumsource.json",
+      "__mirrors": [],
       "__stores": [
         "AltStore"
       ]
@@ -195447,19 +196194,27 @@
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_3_reup.PNG",
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_4_edit.png"
       ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": [
+          {
+            "name": "LocalNetwork",
+            "usageDescription": "DolphiniOS uses the local network to find and communicate with AltServer."
+          }
+        ]
+      },
       "beta": false,
+      "appID": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
       "version": "5.0.0b1",
-      "versionDate": "2025-10-11T17:00:00.0000000Z",
-      "versionDescription": "Beta 6 adds support for JIT on non-jailbroken devices running iOS 26.6 and iOS 27 beta.",
+      "date": "2025-10-11T17:00:00.0000000Z",
       "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b1/Non-Jailbroken.ipa",
       "size": 17958943,
-      "date": "2025-10-11T17:00:00.0000000Z",
+      "sha256": "ea27bd1a7b8f6839c8e8bbdf696cf0c2d79c7d5fc106abbd39795b2a0bc535f1",
       "minOSVersion": "14.0",
       "maxOSVersion": "99.0",
-      "__source": "https://altstore.oatmealdome.me",
-      "__mirrors": [
-        "https://quarksources.github.io/quantumsource.json"
-      ],
+      "versionDate": "2025-10-11T17:00:00.0000000Z",
+      "__source": "https://quarksources.github.io/quantumsource.json",
+      "__mirrors": [],
       "__stores": [
         "AltStore"
       ]
@@ -213534,7 +214289,7 @@
       "fullDate": "20250905041046",
       "size": 2876027,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-09-2025/Linkjar_1.9_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-09-2025/Linkjar_1.9_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/Linkjar_1.9_Pro_@thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ventures.bench.linkjar-ios.png",
@@ -233723,7 +234478,7 @@
       "size": 119000000,
       "category": "Social",
       "beta": false,
-      "versionDescription": "\u2022 X updated to v12.39\n\u2022 NFB updated to v7.3.0",
+      "versionDescription": "\u2022 X updated to v12.40\n\u2022 NFB updated to v7.3.1",
       "developerName": "Densor",
       "localizedDescription": "\u2022 Updated X to v10.83\n\u2022 Replaced BHTwitter with TwiGalaxy",
       "subtitle": "An new tweak for X!",
@@ -233763,6 +234518,8 @@
           "keychain-access-groups"
         ],
         "privacy": {
+          "NSAlarmKitUsageDescription": "Grok Bot can set alarms and timers when you ask it to.",
+          "NSCalendarsFullAccessUsageDescription": "Grok Bot can read your calendar when you ask about your schedule, and add, change, or delete events when you ask it to.",
           "NSCalendarsUsageDescription": "Add events to your calendar from X.",
           "NSCameraUsageDescription": "Capture and post photos and videos from X.",
           "NSContactsUsageDescription": "We will securely upload your contacts to our servers to help you connect with friends and suggest users to follow on X.",
@@ -233772,6 +234529,7 @@
           "NSMicrophoneUsageDescription": "Capture and post videos with sound from X.",
           "NSPhotoLibraryAddUsageDescription": "This lets you download photos and videos to your Photos.",
           "NSPhotoLibraryUsageDescription": "Allow access to share photos from your camera roll.",
+          "NSRemindersFullAccessUsageDescription": "Grok Bot can read your reminders when you ask about them, and add, change, or delete reminders when you ask it to.",
           "NSSpeechRecognitionUsageDescription": "Going forward, whenever you choose to share captions on this device, Apple will provide the service. Doing so helps make sure people of all hearing abilities can access your content.",
           "NSUserTrackingUsageDescription": "This helps X show you more relevant ads."
         }
@@ -233891,7 +234649,7 @@
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "subtitle": "TikTok with added features.",
       "beta": false,
-      "versionDescription": "\u2022 TikTok updated to v47.5.0\n\u2022 RXTikTok updated to v2.0.4",
+      "versionDescription": "\u2022 TikTok updated to v47.6.0\n\u2022 gtok updated to v2.5",
       "versionDate": "2025-03-04",
       "appPermissions": {
         "entitlements": [
@@ -234092,7 +234850,7 @@
       "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud.v7.65.4.+.SCMusicPlus.v24.9.1-3.ipa",
       "versionDate": "2025-03-04",
       "beta": false,
-      "versionDescription": "\u2022 SoundCloud updated to v8.84.0",
+      "versionDescription": "\u2022 SoundCloud updated to v8.85.0",
       "appPermissions": {
         "entitlements": [
           "application-identifier",
@@ -234874,19 +235632,27 @@
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_3_reup.PNG",
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_4_edit.png"
       ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": [
+          {
+            "name": "LocalNetwork",
+            "usageDescription": "DolphiniOS uses the local network to find and communicate with AltServer."
+          }
+        ]
+      },
       "beta": false,
+      "appID": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
       "version": "4.0.0b8",
-      "versionDate": "2025-01-19T00:00:00.0000000Z",
-      "versionDescription": "Beta 6 adds support for JIT on non-jailbroken devices running iOS 26.6 and iOS 27 beta.",
+      "date": "2025-01-19T00:00:00.0000000Z",
       "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b8/Non-Jailbroken.ipa",
       "size": 15830129,
-      "date": "2025-01-19T00:00:00.0000000Z",
+      "sha256": "9e058c0c1e2cac828ddf489796570199482a5e33b8a7045ec0da4e572a9d733a",
       "minOSVersion": "14.0",
       "maxOSVersion": "99.0",
-      "__source": "https://altstore.oatmealdome.me",
-      "__mirrors": [
-        "https://quarksources.github.io/quantumsource.json"
-      ],
+      "versionDate": "2025-01-19T00:00:00.0000000Z",
+      "__source": "https://quarksources.github.io/quantumsource.json",
+      "__mirrors": [],
       "__stores": [
         "AltStore"
       ]
@@ -249458,7 +250224,7 @@
       "version": "1.10.1",
       "versionDate": "2024-10-14",
       "size": 160220,
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/TrollSpeed-1.10.1.ipa",
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollSpeed/TrollSpeed-1.10.1.ipa",
       "developerName": "Lessica",
       "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 06-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png",
@@ -249474,7 +250240,7 @@
       "version": "1.10.2",
       "versionDate": "2024-10-14",
       "size": 161220,
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/TrollSpeed-1.10.2.ipa",
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollSpeed/TrollSpeed-1.10.2.ipa",
       "developerName": "Lessica",
       "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 06-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png",
@@ -263432,7 +264198,7 @@
       "size": 119000000,
       "category": "Social",
       "beta": false,
-      "versionDescription": "\u2022 X updated to v12.39\n\u2022 NFB updated to v7.3.0",
+      "versionDescription": "\u2022 X updated to v12.40\n\u2022 NFB updated to v7.3.1",
       "developerName": "Densor",
       "localizedDescription": "\u2022 Updated X to v10.62\n\u2022 Updated BHTwitter to v4.3-4",
       "subtitle": "An new tweak for X!",
@@ -263472,6 +264238,8 @@
           "keychain-access-groups"
         ],
         "privacy": {
+          "NSAlarmKitUsageDescription": "Grok Bot can set alarms and timers when you ask it to.",
+          "NSCalendarsFullAccessUsageDescription": "Grok Bot can read your calendar when you ask about your schedule, and add, change, or delete events when you ask it to.",
           "NSCalendarsUsageDescription": "Add events to your calendar from X.",
           "NSCameraUsageDescription": "Capture and post photos and videos from X.",
           "NSContactsUsageDescription": "We will securely upload your contacts to our servers to help you connect with friends and suggest users to follow on X.",
@@ -263481,6 +264249,7 @@
           "NSMicrophoneUsageDescription": "Capture and post videos with sound from X.",
           "NSPhotoLibraryAddUsageDescription": "This lets you download photos and videos to your Photos.",
           "NSPhotoLibraryUsageDescription": "Allow access to share photos from your camera roll.",
+          "NSRemindersFullAccessUsageDescription": "Grok Bot can read your reminders when you ask about them, and add, change, or delete reminders when you ask it to.",
           "NSSpeechRecognitionUsageDescription": "Going forward, whenever you choose to share captions on this device, Apple will provide the service. Doing so helps make sure people of all hearing abilities can access your content.",
           "NSUserTrackingUsageDescription": "This helps X show you more relevant ads."
         }
@@ -280115,7 +280884,7 @@
       "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud.v7.14.0.+.SCMusicPlus.v2.2.1.ipa",
       "versionDate": "2024-05-10",
       "beta": false,
-      "versionDescription": "\u2022 SoundCloud updated to v8.84.0",
+      "versionDescription": "\u2022 SoundCloud updated to v8.85.0",
       "appPermissions": {
         "entitlements": [
           "application-identifier",
@@ -280607,7 +281376,7 @@
       "size": 93000000,
       "category": "Social",
       "beta": false,
-      "versionDescription": "\u2022 X updated to v12.39\n\u2022 NFB updated to v7.3.0",
+      "versionDescription": "\u2022 X updated to v12.40\n\u2022 NFB updated to v7.3.1",
       "developerName": "Densor",
       "localizedDescription": "\u2022 Updated X to v10.39.0",
       "subtitle": "An new tweak for X!",
@@ -280647,6 +281416,8 @@
           "keychain-access-groups"
         ],
         "privacy": {
+          "NSAlarmKitUsageDescription": "Grok Bot can set alarms and timers when you ask it to.",
+          "NSCalendarsFullAccessUsageDescription": "Grok Bot can read your calendar when you ask about your schedule, and add, change, or delete events when you ask it to.",
           "NSCalendarsUsageDescription": "Add events to your calendar from X.",
           "NSCameraUsageDescription": "Capture and post photos and videos from X.",
           "NSContactsUsageDescription": "We will securely upload your contacts to our servers to help you connect with friends and suggest users to follow on X.",
@@ -280656,6 +281427,7 @@
           "NSMicrophoneUsageDescription": "Capture and post videos with sound from X.",
           "NSPhotoLibraryAddUsageDescription": "This lets you download photos and videos to your Photos.",
           "NSPhotoLibraryUsageDescription": "Allow access to share photos from your camera roll.",
+          "NSRemindersFullAccessUsageDescription": "Grok Bot can read your reminders when you ask about them, and add, change, or delete reminders when you ask it to.",
           "NSSpeechRecognitionUsageDescription": "Going forward, whenever you choose to share captions on this device, Apple will provide the service. Doing so helps make sure people of all hearing abilities can access your content.",
           "NSUserTrackingUsageDescription": "This helps X show you more relevant ads."
         }
@@ -280773,7 +281545,7 @@
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "subtitle": "TikTok with added features.",
       "beta": false,
-      "versionDescription": "\u2022 TikTok updated to v47.5.0\n\u2022 RXTikTok updated to v2.0.4",
+      "versionDescription": "\u2022 TikTok updated to v47.6.0\n\u2022 gtok updated to v2.5",
       "versionDate": "2024-04-30",
       "appPermissions": {
         "entitlements": [
@@ -282850,19 +283622,27 @@
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_3_reup.PNG",
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_4_edit.png"
       ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": [
+          {
+            "name": "LocalNetwork",
+            "usageDescription": "DolphiniOS uses the local network to find and communicate with AltServer."
+          }
+        ]
+      },
       "beta": false,
+      "appID": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
       "version": "4.0.0b7",
-      "versionDate": "2024-01-21T20:30:00.0000000Z",
-      "versionDescription": "Beta 6 adds support for JIT on non-jailbroken devices running iOS 26.6 and iOS 27 beta.",
+      "date": "2024-01-21T20:30:00.0000000Z",
       "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/Non-Jailbroken.ipa",
       "size": 13775833,
-      "date": "2024-01-21T20:30:00.0000000Z",
+      "sha256": "31934065e81fd76ec082814dda8cd1ad43a92c516f6c984dfa6ae4b7b39ac782",
       "minOSVersion": "14.0",
       "maxOSVersion": "99.0",
-      "__source": "https://altstore.oatmealdome.me",
-      "__mirrors": [
-        "https://quarksources.github.io/quantumsource.json"
-      ],
+      "versionDate": "2024-01-21T20:30:00.0000000Z",
+      "__source": "https://quarksources.github.io/quantumsource.json",
+      "__mirrors": [],
       "__stores": [
         "AltStore"
       ],
@@ -283366,7 +284146,7 @@
       "size": 93000000,
       "category": "Social",
       "beta": false,
-      "versionDescription": "\u2022 X updated to v12.39\n\u2022 NFB updated to v7.3.0",
+      "versionDescription": "\u2022 X updated to v12.40\n\u2022 NFB updated to v7.3.1",
       "developerName": "Densor",
       "localizedDescription": "\u2022 Updated X to v10.22.0",
       "subtitle": "An new tweak for X!",
@@ -283406,6 +284186,8 @@
           "keychain-access-groups"
         ],
         "privacy": {
+          "NSAlarmKitUsageDescription": "Grok Bot can set alarms and timers when you ask it to.",
+          "NSCalendarsFullAccessUsageDescription": "Grok Bot can read your calendar when you ask about your schedule, and add, change, or delete events when you ask it to.",
           "NSCalendarsUsageDescription": "Add events to your calendar from X.",
           "NSCameraUsageDescription": "Capture and post photos and videos from X.",
           "NSContactsUsageDescription": "We will securely upload your contacts to our servers to help you connect with friends and suggest users to follow on X.",
@@ -283415,6 +284197,7 @@
           "NSMicrophoneUsageDescription": "Capture and post videos with sound from X.",
           "NSPhotoLibraryAddUsageDescription": "This lets you download photos and videos to your Photos.",
           "NSPhotoLibraryUsageDescription": "Allow access to share photos from your camera roll.",
+          "NSRemindersFullAccessUsageDescription": "Grok Bot can read your reminders when you ask about them, and add, change, or delete reminders when you ask it to.",
           "NSSpeechRecognitionUsageDescription": "Going forward, whenever you choose to share captions on this device, Apple will provide the service. Doing so helps make sure people of all hearing abilities can access your content.",
           "NSUserTrackingUsageDescription": "This helps X show you more relevant ads."
         }
@@ -286193,7 +286976,7 @@
       "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud.v7.2.0.+.SCMusicPlus.v2.2.1.ipa",
       "versionDate": "2023-10-22",
       "beta": false,
-      "versionDescription": "\u2022 SoundCloud updated to v8.84.0",
+      "versionDescription": "\u2022 SoundCloud updated to v8.85.0",
       "appPermissions": {
         "entitlements": [
           "application-identifier",
@@ -286580,7 +287363,7 @@
       "size": 93000000,
       "category": "Social",
       "beta": false,
-      "versionDescription": "\u2022 X updated to v12.39\n\u2022 NFB updated to v7.3.0",
+      "versionDescription": "\u2022 X updated to v12.40\n\u2022 NFB updated to v7.3.1",
       "developerName": "Densor",
       "localizedDescription": "\u2022 Updated X to v10.10.0",
       "subtitle": "An new tweak for X!",
@@ -286620,6 +287403,8 @@
           "keychain-access-groups"
         ],
         "privacy": {
+          "NSAlarmKitUsageDescription": "Grok Bot can set alarms and timers when you ask it to.",
+          "NSCalendarsFullAccessUsageDescription": "Grok Bot can read your calendar when you ask about your schedule, and add, change, or delete events when you ask it to.",
           "NSCalendarsUsageDescription": "Add events to your calendar from X.",
           "NSCameraUsageDescription": "Capture and post photos and videos from X.",
           "NSContactsUsageDescription": "We will securely upload your contacts to our servers to help you connect with friends and suggest users to follow on X.",
@@ -286629,6 +287414,7 @@
           "NSMicrophoneUsageDescription": "Capture and post videos with sound from X.",
           "NSPhotoLibraryAddUsageDescription": "This lets you download photos and videos to your Photos.",
           "NSPhotoLibraryUsageDescription": "Allow access to share photos from your camera roll.",
+          "NSRemindersFullAccessUsageDescription": "Grok Bot can read your reminders when you ask about them, and add, change, or delete reminders when you ask it to.",
           "NSSpeechRecognitionUsageDescription": "Going forward, whenever you choose to share captions on this device, Apple will provide the service. Doing so helps make sure people of all hearing abilities can access your content.",
           "NSUserTrackingUsageDescription": "This helps X show you more relevant ads."
         }
@@ -303410,7 +304196,7 @@
       "bundleIdentifier": "me.oatmealdome.dolphinios-njb",
       "developerName": "OatmealDome",
       "subtitle": "GameCube and Wii games on the go.",
-      "localizedDescription": "This update contains the following changes:\n\n- Fixed ubershaders.\n- Fixed fastmem crashing on iOS 16.\n\nPlease update DolphiniOS to version 3.2.1 before attempting to use it on iOS 16.",
+      "localizedDescription": "This update contains the following changes:\n\n- Fixed ubershaders.\n- Fixed fastmem crashing on iOS 16.\n\nFor more information, see https://oatmealdome.me/blog/dolphinios-ver-3-2-0/.",
       "iconURL": "https://cdn.oatmealdome.me/dolphinios/AppIcon.appiconset/ios_marketing1024x1024.png",
       "tintColor": "41cdff",
       "screenshotURLs": [
@@ -303420,18 +304206,15 @@
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_4_edit.png"
       ],
       "beta": false,
+      "appID": "me.oatmealdome.dolphinios-njb",
       "version": "3.2.1",
-      "versionDate": "2022-09-11T22:00:00.0000000Z",
-      "versionDescription": "This update contains the following changes:\n\n- Fixed ubershaders.\n- Fixed fastmem crashing on iOS 16.\n\nPlease update DolphiniOS to version 3.2.1 before attempting to use it on iOS 16.",
-      "downloadURL": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1/DolphiniOS-NJB-3.2.1-213.ipa",
+      "date": "2022-09-11T18:00:00-04:00",
+      "downloadURL": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1/DolphiniOS-NJB-Universal-3.2.1-213.ipa",
       "size": 80253902,
-      "date": "2022-09-11T22:00:00.0000000Z",
-      "minOSVersion": "12.0",
-      "maxOSVersion": "99.0",
-      "__source": "https://altstore.oatmealdome.me",
-      "__mirrors": [
-        "https://quarksources.github.io/quantumsource.json"
-      ],
+      "sha256": "dcae6e6053d6e4e3f3f44ab9e0d2f709f77f2405243e66184d7864796d80de5c",
+      "versionDate": "2022-09-11T18:00:00-04:00",
+      "__source": "https://quarksources.github.io/quantumsource.json",
+      "__mirrors": [],
       "__stores": [
         "AltStore"
       ]
@@ -303586,7 +304369,7 @@
       "bundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
       "developerName": "OatmealDome",
       "subtitle": "Test the latest DolphiniOS.",
-      "localizedDescription": "This update contains the following changes:\n\n- Fixed ubershaders.\n- Fixed fastmem crashing on iOS 16 betas.\n\nThe next beta build will be based off the rewritten DolphiniOS source code.",
+      "localizedDescription": "This update contains the following changes:\n\n- Fixed ubershaders.\n- Fixed fastmem crashing on iOS 16 betas.\n\nThe next beta build will be based off the rewritten DolphiniOS source code.\n\nFor more information, see https://oatmealdome.me/blog/dolphinios-ver-3-2-0/.",
       "iconURL": "https://cdn.oatmealdome.me/dolphinios/AppIcon.appiconset/BetaAppStore.png",
       "tintColor": "ffbb3d",
       "screenshotURLs": [
@@ -303595,19 +304378,25 @@
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_3_reup.PNG",
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_4_edit.png"
       ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": [
+          {
+            "name": "LocalNetwork",
+            "usageDescription": "DolphiniOS uses the local network to find and communicate with AltServer."
+          }
+        ]
+      },
       "beta": false,
+      "appID": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
       "version": "3.2.1b1",
-      "versionDate": "2022-07-05T22:00:00.0000000Z",
-      "versionDescription": "Beta 6 adds support for JIT on non-jailbroken devices running iOS 26.6 and iOS 27 beta.",
-      "downloadURL": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1b1-213/DolphiniOS-NJB-Beta-3.2.1b1-213.ipa",
+      "date": "2022-07-05T18:00:00-04:00",
+      "downloadURL": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1b1-213/DolphiniOS-NJB-Beta-Universal-3.2.1b1-213.ipa",
       "size": 80291610,
-      "date": "2022-07-05T22:00:00.0000000Z",
-      "minOSVersion": "12.0",
-      "maxOSVersion": "99.0",
-      "__source": "https://altstore.oatmealdome.me",
-      "__mirrors": [
-        "https://quarksources.github.io/quantumsource.json"
-      ],
+      "sha256": "302438ec452636ff0b033ac1561f35f95ec42c644263d318978ef6fb83fc09d8",
+      "versionDate": "2022-07-05T18:00:00-04:00",
+      "__source": "https://quarksources.github.io/quantumsource.json",
+      "__mirrors": [],
       "__stores": [
         "AltStore"
       ]

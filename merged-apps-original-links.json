@@ -4,9 +4,276 @@
   "subtitle": "Auto-merged from 43 AltStore/ESign sources. Original download URLs preserved.",
   "description": "Deduplicates by (name, bundleIdentifier, version). __source is the first source; __mirrors lists additional sources.",
   "iconURL": "https://avatars.githubusercontent.com/u/57844837",
-  "appCount": 13278,
+  "appCount": 13291,
   "sourceCount": 43,
   "apps": [
+    {
+      "name": "Caliber",
+      "type": 1,
+      "bundleID": "com.caliberfitness.app",
+      "bundleIdentifier": "com.caliberfitness.app",
+      "version": "5.18.0",
+      "versionDate": "2026-11-04",
+      "fullDate": "20261104000224",
+      "size": 49973417,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2026/Caliber_5.18.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2026/Caliber_5.18.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.caliberfitness.app.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.caliberfitness.app.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "id": "WA-SL",
+      "developerName": "Fouad Raheb",
+      "sortId": 10,
+      "bundleIdentifier": "net.whatsapp.WhatsApp",
+      "bundleID": "net.whatsapp.WhatsApp",
+      "name": "Watusi",
+      "subtitle": "The all-in-one tweak for WhatsApp",
+      "localizedDescription": "This update contains the following changes:\n\n- Bug fixes & support for WhatsApp 26.42\n- Fixed photos, videos, documents, camera captures, contacts & locations not sending from the Share Sheet.\n- Fixed Watusi not loading on RootHide after converting with RootHide Patcher.",
+      "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/wa.png",
+      "icon": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/wa.png",
+      "screenshotURLs": [
+        "https://fouadraheb.com/images/screenshots/watusi/s1.png",
+        "https://fouadraheb.com/images/screenshots/watusi/s2.png"
+      ],
+      "category": "social",
+      "tintColor": "#075e54",
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSSiriUsageDescription": "This lets you use Siri to quickly send and read messages and make calls.",
+          "NSCameraUsageDescription": "This lets you make video calls, take photos, and record videos.",
+          "NSFaceIDUsageDescription": "Use Face ID to authenticate on WhatsApp.",
+          "NSContactsUsageDescription": "Upload your contacts to WhatsApp's servers to help you quickly get in touch with your friends and help us provide a better experience.",
+          "NSLocationUsageDescription": "This lets you send your current location or nearby places in chats.",
+          "NSCalendarsUsageDescription": "This lets you create events on your calendar.",
+          "NSRemindersUsageDescription": "This lets you set reminders to call your friends back.",
+          "NSMicrophoneUsageDescription": "This lets you make calls, send voice messages, and record videos with sound.",
+          "NSLocalNetworkUsageDescription": "This will let you use WhatsApp to place and receive calls through devices that are on the same Wi-Fi or local access networks.",
+          "NSPhotoLibraryUsageDescription": "This lets you send photos and videos from your library and save the ones you capture.",
+          "NSLocationAlwaysUsageDescription": "If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. This also lets you send your current location or a nearby place.",
+          "NSBluetoothAlwaysUsageDescription": "This lets you connect to supported Bluetooth devices",
+          "NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your library.",
+          "NSLocationWhenInUseUsageDescription": "This lets you send your current location or nearby places in chats.",
+          "NSSpeechRecognitionUsageDescription": "WhatsApp does on-device recognition for Voice Messages. In this mode, no voice data is sent to Apple despite this alert, which is unexpected. Select \"Don't Allow\" and report to WhatsApp.",
+          "NSBluetoothPeripheralUsageDescription": "This lets you connect to supported Bluetooth devices",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. If you only allow access while using the app, you can only send your current location or a nearby place."
+        }
+      },
+      "version": "26.42.77",
+      "versionDate": "2026-11-03T10:55:28+00:00",
+      "versionDescription": "",
+      "fullDate": "20261103105528",
+      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1793703806341-8o8to/net.whatsapp.WhatsApp_26.42.77_watusi3_1.3.30_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806341-8o8to/net.whatsapp.WhatsApp_26.42.77_watusi3_1.3.30_sl.ipa",
+      "size": 183329997,
+      "date": "2026-11-03T10:55:28+00:00",
+      "__source": "https://altstore.fouadraheb.com",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "id": "WA-SL-Duplicate",
+      "developerName": "Fouad Raheb",
+      "sortId": 9,
+      "bundleIdentifier": "com.fouadraheb.watusi",
+      "bundleID": "com.fouadraheb.watusi",
+      "name": "Watusi \u00b7 Duplicate",
+      "subtitle": "The all-in-one tweak for WhatsApp",
+      "localizedDescription": "This update contains the following changes:\n\n- Bug fixes & support for WhatsApp 26.42\n- Fixed photos, videos, documents, camera captures, contacts & locations not sending from the Share Sheet.\n- Fixed Watusi not loading on RootHide after converting with RootHide Patcher.",
+      "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/wa.png",
+      "icon": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/wa.png",
+      "screenshotURLs": [
+        "https://fouadraheb.com/images/screenshots/watusi/s1.png",
+        "https://fouadraheb.com/images/screenshots/watusi/s2.png"
+      ],
+      "category": "social",
+      "tintColor": "#075e54",
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSSiriUsageDescription": "This lets you use Siri to quickly send and read messages and make calls.",
+          "NSCameraUsageDescription": "This lets you make video calls, take photos, and record videos.",
+          "NSFaceIDUsageDescription": "Use Face ID to authenticate on WhatsApp.",
+          "NSContactsUsageDescription": "Upload your contacts to WhatsApp's servers to help you quickly get in touch with your friends and help us provide a better experience.",
+          "NSLocationUsageDescription": "This lets you send your current location or nearby places in chats.",
+          "NSCalendarsUsageDescription": "This lets you create events on your calendar.",
+          "NSRemindersUsageDescription": "This lets you set reminders to call your friends back.",
+          "NSMicrophoneUsageDescription": "This lets you make calls, send voice messages, and record videos with sound.",
+          "NSLocalNetworkUsageDescription": "This will let you use WhatsApp to place and receive calls through devices that are on the same Wi-Fi or local access networks.",
+          "NSPhotoLibraryUsageDescription": "This lets you send photos and videos from your library and save the ones you capture.",
+          "NSLocationAlwaysUsageDescription": "If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. This also lets you send your current location or a nearby place.",
+          "NSBluetoothAlwaysUsageDescription": "This lets you connect to supported Bluetooth devices",
+          "NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your library.",
+          "NSLocationWhenInUseUsageDescription": "This lets you send your current location or nearby places in chats.",
+          "NSSpeechRecognitionUsageDescription": "WhatsApp does on-device recognition for Voice Messages. In this mode, no voice data is sent to Apple despite this alert, which is unexpected. Select \"Don't Allow\" and report to WhatsApp.",
+          "NSBluetoothPeripheralUsageDescription": "This lets you connect to supported Bluetooth devices",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. If you only allow access while using the app, you can only send your current location or a nearby place."
+        }
+      },
+      "version": "26.42.77",
+      "versionDate": "2026-11-03T10:55:28+00:00",
+      "versionDescription": "",
+      "fullDate": "20261103105528",
+      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1793703806341-fpp9i/com.fouadraheb.watusi_26.42.77_watusi3_1.3.30_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806341-fpp9i/com.fouadraheb.watusi_26.42.77_watusi3_1.3.30_sl.ipa",
+      "size": 180603533,
+      "date": "2026-11-03T10:55:28+00:00",
+      "__source": "https://altstore.fouadraheb.com",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "id": "SMB-SL",
+      "developerName": "Fouad Raheb",
+      "sortId": 8,
+      "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
+      "bundleID": "net.whatsapp.WhatsAppSMB",
+      "name": "Watusi Business",
+      "subtitle": "The all-in-one tweak for WhatsApp",
+      "localizedDescription": "This update contains the following changes:\n\n- Bug fixes & support for WhatsApp 26.42\n- Fixed photos, videos, documents, camera captures, contacts & locations not sending from the Share Sheet.\n- Fixed Watusi not loading on RootHide after converting with RootHide Patcher.",
+      "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/business.png",
+      "icon": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/business.png",
+      "screenshotURLs": [
+        "https://fouadraheb.com/images/screenshots/watusi/s1.png",
+        "https://fouadraheb.com/images/screenshots/watusi/s2.png"
+      ],
+      "category": "social",
+      "tintColor": "#075e54",
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSSiriUsageDescription": "This lets you use Siri to quickly send and read messages and make calls.",
+          "NSCameraUsageDescription": "This lets you make video calls, take photos, and record videos.",
+          "NSFaceIDUsageDescription": "Use Face ID to authenticate on WhatsApp.",
+          "NSContactsUsageDescription": "Upload your contacts to WhatsApp's servers to help you quickly get in touch with your friends and help us provide a better experience.",
+          "NSLocationUsageDescription": "This lets you send your current location or nearby places in chats.",
+          "NSCalendarsUsageDescription": "This lets you create events on your calendar.",
+          "NSRemindersUsageDescription": "This lets you set reminders to call your friends back.",
+          "NSMicrophoneUsageDescription": "This lets you make calls, send voice messages, and record videos with sound.",
+          "NSLocalNetworkUsageDescription": "This will let you use WhatsApp to place and receive calls through devices that are on the same Wi-Fi or local access networks.",
+          "NSPhotoLibraryUsageDescription": "This lets you send photos and videos from your library and save the ones you capture.",
+          "NSLocationAlwaysUsageDescription": "If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. This also lets you send your current location or a nearby place.",
+          "NSBluetoothAlwaysUsageDescription": "This lets you connect to supported Bluetooth devices",
+          "NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your library.",
+          "NSLocationWhenInUseUsageDescription": "This lets you send your current location or nearby places in chats.",
+          "NSSpeechRecognitionUsageDescription": "WhatsApp does on-device recognition for Voice Messages. In this mode, no voice data is sent to Apple despite this alert, which is unexpected. Select \"Don't Allow\" and report to WhatsApp.",
+          "NSBluetoothPeripheralUsageDescription": "This lets you connect to supported Bluetooth devices",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. If you only allow access while using the app, you can only send your current location or a nearby place."
+        }
+      },
+      "version": "26.42.77",
+      "versionDate": "2026-11-03T10:55:28+00:00",
+      "versionDescription": "",
+      "fullDate": "20261103105528",
+      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1793703806341-rh4x7/net.whatsapp.WhatsAppSMB_26.42.77_watusi3_1.3.30_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806341-rh4x7/net.whatsapp.WhatsAppSMB_26.42.77_watusi3_1.3.30_sl.ipa",
+      "size": 190425012,
+      "date": "2026-11-03T10:55:28+00:00",
+      "__source": "https://altstore.fouadraheb.com",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "id": "SMB-SL-Duplicate",
+      "developerName": "Fouad Raheb",
+      "sortId": 7,
+      "bundleIdentifier": "com.fouadraheb.watusiSMB",
+      "bundleID": "com.fouadraheb.watusiSMB",
+      "name": "Watusi Business \u00b7 Duplicate",
+      "subtitle": "The all-in-one tweak for WhatsApp",
+      "localizedDescription": "This update contains the following changes:\n\n- Bug fixes & support for WhatsApp 26.42\n- Fixed photos, videos, documents, camera captures, contacts & locations not sending from the Share Sheet.\n- Fixed Watusi not loading on RootHide after converting with RootHide Patcher.",
+      "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/business.png",
+      "icon": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/business.png",
+      "screenshotURLs": [
+        "https://fouadraheb.com/images/screenshots/watusi/s1.png",
+        "https://fouadraheb.com/images/screenshots/watusi/s2.png"
+      ],
+      "category": "social",
+      "tintColor": "#075e54",
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSSiriUsageDescription": "This lets you use Siri to quickly send and read messages and make calls.",
+          "NSCameraUsageDescription": "This lets you make video calls, take photos, and record videos.",
+          "NSFaceIDUsageDescription": "Use Face ID to authenticate on WhatsApp.",
+          "NSContactsUsageDescription": "Upload your contacts to WhatsApp's servers to help you quickly get in touch with your friends and help us provide a better experience.",
+          "NSLocationUsageDescription": "This lets you send your current location or nearby places in chats.",
+          "NSCalendarsUsageDescription": "This lets you create events on your calendar.",
+          "NSRemindersUsageDescription": "This lets you set reminders to call your friends back.",
+          "NSMicrophoneUsageDescription": "This lets you make calls, send voice messages, and record videos with sound.",
+          "NSLocalNetworkUsageDescription": "This will let you use WhatsApp to place and receive calls through devices that are on the same Wi-Fi or local access networks.",
+          "NSPhotoLibraryUsageDescription": "This lets you send photos and videos from your library and save the ones you capture.",
+          "NSLocationAlwaysUsageDescription": "If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. This also lets you send your current location or a nearby place.",
+          "NSBluetoothAlwaysUsageDescription": "This lets you connect to supported Bluetooth devices",
+          "NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your library.",
+          "NSLocationWhenInUseUsageDescription": "This lets you send your current location or nearby places in chats.",
+          "NSSpeechRecognitionUsageDescription": "WhatsApp does on-device recognition for Voice Messages. In this mode, no voice data is sent to Apple despite this alert, which is unexpected. Select \"Don't Allow\" and report to WhatsApp.",
+          "NSBluetoothPeripheralUsageDescription": "This lets you connect to supported Bluetooth devices",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. If you only allow access while using the app, you can only send your current location or a nearby place."
+        }
+      },
+      "version": "26.42.77",
+      "versionDate": "2026-11-03T10:55:28+00:00",
+      "versionDescription": "",
+      "fullDate": "20261103105528",
+      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1793703806340-lg0ok/com.fouadraheb.watusiSMB_26.42.77_watusi3_1.3.30_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806340-lg0ok/com.fouadraheb.watusiSMB_26.42.77_watusi3_1.3.30_sl.ipa",
+      "size": 187640301,
+      "date": "2026-11-03T10:55:28+00:00",
+      "__source": "https://altstore.fouadraheb.com",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iCube",
+      "bundleIdentifier": "com.joemattiello.iCube",
+      "developerName": "Provenance Emu",
+      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
+      "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
+      "iconURL": "https://icube-emu.com/icon-1024.png",
+      "tintColor": "#3B82F6",
+      "category": "games",
+      "screenshots": [
+        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
+        "https://icube-emu.com/screenshots/iphone/search.jpg",
+        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
+        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
+        "https://icube-emu.com/screenshots/iphone/shaders.jpg",
+        "https://icube-emu.com/screenshots/iphone/settings-graphics.jpg",
+        "https://icube-emu.com/screenshots/iphone/settings-controllers.jpg",
+        "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
+      ],
+      "version": "1.0.0",
+      "buildVersion": "436",
+      "date": "2026-11-03T05:39:11.183Z",
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-436/Non-Jailbroken.ipa",
+      "size": 104516725,
+      "minOSVersion": "17.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "versionDate": "2026-11-03T05:39:11.183Z",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
     {
       "name": "YouTube Plus (iOS17+)",
       "bundleIdentifier": "com.google.ios.youtube",
@@ -88,45 +355,11 @@
       ]
     },
     {
-      "name": "iCube",
-      "bundleIdentifier": "com.joemattiello.iCube",
-      "developerName": "Provenance Emu",
-      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
-      "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
-      "iconURL": "https://icube-emu.com/icon-1024.png",
-      "tintColor": "#3B82F6",
-      "category": "games",
-      "screenshots": [
-        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
-        "https://icube-emu.com/screenshots/iphone/search.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
-        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
-        "https://icube-emu.com/screenshots/iphone/shaders.jpg",
-        "https://icube-emu.com/screenshots/iphone/settings-graphics.jpg",
-        "https://icube-emu.com/screenshots/iphone/settings-controllers.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
-      ],
-      "version": "1.0.0",
-      "buildVersion": "429",
-      "date": "2026-11-03T02:53:04.433Z",
-      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-429/Non-Jailbroken.ipa",
-      "size": 98944020,
-      "minOSVersion": "17.0",
-      "platform": "iOS",
-      "isBeta": true,
-      "versionDate": "2026-11-03T02:53:04.433Z",
-      "__source": "https://provenance-emu.com/apps.json",
-      "__mirrors": [],
-      "__stores": [
-        "AltStore"
-      ]
-    },
-    {
       "name": "Provenance Alpha",
       "bundleIdentifier": "com.provenance-emu.provenance.alpha",
       "developerName": "Provenance-EMU",
       "subtitle": "Latest dev builds - test new features early",
-      "localizedDescription": "Alpha build 890dc87 \u00b7 2026-11-03\n\nChanges in this build:\n\u2022 build(deps): bump SkinKit to 0.1.1 for the D-pad drag fix\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
+      "localizedDescription": "Alpha build e9a6383 \u00b7 2026-11-03\n\nChanges in this build:\n\u2022 test: observe web-event no-match decisions instead of timers (#3793)\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
       "iconURL": "https://raw.githubusercontent.com/Provenance-Emu/Provenance/develop/Provenance/Resources/Assets.xcassets/AppIcon.appiconset/iTunesArtwork%402x.png",
       "tintColor": "FF6B35",
       "screenshotURLs": [],
@@ -154,11 +387,11 @@
         ]
       },
       "version": "3.4.0",
-      "buildVersion": "11000",
-      "marketingVersion": "3.4.0-alpha.20261103.890dc87",
+      "buildVersion": "11038",
+      "marketingVersion": "3.4.0-alpha.20261103.e9a6383",
       "date": "2026-11-03",
       "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
-      "size": 780893689,
+      "size": 780943421,
       "minOSVersion": "17.0",
       "versionDate": "2026-11-03",
       "__source": "https://provenance-emu.com/apps.json",
@@ -306,6 +539,45 @@
     },
     {
       "beta": false,
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "Tonwalter888",
+      "META": {
+        "repoName": "driftywinds' AltStore Repo"
+      },
+      "contact": {
+        "web": "https://github.com/driftywinds/"
+      },
+      "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.37/2b1f07f4-4f3e-49a4-b103-83b1e30499Y2.ipa",
+      "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png",
+      "localizedDescription": "https://t.me/+rvcObIvOpctiMDI9\n\nA modified version of Youtube",
+      "name": "YouMod + Tweaks (driftywinds)",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr1.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr2.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr3.jpg"
+      ],
+      "size": 130097628,
+      "subtitle": "A flexible enhancer for YouTube on iOS | If you want to donate: - https://ko-fi.com/driftywinds",
+      "tintColor": "e22a41",
+      "version": "21.44.4",
+      "versionDate": "2026-11-03",
+      "versionDescription": "\u2022 Updated YouTube to 21.44.4\n \u2022 Tweak is using 2.0.0",
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.siri"
+        ],
+        "privacy": {
+          "NSUserTrackingUsageDescription": "This app requires tracking permission to deliver personalized content and advertisements."
+        }
+      },
+      "__source": "https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/master/AltStore/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "beta": false,
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Ryuk",
       "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.37/43d6c872-d02a-4cc5-8dee-274cd2dd053R.ipa",
@@ -364,6 +636,195 @@
         }
       },
       "__source": "https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/master/AltStore/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "RiseSleep",
+      "type": 1,
+      "bundleID": "com.risesci.nyx",
+      "bundleIdentifier": "com.risesci.nyx",
+      "version": "0.1.646",
+      "versionDate": "2026-11-03",
+      "fullDate": "20261103234353",
+      "size": 133287096,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/RiseSleep_0.1.646_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/RiseSleep_0.1.646_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "ScannerAir",
+      "type": 1,
+      "bundleID": "co.airapps.scannerapp",
+      "bundleIdentifier": "co.airapps.scannerapp",
+      "version": "2026.11.1",
+      "versionDate": "2026-11-03",
+      "fullDate": "20261103223039",
+      "size": 145204221,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/ScannerAir_2026.11.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/ScannerAir_2026.11.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.scannerapp.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.scannerapp.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Halide",
+      "type": 1,
+      "bundleID": "com.chromanoir.Zeit",
+      "bundleIdentifier": "com.chromanoir.Zeit",
+      "version": "3.3.2",
+      "versionDate": "2026-11-03",
+      "fullDate": "20261103213250",
+      "size": 87836596,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/Halide_3.3.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/Halide_3.3.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.chromanoir.Zeit.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.chromanoir.Zeit.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "ColorPop",
+      "type": 1,
+      "bundleID": "com.mwm.procolor",
+      "bundleIdentifier": "com.mwm.procolor",
+      "version": "2.68.03",
+      "versionDate": "2026-11-03",
+      "fullDate": "20261103211507",
+      "size": 193069324,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/ColorPop_2.68.03_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/ColorPop_2.68.03_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.procolor.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.procolor.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Splice",
+      "type": 1,
+      "bundleID": "com.path36.SpliceFree",
+      "bundleIdentifier": "com.path36.SpliceFree",
+      "version": "4.28.74",
+      "versionDate": "2026-11-03",
+      "fullDate": "20261103203234",
+      "size": 106615978,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/Splice_4.28.74_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/Splice_4.28.74_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.path36.SpliceFree.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.path36.SpliceFree.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Balance",
+      "type": 1,
+      "bundleID": "com.elevateapp.kamino.kamino",
+      "bundleIdentifier": "com.elevateapp.kamino.kamino",
+      "version": "1.214.0",
+      "versionDate": "2026-11-03",
+      "fullDate": "20261103183910",
+      "size": 129344063,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/Balance_1.214.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/Balance_1.214.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elevateapp.kamino.kamino.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elevateapp.kamino.kamino.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "edjingMix",
+      "type": 1,
+      "bundleID": "com.edjing.edjingdjturntable",
+      "bundleIdentifier": "com.edjing.edjingdjturntable",
+      "version": "9.4.2",
+      "versionDate": "2026-11-03",
+      "fullDate": "20261103170641",
+      "size": 215212264,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/edjingMix_9.4.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/edjingMix_9.4.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.edjing.edjingdjturntable.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.edjing.edjingdjturntable.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "SnoreLab",
+      "type": 1,
+      "bundleID": "com.revivasoftworks.Snore-Lab",
+      "bundleIdentifier": "com.revivasoftworks.Snore-Lab",
+      "version": "6.5.3",
+      "versionDate": "2026-11-03",
+      "fullDate": "20261103162909",
+      "size": 174628498,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/SnoreLab_6.5.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/SnoreLab_6.5.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.revivasoftworks.Snore-Lab.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.revivasoftworks.Snore-Lab.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "SimplySing",
+      "type": 1,
+      "bundleID": "com.joytunes.Sing",
+      "bundleIdentifier": "com.joytunes.Sing",
+      "version": "3.2.2",
+      "versionDate": "2026-11-03",
+      "fullDate": "20261103133057",
+      "size": 115056400,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/SimplySing_3.2.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/SimplySing_3.2.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.Sing.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.Sing.png",
+      "__source": "https://repository.apptesters.org",
       "__mirrors": [],
       "__stores": [
         "AltStore"
@@ -622,6 +1083,55 @@
       ]
     },
     {
+      "beta": false,
+      "category": "utilities",
+      "screenshotURLs": [
+        "https://ellekit.space/dopamine/assets/screenshot_one.png",
+        "https://ellekit.space/dopamine/assets/screenshot_two.png"
+      ],
+      "size": 55422988,
+      "version": "3.0.13",
+      "bundleIdentifier": "com.opa334.Dopamine",
+      "tintColor": "0d7d65",
+      "versionDate": "2026-11-03",
+      "downloadURL": "https://github.com/opa334/Dopamine/releases/download/3.0.13/Dopamine.ipa",
+      "subtitle": "The semi-untethered jailbreak for iOS 15 - 16",
+      "iconURL": "https://external-content.duckduckgo.com/iu/?u=https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/67ffxsD.jpeg",
+      "developerName": "opa334",
+      "versionDescription": "\u2022 Dopamine updated to v3.0.13",
+      "name": "Dopamine",
+      "localizedDescription": "\u2022 Dopamine updated to v3.0.13",
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.kernel.extended-virtual-addressing",
+          "com.apple.developer.kernel.increased-memory-limit",
+          "com.apple.private.mobileinstall.allowedSPI",
+          "com.apple.private.persona-mgmt",
+          "com.apple.private.security.no-sandbox",
+          "com.apple.private.security.storage-exempt.heritable",
+          "com.apple.private.security.storage.AppBundles",
+          "com.apple.private.tcc.allow",
+          "com.apple.security.exception.iokit-user-client-class",
+          "com.apple.security.network.client",
+          "com.apple.springboard.CFUserNotification",
+          "com.apple.springboard.launchapplications",
+          "platform-application",
+          "proc_info-allow"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Dopamine needs to access your photo library to support picking a boot logo"
+        }
+      },
+      "date": "2026-11-03",
+      "__source": "https://wuxu1.github.io/wuxu-complete-plus.json",
+      "__mirrors": [
+        "https://wuxu1.github.io/wuxu-complete.json"
+      ],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/46/c4/bf46c48e-94bb-c30d-601f-d73ed5a70689/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
       "size": 270815817,
       "category": "Social",
@@ -697,7 +1207,7 @@
     {
       "category": "Social",
       "version": "47.6.0",
-      "size": 521461976,
+      "size": 520080338,
       "tintColor": "0b0b0b",
       "screenshotURLs": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a1/6a/6ca16a58-1937-7122-e65b-2d901f84fdbb/oEEEv6yBAvIC3s9IGZ1A83wu5TAjAsxiAjLig.png/392x696bb.png",
@@ -756,9 +1266,71 @@
       "developerName": "aJBbo",
       "localizedDescription": "\u2022 TikTok updated to v47.6.0\n\u2022 gtok updated to v2.5",
       "name": "TikTok++",
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/TikTok.v47.6.0.+.gtok.v2.5.ipa",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/TikTok.v47.6.0.+.gtok.v2.5.fixed.ipa",
       "date": "2026-11-03",
-      "sha256": "cbd9ee6226fec5cf2fa8894cd9f45add058590c796f8e37bf617fac32e3ea71d",
+      "sha256": "1ecc8d221650c53a1c606538b60cbd38f2b9c9290099c0da29c8b302644e4a40",
+      "__source": "https://wuxu1.github.io/wuxu-complete-plus.json",
+      "__mirrors": [
+        "https://wuxu1.github.io/wuxu-complete.json"
+      ],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/43/35/8e43350e-2dad-ac27-13d4-71eac741cf80/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "\u2022 YouTube updated to v21.44.4",
+      "size": 153444491,
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v21.44.4.+.YTPlus.v6.0b2.fixed.ipa",
+      "versionDate": "2026-11-03",
+      "beta": false,
+      "versionDescription": "\u2022 YouTube updated to v21.44.4",
+      "appPermissions": {
+        "entitlements": [
+          "application-identifier",
+          "aps-environment",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.coremedia.allow-alternate-video-decoder-selection",
+          "com.apple.developer.declared-age-range",
+          "com.apple.developer.device-information.user-assigned-device-name",
+          "com.apple.developer.group-session",
+          "com.apple.developer.networking.multicast",
+          "com.apple.developer.networking.wifi-info",
+          "com.apple.developer.siri",
+          "com.apple.developer.storekit.request-data",
+          "com.apple.developer.usernotifications.communication",
+          "com.apple.developer.usernotifications.time-sensitive",
+          "com.apple.security.application-groups",
+          "keychain-access-groups"
+        ],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "This lets you add your own audio files to your videos.",
+          "NSBluetoothPeripheralUsageDescription": "YouTube needs bluetooth access to scan for nearby Cast devices.",
+          "NSCameraUsageDescription": "This lets you create videos using the app.",
+          "NSContactsUsageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with.",
+          "NSLocalNetworkUsageDescription": "Access to your network allows YouTube to discover and connect to devices such as your TV.",
+          "NSLocationWhenInUseUsageDescription": "This enables local content discovery, improved recommendations, and enhanced search results.",
+          "NSMicrophoneUsageDescription": "This lets you include audio with your videos and search using your voice.",
+          "NSPhotoLibraryUsageDescription": "This lets you upload media you've already created.",
+          "NSUserTrackingUsageDescription": "To personalize ads and provide ad measurement, YouTube will link activity from this app with activity from non-Google apps and websites."
+        }
+      },
+      "category": "Entertainment",
+      "developerName": "Dayanch96",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/5d/12/e85d121e-8bcf-4f57-cf07-ed23b57f1b30/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/da/fa/2ddafabb-ad03-eda7-417f-6a22418551d0/868afd15-b2e4-4923-b0f8-c5599327a3d7_iOS-5.5-in_2.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/b6/02/f4b602e0-04b4-60ff-7960-d8ba227dc980/2930dbc3-4228-403b-b46d-e0066516ab6a_iOS-5.5-in_3.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/60/bd/af60bd87-4c94-1f9c-2af5-099ca41c2eba/45519fca-0e0b-466e-9ed6-9a43232a0bf8_iOS-5.5-in_4.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/93/ac/cc93ac38-9f1f-364b-2127-a53f30a735e2/bace9abd-71f3-4700-8adf-cedcba275a67_iOS-5.5-in_5.jpg/392x696bb.jpg"
+      ],
+      "name": "YouTube++",
+      "subtitle": "The All-In-One Tweak for YouTube.",
+      "tintColor": "f90505",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "version": "21.44.4",
+      "date": "2026-11-03",
+      "sha256": "20475eb6a09f92fca70121e695c84f955d302926167a1209715e89fb165705a6",
       "__source": "https://wuxu1.github.io/wuxu-complete-plus.json",
       "__mirrors": [
         "https://wuxu1.github.io/wuxu-complete.json"
@@ -786,218 +1358,6 @@
       "version": "34932",
       "versionDate": "2026-11-02T23:33:57+00:00",
       "__source": "https://pokemmo.eu/altstore/",
-      "__mirrors": [],
-      "__stores": [
-        "AltStore"
-      ]
-    },
-    {
-      "id": "WA-SL",
-      "developerName": "Fouad Raheb",
-      "sortId": 10,
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "bundleID": "net.whatsapp.WhatsApp",
-      "name": "Watusi",
-      "subtitle": "The all-in-one tweak for WhatsApp",
-      "localizedDescription": "This update contains the following changes:\n\n- Bug fixes & support for WhatsApp 26.42",
-      "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/wa.png",
-      "icon": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/wa.png",
-      "screenshotURLs": [
-        "https://fouadraheb.com/images/screenshots/watusi/s1.png",
-        "https://fouadraheb.com/images/screenshots/watusi/s2.png"
-      ],
-      "category": "social",
-      "tintColor": "#075e54",
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSSiriUsageDescription": "This lets you use Siri to quickly send and read messages and make calls.",
-          "NSCameraUsageDescription": "This lets you make video calls, take photos, and record videos.",
-          "NSFaceIDUsageDescription": "Use Face ID to authenticate on WhatsApp.",
-          "NSContactsUsageDescription": "Upload your contacts to WhatsApp's servers to help you quickly get in touch with your friends and help us provide a better experience.",
-          "NSLocationUsageDescription": "This lets you send your current location or nearby places in chats.",
-          "NSCalendarsUsageDescription": "This lets you create events on your calendar.",
-          "NSRemindersUsageDescription": "This lets you set reminders to call your friends back.",
-          "NSMicrophoneUsageDescription": "This lets you make calls, send voice messages, and record videos with sound.",
-          "NSLocalNetworkUsageDescription": "This will let you use WhatsApp to place and receive calls through devices that are on the same Wi-Fi or local access networks.",
-          "NSPhotoLibraryUsageDescription": "This lets you send photos and videos from your library and save the ones you capture.",
-          "NSLocationAlwaysUsageDescription": "If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. This also lets you send your current location or a nearby place.",
-          "NSBluetoothAlwaysUsageDescription": "This lets you connect to supported Bluetooth devices",
-          "NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your library.",
-          "NSLocationWhenInUseUsageDescription": "This lets you send your current location or nearby places in chats.",
-          "NSSpeechRecognitionUsageDescription": "WhatsApp does on-device recognition for Voice Messages. In this mode, no voice data is sent to Apple despite this alert, which is unexpected. Select \"Don't Allow\" and report to WhatsApp.",
-          "NSBluetoothPeripheralUsageDescription": "This lets you connect to supported Bluetooth devices",
-          "NSLocationAlwaysAndWhenInUseUsageDescription": "If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. If you only allow access while using the app, you can only send your current location or a nearby place."
-        }
-      },
-      "version": "26.42.77",
-      "versionDate": "2026-11-02T09:51:12+00:00",
-      "versionDescription": "",
-      "fullDate": "20261102095112",
-      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1793613547742-iq3pb/net.whatsapp.WhatsApp_26.42.77_watusi3_1.3.29_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547742-iq3pb/net.whatsapp.WhatsApp_26.42.77_watusi3_1.3.29_sl.ipa",
-      "size": 183252937,
-      "date": "2026-11-02T09:51:12+00:00",
-      "__source": "https://altstore.fouadraheb.com",
-      "__mirrors": [],
-      "__stores": [
-        "AltStore"
-      ]
-    },
-    {
-      "id": "WA-SL-Duplicate",
-      "developerName": "Fouad Raheb",
-      "sortId": 9,
-      "bundleIdentifier": "com.fouadraheb.watusi",
-      "bundleID": "com.fouadraheb.watusi",
-      "name": "Watusi \u00b7 Duplicate",
-      "subtitle": "The all-in-one tweak for WhatsApp",
-      "localizedDescription": "This update contains the following changes:\n\n- Bug fixes & support for WhatsApp 26.42",
-      "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/wa.png",
-      "icon": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/wa.png",
-      "screenshotURLs": [
-        "https://fouadraheb.com/images/screenshots/watusi/s1.png",
-        "https://fouadraheb.com/images/screenshots/watusi/s2.png"
-      ],
-      "category": "social",
-      "tintColor": "#075e54",
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSSiriUsageDescription": "This lets you use Siri to quickly send and read messages and make calls.",
-          "NSCameraUsageDescription": "This lets you make video calls, take photos, and record videos.",
-          "NSFaceIDUsageDescription": "Use Face ID to authenticate on WhatsApp.",
-          "NSContactsUsageDescription": "Upload your contacts to WhatsApp's servers to help you quickly get in touch with your friends and help us provide a better experience.",
-          "NSLocationUsageDescription": "This lets you send your current location or nearby places in chats.",
-          "NSCalendarsUsageDescription": "This lets you create events on your calendar.",
-          "NSRemindersUsageDescription": "This lets you set reminders to call your friends back.",
-          "NSMicrophoneUsageDescription": "This lets you make calls, send voice messages, and record videos with sound.",
-          "NSLocalNetworkUsageDescription": "This will let you use WhatsApp to place and receive calls through devices that are on the same Wi-Fi or local access networks.",
-          "NSPhotoLibraryUsageDescription": "This lets you send photos and videos from your library and save the ones you capture.",
-          "NSLocationAlwaysUsageDescription": "If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. This also lets you send your current location or a nearby place.",
-          "NSBluetoothAlwaysUsageDescription": "This lets you connect to supported Bluetooth devices",
-          "NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your library.",
-          "NSLocationWhenInUseUsageDescription": "This lets you send your current location or nearby places in chats.",
-          "NSSpeechRecognitionUsageDescription": "WhatsApp does on-device recognition for Voice Messages. In this mode, no voice data is sent to Apple despite this alert, which is unexpected. Select \"Don't Allow\" and report to WhatsApp.",
-          "NSBluetoothPeripheralUsageDescription": "This lets you connect to supported Bluetooth devices",
-          "NSLocationAlwaysAndWhenInUseUsageDescription": "If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. If you only allow access while using the app, you can only send your current location or a nearby place."
-        }
-      },
-      "version": "26.42.77",
-      "versionDate": "2026-11-02T09:51:12+00:00",
-      "versionDescription": "",
-      "fullDate": "20261102095112",
-      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1793613547742-vi5hn/com.fouadraheb.watusi_26.42.77_watusi3_1.3.29_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547742-vi5hn/com.fouadraheb.watusi_26.42.77_watusi3_1.3.29_sl.ipa",
-      "size": 180526473,
-      "date": "2026-11-02T09:51:12+00:00",
-      "__source": "https://altstore.fouadraheb.com",
-      "__mirrors": [],
-      "__stores": [
-        "AltStore"
-      ]
-    },
-    {
-      "id": "SMB-SL",
-      "developerName": "Fouad Raheb",
-      "sortId": 8,
-      "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
-      "bundleID": "net.whatsapp.WhatsAppSMB",
-      "name": "Watusi Business",
-      "subtitle": "The all-in-one tweak for WhatsApp",
-      "localizedDescription": "This update contains the following changes:\n\n- Bug fixes & support for WhatsApp 26.42",
-      "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/business.png",
-      "icon": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/business.png",
-      "screenshotURLs": [
-        "https://fouadraheb.com/images/screenshots/watusi/s1.png",
-        "https://fouadraheb.com/images/screenshots/watusi/s2.png"
-      ],
-      "category": "social",
-      "tintColor": "#075e54",
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSSiriUsageDescription": "This lets you use Siri to quickly send and read messages and make calls.",
-          "NSCameraUsageDescription": "This lets you make video calls, take photos, and record videos.",
-          "NSFaceIDUsageDescription": "Use Face ID to authenticate on WhatsApp.",
-          "NSContactsUsageDescription": "Upload your contacts to WhatsApp's servers to help you quickly get in touch with your friends and help us provide a better experience.",
-          "NSLocationUsageDescription": "This lets you send your current location or nearby places in chats.",
-          "NSCalendarsUsageDescription": "This lets you create events on your calendar.",
-          "NSRemindersUsageDescription": "This lets you set reminders to call your friends back.",
-          "NSMicrophoneUsageDescription": "This lets you make calls, send voice messages, and record videos with sound.",
-          "NSLocalNetworkUsageDescription": "This will let you use WhatsApp to place and receive calls through devices that are on the same Wi-Fi or local access networks.",
-          "NSPhotoLibraryUsageDescription": "This lets you send photos and videos from your library and save the ones you capture.",
-          "NSLocationAlwaysUsageDescription": "If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. This also lets you send your current location or a nearby place.",
-          "NSBluetoothAlwaysUsageDescription": "This lets you connect to supported Bluetooth devices",
-          "NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your library.",
-          "NSLocationWhenInUseUsageDescription": "This lets you send your current location or nearby places in chats.",
-          "NSSpeechRecognitionUsageDescription": "WhatsApp does on-device recognition for Voice Messages. In this mode, no voice data is sent to Apple despite this alert, which is unexpected. Select \"Don't Allow\" and report to WhatsApp.",
-          "NSBluetoothPeripheralUsageDescription": "This lets you connect to supported Bluetooth devices",
-          "NSLocationAlwaysAndWhenInUseUsageDescription": "If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. If you only allow access while using the app, you can only send your current location or a nearby place."
-        }
-      },
-      "version": "26.42.77",
-      "versionDate": "2026-11-02T09:51:12+00:00",
-      "versionDescription": "",
-      "fullDate": "20261102095112",
-      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1793613547742-r26ig/net.whatsapp.WhatsAppSMB_26.42.77_watusi3_1.3.29_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547742-r26ig/net.whatsapp.WhatsAppSMB_26.42.77_watusi3_1.3.29_sl.ipa",
-      "size": 190347952,
-      "date": "2026-11-02T09:51:12+00:00",
-      "__source": "https://altstore.fouadraheb.com",
-      "__mirrors": [],
-      "__stores": [
-        "AltStore"
-      ]
-    },
-    {
-      "id": "SMB-SL-Duplicate",
-      "developerName": "Fouad Raheb",
-      "sortId": 7,
-      "bundleIdentifier": "com.fouadraheb.watusiSMB",
-      "bundleID": "com.fouadraheb.watusiSMB",
-      "name": "Watusi Business \u00b7 Duplicate",
-      "subtitle": "The all-in-one tweak for WhatsApp",
-      "localizedDescription": "This update contains the following changes:\n\n- Bug fixes & support for WhatsApp 26.42",
-      "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/business.png",
-      "icon": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/business.png",
-      "screenshotURLs": [
-        "https://fouadraheb.com/images/screenshots/watusi/s1.png",
-        "https://fouadraheb.com/images/screenshots/watusi/s2.png"
-      ],
-      "category": "social",
-      "tintColor": "#075e54",
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSSiriUsageDescription": "This lets you use Siri to quickly send and read messages and make calls.",
-          "NSCameraUsageDescription": "This lets you make video calls, take photos, and record videos.",
-          "NSFaceIDUsageDescription": "Use Face ID to authenticate on WhatsApp.",
-          "NSContactsUsageDescription": "Upload your contacts to WhatsApp's servers to help you quickly get in touch with your friends and help us provide a better experience.",
-          "NSLocationUsageDescription": "This lets you send your current location or nearby places in chats.",
-          "NSCalendarsUsageDescription": "This lets you create events on your calendar.",
-          "NSRemindersUsageDescription": "This lets you set reminders to call your friends back.",
-          "NSMicrophoneUsageDescription": "This lets you make calls, send voice messages, and record videos with sound.",
-          "NSLocalNetworkUsageDescription": "This will let you use WhatsApp to place and receive calls through devices that are on the same Wi-Fi or local access networks.",
-          "NSPhotoLibraryUsageDescription": "This lets you send photos and videos from your library and save the ones you capture.",
-          "NSLocationAlwaysUsageDescription": "If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. This also lets you send your current location or a nearby place.",
-          "NSBluetoothAlwaysUsageDescription": "This lets you connect to supported Bluetooth devices",
-          "NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your library.",
-          "NSLocationWhenInUseUsageDescription": "This lets you send your current location or nearby places in chats.",
-          "NSSpeechRecognitionUsageDescription": "WhatsApp does on-device recognition for Voice Messages. In this mode, no voice data is sent to Apple despite this alert, which is unexpected. Select \"Don't Allow\" and report to WhatsApp.",
-          "NSBluetoothPeripheralUsageDescription": "This lets you connect to supported Bluetooth devices",
-          "NSLocationAlwaysAndWhenInUseUsageDescription": "If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. If you only allow access while using the app, you can only send your current location or a nearby place."
-        }
-      },
-      "version": "26.42.77",
-      "versionDate": "2026-11-02T09:51:12+00:00",
-      "versionDescription": "",
-      "fullDate": "20261102095112",
-      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1793613547741-mraoy/com.fouadraheb.watusiSMB_26.42.77_watusi3_1.3.29_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547741-mraoy/com.fouadraheb.watusiSMB_26.42.77_watusi3_1.3.29_sl.ipa",
-      "size": 187563241,
-      "date": "2026-11-02T09:51:12+00:00",
-      "__source": "https://altstore.fouadraheb.com",
       "__mirrors": [],
       "__stores": [
         "AltStore"
@@ -1818,8 +2178,8 @@
     {
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/f9/36/22f936bd-f61d-d1e1-8227-7352688e9367/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "localizedDescription": "\u2022 SoundCloud updated to v8.85.0",
-      "size": 356714248,
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud.v8.85.0.+.NexaSC.ipa",
+      "size": 340224194,
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud.v8.85.0.+.NexaSC.fixed.ipa",
       "versionDate": "2026-11-02",
       "beta": false,
       "versionDescription": "\u2022 SoundCloud updated to v8.85.0",
@@ -1864,7 +2224,7 @@
       "bundleIdentifier": "com.soundcloud.TouchApp",
       "version": "8.85.0",
       "date": "2026-11-02",
-      "sha256": "fb8694dd116bf55f62a4ad80bed3c26910c0574f74346642ce6d564f4275829c",
+      "sha256": "ca4bd0286bee8bb7fe96eb46532da97842dfff4113bf21d0ca27b2c32af92209",
       "__source": "https://wuxu1.github.io/wuxu-complete-plus.json",
       "__mirrors": [
         "https://wuxu1.github.io/wuxu-complete.json"
@@ -3544,45 +3904,6 @@
       ]
     },
     {
-      "beta": false,
-      "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "Tonwalter888",
-      "META": {
-        "repoName": "driftywinds' AltStore Repo"
-      },
-      "contact": {
-        "web": "https://github.com/driftywinds/"
-      },
-      "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.37/f61b83c6-8b53-41a9-8c96-57f874c853YM.ipa",
-      "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png",
-      "localizedDescription": "https://t.me/+rvcObIvOpctiMDI9\n\nA modified version of Youtube",
-      "name": "YouMod + Tweaks (driftywinds)",
-      "screenshotURLs": [
-        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr1.jpg",
-        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr2.jpg",
-        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr3.jpg"
-      ],
-      "size": 130097628,
-      "subtitle": "A flexible enhancer for YouTube on iOS | If you want to donate: - https://ko-fi.com/driftywinds",
-      "tintColor": "e22a41",
-      "version": "21.43.5",
-      "versionDate": "2026-10-29",
-      "versionDescription": "\u2022 Updated YouTube to 21.43.5\n \u2022 Tweak is using 2.0.0",
-      "appPermissions": {
-        "entitlements": [
-          "com.apple.developer.siri"
-        ],
-        "privacy": {
-          "NSUserTrackingUsageDescription": "This app requires tracking permission to deliver personalized content and advertisements."
-        }
-      },
-      "__source": "https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/master/AltStore/apps.json",
-      "__mirrors": [],
-      "__stores": [
-        "AltStore"
-      ]
-    },
-    {
       "name": "Endel",
       "type": 1,
       "bundleID": "com.endel.endel",
@@ -4771,7 +5092,7 @@
     {
       "category": "Social",
       "version": "585.0.0",
-      "size": 244950580,
+      "size": 242479481,
       "tintColor": "0c63f9",
       "screenshotURLs": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e2/c0/fa/e2c0faf7-2613-0ead-3c3a-193d992e3930/f254967c-6ef9-4cc6-b4bf-e89cf016337c_1-iOS-5.5-Home.png/392x696bb.png",
@@ -4843,9 +5164,9 @@
       "developerName": "Michael Lema",
       "localizedDescription": "\u2022 Facebook updated to v585.0.0",
       "name": "Facebook++",
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Facebook.v585.0.0.+.iQFace.ipa",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Facebook.v585.0.0.+.iQFace.fixed.ipa",
       "date": "2026-10-28",
-      "sha256": "ba03202c047bcd1564315bf0634a070e1a919fb33cfa63c1a64805ad73e4e3b9",
+      "sha256": "1b990423649b7a5b74a87d7cae861c490c4913808cea731ec8e9343218746532",
       "__source": "https://wuxu1.github.io/wuxu-complete-plus.json",
       "__mirrors": [
         "https://wuxu1.github.io/wuxu-complete.json"
@@ -5506,7 +5827,7 @@
       "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v21.43.5.+.YTPlus.v6.0b2.ipa",
       "versionDate": "2026-10-27",
       "beta": false,
-      "versionDescription": "\u2022 YouTube updated to v21.43.5",
+      "versionDescription": "\u2022 YouTube updated to v21.44.4",
       "appPermissions": {
         "entitlements": [
           "application-identifier",
@@ -6553,9 +6874,9 @@
       "version": "26.41.75",
       "versionDate": "2026-10-24T08:05:12+00:00",
       "versionDescription": "",
-      "fullDate": "20261102095112",
+      "fullDate": "20261103105528",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792830196680-as7xg/net.whatsapp.WhatsApp_26.41.75_watusi3_1.3.28_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547742-iq3pb/net.whatsapp.WhatsApp_26.42.77_watusi3_1.3.29_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806341-8o8to/net.whatsapp.WhatsApp_26.42.77_watusi3_1.3.30_sl.ipa",
       "size": 180005083,
       "date": "2026-10-24T08:05:12+00:00",
       "__source": "https://altstore.fouadraheb.com",
@@ -6606,9 +6927,9 @@
       "version": "26.41.75",
       "versionDate": "2026-10-24T08:05:12+00:00",
       "versionDescription": "",
-      "fullDate": "20261102095112",
+      "fullDate": "20261103105528",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792830196680-z1lbl/com.fouadraheb.watusi_26.41.75_watusi3_1.3.28_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547742-vi5hn/com.fouadraheb.watusi_26.42.77_watusi3_1.3.29_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806341-fpp9i/com.fouadraheb.watusi_26.42.77_watusi3_1.3.30_sl.ipa",
       "size": 177339052,
       "date": "2026-10-24T08:05:12+00:00",
       "__source": "https://altstore.fouadraheb.com",
@@ -6659,9 +6980,9 @@
       "version": "26.41.75",
       "versionDate": "2026-10-24T08:05:12+00:00",
       "versionDescription": "",
-      "fullDate": "20261102095112",
+      "fullDate": "20261103105528",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792830196679-8ueg6/net.whatsapp.WhatsAppSMB_26.41.75_watusi3_1.3.28_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547742-r26ig/net.whatsapp.WhatsAppSMB_26.42.77_watusi3_1.3.29_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806341-rh4x7/net.whatsapp.WhatsAppSMB_26.42.77_watusi3_1.3.30_sl.ipa",
       "size": 187050481,
       "date": "2026-10-24T08:05:12+00:00",
       "__source": "https://altstore.fouadraheb.com",
@@ -6712,9 +7033,9 @@
       "version": "26.41.75",
       "versionDate": "2026-10-24T08:05:12+00:00",
       "versionDescription": "",
-      "fullDate": "20261102095112",
+      "fullDate": "20261103105528",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792830196678-mkeh3/com.fouadraheb.watusiSMB_26.41.75_watusi3_1.3.28_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547741-mraoy/com.fouadraheb.watusiSMB_26.42.77_watusi3_1.3.29_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806340-lg0ok/com.fouadraheb.watusiSMB_26.42.77_watusi3_1.3.30_sl.ipa",
       "size": 184344337,
       "date": "2026-10-24T08:05:12+00:00",
       "__source": "https://altstore.fouadraheb.com",
@@ -9150,7 +9471,7 @@
       "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v21.42.4.+.YTPlus.v6.0b2.ipa",
       "versionDate": "2026-10-22",
       "beta": false,
-      "versionDescription": "\u2022 YouTube updated to v21.43.5",
+      "versionDescription": "\u2022 YouTube updated to v21.44.4",
       "appPermissions": {
         "entitlements": [
           "application-identifier",
@@ -13004,9 +13325,9 @@
       "version": "26.41.74",
       "versionDate": "2026-10-20T06:32:12+00:00",
       "versionDescription": "",
-      "fullDate": "20261102095112",
+      "fullDate": "20261103105528",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792478430260-ebhzr/net.whatsapp.WhatsApp_26.41.74_watusi3_1.3.27_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547742-iq3pb/net.whatsapp.WhatsApp_26.42.77_watusi3_1.3.29_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806341-8o8to/net.whatsapp.WhatsApp_26.42.77_watusi3_1.3.30_sl.ipa",
       "size": 179806859,
       "date": "2026-10-20T06:32:12+00:00",
       "__source": "https://altstore.fouadraheb.com",
@@ -13057,9 +13378,9 @@
       "version": "26.41.74",
       "versionDate": "2026-10-20T06:32:12+00:00",
       "versionDescription": "",
-      "fullDate": "20261102095112",
+      "fullDate": "20261103105528",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792478430260-mwf9q/com.fouadraheb.watusi_26.41.74_watusi3_1.3.27_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547742-vi5hn/com.fouadraheb.watusi_26.42.77_watusi3_1.3.29_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806341-fpp9i/com.fouadraheb.watusi_26.42.77_watusi3_1.3.30_sl.ipa",
       "size": 177140855,
       "date": "2026-10-20T06:32:12+00:00",
       "__source": "https://altstore.fouadraheb.com",
@@ -13110,9 +13431,9 @@
       "version": "26.41.74",
       "versionDate": "2026-10-20T06:32:12+00:00",
       "versionDescription": "",
-      "fullDate": "20261102095112",
+      "fullDate": "20261103105528",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792478430259-1xo13/net.whatsapp.WhatsAppSMB_26.41.74_watusi3_1.3.27_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547742-r26ig/net.whatsapp.WhatsAppSMB_26.42.77_watusi3_1.3.29_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806341-rh4x7/net.whatsapp.WhatsAppSMB_26.42.77_watusi3_1.3.30_sl.ipa",
       "size": 186824364,
       "date": "2026-10-20T06:32:12+00:00",
       "__source": "https://altstore.fouadraheb.com",
@@ -13163,9 +13484,9 @@
       "version": "26.41.74",
       "versionDate": "2026-10-20T06:32:12+00:00",
       "versionDescription": "",
-      "fullDate": "20261102095112",
+      "fullDate": "20261103105528",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792478430259-at6vj/com.fouadraheb.watusiSMB_26.41.74_watusi3_1.3.27_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547741-mraoy/com.fouadraheb.watusiSMB_26.42.77_watusi3_1.3.29_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806340-lg0ok/com.fouadraheb.watusiSMB_26.42.77_watusi3_1.3.30_sl.ipa",
       "size": 184118221,
       "date": "2026-10-20T06:32:12+00:00",
       "__source": "https://altstore.fouadraheb.com",
@@ -13228,7 +13549,7 @@
       "subtitle": "The semi-untethered jailbreak for iOS 15 - 16",
       "iconURL": "https://external-content.duckduckgo.com/iu/?u=https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/67ffxsD.jpeg",
       "developerName": "opa334",
-      "versionDescription": "\u2022 Dopamine updated to v3.0.12",
+      "versionDescription": "\u2022 Dopamine updated to v3.0.13",
       "name": "Dopamine",
       "localizedDescription": "\u2022 Dopamine updated to v3.0.12",
       "appPermissions": {
@@ -13684,7 +14005,7 @@
       "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v21.41.5.+.YTPlus.v6.0b2.ipa",
       "versionDate": "2026-10-11",
       "beta": false,
-      "versionDescription": "\u2022 YouTube updated to v21.43.5",
+      "versionDescription": "\u2022 YouTube updated to v21.44.4",
       "appPermissions": {
         "entitlements": [
           "application-identifier",
@@ -16834,9 +17155,9 @@
       "version": "26.38.74",
       "versionDate": "2026-09-30T21:15:48+00:00",
       "versionDescription": "",
-      "fullDate": "20261102095112",
+      "fullDate": "20261103105528",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1790803804508-wz7w3/net.whatsapp.WhatsApp_26.38.74_watusi3_1.3.26_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547742-iq3pb/net.whatsapp.WhatsApp_26.42.77_watusi3_1.3.29_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806341-8o8to/net.whatsapp.WhatsApp_26.42.77_watusi3_1.3.30_sl.ipa",
       "size": 167510862,
       "date": "2026-09-30T21:15:48+00:00",
       "__source": "https://altstore.fouadraheb.com",
@@ -16887,9 +17208,9 @@
       "version": "26.38.74",
       "versionDate": "2026-09-30T21:15:48+00:00",
       "versionDescription": "",
-      "fullDate": "20261102095112",
+      "fullDate": "20261103105528",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1790803804508-0ywta/com.fouadraheb.watusi_26.38.74_watusi3_1.3.26_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547742-vi5hn/com.fouadraheb.watusi_26.42.77_watusi3_1.3.29_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806341-fpp9i/com.fouadraheb.watusi_26.42.77_watusi3_1.3.30_sl.ipa",
       "size": 165078214,
       "date": "2026-09-30T21:15:48+00:00",
       "__source": "https://altstore.fouadraheb.com",
@@ -16940,9 +17261,9 @@
       "version": "26.38.74",
       "versionDate": "2026-09-30T21:15:48+00:00",
       "versionDescription": "",
-      "fullDate": "20261102095112",
+      "fullDate": "20261103105528",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1790803804507-ixhbd/net.whatsapp.WhatsAppSMB_26.38.74_watusi3_1.3.26_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547742-r26ig/net.whatsapp.WhatsAppSMB_26.42.77_watusi3_1.3.29_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806341-rh4x7/net.whatsapp.WhatsAppSMB_26.42.77_watusi3_1.3.30_sl.ipa",
       "size": 174257519,
       "date": "2026-09-30T21:15:48+00:00",
       "__source": "https://altstore.fouadraheb.com",
@@ -16993,9 +17314,9 @@
       "version": "26.38.74",
       "versionDate": "2026-09-30T21:15:48+00:00",
       "versionDescription": "",
-      "fullDate": "20261102095112",
+      "fullDate": "20261103105528",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1790803804507-s1n5i/com.fouadraheb.watusiSMB_26.38.74_watusi3_1.3.26_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547741-mraoy/com.fouadraheb.watusiSMB_26.42.77_watusi3_1.3.29_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806340-lg0ok/com.fouadraheb.watusiSMB_26.42.77_watusi3_1.3.30_sl.ipa",
       "size": 171780619,
       "date": "2026-09-30T21:15:48+00:00",
       "__source": "https://altstore.fouadraheb.com",
@@ -18779,9 +19100,9 @@
       "version": "26.37.76",
       "versionDate": "2026-09-27T08:27:42+00:00",
       "versionDescription": "",
-      "fullDate": "20261102095112",
+      "fullDate": "20261103105528",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1790498201795-mz0m0/net.whatsapp.WhatsApp_26.37.76_watusi3_1.3.25_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547742-iq3pb/net.whatsapp.WhatsApp_26.42.77_watusi3_1.3.29_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806341-8o8to/net.whatsapp.WhatsApp_26.42.77_watusi3_1.3.30_sl.ipa",
       "size": 165394634,
       "date": "2026-09-27T08:27:42+00:00",
       "__source": "https://altstore.fouadraheb.com",
@@ -18832,9 +19153,9 @@
       "version": "26.37.76",
       "versionDate": "2026-09-27T08:27:42+00:00",
       "versionDescription": "",
-      "fullDate": "20261102095112",
+      "fullDate": "20261103105528",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1790498201795-nr5ug/com.fouadraheb.watusi_26.37.76_watusi3_1.3.25_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547742-vi5hn/com.fouadraheb.watusi_26.42.77_watusi3_1.3.29_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806341-fpp9i/com.fouadraheb.watusi_26.42.77_watusi3_1.3.30_sl.ipa",
       "size": 162977543,
       "date": "2026-09-27T08:27:42+00:00",
       "__source": "https://altstore.fouadraheb.com",
@@ -18885,9 +19206,9 @@
       "version": "26.37.76",
       "versionDate": "2026-09-27T08:27:42+00:00",
       "versionDescription": "",
-      "fullDate": "20261102095112",
+      "fullDate": "20261103105528",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1790498201795-1sado/net.whatsapp.WhatsAppSMB_26.37.76_watusi3_1.3.25_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547742-r26ig/net.whatsapp.WhatsAppSMB_26.42.77_watusi3_1.3.29_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806341-rh4x7/net.whatsapp.WhatsAppSMB_26.42.77_watusi3_1.3.30_sl.ipa",
       "size": 172094487,
       "date": "2026-09-27T08:27:42+00:00",
       "__source": "https://altstore.fouadraheb.com",
@@ -18938,9 +19259,9 @@
       "version": "26.37.76",
       "versionDate": "2026-09-27T08:27:42+00:00",
       "versionDescription": "",
-      "fullDate": "20261102095112",
+      "fullDate": "20261103105528",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1790498201794-cpbzq/com.fouadraheb.watusiSMB_26.37.76_watusi3_1.3.25_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547741-mraoy/com.fouadraheb.watusiSMB_26.42.77_watusi3_1.3.29_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806340-lg0ok/com.fouadraheb.watusiSMB_26.42.77_watusi3_1.3.30_sl.ipa",
       "size": 169631035,
       "date": "2026-09-27T08:27:42+00:00",
       "__source": "https://altstore.fouadraheb.com",
@@ -24399,9 +24720,9 @@
       "version": "26.36.74",
       "versionDate": "2026-09-14T08:10:31+00:00",
       "versionDescription": "",
-      "fullDate": "20261102095112",
+      "fullDate": "20261103105528",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1789385254543-a770n/net.whatsapp.WhatsApp_26.36.74_watusi3_1.3.24_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547742-iq3pb/net.whatsapp.WhatsApp_26.42.77_watusi3_1.3.29_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806341-8o8to/net.whatsapp.WhatsApp_26.42.77_watusi3_1.3.30_sl.ipa",
       "size": 163125151,
       "date": "2026-09-14T08:10:31+00:00",
       "__source": "https://altstore.fouadraheb.com",
@@ -24452,9 +24773,9 @@
       "version": "26.36.74",
       "versionDate": "2026-09-14T08:10:31+00:00",
       "versionDescription": "",
-      "fullDate": "20261102095112",
+      "fullDate": "20261103105528",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1789385254542-0emm6/com.fouadraheb.watusi_26.36.74_watusi3_1.3.24_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547742-vi5hn/com.fouadraheb.watusi_26.42.77_watusi3_1.3.29_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806341-fpp9i/com.fouadraheb.watusi_26.42.77_watusi3_1.3.30_sl.ipa",
       "size": 160720180,
       "date": "2026-09-14T08:10:31+00:00",
       "__source": "https://altstore.fouadraheb.com",
@@ -24505,9 +24826,9 @@
       "version": "26.36.74",
       "versionDate": "2026-09-14T08:10:31+00:00",
       "versionDescription": "",
-      "fullDate": "20261102095112",
+      "fullDate": "20261103105528",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1789385254542-4tn0i/net.whatsapp.WhatsAppSMB_26.36.74_watusi3_1.3.24_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547742-r26ig/net.whatsapp.WhatsAppSMB_26.42.77_watusi3_1.3.29_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806341-rh4x7/net.whatsapp.WhatsAppSMB_26.42.77_watusi3_1.3.30_sl.ipa",
       "size": 169697185,
       "date": "2026-09-14T08:10:31+00:00",
       "__source": "https://altstore.fouadraheb.com",
@@ -24558,9 +24879,9 @@
       "version": "26.36.74",
       "versionDate": "2026-09-14T08:10:31+00:00",
       "versionDescription": "",
-      "fullDate": "20261102095112",
+      "fullDate": "20261103105528",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1789385254542-021al/com.fouadraheb.watusiSMB_26.36.74_watusi3_1.3.24_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547741-mraoy/com.fouadraheb.watusiSMB_26.42.77_watusi3_1.3.29_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806340-lg0ok/com.fouadraheb.watusiSMB_26.42.77_watusi3_1.3.30_sl.ipa",
       "size": 167253084,
       "date": "2026-09-14T08:10:31+00:00",
       "__source": "https://altstore.fouadraheb.com",
@@ -26123,9 +26444,9 @@
       "version": "26.35.74",
       "versionDate": "2026-09-11T11:40:40+00:00",
       "versionDescription": "",
-      "fullDate": "20261102095112",
+      "fullDate": "20261103105528",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1789141269274-cu5dw/net.whatsapp.WhatsApp_26.35.74_watusi3_1.3.23_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547742-iq3pb/net.whatsapp.WhatsApp_26.42.77_watusi3_1.3.29_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806341-8o8to/net.whatsapp.WhatsApp_26.42.77_watusi3_1.3.30_sl.ipa",
       "size": 169666675,
       "date": "2026-09-11T11:40:40+00:00",
       "__source": "https://altstore.fouadraheb.com",
@@ -26176,9 +26497,9 @@
       "version": "26.35.74",
       "versionDate": "2026-09-11T11:40:40+00:00",
       "versionDescription": "",
-      "fullDate": "20261102095112",
+      "fullDate": "20261103105528",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1789141269274-50xqy/com.fouadraheb.watusi_26.35.74_watusi3_1.3.23_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547742-vi5hn/com.fouadraheb.watusi_26.42.77_watusi3_1.3.29_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806341-fpp9i/com.fouadraheb.watusi_26.42.77_watusi3_1.3.30_sl.ipa",
       "size": 167399530,
       "date": "2026-09-11T11:40:40+00:00",
       "__source": "https://altstore.fouadraheb.com",
@@ -26229,9 +26550,9 @@
       "version": "26.35.74",
       "versionDate": "2026-09-11T11:40:40+00:00",
       "versionDescription": "",
-      "fullDate": "20261102095112",
+      "fullDate": "20261103105528",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1789141269274-a3i64/net.whatsapp.WhatsAppSMB_26.35.74_watusi3_1.3.23_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547742-r26ig/net.whatsapp.WhatsAppSMB_26.42.77_watusi3_1.3.29_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806341-rh4x7/net.whatsapp.WhatsAppSMB_26.42.77_watusi3_1.3.30_sl.ipa",
       "size": 178266116,
       "date": "2026-09-11T11:40:40+00:00",
       "__source": "https://altstore.fouadraheb.com",
@@ -26282,9 +26603,9 @@
       "version": "26.35.74",
       "versionDate": "2026-09-11T11:40:40+00:00",
       "versionDescription": "",
-      "fullDate": "20261102095112",
+      "fullDate": "20261103105528",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1789141269273-ad6fj/com.fouadraheb.watusiSMB_26.35.74_watusi3_1.3.23_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547741-mraoy/com.fouadraheb.watusiSMB_26.42.77_watusi3_1.3.29_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806340-lg0ok/com.fouadraheb.watusiSMB_26.42.77_watusi3_1.3.30_sl.ipa",
       "size": 175958294,
       "date": "2026-09-11T11:40:40+00:00",
       "__source": "https://altstore.fouadraheb.com",
@@ -33387,9 +33708,9 @@
       "version": "26.32.75",
       "versionDate": "2026-08-24T09:40:05+00:00",
       "versionDescription": "",
-      "fullDate": "20261102095112",
+      "fullDate": "20261103105528",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1787566192521-j82eo/net.whatsapp.WhatsApp_26.32.75_watusi3_1.3.22_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547742-iq3pb/net.whatsapp.WhatsApp_26.42.77_watusi3_1.3.29_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806341-8o8to/net.whatsapp.WhatsApp_26.42.77_watusi3_1.3.30_sl.ipa",
       "size": 161348749,
       "date": "2026-08-24T09:40:05+00:00",
       "__source": "https://altstore.fouadraheb.com",
@@ -33440,9 +33761,9 @@
       "version": "26.32.75",
       "versionDate": "2026-08-24T09:40:05+00:00",
       "versionDescription": "",
-      "fullDate": "20261102095112",
+      "fullDate": "20261103105528",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1787566192521-gt7w7/com.fouadraheb.watusi_26.32.75_watusi3_1.3.22_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547742-vi5hn/com.fouadraheb.watusi_26.42.77_watusi3_1.3.29_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806341-fpp9i/com.fouadraheb.watusi_26.42.77_watusi3_1.3.30_sl.ipa",
       "size": 159027667,
       "date": "2026-08-24T09:40:05+00:00",
       "__source": "https://altstore.fouadraheb.com",
@@ -33493,9 +33814,9 @@
       "version": "26.32.75",
       "versionDate": "2026-08-24T09:40:05+00:00",
       "versionDescription": "",
-      "fullDate": "20261102095112",
+      "fullDate": "20261103105528",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1787566192520-fsimp/net.whatsapp.WhatsAppSMB_26.32.75_watusi3_1.3.22_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547742-r26ig/net.whatsapp.WhatsAppSMB_26.42.77_watusi3_1.3.29_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806341-rh4x7/net.whatsapp.WhatsAppSMB_26.42.77_watusi3_1.3.30_sl.ipa",
       "size": 167625646,
       "date": "2026-08-24T09:40:05+00:00",
       "__source": "https://altstore.fouadraheb.com",
@@ -33546,9 +33867,9 @@
       "version": "26.32.75",
       "versionDate": "2026-08-24T09:40:05+00:00",
       "versionDescription": "",
-      "fullDate": "20261102095112",
+      "fullDate": "20261103105528",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1787566192520-lpiyp/com.fouadraheb.watusiSMB_26.32.75_watusi3_1.3.22_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547741-mraoy/com.fouadraheb.watusiSMB_26.42.77_watusi3_1.3.29_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806340-lg0ok/com.fouadraheb.watusiSMB_26.42.77_watusi3_1.3.30_sl.ipa",
       "size": 165257176,
       "date": "2026-08-24T09:40:05+00:00",
       "__source": "https://altstore.fouadraheb.com",
@@ -40093,9 +40414,9 @@
       "version": "26.30.78",
       "versionDate": "2026-08-05T22:22:07+00:00",
       "versionDescription": "",
-      "fullDate": "20261102095112",
+      "fullDate": "20261103105528",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1786012073110-7o7k6/net.whatsapp.WhatsApp_26.30.78_watusi3_1.3.21_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547742-iq3pb/net.whatsapp.WhatsApp_26.42.77_watusi3_1.3.29_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806341-8o8to/net.whatsapp.WhatsApp_26.42.77_watusi3_1.3.30_sl.ipa",
       "size": 156525387,
       "date": "2026-08-05T22:22:07+00:00",
       "__source": "https://altstore.fouadraheb.com",
@@ -40146,9 +40467,9 @@
       "version": "26.30.78",
       "versionDate": "2026-08-05T22:22:07+00:00",
       "versionDescription": "",
-      "fullDate": "20261102095112",
+      "fullDate": "20261103105528",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1786012073110-ujq9m/com.fouadraheb.watusi_26.30.78_watusi3_1.3.21_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547742-vi5hn/com.fouadraheb.watusi_26.42.77_watusi3_1.3.29_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806341-fpp9i/com.fouadraheb.watusi_26.42.77_watusi3_1.3.30_sl.ipa",
       "size": 154221134,
       "date": "2026-08-05T22:22:07+00:00",
       "__source": "https://altstore.fouadraheb.com",
@@ -40199,9 +40520,9 @@
       "version": "26.30.78",
       "versionDate": "2026-08-05T22:22:07+00:00",
       "versionDescription": "",
-      "fullDate": "20261102095112",
+      "fullDate": "20261103105528",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1786012073110-50bk3/net.whatsapp.WhatsAppSMB_26.30.78_watusi3_1.3.21_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547742-r26ig/net.whatsapp.WhatsAppSMB_26.42.77_watusi3_1.3.29_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806341-rh4x7/net.whatsapp.WhatsAppSMB_26.42.77_watusi3_1.3.30_sl.ipa",
       "size": 165082189,
       "date": "2026-08-05T22:22:07+00:00",
       "__source": "https://altstore.fouadraheb.com",
@@ -40252,9 +40573,9 @@
       "version": "26.30.78",
       "versionDate": "2026-08-05T22:22:07+00:00",
       "versionDescription": "",
-      "fullDate": "20261102095112",
+      "fullDate": "20261103105528",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1786012073109-rwea7/com.fouadraheb.watusiSMB_26.30.78_watusi3_1.3.21_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547741-mraoy/com.fouadraheb.watusiSMB_26.42.77_watusi3_1.3.29_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806340-lg0ok/com.fouadraheb.watusiSMB_26.42.77_watusi3_1.3.30_sl.ipa",
       "size": 162732209,
       "date": "2026-08-05T22:22:07+00:00",
       "__source": "https://altstore.fouadraheb.com",
@@ -41443,8 +41764,8 @@
     {
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/b2/08/d6b20859-b86e-5b7c-4ebc-8258c0f9b754/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "localizedDescription": "\u2022 Duolingo++ updated to v7.134.0\n\n\u2022 Sign-in with google/apple.\n\u2022 Ignore any purchase banners all features should work.",
-      "size": 203571004,
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Duolingo.v7.134.0.ipa",
+      "size": 190008743,
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Duolingo.v7.134.0.fixed.ipa",
       "versionDate": "2026-08-03",
       "beta": false,
       "versionDescription": "\u2022 Duolingo++ updated to v7.134.0\n\n\u2022 Sign-in with google/apple.\n\u2022 Ignore any purchase banners all features should work.",
@@ -41499,6 +41820,7 @@
       "version": "7.134.0",
       "date": "2026-08-03",
       "minOSVersion": "17.0",
+      "sha256": "b1426d8d6791ae288bfb4a29ca211d490d1a7e4aafd1978b24d88ec8a23b0b20",
       "__source": "https://wuxu1.github.io/wuxu-complete-plus.json",
       "__mirrors": [
         "https://wuxu1.github.io/wuxu-complete.json"
@@ -42851,9 +43173,9 @@
       "version": "26.29.73",
       "versionDate": "2026-07-28T08:17:15+00:00",
       "versionDescription": "",
-      "fullDate": "20261102095112",
+      "fullDate": "20261103105528",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1785397478772-jrtsy/net.whatsapp.WhatsApp_26.29.73_watusi3_1.3.20_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547742-iq3pb/net.whatsapp.WhatsApp_26.42.77_watusi3_1.3.29_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806341-8o8to/net.whatsapp.WhatsApp_26.42.77_watusi3_1.3.30_sl.ipa",
       "size": 155034800,
       "date": "2026-07-28T08:17:15+00:00",
       "__source": "https://altstore.fouadraheb.com",
@@ -42904,9 +43226,9 @@
       "version": "26.29.73",
       "versionDate": "2026-07-28T08:17:15+00:00",
       "versionDescription": "",
-      "fullDate": "20261102095112",
+      "fullDate": "20261103105528",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1785226547465-m9qds/com.fouadraheb.watusi_26.29.73_watusi3_1.3.20_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547742-vi5hn/com.fouadraheb.watusi_26.42.77_watusi3_1.3.29_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806341-fpp9i/com.fouadraheb.watusi_26.42.77_watusi3_1.3.30_sl.ipa",
       "size": 152754055,
       "date": "2026-07-28T08:17:15+00:00",
       "__source": "https://altstore.fouadraheb.com",
@@ -42957,9 +43279,9 @@
       "version": "26.29.73",
       "versionDate": "2026-07-28T08:17:15+00:00",
       "versionDescription": "",
-      "fullDate": "20261102095112",
+      "fullDate": "20261103105528",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1785401520045-ghd8g/net.whatsapp.WhatsAppSMB_26.29.73_watusi3_1.3.20_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547742-r26ig/net.whatsapp.WhatsAppSMB_26.42.77_watusi3_1.3.29_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806341-rh4x7/net.whatsapp.WhatsAppSMB_26.42.77_watusi3_1.3.30_sl.ipa",
       "size": 163895846,
       "date": "2026-07-28T08:17:15+00:00",
       "__source": "https://altstore.fouadraheb.com",
@@ -43010,9 +43332,9 @@
       "version": "26.29.73",
       "versionDate": "2026-07-28T08:17:15+00:00",
       "versionDescription": "",
-      "fullDate": "20261102095112",
+      "fullDate": "20261103105528",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1785226547465-c3pqv/com.fouadraheb.watusiSMB_26.29.73_watusi3_1.3.20_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547741-mraoy/com.fouadraheb.watusiSMB_26.42.77_watusi3_1.3.29_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806340-lg0ok/com.fouadraheb.watusiSMB_26.42.77_watusi3_1.3.30_sl.ipa",
       "size": 161571277,
       "date": "2026-07-28T08:17:15+00:00",
       "__source": "https://altstore.fouadraheb.com",
@@ -43318,7 +43640,7 @@
     {
       "category": "Lifestyle",
       "version": "26.30.0",
-      "size": 150927743,
+      "size": 144735242,
       "tintColor": "0463ea",
       "screenshotURLs": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/04/90/0e/04900ea5-3aba-b487-8185-a8daa4677500/MFP_iOS_US_6.9_Screen_1.png/320x480bb.jpg",
@@ -43364,9 +43686,10 @@
       "developerName": "Strejda603",
       "localizedDescription": "\u2022 MyFitnessPal++ updated to v26.30.0",
       "name": "MyFitnessPal++",
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/MyFitnessPal.v26.30.0.ipa",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/MyFitnessPal.v26.30.0.fixed.ipa",
       "date": "2026-07-28",
       "minOSVersion": "17.0",
+      "sha256": "bc94c6e65191c7683dea3a58997136181d8bfa7fbfed2502f8e8452cf4e488d8",
       "__source": "https://wuxu1.github.io/wuxu-complete-plus.json",
       "__mirrors": [
         "https://wuxu1.github.io/wuxu-complete.json"
@@ -47168,9 +47491,9 @@
       "version": "26.27.74",
       "versionDate": "2026-07-18T13:27:40+00:00",
       "versionDescription": "",
-      "fullDate": "20261102095112",
+      "fullDate": "20261103105528",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1784365943210-da6bw/net.whatsapp.WhatsApp_26.27.74_watusi3_1.3.19_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547742-iq3pb/net.whatsapp.WhatsApp_26.42.77_watusi3_1.3.29_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806341-8o8to/net.whatsapp.WhatsApp_26.42.77_watusi3_1.3.30_sl.ipa",
       "size": 155011281,
       "date": "2026-07-18T13:27:40+00:00",
       "__source": "https://altstore.fouadraheb.com",
@@ -47221,9 +47544,9 @@
       "version": "26.27.74",
       "versionDate": "2026-07-18T13:27:40+00:00",
       "versionDescription": "",
-      "fullDate": "20261102095112",
+      "fullDate": "20261103105528",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1784365943209-x8966/com.fouadraheb.watusi_26.27.74_watusi3_1.3.19_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547742-vi5hn/com.fouadraheb.watusi_26.42.77_watusi3_1.3.29_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806341-fpp9i/com.fouadraheb.watusi_26.42.77_watusi3_1.3.30_sl.ipa",
       "size": 151277970,
       "date": "2026-07-18T13:27:40+00:00",
       "__source": "https://altstore.fouadraheb.com",
@@ -47274,9 +47597,9 @@
       "version": "26.27.73",
       "versionDate": "2026-07-18T13:27:40+00:00",
       "versionDescription": "",
-      "fullDate": "20261102095112",
+      "fullDate": "20261103105528",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1784365943209-0h0b0/net.whatsapp.WhatsAppSMB_26.27.73_watusi3_1.3.19_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547742-r26ig/net.whatsapp.WhatsAppSMB_26.42.77_watusi3_1.3.29_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806341-rh4x7/net.whatsapp.WhatsAppSMB_26.42.77_watusi3_1.3.30_sl.ipa",
       "size": 163828898,
       "date": "2026-07-18T13:27:40+00:00",
       "__source": "https://altstore.fouadraheb.com",
@@ -47327,9 +47650,9 @@
       "version": "26.27.73",
       "versionDate": "2026-07-18T13:27:40+00:00",
       "versionDescription": "",
-      "fullDate": "20261102095112",
+      "fullDate": "20261103105528",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1784365943209-nc41j/com.fouadraheb.watusiSMB_26.27.73_watusi3_1.3.19_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547741-mraoy/com.fouadraheb.watusiSMB_26.42.77_watusi3_1.3.29_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806340-lg0ok/com.fouadraheb.watusiSMB_26.42.77_watusi3_1.3.30_sl.ipa",
       "size": 160080116,
       "date": "2026-07-18T13:27:40+00:00",
       "__source": "https://altstore.fouadraheb.com",
@@ -51933,9 +52256,9 @@
       "version": "26.25.77",
       "versionDate": "2026-07-06T12:05:00+00:00",
       "versionDescription": "",
-      "fullDate": "20261102095112",
+      "fullDate": "20261103105528",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1783339719092-xzf71/net.whatsapp.WhatsApp_26.25.77_watusi3_1.3.18_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547742-iq3pb/net.whatsapp.WhatsApp_26.42.77_watusi3_1.3.29_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806341-8o8to/net.whatsapp.WhatsApp_26.42.77_watusi3_1.3.30_sl.ipa",
       "size": 154678090,
       "date": "2026-07-06T12:05:00+00:00",
       "__source": "https://altstore.fouadraheb.com",
@@ -51986,9 +52309,9 @@
       "version": "26.25.77",
       "versionDate": "2026-07-06T12:05:00+00:00",
       "versionDescription": "",
-      "fullDate": "20261102095112",
+      "fullDate": "20261103105528",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1783339719092-2dvj3/com.fouadraheb.watusi_26.25.77_watusi3_1.3.18_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547742-vi5hn/com.fouadraheb.watusi_26.42.77_watusi3_1.3.29_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806341-fpp9i/com.fouadraheb.watusi_26.42.77_watusi3_1.3.30_sl.ipa",
       "size": 151054382,
       "date": "2026-07-06T12:05:00+00:00",
       "__source": "https://altstore.fouadraheb.com",
@@ -52039,9 +52362,9 @@
       "version": "26.25.77",
       "versionDate": "2026-07-06T12:05:00+00:00",
       "versionDescription": "",
-      "fullDate": "20261102095112",
+      "fullDate": "20261103105528",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1783339719092-qu4d6/net.whatsapp.WhatsAppSMB_26.25.77_watusi3_1.3.18_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547742-r26ig/net.whatsapp.WhatsAppSMB_26.42.77_watusi3_1.3.29_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806341-rh4x7/net.whatsapp.WhatsAppSMB_26.42.77_watusi3_1.3.30_sl.ipa",
       "size": 163537924,
       "date": "2026-07-06T12:05:00+00:00",
       "__source": "https://altstore.fouadraheb.com",
@@ -52092,9 +52415,9 @@
       "version": "26.25.77",
       "versionDate": "2026-07-06T12:05:00+00:00",
       "versionDescription": "",
-      "fullDate": "20261102095112",
+      "fullDate": "20261103105528",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1783339719092-195ue/com.fouadraheb.watusiSMB_26.25.77_watusi3_1.3.18_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547741-mraoy/com.fouadraheb.watusiSMB_26.42.77_watusi3_1.3.29_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806340-lg0ok/com.fouadraheb.watusiSMB_26.42.77_watusi3_1.3.30_sl.ipa",
       "size": 159909103,
       "date": "2026-07-06T12:05:00+00:00",
       "__source": "https://altstore.fouadraheb.com",
@@ -56718,9 +57041,9 @@
       "version": "26.24.72",
       "versionDate": "2026-06-24T11:09:26+00:00",
       "versionDescription": "",
-      "fullDate": "20261102095112",
+      "fullDate": "20261103105528",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1782288331948-boq8f/net.whatsapp.WhatsApp_26.24.72_watusi3_1.3.17_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547742-iq3pb/net.whatsapp.WhatsApp_26.42.77_watusi3_1.3.29_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806341-8o8to/net.whatsapp.WhatsApp_26.42.77_watusi3_1.3.30_sl.ipa",
       "size": 154698517,
       "date": "2026-06-24T11:09:26+00:00",
       "__source": "https://altstore.fouadraheb.com",
@@ -56771,9 +57094,9 @@
       "version": "26.24.72",
       "versionDate": "2026-06-24T11:09:26+00:00",
       "versionDescription": "",
-      "fullDate": "20261102095112",
+      "fullDate": "20261103105528",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1782288331948-istv3/com.fouadraheb.watusi_26.24.72_watusi3_1.3.17_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547742-vi5hn/com.fouadraheb.watusi_26.42.77_watusi3_1.3.29_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806341-fpp9i/com.fouadraheb.watusi_26.42.77_watusi3_1.3.30_sl.ipa",
       "size": 151053793,
       "date": "2026-06-24T11:09:26+00:00",
       "__source": "https://altstore.fouadraheb.com",
@@ -56824,9 +57147,9 @@
       "version": "26.24.72",
       "versionDate": "2026-06-24T11:09:26+00:00",
       "versionDescription": "",
-      "fullDate": "20261102095112",
+      "fullDate": "20261103105528",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1782288331947-gpxhe/net.whatsapp.WhatsAppSMB_26.24.72_watusi3_1.3.17_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547742-r26ig/net.whatsapp.WhatsAppSMB_26.42.77_watusi3_1.3.29_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806341-rh4x7/net.whatsapp.WhatsAppSMB_26.42.77_watusi3_1.3.30_sl.ipa",
       "size": 163493227,
       "date": "2026-06-24T11:09:26+00:00",
       "__source": "https://altstore.fouadraheb.com",
@@ -56877,9 +57200,9 @@
       "version": "26.24.72",
       "versionDate": "2026-06-24T11:09:26+00:00",
       "versionDescription": "",
-      "fullDate": "20261102095112",
+      "fullDate": "20261103105528",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1782288331947-qxr92/com.fouadraheb.watusiSMB_26.24.72_watusi3_1.3.17_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1793613547741-mraoy/com.fouadraheb.watusiSMB_26.42.77_watusi3_1.3.29_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1793703806340-lg0ok/com.fouadraheb.watusiSMB_26.42.77_watusi3_1.3.30_sl.ipa",
       "size": 159842393,
       "date": "2026-06-24T11:09:26+00:00",
       "__source": "https://altstore.fouadraheb.com",
@@ -60357,6 +60680,35 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ulisesolave.Fitia.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ulisesolave.Fitia.png",
       "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "DolphiniOS (Public Beta)",
+      "bundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
+      "developerName": "OatmealDome",
+      "subtitle": "Test the latest DolphiniOS.",
+      "localizedDescription": "Beta 6 adds support for JIT on non-jailbroken devices running iOS 26.6 and iOS 27 beta.",
+      "iconURL": "https://cdn.oatmealdome.me/dolphinios/AppIcon.appiconset/BetaAppStore.png",
+      "tintColor": "ffbb3d",
+      "screenshotURLs": [
+        "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_1.PNG",
+        "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_2.PNG",
+        "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_3_reup.PNG",
+        "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_4_edit.png"
+      ],
+      "beta": false,
+      "version": "5.0.0b6",
+      "versionDate": "2026-06-16T21:42:57.0000000Z",
+      "versionDescription": "Beta 6 adds support for JIT on non-jailbroken devices running iOS 26.6 and iOS 27 beta.",
+      "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b6/Non-Jailbroken.ipa",
+      "size": 17963367,
+      "date": "2026-06-16T21:42:57.0000000Z",
+      "minOSVersion": "14.0",
+      "maxOSVersion": "99.0",
+      "__source": "https://altstore.oatmealdome.me",
       "__mirrors": [],
       "__stores": [
         "AltStore"
@@ -189257,27 +189609,19 @@
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_3_reup.PNG",
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_4_edit.png"
       ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": [
-          {
-            "name": "LocalNetwork",
-            "usageDescription": "DolphiniOS uses the local network to find and communicate with AltServer."
-          }
-        ]
-      },
       "beta": false,
-      "appID": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
       "version": "5.0.0b4",
-      "date": "2025-10-23T02:30:00.0000000Z",
+      "versionDate": "2025-10-23T02:30:00.0000000Z",
+      "versionDescription": "Beta 6 adds support for JIT on non-jailbroken devices running iOS 26.6 and iOS 27 beta.",
       "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b4/Non-Jailbroken.ipa",
       "size": 17958943,
-      "sha256": "3654f513e01944e4b1e1abe4a44057c7291875fbf5a822f17f36bff74a3ee27c",
+      "date": "2025-10-23T02:30:00.0000000Z",
       "minOSVersion": "14.0",
       "maxOSVersion": "99.0",
-      "versionDate": "2025-10-23T02:30:00.0000000Z",
-      "__source": "https://quarksources.github.io/quantumsource.json",
-      "__mirrors": [],
+      "__source": "https://altstore.oatmealdome.me",
+      "__mirrors": [
+        "https://quarksources.github.io/quantumsource.json"
+      ],
       "__stores": [
         "AltStore"
       ]
@@ -192124,7 +192468,7 @@
       "bundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
       "developerName": "OatmealDome",
       "subtitle": "Test the latest DolphiniOS.",
-      "localizedDescription": "Adds support for emulating Skylander Portal of Power, and fixes JIT on some devices running iOS 17 and 18.",
+      "localizedDescription": "Adds support for emulating Skylander Portal of Power, fixes JIT on some devices running iOS 17 and 18, and fixes random errors with JIT on iOS 26.",
       "iconURL": "https://cdn.oatmealdome.me/dolphinios/AppIcon.appiconset/BetaAppStore.png",
       "tintColor": "ffbb3d",
       "screenshotURLs": [
@@ -192133,27 +192477,19 @@
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_3_reup.PNG",
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_4_edit.png"
       ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": [
-          {
-            "name": "LocalNetwork",
-            "usageDescription": "DolphiniOS uses the local network to find and communicate with AltServer."
-          }
-        ]
-      },
       "beta": false,
-      "appID": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
       "version": "5.0.0b3",
-      "date": "2025-10-18T00:00:00.0000000Z",
+      "versionDate": "2025-10-18T00:00:00.0000000Z",
+      "versionDescription": "Beta 6 adds support for JIT on non-jailbroken devices running iOS 26.6 and iOS 27 beta.",
       "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b3/Non-Jailbroken.ipa",
       "size": 17958943,
-      "sha256": "9016d50856ca21b0f923f8ad4d72c97288a38ba92bea288ec8ccfb0d9388b369",
+      "date": "2025-10-18T00:00:00.0000000Z",
       "minOSVersion": "14.0",
       "maxOSVersion": "99.0",
-      "versionDate": "2025-10-18T00:00:00.0000000Z",
-      "__source": "https://quarksources.github.io/quantumsource.json",
-      "__mirrors": [],
+      "__source": "https://altstore.oatmealdome.me",
+      "__mirrors": [
+        "https://quarksources.github.io/quantumsource.json"
+      ],
       "__stores": [
         "AltStore"
       ]
@@ -195049,27 +195385,19 @@
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_3_reup.PNG",
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_4_edit.png"
       ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": [
-          {
-            "name": "LocalNetwork",
-            "usageDescription": "DolphiniOS uses the local network to find and communicate with AltServer."
-          }
-        ]
-      },
       "beta": false,
-      "appID": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
       "version": "5.0.0b2",
-      "date": "2025-10-13T00:00:00.0000000Z",
+      "versionDate": "2025-10-13T00:00:00.0000000Z",
+      "versionDescription": "Beta 6 adds support for JIT on non-jailbroken devices running iOS 26.6 and iOS 27 beta.",
       "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b2/Non-Jailbroken.ipa",
       "size": 17958943,
-      "sha256": "9f7e91e76d7aae2c4aa662e4654668dc7a16795af5fdae5da2b4e6d25c66d0bf",
+      "date": "2025-10-13T00:00:00.0000000Z",
       "minOSVersion": "14.0",
       "maxOSVersion": "99.0",
-      "versionDate": "2025-10-13T00:00:00.0000000Z",
-      "__source": "https://quarksources.github.io/quantumsource.json",
-      "__mirrors": [],
+      "__source": "https://altstore.oatmealdome.me",
+      "__mirrors": [
+        "https://quarksources.github.io/quantumsource.json"
+      ],
       "__stores": [
         "AltStore"
       ]
@@ -196161,27 +196489,19 @@
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_3_reup.PNG",
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_4_edit.png"
       ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": [
-          {
-            "name": "LocalNetwork",
-            "usageDescription": "DolphiniOS uses the local network to find and communicate with AltServer."
-          }
-        ]
-      },
       "beta": false,
-      "appID": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
       "version": "5.0.0b1",
-      "date": "2025-10-11T17:00:00.0000000Z",
+      "versionDate": "2025-10-11T17:00:00.0000000Z",
+      "versionDescription": "Beta 6 adds support for JIT on non-jailbroken devices running iOS 26.6 and iOS 27 beta.",
       "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b1/Non-Jailbroken.ipa",
       "size": 17958943,
-      "sha256": "ea27bd1a7b8f6839c8e8bbdf696cf0c2d79c7d5fc106abbd39795b2a0bc535f1",
+      "date": "2025-10-11T17:00:00.0000000Z",
       "minOSVersion": "14.0",
       "maxOSVersion": "99.0",
-      "versionDate": "2025-10-11T17:00:00.0000000Z",
-      "__source": "https://quarksources.github.io/quantumsource.json",
-      "__mirrors": [],
+      "__source": "https://altstore.oatmealdome.me",
+      "__mirrors": [
+        "https://quarksources.github.io/quantumsource.json"
+      ],
       "__stores": [
         "AltStore"
       ]
@@ -199980,8 +200300,8 @@
     {
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/b4/f5/01b4f500-a216-ede2-81dd-e6b4668e53cf/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "localizedDescription": "\u2022 Spotify++ updated to v9.0.84\n\u2022 Eevee updated to v6.1.5",
-      "size": 91684155,
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Spotify.v9.0.84.ipa",
+      "size": 85004252,
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Spotify.v9.0.84.fixed.ipa",
       "versionDate": "2025-10-05",
       "beta": false,
       "versionDescription": "\u2022 Spotify++ updated to v9.0.84\n\u2022 Eevee updated to v6.1.5",
@@ -200041,6 +200361,7 @@
       "version": "9.0.84",
       "date": "2025-10-05",
       "minOSVersion": "16.1",
+      "sha256": "2314ad2252bae6cde8af89392c3af72f484a39b736a261c53d8e96678dd37fec",
       "__source": "https://wuxu1.github.io/wuxu-complete-plus.json",
       "__mirrors": [
         "https://wuxu1.github.io/wuxu-complete.json"
@@ -234947,7 +235268,7 @@
       "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Youtube.v20.09.3.+.YTLite.v5.1.Full.ipa",
       "versionDate": "2025-03-04",
       "beta": false,
-      "versionDescription": "\u2022 YouTube updated to v21.43.5",
+      "versionDescription": "\u2022 YouTube updated to v21.44.4",
       "appPermissions": {
         "entitlements": [
           "application-identifier",
@@ -235154,7 +235475,7 @@
       "subtitle": "The semi-untethered jailbreak for iOS 15 - 16",
       "iconURL": "https://external-content.duckduckgo.com/iu/?u=https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/67ffxsD.jpeg",
       "developerName": "opa334",
-      "versionDescription": "\u2022 Dopamine updated to v3.0.12",
+      "versionDescription": "\u2022 Dopamine updated to v3.0.13",
       "name": "Dopamine",
       "localizedDescription": "\u2022 Fix support for iOS 16.0.x [2.4 regression]\n\u2022 (See older update notes on official github page as this is only for 2.4.1)",
       "appPermissions": {
@@ -235599,27 +235920,19 @@
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_3_reup.PNG",
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_4_edit.png"
       ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": [
-          {
-            "name": "LocalNetwork",
-            "usageDescription": "DolphiniOS uses the local network to find and communicate with AltServer."
-          }
-        ]
-      },
       "beta": false,
-      "appID": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
       "version": "4.0.0b8",
-      "date": "2025-01-19T00:00:00.0000000Z",
+      "versionDate": "2025-01-19T00:00:00.0000000Z",
+      "versionDescription": "Beta 6 adds support for JIT on non-jailbroken devices running iOS 26.6 and iOS 27 beta.",
       "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b8/Non-Jailbroken.ipa",
       "size": 15830129,
-      "sha256": "9e058c0c1e2cac828ddf489796570199482a5e33b8a7045ec0da4e572a9d733a",
+      "date": "2025-01-19T00:00:00.0000000Z",
       "minOSVersion": "14.0",
       "maxOSVersion": "99.0",
-      "versionDate": "2025-01-19T00:00:00.0000000Z",
-      "__source": "https://quarksources.github.io/quantumsource.json",
-      "__mirrors": [],
+      "__source": "https://altstore.oatmealdome.me",
+      "__mirrors": [
+        "https://quarksources.github.io/quantumsource.json"
+      ],
       "__stores": [
         "AltStore"
       ]
@@ -264293,7 +264606,7 @@
       "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v19.39.1.+.YTLiteFull.v5.0.2.ipa",
       "versionDate": "2024-10-09",
       "beta": false,
-      "versionDescription": "\u2022 YouTube updated to v21.43.5",
+      "versionDescription": "\u2022 YouTube updated to v21.44.4",
       "appPermissions": {
         "entitlements": [
           "application-identifier",
@@ -280982,7 +281295,7 @@
       "subtitle": "The semi-untethered jailbreak for iOS 15 - 16",
       "iconURL": "https://external-content.duckduckgo.com/iu/?u=https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/67ffxsD.jpeg",
       "developerName": "opa334",
-      "versionDescription": "\u2022 Dopamine updated to v3.0.12",
+      "versionDescription": "\u2022 Dopamine updated to v3.0.13",
       "name": "Dopamine",
       "localizedDescription": "\u2022 Only automatically fix up permissions of relevant directories inside /var/jb/var/mobile, rather than the entirety of it\n\u2022 Skip permission fix up if either /var/jb/var or /var/jb/var/mobile is a symbolic link, previously there was a bootloop risk when either of them point to the real /var or /var/mobile",
       "appPermissions": {
@@ -281594,7 +281907,7 @@
       "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v19.16.3.+.uYouEnhanced.v3.0.3.ipa",
       "versionDate": "2024-04-30",
       "beta": false,
-      "versionDescription": "\u2022 YouTube updated to v21.43.5",
+      "versionDescription": "\u2022 YouTube updated to v21.44.4",
       "appPermissions": {
         "entitlements": [
           "application-identifier",
@@ -283421,27 +283734,19 @@
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_3_reup.PNG",
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_4_edit.png"
       ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": [
-          {
-            "name": "LocalNetwork",
-            "usageDescription": "DolphiniOS uses the local network to find and communicate with AltServer."
-          }
-        ]
-      },
       "beta": false,
-      "appID": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
       "version": "4.0.0b7",
-      "date": "2024-01-21T20:30:00.0000000Z",
+      "versionDate": "2024-01-21T20:30:00.0000000Z",
+      "versionDescription": "Beta 6 adds support for JIT on non-jailbroken devices running iOS 26.6 and iOS 27 beta.",
       "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b7/Non-Jailbroken.ipa",
       "size": 13775833,
-      "sha256": "31934065e81fd76ec082814dda8cd1ad43a92c516f6c984dfa6ae4b7b39ac782",
+      "date": "2024-01-21T20:30:00.0000000Z",
       "minOSVersion": "14.0",
       "maxOSVersion": "99.0",
-      "versionDate": "2024-01-21T20:30:00.0000000Z",
-      "__source": "https://quarksources.github.io/quantumsource.json",
-      "__mirrors": [],
+      "__source": "https://altstore.oatmealdome.me",
+      "__mirrors": [
+        "https://quarksources.github.io/quantumsource.json"
+      ],
       "__stores": [
         "AltStore"
       ]
@@ -284097,7 +284402,7 @@
       "downloadURL": "https://github.com/arichorn/uYouEnhanced/releases/download/v18.49.3-3.0.1-F3/uYouEnhanced_18.49.3_3.0.1_F3.ipa",
       "versionDate": "2024-01-07",
       "beta": false,
-      "versionDescription": "\u2022 YouTube updated to v21.43.5",
+      "versionDescription": "\u2022 YouTube updated to v21.44.4",
       "appPermissions": {
         "entitlements": [
           "application-identifier",
@@ -286825,7 +287130,7 @@
       "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v18.40.1.+.uYouPlusExtra.v3.0.1.ipa",
       "versionDate": "2023-10-22",
       "beta": false,
-      "versionDescription": "\u2022 YouTube updated to v21.43.5",
+      "versionDescription": "\u2022 YouTube updated to v21.44.4",
       "appPermissions": {
         "entitlements": [
           "application-identifier",
@@ -303960,7 +304265,7 @@
       "bundleIdentifier": "me.oatmealdome.dolphinios-njb",
       "developerName": "OatmealDome",
       "subtitle": "GameCube and Wii games on the go.",
-      "localizedDescription": "This update contains the following changes:\n\n- Fixed ubershaders.\n- Fixed fastmem crashing on iOS 16.\n\nFor more information, see https://oatmealdome.me/blog/dolphinios-ver-3-2-0/.",
+      "localizedDescription": "This update contains the following changes:\n\n- Fixed ubershaders.\n- Fixed fastmem crashing on iOS 16.\n\nPlease update DolphiniOS to version 3.2.1 before attempting to use it on iOS 16.",
       "iconURL": "https://cdn.oatmealdome.me/dolphinios/AppIcon.appiconset/ios_marketing1024x1024.png",
       "tintColor": "41cdff",
       "screenshotURLs": [
@@ -303970,15 +304275,18 @@
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_4_edit.png"
       ],
       "beta": false,
-      "appID": "me.oatmealdome.dolphinios-njb",
       "version": "3.2.1",
-      "date": "2022-09-11T18:00:00-04:00",
-      "downloadURL": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1/DolphiniOS-NJB-Universal-3.2.1-213.ipa",
+      "versionDate": "2022-09-11T22:00:00.0000000Z",
+      "versionDescription": "This update contains the following changes:\n\n- Fixed ubershaders.\n- Fixed fastmem crashing on iOS 16.\n\nPlease update DolphiniOS to version 3.2.1 before attempting to use it on iOS 16.",
+      "downloadURL": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1/DolphiniOS-NJB-3.2.1-213.ipa",
       "size": 80253902,
-      "sha256": "dcae6e6053d6e4e3f3f44ab9e0d2f709f77f2405243e66184d7864796d80de5c",
-      "versionDate": "2022-09-11T18:00:00-04:00",
-      "__source": "https://quarksources.github.io/quantumsource.json",
-      "__mirrors": [],
+      "date": "2022-09-11T22:00:00.0000000Z",
+      "minOSVersion": "12.0",
+      "maxOSVersion": "99.0",
+      "__source": "https://altstore.oatmealdome.me",
+      "__mirrors": [
+        "https://quarksources.github.io/quantumsource.json"
+      ],
       "__stores": [
         "AltStore"
       ]
@@ -304133,7 +304441,7 @@
       "bundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
       "developerName": "OatmealDome",
       "subtitle": "Test the latest DolphiniOS.",
-      "localizedDescription": "This update contains the following changes:\n\n- Fixed ubershaders.\n- Fixed fastmem crashing on iOS 16 betas.\n\nThe next beta build will be based off the rewritten DolphiniOS source code.\n\nFor more information, see https://oatmealdome.me/blog/dolphinios-ver-3-2-0/.",
+      "localizedDescription": "This update contains the following changes:\n\n- Fixed ubershaders.\n- Fixed fastmem crashing on iOS 16 betas.\n\nThe next beta build will be based off the rewritten DolphiniOS source code.",
       "iconURL": "https://cdn.oatmealdome.me/dolphinios/AppIcon.appiconset/BetaAppStore.png",
       "tintColor": "ffbb3d",
       "screenshotURLs": [
@@ -304142,25 +304450,19 @@
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_3_reup.PNG",
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_4_edit.png"
       ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": [
-          {
-            "name": "LocalNetwork",
-            "usageDescription": "DolphiniOS uses the local network to find and communicate with AltServer."
-          }
-        ]
-      },
       "beta": false,
-      "appID": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
       "version": "3.2.1b1",
-      "date": "2022-07-05T18:00:00-04:00",
-      "downloadURL": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1b1-213/DolphiniOS-NJB-Beta-Universal-3.2.1b1-213.ipa",
+      "versionDate": "2022-07-05T22:00:00.0000000Z",
+      "versionDescription": "Beta 6 adds support for JIT on non-jailbroken devices running iOS 26.6 and iOS 27 beta.",
+      "downloadURL": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1b1-213/DolphiniOS-NJB-Beta-3.2.1b1-213.ipa",
       "size": 80291610,
-      "sha256": "302438ec452636ff0b033ac1561f35f95ec42c644263d318978ef6fb83fc09d8",
-      "versionDate": "2022-07-05T18:00:00-04:00",
-      "__source": "https://quarksources.github.io/quantumsource.json",
-      "__mirrors": [],
+      "date": "2022-07-05T22:00:00.0000000Z",
+      "minOSVersion": "12.0",
+      "maxOSVersion": "99.0",
+      "__source": "https://altstore.oatmealdome.me",
+      "__mirrors": [
+        "https://quarksources.github.io/quantumsource.json"
+      ],
       "__stores": [
         "AltStore"
       ]

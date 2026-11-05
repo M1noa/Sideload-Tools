@@ -4,9 +4,219 @@
   "subtitle": "Auto-merged from 43 AltStore/ESign sources. Original download URLs preserved.",
   "description": "Deduplicates by (name, bundleIdentifier, version). __source is the first source; __mirrors lists additional sources.",
   "iconURL": "https://avatars.githubusercontent.com/u/57844837",
-  "appCount": 13319,
+  "appCount": 13330,
   "sourceCount": 43,
   "apps": [
+    {
+      "name": "SimplyPiano",
+      "type": 1,
+      "bundleID": "com.joytunes.asla",
+      "bundleIdentifier": "com.joytunes.asla",
+      "version": "9.11.2",
+      "versionDate": "2026-11-05",
+      "fullDate": "20261105070851",
+      "size": 180890162,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/SimplyPiano_9.11.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/SimplyPiano_9.11.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Fitia",
+      "type": 1,
+      "bundleID": "com.ulisesolave.Fitia",
+      "bundleIdentifier": "com.ulisesolave.Fitia",
+      "version": "25.2.5",
+      "versionDate": "2026-11-05",
+      "fullDate": "20261105065223",
+      "size": 122824399,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/Fitia_25.2.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/Fitia_25.2.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ulisesolave.Fitia.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ulisesolave.Fitia.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Paste",
+      "type": 1,
+      "bundleID": "com.wiheads.paste",
+      "bundleIdentifier": "com.wiheads.paste",
+      "version": "7.0.5",
+      "versionDate": "2026-11-05",
+      "fullDate": "20261105064608",
+      "size": 128658339,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/Paste_7.0.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/Paste_7.0.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wiheads.paste.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wiheads.paste.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Detail",
+      "type": 1,
+      "bundleID": "co.detail.duo",
+      "bundleIdentifier": "co.detail.duo",
+      "version": "6.0.6",
+      "versionDate": "2026-11-05",
+      "fullDate": "20261105063442",
+      "size": 222652585,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/Detail_6.0.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/Detail_6.0.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.detail.duo.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.detail.duo.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Scanner",
+      "type": 1,
+      "bundleID": "com.apalonapps.pdffree",
+      "bundleIdentifier": "com.apalonapps.pdffree",
+      "version": "2.12.11",
+      "versionDate": "2026-11-05",
+      "fullDate": "20261105061807",
+      "size": 128496293,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/Scanner_2.12.11_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/Scanner_2.12.11_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.pdffree.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.pdffree.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Duolingo",
+      "type": 1,
+      "bundleID": "com.duolingo.DuolingoMobile",
+      "bundleIdentifier": "com.duolingo.DuolingoMobile",
+      "version": "7.147.1",
+      "versionDate": "2026-11-05",
+      "fullDate": "20261105061136",
+      "size": 216530321,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/Duolingo_7.147.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/Duolingo_7.147.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.duolingo.DuolingoMobile.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.duolingo.DuolingoMobile.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iLovePDF",
+      "type": 1,
+      "bundleID": "com.ilovepdf.www",
+      "bundleIdentifier": "com.ilovepdf.www",
+      "version": "4.2.2",
+      "versionDate": "2026-11-05",
+      "fullDate": "20261105055514",
+      "size": 157106861,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/iLovePDF_4.2.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/iLovePDF_4.2.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ilovepdf.www.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ilovepdf.www.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Swiftgram",
+      "type": 1,
+      "bundleID": "app.swiftgram.ios",
+      "bundleIdentifier": "app.swiftgram.ios",
+      "version": "13.1.2",
+      "versionDate": "2026-11-05",
+      "fullDate": "20261105054338",
+      "size": 87999323,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/Swiftgram_13.1.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/Swiftgram_13.1.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.swiftgram.ios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.swiftgram.ios.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "TunerPro",
+      "type": 1,
+      "bundleID": "com.mwm.guitartuner",
+      "bundleIdentifier": "com.mwm.guitartuner",
+      "version": "4.01.09",
+      "versionDate": "2026-11-05",
+      "fullDate": "20261105053658",
+      "size": 303182339,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/TunerPro_4.01.09_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/TunerPro_4.01.09_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.guitartuner.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.guitartuner.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "KineMaster",
+      "type": 1,
+      "bundleID": "com.kinemaster.kios",
+      "bundleIdentifier": "com.kinemaster.kios",
+      "version": "8.2.8",
+      "versionDate": "2026-11-05",
+      "fullDate": "20261105015906",
+      "size": 157436937,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/KineMaster_8.2.8_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/KineMaster_8.2.8_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
     {
       "name": "iCube",
       "bundleIdentifier": "com.joemattiello.iCube",
@@ -27,14 +237,14 @@
         "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
       ],
       "version": "1.0.0",
-      "buildVersion": "440",
-      "date": "2026-11-04T05:53:55.473Z",
-      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-440/Non-Jailbroken.ipa",
-      "size": 104517845,
+      "buildVersion": "455",
+      "date": "2026-11-04T23:31:38.768Z",
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-455/Non-Jailbroken.ipa",
+      "size": 104592778,
       "minOSVersion": "17.0",
       "platform": "iOS",
       "isBeta": true,
-      "versionDate": "2026-11-04T05:53:55.473Z",
+      "versionDate": "2026-11-04T23:31:38.768Z",
       "__source": "https://provenance-emu.com/apps.json",
       "__mirrors": [],
       "__stores": [
@@ -709,6 +919,92 @@
       "versionDate": "2026-11-04",
       "date": "2026-11-04",
       "sha256": "a82bb1eab8fa1788f50c58003b5400e937bcfd7e7caa9eb9153a3ba3fd5c8381",
+      "__source": "https://wuxu1.github.io/wuxu-complete-plus.json",
+      "__mirrors": [
+        "https://wuxu1.github.io/wuxu-complete.json"
+      ],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "category": "Social",
+      "version": "586.0.0",
+      "size": 248198767,
+      "tintColor": "0c63f9",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e2/c0/fa/e2c0faf7-2613-0ead-3c3a-193d992e3930/f254967c-6ef9-4cc6-b4bf-e89cf016337c_1-iOS-5.5-Home.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6a/d9/9b/6ad99bf8-e769-1fd2-0ac7-f9f0553978a2/c795c58d-ec37-463c-9ab9-ba0b8bc00ddd_2-iOS-5.5-Reels.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/96/e9/f496e921-c05e-ade9-ef3c-c37949d0e6aa/0130e841-7bad-4f8c-83c9-61ea0bac7d7b_3-iOS-5.5-Stories.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a5/c9/20/a5c9207f-2eb4-ccf1-6573-bda3c3e089cb/9b761f68-4cd1-4c66-b5f2-76de4f58005f_4-iOS-5.5-Groups.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e9/40/05/e9400518-1876-dbdd-89aa-a2f88916f117/68c29824-a52c-4766-8aea-0a70c7a2f86f_5-iOS-5.5-Profile.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/b2/5c/40b25ca0-8eee-0e9c-b068-08ec6741908b/28ff37e9-d855-4e6e-a8b4-fb2d585bb9ca_6-iOS-5.5-Marketplace.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/a0/d6/dfa0d6c7-a1a2-873f-953c-4997aab4acbb/691c88f4-f976-46bb-92e1-5f088e8aa47f_7-iOS-5.5-Share.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/50/41/325041cd-f718-ba5b-5c05-3c930a8af80c/d49c0719-9500-4504-8a4c-3124b914bafa_8-iOS-5.5-Search_with_AI.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/29/3e/02293e8a-d565-25b2-2405-31389c8a6e6e/ee650e7b-1eaa-4de6-81a2-0b35dac16446_9-iOS-5.5-Write_with_AI.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f6/b2/32/f6b2327b-e56b-7c4c-b41b-2ee19340e8d5/89fe27f2-ff0a-4a61-a502-73c2bd05da89_10-iOS-5.5-Notifications.png/392x696bb.png"
+      ],
+      "bundleIdentifier": "com.facebook.Facebook",
+      "subtitle": "Facebook with a number of new features!",
+      "beta": false,
+      "versionDescription": "\u2022 Facebook updated to v586.0.0",
+      "versionDate": "2026-11-04",
+      "appPermissions": {
+        "entitlements": [
+          "application-identifier",
+          "aps-environment",
+          "com.apple.accounts.facebook.defaultaccess",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.avfoundation.multitasking-camera-access",
+          "com.apple.developer.declared-age-range",
+          "com.apple.developer.icloud-container-identifiers",
+          "com.apple.developer.icloud-services",
+          "com.apple.developer.in-app-payments",
+          "com.apple.developer.in-app-payments-delegate",
+          "com.apple.developer.kernel.extended-virtual-addressing",
+          "com.apple.developer.kernel.increased-memory-limit",
+          "com.apple.developer.networking.HotspotConfiguration",
+          "com.apple.developer.networking.multicast",
+          "com.apple.developer.networking.wifi-info",
+          "com.apple.developer.nfc.readersession.formats",
+          "com.apple.developer.siri",
+          "com.apple.developer.storekit.request-data",
+          "com.apple.developer.team-identifier",
+          "com.apple.developer.ubiquity-container-identifiers",
+          "com.apple.developer.ubiquity-kvstore-identifier",
+          "com.apple.developer.usernotifications.communication",
+          "com.apple.developer.usernotifications.time-sensitive",
+          "com.apple.security.application-groups",
+          "keychain-access-groups"
+        ],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "Facebook uses access to your media library to do things like help you play music and other audio from your device, and to save audio to your device.",
+          "NSBluetoothAlwaysUsageDescription": "Facebook uses Bluetooth so you can do things like find and connect to devices and cast videos to TV.",
+          "NSBluetoothPeripheralUsageDescription": "Facebook uses Bluetooth so you can do things like find and connect to devices and cast videos to TV.",
+          "NSCalendarsFullAccessUsageDescription": "This will let Facebook sync events you're hosting or attending to your calendar.",
+          "NSCalendarsUsageDescription": "This will let Facebook sync events you're hosting or attending to your calendar.",
+          "NSCameraUsageDescription": "Facebook uses access to your camera to do things like help you take and share photos, record videos, and use visual effects.\n\nYou can always change this in your device settings.",
+          "NSContactsUsageDescription": "Allowing access to your address book helps you see the contacts you can choose to add and helps us provide a better service.",
+          "NSFaceIDUsageDescription": "Enable Face ID for quick and secure authentication on Facebook.",
+          "NSLocalNetworkUsageDescription": "Facebook uses your local network so you can do things like find and connect to devices and cast videos to TV.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Facebook uses this to provide more relevant and personalized experiences, like helping you check-in, find local events and get better ads.",
+          "NSLocationWhenInUseUsageDescription": "Facebook uses this to provide more relevant and personalized experiences, like helping you check-in, find local events and get better ads.",
+          "NSMicrophoneUsageDescription": "Facebook uses access to your microphone to do things like help you record audio, identify songs, search with your voice and use audio effects.\n\nYou can always change this in your device settings.",
+          "NSMotionUsageDescription": "Facebook uses this to provide more relevant and personalized experiences.",
+          "NSPhotoLibraryAddUsageDescription": "Facebook uses access to your photos to do things like help you save images to your device, share and apply visual effects to your photos and videos, and to suggest photos and videos to share.",
+          "NSPhotoLibraryUsageDescription": "Facebook uses access to your photos to do things like help you share and apply visual effects to your photos and videos, and to suggest photos and videos to share.",
+          "NSSiriUsageDescription": "This will let Siri help you look for photos on Facebook",
+          "NSSpeechRecognitionUsageDescription": "Facebook will use speech recognition to detect your confirmation.",
+          "NSUserTrackingUsageDescription": "This helps Facebook personalize ads we show you."
+        }
+      },
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/72/b7/7f72b76a-5865-3da5-8dc3-71a2b75551e9/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "developerName": "Michael Lema",
+      "localizedDescription": "\u2022 Facebook updated to v586.0.0",
+      "name": "Facebook++",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Facebook.v586.0.0.+.iQFace.ipa",
+      "date": "2026-11-04",
+      "sha256": "bb0bb8ab00ef046a473578e0673828c9064bb5d080b05a7f34fee6f193b5f884",
       "__source": "https://wuxu1.github.io/wuxu-complete-plus.json",
       "__mirrors": [
         "https://wuxu1.github.io/wuxu-complete.json"
@@ -5837,7 +6133,7 @@
       "bundleIdentifier": "com.facebook.Facebook",
       "subtitle": "Facebook with a number of new features!",
       "beta": false,
-      "versionDescription": "\u2022 Facebook updated to v585.0.0",
+      "versionDescription": "\u2022 Facebook updated to v586.0.0",
       "versionDate": "2026-10-28",
       "appPermissions": {
         "entitlements": [
@@ -9349,7 +9645,7 @@
       "bundleIdentifier": "com.facebook.Facebook",
       "subtitle": "Facebook with a number of new features!",
       "beta": false,
-      "versionDescription": "\u2022 Facebook updated to v585.0.0",
+      "versionDescription": "\u2022 Facebook updated to v586.0.0",
       "versionDate": "2026-10-23",
       "appPermissions": {
         "entitlements": [
@@ -14330,7 +14626,7 @@
       "bundleIdentifier": "com.facebook.Facebook",
       "subtitle": "Facebook with a number of new features!",
       "beta": false,
-      "versionDescription": "\u2022 Facebook updated to v585.0.0",
+      "versionDescription": "\u2022 Facebook updated to v586.0.0",
       "versionDate": "2026-10-19",
       "appPermissions": {
         "entitlements": [
@@ -201370,7 +201666,7 @@
       "bundleIdentifier": "com.facebook.Facebook",
       "subtitle": "Facebook with a number of new features!",
       "beta": false,
-      "versionDescription": "\u2022 Facebook updated to v585.0.0",
+      "versionDescription": "\u2022 Facebook updated to v586.0.0",
       "versionDate": "2025-10-04",
       "appPermissions": {
         "entitlements": [
@@ -235582,7 +235878,7 @@
       "bundleIdentifier": "com.facebook.Facebook",
       "subtitle": "Facebook with a number of new features!",
       "beta": false,
-      "versionDescription": "\u2022 Facebook updated to v585.0.0",
+      "versionDescription": "\u2022 Facebook updated to v586.0.0",
       "versionDate": "2025-03-04",
       "appPermissions": {
         "entitlements": [
@@ -282303,7 +282599,7 @@
       "bundleIdentifier": "com.facebook.Facebook",
       "subtitle": "Facebook with a number of new features!",
       "beta": false,
-      "versionDescription": "\u2022 Facebook updated to v585.0.0",
+      "versionDescription": "\u2022 Facebook updated to v586.0.0",
       "versionDate": "2024-04-30",
       "appPermissions": {
         "entitlements": [
@@ -285058,7 +285354,7 @@
       "bundleIdentifier": "com.facebook.Facebook",
       "subtitle": "Facebook with a number of new features!",
       "beta": false,
-      "versionDescription": "\u2022 Facebook updated to v585.0.0",
+      "versionDescription": "\u2022 Facebook updated to v586.0.0",
       "versionDate": "2024-01-07",
       "appPermissions": {
         "entitlements": [
@@ -288275,7 +288571,7 @@
       "bundleIdentifier": "com.facebook.Facebook",
       "subtitle": "Facebook with a number of new features!",
       "beta": false,
-      "versionDescription": "\u2022 Facebook updated to v585.0.0",
+      "versionDescription": "\u2022 Facebook updated to v586.0.0",
       "versionDate": "2023-10-19",
       "appPermissions": {
         "entitlements": [

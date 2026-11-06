@@ -4,7 +4,7 @@
   "subtitle": "Auto-merged from 43 AltStore/ESign sources. Original download URLs preserved.",
   "description": "Deduplicates by (name, bundleIdentifier, version). __source is the first source; __mirrors lists additional sources.",
   "iconURL": "https://avatars.githubusercontent.com/u/57844837",
-  "appCount": 13358,
+  "appCount": 13371,
   "sourceCount": 43,
   "apps": [
     {
@@ -36,7 +36,7 @@
       "bundleIdentifier": "com.provenance-emu.provenance.alpha",
       "developerName": "Provenance-EMU",
       "subtitle": "Latest dev builds - test new features early",
-      "localizedDescription": "Alpha build 01eadd7 \u00b7 2026-11-06\n\nChanges in this build:\n\u2022 fix mednafen warnings\n\u2022 dolphin bump\n\u2022 update dolphin core\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
+      "localizedDescription": "Alpha build ffd611e \u00b7 2026-11-06\n\nChanges in this build:\n\u2022 fix: normalize the performance HUD frame count to Double\n\u2022 [Agent] refactor(emulator): move the performance HUD into a session feature (#3800)\n\u2022 [Agent] feat(logging): configure diagnostic exports and browse session files (#3803)\n\u2022 [Agent] fix(library): refine compact controls and Continue Playing (#3801)\n\u2022 [Agent] fix(tvos): let users resolve unidentified imports (#3802)\n\u2022 [Agent] fix(tvos): report system moves and refresh both shelves (#3799)\n\u2022 [Agent] fix(mupen): coordinate async save-state requests (#3798)\n\u2022 [Agent] fix(ci): isolate TestFlight keychain cleanup (#3797)\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
       "iconURL": "https://raw.githubusercontent.com/Provenance-Emu/Provenance/develop/Provenance/Resources/Assets.xcassets/AppIcon.appiconset/iTunesArtwork%402x.png",
       "tintColor": "FF6B35",
       "screenshotURLs": [],
@@ -64,14 +64,354 @@
         ]
       },
       "version": "3.4.0",
-      "buildVersion": "11056",
-      "marketingVersion": "3.4.0-alpha.20261106.01eadd7",
+      "buildVersion": "11064",
+      "marketingVersion": "3.4.0-alpha.20261106.ffd611e",
       "date": "2026-11-06",
       "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
-      "size": 781205173,
+      "size": 781291153,
       "minOSVersion": "17.0",
       "versionDate": "2026-11-06",
       "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iFly",
+      "bundleIdentifier": "com.provenance.ifly",
+      "developerName": "Provenance Emu",
+      "subtitle": "Dreamcast Emulator for iOS & tvOS",
+      "localizedDescription": "iFly 1.0.0 (build 1793945919) for iOS",
+      "iconURL": "https://ifly-emu.com/icon-1024.png",
+      "tintColor": "#ff6900",
+      "category": "games",
+      "screenshots": [
+        "https://ifly-emu.com/screenshots/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
+        "https://ifly-emu.com/screenshots/iphone/search.jpg",
+        "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
+        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+      ],
+      "version": "1.0.0+1793945919",
+      "buildVersion": "1793945919",
+      "date": "2026-11-06",
+      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1793945919/iFly-1.0.0-1793945919.ipa",
+      "size": 133391554,
+      "minOSVersion": "17.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "versionDate": "2026-11-06",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iFly",
+      "bundleIdentifier": "com.provenance.ifly",
+      "developerName": "Provenance Emu",
+      "subtitle": "Dreamcast Emulator for iOS & tvOS",
+      "localizedDescription": "iFly 1.0.0 (build 1793945272) for iOS",
+      "iconURL": "https://ifly-emu.com/icon-1024.png",
+      "tintColor": "#ff6900",
+      "category": "games",
+      "screenshots": [
+        "https://ifly-emu.com/screenshots/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
+        "https://ifly-emu.com/screenshots/iphone/search.jpg",
+        "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
+        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+      ],
+      "version": "1.0.0+1793945272",
+      "buildVersion": "1793945272",
+      "date": "2026-11-06",
+      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1793945272/iFly-1.0.0-1793945272.ipa",
+      "size": 133391543,
+      "minOSVersion": "17.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "versionDate": "2026-11-06",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iFly",
+      "bundleIdentifier": "com.provenance.ifly",
+      "developerName": "Provenance Emu",
+      "subtitle": "Dreamcast Emulator for iOS & tvOS",
+      "localizedDescription": "iFly 1.0.0 (build 1793941915) for iOS",
+      "iconURL": "https://ifly-emu.com/icon-1024.png",
+      "tintColor": "#ff6900",
+      "category": "games",
+      "screenshots": [
+        "https://ifly-emu.com/screenshots/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
+        "https://ifly-emu.com/screenshots/iphone/search.jpg",
+        "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
+        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+      ],
+      "version": "1.0.0+1793941915",
+      "buildVersion": "1793941915",
+      "date": "2026-11-06",
+      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1793941915/iFly-1.0.0-1793941915.ipa",
+      "size": 133391196,
+      "minOSVersion": "17.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "versionDate": "2026-11-06",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iFly",
+      "bundleIdentifier": "com.provenance.ifly",
+      "developerName": "Provenance Emu",
+      "subtitle": "Dreamcast Emulator for iOS & tvOS",
+      "localizedDescription": "iFly 1.0.0 (build 1793935432) for iOS",
+      "iconURL": "https://ifly-emu.com/icon-1024.png",
+      "tintColor": "#ff6900",
+      "category": "games",
+      "screenshots": [
+        "https://ifly-emu.com/screenshots/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
+        "https://ifly-emu.com/screenshots/iphone/search.jpg",
+        "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
+        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+      ],
+      "version": "1.0.0+1793935432",
+      "buildVersion": "1793935432",
+      "date": "2026-11-06",
+      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1793935432/iFly-1.0.0-1793935432.ipa",
+      "size": 133390868,
+      "minOSVersion": "17.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "versionDate": "2026-11-06",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iFly",
+      "bundleIdentifier": "com.provenance.ifly",
+      "developerName": "Provenance Emu",
+      "subtitle": "Dreamcast Emulator for iOS & tvOS",
+      "localizedDescription": "iFly 1.0.0 (build 1793934423) for iOS",
+      "iconURL": "https://ifly-emu.com/icon-1024.png",
+      "tintColor": "#ff6900",
+      "category": "games",
+      "screenshots": [
+        "https://ifly-emu.com/screenshots/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
+        "https://ifly-emu.com/screenshots/iphone/search.jpg",
+        "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
+        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+      ],
+      "version": "1.0.0+1793934423",
+      "buildVersion": "1793934423",
+      "date": "2026-11-06",
+      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1793934423/iFly-1.0.0-1793934423.ipa",
+      "size": 133390882,
+      "minOSVersion": "17.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "versionDate": "2026-11-06",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iFly",
+      "bundleIdentifier": "com.provenance.ifly",
+      "developerName": "Provenance Emu",
+      "subtitle": "Dreamcast Emulator for iOS & tvOS",
+      "localizedDescription": "iFly 1.0.0 (build 1793927244) for iOS",
+      "iconURL": "https://ifly-emu.com/icon-1024.png",
+      "tintColor": "#ff6900",
+      "category": "games",
+      "screenshots": [
+        "https://ifly-emu.com/screenshots/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
+        "https://ifly-emu.com/screenshots/iphone/search.jpg",
+        "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
+        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+      ],
+      "version": "1.0.0+1793927244",
+      "buildVersion": "1793927244",
+      "date": "2026-11-06",
+      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1793927244/iFly-1.0.0-1793927244.ipa",
+      "size": 133385161,
+      "minOSVersion": "17.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "versionDate": "2026-11-06",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iFly",
+      "bundleIdentifier": "com.provenance.ifly",
+      "developerName": "Provenance Emu",
+      "subtitle": "Dreamcast Emulator for iOS & tvOS",
+      "localizedDescription": "iFly 1.0.0 (build 1793925418) for iOS",
+      "iconURL": "https://ifly-emu.com/icon-1024.png",
+      "tintColor": "#ff6900",
+      "category": "games",
+      "screenshots": [
+        "https://ifly-emu.com/screenshots/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
+        "https://ifly-emu.com/screenshots/iphone/search.jpg",
+        "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
+        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+      ],
+      "version": "1.0.0+1793925418",
+      "buildVersion": "1793925418",
+      "date": "2026-11-06",
+      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1793925418/iFly-1.0.0-1793925418.ipa",
+      "size": 133383757,
+      "minOSVersion": "17.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "versionDate": "2026-11-06",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iFly",
+      "bundleIdentifier": "com.provenance.ifly",
+      "developerName": "Provenance Emu",
+      "subtitle": "Dreamcast Emulator for iOS & tvOS",
+      "localizedDescription": "iFly 1.0.0 (build 1793924199) for iOS",
+      "iconURL": "https://ifly-emu.com/icon-1024.png",
+      "tintColor": "#ff6900",
+      "category": "games",
+      "screenshots": [
+        "https://ifly-emu.com/screenshots/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
+        "https://ifly-emu.com/screenshots/iphone/search.jpg",
+        "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
+        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+      ],
+      "version": "1.0.0+1793924199",
+      "buildVersion": "1793924199",
+      "date": "2026-11-06",
+      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1793924199/iFly-1.0.0-1793924199.ipa",
+      "size": 133320077,
+      "minOSVersion": "17.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "versionDate": "2026-11-06",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "FreeYourMusic",
+      "type": 1,
+      "bundleID": "io.stampapp.Stamp",
+      "bundleIdentifier": "io.stampapp.Stamp",
+      "version": "11.0.0",
+      "versionDate": "2026-11-06",
+      "fullDate": "20261106162612",
+      "size": 24144453,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2026/FreeYourMusic_11.0.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2026/FreeYourMusic_11.0.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.stampapp.Stamp.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.stampapp.Stamp.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Documents",
+      "type": 1,
+      "bundleID": "com.readdle.ReaddleDocsIPad",
+      "bundleIdentifier": "com.readdle.ReaddleDocsIPad",
+      "version": "8.22.12",
+      "versionDate": "2026-11-06",
+      "fullDate": "20261106151426",
+      "size": 297671811,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2026/Documents_8.22.12_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2026/Documents_8.22.12_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.ReaddleDocsIPad.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.ReaddleDocsIPad.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "ColorPop",
+      "type": 1,
+      "bundleID": "com.mwm.procolor",
+      "bundleIdentifier": "com.mwm.procolor",
+      "version": "2.69.00",
+      "versionDate": "2026-11-06",
+      "fullDate": "20261106143214",
+      "size": 193202286,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2026/ColorPop_2.69.00_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2026/ColorPop_2.69.00_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.procolor.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.procolor.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "DaVinci",
+      "type": 1,
+      "bundleID": "com.hubx.imagination",
+      "bundleIdentifier": "com.hubx.imagination",
+      "version": "5.0.11",
+      "versionDate": "2026-11-06",
+      "fullDate": "20261106123819",
+      "size": 105608513,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2026/DaVinci_5.0.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2026/DaVinci_5.0.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hubx.imagination.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hubx.imagination.png",
+      "__source": "https://repository.apptesters.org",
       "__mirrors": [],
       "__stores": [
         "AltStore"
@@ -262,6 +602,35 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wangyuehuan.vrtef.png",
       "__source": "https://repository.apptesters.org",
       "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "BuildBox",
+      "bundleIdentifier": "com.mikevillarroel.buildbox",
+      "developerName": "MikeBuilds",
+      "subtitle": "Compile, sign and install iOS apps from your iPhone",
+      "localizedDescription": "\u2022 BuildBox updated to v2.1.6",
+      "iconURL": "https://mikevillarroel.github.io/mikebuilds-source/icons/buildbox.png",
+      "tintColor": "2f7cf6",
+      "category": "utilities",
+      "beta": false,
+      "screenshotURLs": [],
+      "version": "2.1.6",
+      "versionDate": "2026-11-06",
+      "versionDescription": "\u2022 BuildBox updated to v2.1.6",
+      "size": 15597600,
+      "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.6/BuildBox-2.1.6.ipa",
+      "appPermissions": {
+        "privacy": {}
+      },
+      "date": "2026-11-06",
+      "minOSVersion": "18.0",
+      "__source": "https://wuxu1.github.io/wuxu-complete-plus.json",
+      "__mirrors": [
+        "https://wuxu1.github.io/wuxu-complete.json"
+      ],
       "__stores": [
         "AltStore"
       ]
@@ -1403,7 +1772,7 @@
       "screenshotURLs": [],
       "version": "2.1.5",
       "versionDate": "2026-11-05",
-      "versionDescription": "\u2022 BuildBox updated to v2.1.5",
+      "versionDescription": "\u2022 BuildBox updated to v2.1.6",
       "size": 15597885,
       "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.5/BuildBox-2.1.5.ipa",
       "appPermissions": {
@@ -4320,7 +4689,7 @@
       "screenshotURLs": [],
       "version": "2.1.4",
       "versionDate": "2026-11-02",
-      "versionDescription": "\u2022 BuildBox updated to v2.1.5",
+      "versionDescription": "\u2022 BuildBox updated to v2.1.6",
       "size": 15595926,
       "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.4/BuildBox-2.1.4.ipa",
       "appPermissions": {
@@ -4349,7 +4718,7 @@
       "screenshotURLs": [],
       "version": "2.1.3",
       "versionDate": "2026-11-02",
-      "versionDescription": "\u2022 BuildBox updated to v2.1.5",
+      "versionDescription": "\u2022 BuildBox updated to v2.1.6",
       "size": 15651369,
       "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.3/BuildBox-2.1.3.ipa",
       "appPermissions": {
@@ -4378,7 +4747,7 @@
       "screenshotURLs": [],
       "version": "2.1.1",
       "versionDate": "2026-11-02",
-      "versionDescription": "\u2022 BuildBox updated to v2.1.5",
+      "versionDescription": "\u2022 BuildBox updated to v2.1.6",
       "size": 16290025,
       "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.1/BuildBox-2.1.1.ipa",
       "appPermissions": {
@@ -4407,7 +4776,7 @@
       "screenshotURLs": [],
       "version": "2.1.0",
       "versionDate": "2026-11-02",
-      "versionDescription": "\u2022 BuildBox updated to v2.1.5",
+      "versionDescription": "\u2022 BuildBox updated to v2.1.6",
       "size": 17956353,
       "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/BuildBox.v2.1.0.ipa",
       "appPermissions": {

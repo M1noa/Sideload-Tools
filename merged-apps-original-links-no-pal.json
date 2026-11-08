@@ -4,9 +4,93 @@
   "subtitle": "Auto-merged from 43 AltStore/ESign sources. Original URLs, PAL fields removed for maximum compatibility.",
   "description": "Same as the original-links catalog but strips appID/marketplaceID/permissions (AltStore PAL) and nested versions arrays.",
   "iconURL": "https://avatars.githubusercontent.com/u/57844837",
-  "appCount": 13395,
+  "appCount": 13400,
   "sourceCount": 43,
   "apps": [
+    {
+      "name": "CalculatorAir",
+      "type": 1,
+      "bundleID": "com.CalculatorForiPad.InternetRocks",
+      "bundleIdentifier": "com.CalculatorForiPad.InternetRocks",
+      "version": "2026.11.2",
+      "versionDate": "2026-11-08",
+      "fullDate": "20261108023955",
+      "size": 66888112,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-11-2026/CalculatorAir_2026.11.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-11-2026/CalculatorAir_2026.11.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.CalculatorForiPad.InternetRocks.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.CalculatorForiPad.InternetRocks.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Locket",
+      "type": 1,
+      "bundleID": "com.locket.Locket",
+      "bundleIdentifier": "com.locket.Locket",
+      "version": "2.72.1",
+      "versionDate": "2026-11-08",
+      "fullDate": "20261108022336",
+      "size": 97016533,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-11-2026/Locket_2.72.1_Gold_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-11-2026/Locket_2.72.1_Gold_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Gold",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.locket.Locket.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.locket.Locket.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "FindAir",
+      "type": 1,
+      "bundleID": "co.airapps.finderbot",
+      "bundleIdentifier": "co.airapps.finderbot",
+      "version": "2026.11.2",
+      "versionDate": "2026-11-08",
+      "fullDate": "20261108022333",
+      "size": 65995162,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-11-2026/FindAir_2026.11.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-11-2026/FindAir_2026.11.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.finderbot.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.finderbot.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Fitia",
+      "type": 1,
+      "bundleID": "com.ulisesolave.Fitia",
+      "bundleIdentifier": "com.ulisesolave.Fitia",
+      "version": "25.2.6",
+      "versionDate": "2026-11-08",
+      "fullDate": "20261108020219",
+      "size": 122881213,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-11-2026/Fitia_25.2.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-11-2026/Fitia_25.2.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ulisesolave.Fitia.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ulisesolave.Fitia.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
     {
       "name": "iCube",
       "bundleIdentifier": "com.joemattiello.iCube",
@@ -27,14 +111,14 @@
         "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
       ],
       "version": "1.0.0",
-      "buildVersion": "461",
-      "date": "2026-11-07T04:55:03.116Z",
-      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-461/Non-Jailbroken.ipa",
-      "size": 104595132,
+      "buildVersion": "463",
+      "date": "2026-11-07T06:37:08.460Z",
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-463/Non-Jailbroken.ipa",
+      "size": 104595971,
       "minOSVersion": "17.0",
       "platform": "iOS",
       "isBeta": true,
-      "versionDate": "2026-11-07T04:55:03.116Z",
+      "versionDate": "2026-11-07T06:37:08.460Z",
       "__source": "https://provenance-emu.com/apps.json",
       "__mirrors": [],
       "__stores": [
@@ -80,6 +164,38 @@
       "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
       "size": 781386826,
       "minOSVersion": "17.0",
+      "versionDate": "2026-11-07",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iFly",
+      "bundleIdentifier": "com.provenance.ifly",
+      "developerName": "Provenance Emu",
+      "subtitle": "Dreamcast Emulator for iOS & tvOS",
+      "localizedDescription": "iFly 1.0.0 (build 1794078934) for iOS",
+      "iconURL": "https://ifly-emu.com/icon-1024.png",
+      "tintColor": "#ff6900",
+      "category": "games",
+      "screenshots": [
+        "https://ifly-emu.com/screenshots/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
+        "https://ifly-emu.com/screenshots/iphone/search.jpg",
+        "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
+        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+      ],
+      "version": "1.0.0+1794078934",
+      "buildVersion": "1794078934",
+      "date": "2026-11-07",
+      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1794078934/iFly-1.0.0-1794078934.ipa",
+      "size": 134500789,
+      "minOSVersion": "17.0",
+      "platform": "iOS",
+      "isBeta": true,
       "versionDate": "2026-11-07",
       "__source": "https://provenance-emu.com/apps.json",
       "__mirrors": [],
@@ -1340,8 +1456,8 @@
       "version": "2026.44.1",
       "versionDate": "2026-11-06",
       "versionDescription": "\u2022 Reddit updated to v2026.44.1",
-      "size": 146986354,
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Reddit.v2026.44.1.+.RedditFilter.ipa",
+      "size": 146915526,
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Reddit.v2026.44.1.+.RedditFilter.fixed.ipa",
       "appPermissions": {
         "entitlements": [
           "application-identifier",
@@ -1367,7 +1483,7 @@
         }
       },
       "date": "2026-11-06",
-      "sha256": "41c0ea83ff8a023faa0f3d336feef828a2d32a8dc61024f75687d5f7235a33f6",
+      "sha256": "f051115a36c2047694b1bf9df47e54b3a3fc168f6902e2bdf11132f6f2454b7a",
       "__source": "https://wuxu1.github.io/wuxu-complete-plus.json",
       "__mirrors": [
         "https://wuxu1.github.io/wuxu-complete.json"
@@ -2290,7 +2406,7 @@
     },
     {
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/46/c4/bf46c48e-94bb-c30d-601f-d73ed5a70689/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
-      "size": 275510462,
+      "size": 274889499,
       "category": "Social",
       "beta": false,
       "versionDescription": "\u2022 X updated to v12.41",
@@ -2298,7 +2414,7 @@
       "localizedDescription": "\u2022 X updated to v12.41",
       "subtitle": "An new tweak for X!",
       "bundleIdentifier": "com.atebits.Tweetie2",
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/X.v12.41.+.NFB.v7.3.1.ipa",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/X.v12.41.+.NFB.v7.3.1.fixed.ipa",
       "tintColor": "030303",
       "version": "12.41",
       "screenshotURLs": [
@@ -2352,7 +2468,7 @@
       "name": "X++",
       "versionDate": "2026-11-05",
       "date": "2026-11-05",
-      "sha256": "d4a23d0e980d8b4b33d8d5840be7b1be99c0e3bdbb4bdaad6859eafc7e90731f",
+      "sha256": "13ba6b3d574d7143e778a580f357297f7d143d5c159013468f6ae625a90ba54d",
       "__source": "https://wuxu1.github.io/wuxu-complete-plus.json",
       "__mirrors": [
         "https://wuxu1.github.io/wuxu-complete.json"
@@ -19995,7 +20111,7 @@
     {
       "category": "Social",
       "version": "448.0.0",
-      "size": 320779297,
+      "size": 290791743,
       "tintColor": "d111c9",
       "screenshotURLs": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/59/47/3b5947df-d8d9-604f-ea09-fd0fb15c15f2/1_iOS_5.5.jpg/392x696bb.jpg",
@@ -20059,9 +20175,9 @@
       "developerName": "Fouad Raheb",
       "localizedDescription": "\u2022 Instagram updated to v448.0.0",
       "name": "Instagram++",
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Instagram.v448.0.0.+.regram.6.3.sl.patched.ipa",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Instagram.v448.0.0.+.regram.6.3.sl.patched.fixed.ipa",
       "date": "2026-10-01",
-      "sha256": "bbf0b827464b4d61504692eb56bde4ca26d957e938de3f44c86de317cdf53cbd",
+      "sha256": "636b9fa00a304a9eda6e7284508c3b7562333abc6975d274297cf5a512acd01c",
       "__source": "https://wuxu1.github.io/wuxu-complete-plus.json",
       "__mirrors": [
         "https://wuxu1.github.io/wuxu-complete.json"

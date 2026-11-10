@@ -4,7 +4,7 @@
   "subtitle": "Auto-merged from 43 AltStore/ESign sources. Original download URLs preserved.",
   "description": "Deduplicates by (name, bundleIdentifier, version). __source is the first source; __mirrors lists additional sources.",
   "iconURL": "https://avatars.githubusercontent.com/u/57844837",
-  "appCount": 13462,
+  "appCount": 13484,
   "sourceCount": 43,
   "apps": [
     {
@@ -27,14 +27,14 @@
         "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
       ],
       "version": "1.0.0",
-      "buildVersion": "473",
-      "date": "2026-11-10T04:08:30.343Z",
-      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-473/Non-Jailbroken.ipa",
-      "size": 104944483,
+      "buildVersion": "478",
+      "date": "2026-11-10T07:33:26.745Z",
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-478/Non-Jailbroken.ipa",
+      "size": 105263077,
       "minOSVersion": "17.0",
       "platform": "iOS",
       "isBeta": true,
-      "versionDate": "2026-11-10T04:08:30.343Z",
+      "versionDate": "2026-11-10T07:33:26.745Z",
       "__source": "https://provenance-emu.com/apps.json",
       "__mirrors": [],
       "__stores": [
@@ -46,7 +46,7 @@
       "bundleIdentifier": "com.provenance-emu.provenance.alpha",
       "developerName": "Provenance-EMU",
       "subtitle": "Latest dev builds - test new features early",
-      "localizedDescription": "Alpha build 41efc43 \u00b7 2026-11-10\n\nChanges in this build:\n\u2022 [Agent] feat: run the web server on the shared PVWebServer (#3807)\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
+      "localizedDescription": "Alpha build 2f79565 \u00b7 2026-11-10\n\nChanges in this build:\n\u2022 feat: lay out for the folding iPhone from the window, not the device\n\u2022 fix(skins): place the game picture where the skin renderer draws its screen\n\u2022 feat(pause): open the skin catalog from the pause menu, slimmer header\n\u2022 fix(ui): align side menu and settings with the library chrome\n\u2022 fix(saves): slimmer save states sheet with hairline chrome\n\u2022 fix(pause): lighter tile menu that shows it scrolls\n\u2022 noci\n\u2022 fix: four crashes from this week's TestFlight reports\n\u2022 fix(library): blend chrome into the status bar, dock the BIOS tab\n\u2022 fix: restore built-in controls and DOS touch input\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
       "iconURL": "https://raw.githubusercontent.com/Provenance-Emu/Provenance/develop/Provenance/Resources/Assets.xcassets/AppIcon.appiconset/iTunesArtwork%402x.png",
       "tintColor": "FF6B35",
       "screenshotURLs": [],
@@ -74,12 +74,108 @@
         ]
       },
       "version": "3.4.0",
-      "buildVersion": "11079",
-      "marketingVersion": "3.4.0-alpha.20261110.41efc43",
+      "buildVersion": "11089",
+      "marketingVersion": "3.4.0-alpha.20261110.2f79565",
       "date": "2026-11-10",
       "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
-      "size": 780934385,
+      "size": 780927711,
       "minOSVersion": "17.0",
+      "versionDate": "2026-11-10",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iFly",
+      "bundleIdentifier": "com.provenance.ifly",
+      "developerName": "Provenance Emu",
+      "subtitle": "Dreamcast Emulator for iOS & tvOS",
+      "localizedDescription": "iFly 1.0.0 (build 1794290015) for iOS",
+      "iconURL": "https://ifly-emu.com/icon-1024.png",
+      "tintColor": "#ff6900",
+      "category": "games",
+      "screenshots": [
+        "https://ifly-emu.com/screenshots/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
+        "https://ifly-emu.com/screenshots/iphone/search.jpg",
+        "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
+        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+      ],
+      "version": "1.0.0+1794290015",
+      "buildVersion": "1794290015",
+      "date": "2026-11-10",
+      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1794290015/iFly-1.0.0-1794290015.ipa",
+      "size": 134666086,
+      "minOSVersion": "17.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "versionDate": "2026-11-10",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iFly",
+      "bundleIdentifier": "com.provenance.ifly",
+      "developerName": "Provenance Emu",
+      "subtitle": "Dreamcast Emulator for iOS & tvOS",
+      "localizedDescription": "iFly 1.0.0 (build 1794284717) for iOS",
+      "iconURL": "https://ifly-emu.com/icon-1024.png",
+      "tintColor": "#ff6900",
+      "category": "games",
+      "screenshots": [
+        "https://ifly-emu.com/screenshots/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
+        "https://ifly-emu.com/screenshots/iphone/search.jpg",
+        "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
+        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+      ],
+      "version": "1.0.0+1794284717",
+      "buildVersion": "1794284717",
+      "date": "2026-11-10",
+      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1794284717/iFly-1.0.0-1794284717.ipa",
+      "size": 134660251,
+      "minOSVersion": "17.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "versionDate": "2026-11-10",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iFly",
+      "bundleIdentifier": "com.provenance.ifly",
+      "developerName": "Provenance Emu",
+      "subtitle": "Dreamcast Emulator for iOS & tvOS",
+      "localizedDescription": "iFly 1.0.0 (build 1794269763) for iOS",
+      "iconURL": "https://ifly-emu.com/icon-1024.png",
+      "tintColor": "#ff6900",
+      "category": "games",
+      "screenshots": [
+        "https://ifly-emu.com/screenshots/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
+        "https://ifly-emu.com/screenshots/iphone/search.jpg",
+        "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
+        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+      ],
+      "version": "1.0.0+1794269763",
+      "buildVersion": "1794269763",
+      "date": "2026-11-10",
+      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1794269763/iFly-1.0.0-1794269763.ipa",
+      "size": 134646560,
+      "minOSVersion": "17.0",
+      "platform": "iOS",
+      "isBeta": true,
       "versionDate": "2026-11-10",
       "__source": "https://provenance-emu.com/apps.json",
       "__mirrors": [],
@@ -187,6 +283,470 @@
       "betaNumber": 7,
       "versionDate": "2026-11-10",
       "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.associated-appclip-app-identifiers",
+          "com.apple.security.application-groups",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.storekit.request-data",
+          "com.apple.developer.ubiquity-container-identifiers",
+          "com.apple.developer.usernotifications.communication",
+          "com.apple.developer.usernotifications.time-sensitive",
+          "get-task-allow",
+          "com.apple.developer.kernel.extended-virtual-addressing",
+          "com.apple.developer.networking.HotspotConfiguration",
+          "com.apple.developer.icloud-container-environment",
+          "com.apple.developer.icloud-container-identifiers",
+          "com.apple.developer.ubiquity-kvstore-identifier",
+          "com.apple.developer.icloud-services",
+          "com.apple.developer.kernel.increased-memory-limit",
+          "keychain-access-groups",
+          "com.apple.developer.avfoundation.multitasking-camera-access",
+          "com.apple.developer.usernotifications.filtering",
+          "aps-environment",
+          "com.apple.developer.networking.wifi-info"
+        ],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "This app requires Bluetooth access for connecting to nearby devices.",
+          "NSCalendarsUsageDescription": "This app requires access to your calendars for social event integration.",
+          "NSCameraUsageDescription": "This app requires camera access to capture photos and videos.",
+          "NSContactsUsageDescription": "This app requires access to your contacts for enhanced social features.",
+          "NSFaceIDUsageDescription": "This app requires Face ID for secure authentication.",
+          "NSFocusStatusUsageDescription": "This app uses focus status to optimize notifications.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "This app requires location access even when in the background for geotagging.",
+          "NSLocationUsageDescription": "This app requires location access to provide local content.",
+          "NSLocationWhenInUseUsageDescription": "This app requires location access while using the app.",
+          "NSMicrophoneUsageDescription": "This app requires microphone access for recording audio and videos.",
+          "NSPhotoLibraryAddUsageDescription": "This app requires access to add photos to your library.",
+          "NSPhotoLibraryUsageDescription": "This app requires access to your photo library.",
+          "NSUserTrackingUsageDescription": "This app uses tracking to deliver personalized content."
+        }
+      },
+      "beta": false,
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "Ryuk",
+      "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.38/e538b372-067f-4638-b06e-1e9bdd7a0b5R.ipa",
+      "iconURL": "https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/refs/heads/master/AltStore/assets/Instagram_logo_2022.svg.png",
+      "localizedDescription": "Just look up information for SCInsta if you're confused about usage",
+      "name": "Instagram (RyukGram)",
+      "screenshotURLs": [
+        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot1.jpg",
+        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot2.jpg",
+        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot3.jpg",
+        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot4.jpg"
+      ],
+      "size": 91750400,
+      "subtitle": "Additional features and fixes by Ryuk based on SCInsta | If you want to donate: - https://ko-fi.com/driftywinds",
+      "tintColor": "C13584",
+      "version": "455.0.0",
+      "versionDate": "2026-11-10",
+      "versionDescription": "Updated to v454.0.0, RyukGram v1.5.1",
+      "__source": "https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/master/AltStore/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Hevy",
+      "type": 1,
+      "bundleID": "com.hevyapp.hevy",
+      "bundleIdentifier": "com.hevyapp.hevy",
+      "version": "3.2.6",
+      "versionDate": "2026-11-10",
+      "fullDate": "20261110233239",
+      "size": 146854558,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Hevy_3.2.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Hevy_3.2.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hevyapp.hevy.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hevyapp.hevy.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "WaterAir",
+      "type": 1,
+      "bundleID": "co.airapps.waterreminder",
+      "bundleIdentifier": "co.airapps.waterreminder",
+      "version": "2026.11.2",
+      "versionDate": "2026-11-10",
+      "fullDate": "20261110211931",
+      "size": 67662955,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/WaterAir_2026.11.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/WaterAir_2026.11.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.waterreminder.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.waterreminder.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "ScannerAir",
+      "type": 1,
+      "bundleID": "co.airapps.scannerapp",
+      "bundleIdentifier": "co.airapps.scannerapp",
+      "version": "2026.11.2",
+      "versionDate": "2026-11-10",
+      "fullDate": "20261110211919",
+      "size": 145692805,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/ScannerAir_2026.11.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/ScannerAir_2026.11.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.scannerapp.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.scannerapp.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Rest",
+      "type": 1,
+      "bundleID": "com.evolve.helm",
+      "bundleIdentifier": "com.evolve.helm",
+      "version": "3.210.0",
+      "versionDate": "2026-11-10",
+      "fullDate": "20261110210222",
+      "size": 135426751,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Rest_3.210.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Rest_3.210.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.evolve.helm.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.evolve.helm.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Picsart",
+      "type": 1,
+      "bundleID": "com.picsart.studio",
+      "bundleIdentifier": "com.picsart.studio",
+      "version": "30.9.6",
+      "versionDate": "2026-11-10",
+      "fullDate": "20261110210215",
+      "size": 119191274,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Picsart_30.9.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Picsart_30.9.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picsart.studio.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picsart.studio.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Unblink",
+      "type": 1,
+      "bundleID": "com.idevtal.Wallpapers",
+      "bundleIdentifier": "com.idevtal.Wallpapers",
+      "version": "5.93",
+      "versionDate": "2026-11-10",
+      "fullDate": "20261110205501",
+      "size": 42065218,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Unblink_5.93_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Unblink_5.93_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.idevtal.Wallpapers.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.idevtal.Wallpapers.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "",
+      "type": 1,
+      "bundleID": "com.madarsoft.fitness",
+      "bundleIdentifier": "com.madarsoft.fitness",
+      "version": "21.0",
+      "versionDate": "2026-11-10",
+      "fullDate": "20261110202719",
+      "size": 264200674,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/_21.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/_21.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.madarsoft.fitness.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.madarsoft.fitness.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "FlightTracker",
+      "type": 1,
+      "bundleID": "com.iaftt.flightplusfree",
+      "bundleIdentifier": "com.iaftt.flightplusfree",
+      "version": "8.8.4",
+      "versionDate": "2026-11-10",
+      "fullDate": "20261110164921",
+      "size": 108634561,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/FlightTracker_8.8.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/FlightTracker_8.8.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iaftt.flightplusfree.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iaftt.flightplusfree.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "EPIK",
+      "type": 1,
+      "bundleID": "com.snowcorp.epik",
+      "bundleIdentifier": "com.snowcorp.epik",
+      "version": "7.5.0",
+      "versionDate": "2026-11-10",
+      "fullDate": "20261110153239",
+      "size": 182859238,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/EPIK_7.5.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/EPIK_7.5.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.epik.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.epik.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Sketchar",
+      "type": 1,
+      "bundleID": "tech.sketchar.ios",
+      "bundleIdentifier": "tech.sketchar.ios",
+      "version": "11.0",
+      "versionDate": "2026-11-10",
+      "fullDate": "20261110145055",
+      "size": 160143230,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Sketchar_11.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Sketchar_11.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.sketchar.ios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.sketchar.ios.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "SnapEdit",
+      "type": 1,
+      "bundleID": "com.sfun.snapedit",
+      "bundleIdentifier": "com.sfun.snapedit",
+      "version": "6.27.3",
+      "versionDate": "2026-11-10",
+      "fullDate": "20261110135431",
+      "size": 136914758,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/SnapEdit_6.27.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/SnapEdit_6.27.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sfun.snapedit.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sfun.snapedit.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Slopes",
+      "type": 1,
+      "bundleID": "com.consumedbycode.slopes",
+      "bundleIdentifier": "com.consumedbycode.slopes",
+      "version": "2026.17",
+      "versionDate": "2026-11-10",
+      "fullDate": "20261110135425",
+      "size": 106163075,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Slopes_2026.17_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Slopes_2026.17_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.consumedbycode.slopes.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.consumedbycode.slopes.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Detail",
+      "type": 1,
+      "bundleID": "co.detail.duo",
+      "bundleIdentifier": "co.detail.duo",
+      "version": "6.0.7",
+      "versionDate": "2026-11-10",
+      "fullDate": "20261110135416",
+      "size": 222664093,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Detail_6.0.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Detail_6.0.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.detail.duo.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.detail.duo.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "",
+      "type": 1,
+      "bundleID": "com.madarsoft.fitness",
+      "bundleIdentifier": "com.madarsoft.fitness",
+      "version": "7.29.0",
+      "versionDate": "2026-11-10",
+      "fullDate": "20261110133655",
+      "size": 217275148,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/_7.29.0_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/_7.29.0_VIP_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with VIP",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.madarsoft.fitness.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.madarsoft.fitness.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Wikiloc",
+      "type": 1,
+      "bundleID": "com.wikiloc.wikiloc",
+      "bundleIdentifier": "com.wikiloc.wikiloc",
+      "version": "3.31.2",
+      "versionDate": "2026-11-10",
+      "fullDate": "20261110133649",
+      "size": 135677077,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Wikiloc_3.31.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Wikiloc_3.31.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wikiloc.wikiloc.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wikiloc.wikiloc.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Stndrd",
+      "type": 1,
+      "bundleID": "uni.cbum",
+      "bundleIdentifier": "uni.cbum",
+      "version": "4.1.64",
+      "versionDate": "2026-11-10",
+      "fullDate": "20261110133643",
+      "size": 148971150,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Stndrd_4.1.64_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Stndrd_4.1.64_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uni.cbum.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uni.cbum.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Premiere",
+      "type": 1,
+      "bundleID": "com.adobe.premiere.ios",
+      "bundleIdentifier": "com.adobe.premiere.ios",
+      "version": "26.23.1",
+      "versionDate": "2026-11-10",
+      "fullDate": "20261110133638",
+      "size": 111669638,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Premiere_26.23.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Premiere_26.23.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.premiere.ios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.premiere.ios.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "NutriCoach",
+      "type": 1,
+      "bundleID": "nutrition.coach",
+      "bundleIdentifier": "nutrition.coach",
+      "version": "2.7.0",
+      "versionDate": "2026-11-10",
+      "fullDate": "20261110133633",
+      "size": 77995927,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/NutriCoach_2.7.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/NutriCoach_2.7.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nutrition.coach.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nutrition.coach.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "MobileScanner",
+      "type": 1,
+      "bundleID": "com.glority.everlens",
+      "bundleIdentifier": "com.glority.everlens",
+      "version": "2.26.5",
+      "versionDate": "2026-11-10",
+      "fullDate": "20261110133627",
+      "size": 126965611,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/MobileScanner_2.26.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/MobileScanner_2.26.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.glority.everlens.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.glority.everlens.png",
+      "__source": "https://repository.apptesters.org",
       "__mirrors": [],
       "__stores": [
         "AltStore"
@@ -444,6 +1004,16 @@
         "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
         "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
       ],
+      "screenshots": [
+        "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
+        "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
+        "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",
+        "https://fouadraheb.com/images/landing/regram/09e-media-vault-list.webp",
+        "https://fouadraheb.com/images/landing/regram/11a-downloads-list.webp",
+        "https://fouadraheb.com/images/landing/regram/07b-activity-history-timeline.webp",
+        "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
+        "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
+      ],
       "category": "social",
       "tintColor": "#E1306C",
       "appPermissions": {
@@ -493,6 +1063,16 @@
       "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
       "icon": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
       "screenshotURLs": [
+        "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
+        "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
+        "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",
+        "https://fouadraheb.com/images/landing/regram/09e-media-vault-list.webp",
+        "https://fouadraheb.com/images/landing/regram/11a-downloads-list.webp",
+        "https://fouadraheb.com/images/landing/regram/07b-activity-history-timeline.webp",
+        "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
+        "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
+      ],
+      "screenshots": [
         "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
         "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
         "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",
@@ -5159,71 +5739,6 @@
       "isBeta": true,
       "versionDate": "2026-11-03",
       "__source": "https://provenance-emu.com/apps.json",
-      "__mirrors": [],
-      "__stores": [
-        "AltStore"
-      ]
-    },
-    {
-      "appPermissions": {
-        "entitlements": [
-          "com.apple.developer.associated-appclip-app-identifiers",
-          "com.apple.security.application-groups",
-          "com.apple.developer.associated-domains",
-          "com.apple.developer.storekit.request-data",
-          "com.apple.developer.ubiquity-container-identifiers",
-          "com.apple.developer.usernotifications.communication",
-          "com.apple.developer.usernotifications.time-sensitive",
-          "get-task-allow",
-          "com.apple.developer.kernel.extended-virtual-addressing",
-          "com.apple.developer.networking.HotspotConfiguration",
-          "com.apple.developer.icloud-container-environment",
-          "com.apple.developer.icloud-container-identifiers",
-          "com.apple.developer.ubiquity-kvstore-identifier",
-          "com.apple.developer.icloud-services",
-          "com.apple.developer.kernel.increased-memory-limit",
-          "keychain-access-groups",
-          "com.apple.developer.avfoundation.multitasking-camera-access",
-          "com.apple.developer.usernotifications.filtering",
-          "aps-environment",
-          "com.apple.developer.networking.wifi-info"
-        ],
-        "privacy": {
-          "NSBluetoothAlwaysUsageDescription": "This app requires Bluetooth access for connecting to nearby devices.",
-          "NSCalendarsUsageDescription": "This app requires access to your calendars for social event integration.",
-          "NSCameraUsageDescription": "This app requires camera access to capture photos and videos.",
-          "NSContactsUsageDescription": "This app requires access to your contacts for enhanced social features.",
-          "NSFaceIDUsageDescription": "This app requires Face ID for secure authentication.",
-          "NSFocusStatusUsageDescription": "This app uses focus status to optimize notifications.",
-          "NSLocationAlwaysAndWhenInUseUsageDescription": "This app requires location access even when in the background for geotagging.",
-          "NSLocationUsageDescription": "This app requires location access to provide local content.",
-          "NSLocationWhenInUseUsageDescription": "This app requires location access while using the app.",
-          "NSMicrophoneUsageDescription": "This app requires microphone access for recording audio and videos.",
-          "NSPhotoLibraryAddUsageDescription": "This app requires access to add photos to your library.",
-          "NSPhotoLibraryUsageDescription": "This app requires access to your photo library.",
-          "NSUserTrackingUsageDescription": "This app uses tracking to deliver personalized content."
-        }
-      },
-      "beta": false,
-      "bundleIdentifier": "com.burbn.instagram",
-      "developerName": "Ryuk",
-      "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.37/43d6c872-d02a-4cc5-8dee-274cd2dd053R.ipa",
-      "iconURL": "https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/refs/heads/master/AltStore/assets/Instagram_logo_2022.svg.png",
-      "localizedDescription": "Just look up information for SCInsta if you're confused about usage",
-      "name": "Instagram (RyukGram)",
-      "screenshotURLs": [
-        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot1.jpg",
-        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot2.jpg",
-        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot3.jpg",
-        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot4.jpg"
-      ],
-      "size": 91750400,
-      "subtitle": "Additional features and fixes by Ryuk based on SCInsta | If you want to donate: - https://ko-fi.com/driftywinds",
-      "tintColor": "C13584",
-      "version": "454.0.0",
-      "versionDate": "2026-11-03",
-      "versionDescription": "Updated to v454.0.0, RyukGram v1.5.1",
-      "__source": "https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/master/AltStore/apps.json",
       "__mirrors": [],
       "__stores": [
         "AltStore"
@@ -17758,6 +18273,16 @@
         "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
         "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
       ],
+      "screenshots": [
+        "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
+        "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
+        "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",
+        "https://fouadraheb.com/images/landing/regram/09e-media-vault-list.webp",
+        "https://fouadraheb.com/images/landing/regram/11a-downloads-list.webp",
+        "https://fouadraheb.com/images/landing/regram/07b-activity-history-timeline.webp",
+        "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
+        "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
+      ],
       "category": "social",
       "tintColor": "#E1306C",
       "appPermissions": {
@@ -17807,6 +18332,16 @@
       "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
       "icon": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
       "screenshotURLs": [
+        "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
+        "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
+        "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",
+        "https://fouadraheb.com/images/landing/regram/09e-media-vault-list.webp",
+        "https://fouadraheb.com/images/landing/regram/11a-downloads-list.webp",
+        "https://fouadraheb.com/images/landing/regram/07b-activity-history-timeline.webp",
+        "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
+        "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
+      ],
+      "screenshots": [
         "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
         "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
         "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",
@@ -18655,6 +19190,16 @@
         "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
         "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
       ],
+      "screenshots": [
+        "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
+        "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
+        "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",
+        "https://fouadraheb.com/images/landing/regram/09e-media-vault-list.webp",
+        "https://fouadraheb.com/images/landing/regram/11a-downloads-list.webp",
+        "https://fouadraheb.com/images/landing/regram/07b-activity-history-timeline.webp",
+        "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
+        "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
+      ],
       "category": "social",
       "tintColor": "#E1306C",
       "appPermissions": {
@@ -18704,6 +19249,16 @@
       "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
       "icon": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
       "screenshotURLs": [
+        "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
+        "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
+        "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",
+        "https://fouadraheb.com/images/landing/regram/09e-media-vault-list.webp",
+        "https://fouadraheb.com/images/landing/regram/11a-downloads-list.webp",
+        "https://fouadraheb.com/images/landing/regram/07b-activity-history-timeline.webp",
+        "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
+        "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
+      ],
+      "screenshots": [
         "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
         "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
         "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",
@@ -23020,6 +23575,16 @@
         "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
         "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
       ],
+      "screenshots": [
+        "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
+        "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
+        "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",
+        "https://fouadraheb.com/images/landing/regram/09e-media-vault-list.webp",
+        "https://fouadraheb.com/images/landing/regram/11a-downloads-list.webp",
+        "https://fouadraheb.com/images/landing/regram/07b-activity-history-timeline.webp",
+        "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
+        "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
+      ],
       "category": "social",
       "tintColor": "#E1306C",
       "appPermissions": {
@@ -23069,6 +23634,16 @@
       "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
       "icon": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
       "screenshotURLs": [
+        "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
+        "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
+        "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",
+        "https://fouadraheb.com/images/landing/regram/09e-media-vault-list.webp",
+        "https://fouadraheb.com/images/landing/regram/11a-downloads-list.webp",
+        "https://fouadraheb.com/images/landing/regram/07b-activity-history-timeline.webp",
+        "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
+        "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
+      ],
+      "screenshots": [
         "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
         "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
         "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",
@@ -26187,6 +26762,16 @@
         "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
         "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
       ],
+      "screenshots": [
+        "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
+        "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
+        "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",
+        "https://fouadraheb.com/images/landing/regram/09e-media-vault-list.webp",
+        "https://fouadraheb.com/images/landing/regram/11a-downloads-list.webp",
+        "https://fouadraheb.com/images/landing/regram/07b-activity-history-timeline.webp",
+        "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
+        "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
+      ],
       "category": "social",
       "tintColor": "#E1306C",
       "appPermissions": {
@@ -26236,6 +26821,16 @@
       "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
       "icon": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
       "screenshotURLs": [
+        "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
+        "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
+        "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",
+        "https://fouadraheb.com/images/landing/regram/09e-media-vault-list.webp",
+        "https://fouadraheb.com/images/landing/regram/11a-downloads-list.webp",
+        "https://fouadraheb.com/images/landing/regram/07b-activity-history-timeline.webp",
+        "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
+        "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
+      ],
+      "screenshots": [
         "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
         "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
         "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",
@@ -34698,6 +35293,16 @@
         "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
         "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
       ],
+      "screenshots": [
+        "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
+        "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
+        "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",
+        "https://fouadraheb.com/images/landing/regram/09e-media-vault-list.webp",
+        "https://fouadraheb.com/images/landing/regram/11a-downloads-list.webp",
+        "https://fouadraheb.com/images/landing/regram/07b-activity-history-timeline.webp",
+        "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
+        "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
+      ],
       "category": "social",
       "tintColor": "#E1306C",
       "appPermissions": {
@@ -34747,6 +35352,16 @@
       "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
       "icon": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
       "screenshotURLs": [
+        "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
+        "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
+        "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",
+        "https://fouadraheb.com/images/landing/regram/09e-media-vault-list.webp",
+        "https://fouadraheb.com/images/landing/regram/11a-downloads-list.webp",
+        "https://fouadraheb.com/images/landing/regram/07b-activity-history-timeline.webp",
+        "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
+        "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
+      ],
+      "screenshots": [
         "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
         "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
         "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",
@@ -39110,6 +39725,16 @@
         "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
         "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
       ],
+      "screenshots": [
+        "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
+        "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
+        "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",
+        "https://fouadraheb.com/images/landing/regram/09e-media-vault-list.webp",
+        "https://fouadraheb.com/images/landing/regram/11a-downloads-list.webp",
+        "https://fouadraheb.com/images/landing/regram/07b-activity-history-timeline.webp",
+        "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
+        "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
+      ],
       "category": "social",
       "tintColor": "#E1306C",
       "appPermissions": {
@@ -39159,6 +39784,16 @@
       "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
       "icon": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
       "screenshotURLs": [
+        "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
+        "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
+        "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",
+        "https://fouadraheb.com/images/landing/regram/09e-media-vault-list.webp",
+        "https://fouadraheb.com/images/landing/regram/11a-downloads-list.webp",
+        "https://fouadraheb.com/images/landing/regram/07b-activity-history-timeline.webp",
+        "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
+        "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
+      ],
+      "screenshots": [
         "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
         "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
         "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",
@@ -39982,6 +40617,16 @@
         "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
         "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
       ],
+      "screenshots": [
+        "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
+        "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
+        "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",
+        "https://fouadraheb.com/images/landing/regram/09e-media-vault-list.webp",
+        "https://fouadraheb.com/images/landing/regram/11a-downloads-list.webp",
+        "https://fouadraheb.com/images/landing/regram/07b-activity-history-timeline.webp",
+        "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
+        "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
+      ],
       "category": "social",
       "tintColor": "#E1306C",
       "appPermissions": {
@@ -40031,6 +40676,16 @@
       "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
       "icon": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
       "screenshotURLs": [
+        "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
+        "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
+        "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",
+        "https://fouadraheb.com/images/landing/regram/09e-media-vault-list.webp",
+        "https://fouadraheb.com/images/landing/regram/11a-downloads-list.webp",
+        "https://fouadraheb.com/images/landing/regram/07b-activity-history-timeline.webp",
+        "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
+        "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
+      ],
+      "screenshots": [
         "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
         "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
         "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",
@@ -50732,6 +51387,16 @@
         "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
         "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
       ],
+      "screenshots": [
+        "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
+        "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
+        "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",
+        "https://fouadraheb.com/images/landing/regram/09e-media-vault-list.webp",
+        "https://fouadraheb.com/images/landing/regram/11a-downloads-list.webp",
+        "https://fouadraheb.com/images/landing/regram/07b-activity-history-timeline.webp",
+        "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
+        "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
+      ],
       "category": "social",
       "tintColor": "#E1306C",
       "appPermissions": {
@@ -50781,6 +51446,16 @@
       "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
       "icon": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
       "screenshotURLs": [
+        "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
+        "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
+        "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",
+        "https://fouadraheb.com/images/landing/regram/09e-media-vault-list.webp",
+        "https://fouadraheb.com/images/landing/regram/11a-downloads-list.webp",
+        "https://fouadraheb.com/images/landing/regram/07b-activity-history-timeline.webp",
+        "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
+        "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
+      ],
+      "screenshots": [
         "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
         "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
         "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",
@@ -51972,6 +52647,16 @@
         "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
         "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
       ],
+      "screenshots": [
+        "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
+        "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
+        "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",
+        "https://fouadraheb.com/images/landing/regram/09e-media-vault-list.webp",
+        "https://fouadraheb.com/images/landing/regram/11a-downloads-list.webp",
+        "https://fouadraheb.com/images/landing/regram/07b-activity-history-timeline.webp",
+        "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
+        "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
+      ],
       "category": "social",
       "tintColor": "#E1306C",
       "appPermissions": {
@@ -52021,6 +52706,16 @@
       "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
       "icon": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
       "screenshotURLs": [
+        "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
+        "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
+        "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",
+        "https://fouadraheb.com/images/landing/regram/09e-media-vault-list.webp",
+        "https://fouadraheb.com/images/landing/regram/11a-downloads-list.webp",
+        "https://fouadraheb.com/images/landing/regram/07b-activity-history-timeline.webp",
+        "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
+        "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
+      ],
+      "screenshots": [
         "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
         "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
         "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",
@@ -61532,6 +62227,16 @@
         "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
         "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
       ],
+      "screenshots": [
+        "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
+        "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
+        "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",
+        "https://fouadraheb.com/images/landing/regram/09e-media-vault-list.webp",
+        "https://fouadraheb.com/images/landing/regram/11a-downloads-list.webp",
+        "https://fouadraheb.com/images/landing/regram/07b-activity-history-timeline.webp",
+        "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
+        "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
+      ],
       "category": "social",
       "tintColor": "#E1306C",
       "appPermissions": {
@@ -61581,6 +62286,16 @@
       "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
       "icon": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
       "screenshotURLs": [
+        "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
+        "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
+        "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",
+        "https://fouadraheb.com/images/landing/regram/09e-media-vault-list.webp",
+        "https://fouadraheb.com/images/landing/regram/11a-downloads-list.webp",
+        "https://fouadraheb.com/images/landing/regram/07b-activity-history-timeline.webp",
+        "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
+        "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
+      ],
+      "screenshots": [
         "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
         "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
         "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",
@@ -64132,6 +64847,16 @@
         "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
         "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
       ],
+      "screenshots": [
+        "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
+        "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
+        "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",
+        "https://fouadraheb.com/images/landing/regram/09e-media-vault-list.webp",
+        "https://fouadraheb.com/images/landing/regram/11a-downloads-list.webp",
+        "https://fouadraheb.com/images/landing/regram/07b-activity-history-timeline.webp",
+        "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
+        "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
+      ],
       "category": "social",
       "tintColor": "#E1306C",
       "appPermissions": {
@@ -64181,6 +64906,16 @@
       "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
       "icon": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
       "screenshotURLs": [
+        "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
+        "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
+        "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",
+        "https://fouadraheb.com/images/landing/regram/09e-media-vault-list.webp",
+        "https://fouadraheb.com/images/landing/regram/11a-downloads-list.webp",
+        "https://fouadraheb.com/images/landing/regram/07b-activity-history-timeline.webp",
+        "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
+        "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
+      ],
+      "screenshots": [
         "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
         "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
         "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",
@@ -74702,6 +75437,16 @@
         "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
         "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
       ],
+      "screenshots": [
+        "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
+        "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
+        "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",
+        "https://fouadraheb.com/images/landing/regram/09e-media-vault-list.webp",
+        "https://fouadraheb.com/images/landing/regram/11a-downloads-list.webp",
+        "https://fouadraheb.com/images/landing/regram/07b-activity-history-timeline.webp",
+        "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
+        "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
+      ],
       "category": "social",
       "tintColor": "#E1306C",
       "appPermissions": {
@@ -74751,6 +75496,16 @@
       "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
       "icon": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
       "screenshotURLs": [
+        "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
+        "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
+        "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",
+        "https://fouadraheb.com/images/landing/regram/09e-media-vault-list.webp",
+        "https://fouadraheb.com/images/landing/regram/11a-downloads-list.webp",
+        "https://fouadraheb.com/images/landing/regram/07b-activity-history-timeline.webp",
+        "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
+        "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
+      ],
+      "screenshots": [
         "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
         "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
         "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",
@@ -79764,6 +80519,16 @@
         "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
         "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
       ],
+      "screenshots": [
+        "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
+        "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
+        "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",
+        "https://fouadraheb.com/images/landing/regram/09e-media-vault-list.webp",
+        "https://fouadraheb.com/images/landing/regram/11a-downloads-list.webp",
+        "https://fouadraheb.com/images/landing/regram/07b-activity-history-timeline.webp",
+        "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
+        "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
+      ],
       "category": "social",
       "tintColor": "#E1306C",
       "appPermissions": {
@@ -79813,6 +80578,16 @@
       "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
       "icon": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
       "screenshotURLs": [
+        "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
+        "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
+        "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",
+        "https://fouadraheb.com/images/landing/regram/09e-media-vault-list.webp",
+        "https://fouadraheb.com/images/landing/regram/11a-downloads-list.webp",
+        "https://fouadraheb.com/images/landing/regram/07b-activity-history-timeline.webp",
+        "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
+        "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
+      ],
+      "screenshots": [
         "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
         "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
         "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",
@@ -86646,6 +87421,16 @@
         "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
         "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
       ],
+      "screenshots": [
+        "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
+        "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
+        "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",
+        "https://fouadraheb.com/images/landing/regram/09e-media-vault-list.webp",
+        "https://fouadraheb.com/images/landing/regram/11a-downloads-list.webp",
+        "https://fouadraheb.com/images/landing/regram/07b-activity-history-timeline.webp",
+        "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
+        "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
+      ],
       "category": "social",
       "tintColor": "#E1306C",
       "appPermissions": {
@@ -86695,6 +87480,16 @@
       "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
       "icon": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
       "screenshotURLs": [
+        "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
+        "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
+        "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",
+        "https://fouadraheb.com/images/landing/regram/09e-media-vault-list.webp",
+        "https://fouadraheb.com/images/landing/regram/11a-downloads-list.webp",
+        "https://fouadraheb.com/images/landing/regram/07b-activity-history-timeline.webp",
+        "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
+        "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
+      ],
+      "screenshots": [
         "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
         "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
         "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",

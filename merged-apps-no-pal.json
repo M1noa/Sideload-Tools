@@ -4,7 +4,7 @@
   "subtitle": "Auto-merged from 43 AltStore/ESign sources. Local cached URLs where available, PAL fields removed.",
   "description": "Same as the merged catalog but strips appID/marketplaceID/permissions (AltStore PAL) and nested versions arrays.",
   "iconURL": "https://avatars.githubusercontent.com/u/57844837",
-  "appCount": 13484,
+  "appCount": 13492,
   "sourceCount": 43,
   "apps": [
     {
@@ -27,14 +27,14 @@
         "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
       ],
       "version": "1.0.0",
-      "buildVersion": "478",
-      "date": "2026-11-10T07:33:26.745Z",
-      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-478/Non-Jailbroken.ipa",
-      "size": 105263077,
+      "buildVersion": "485",
+      "date": "2026-11-11T00:50:12.260Z",
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-485/Non-Jailbroken.ipa",
+      "size": 105307512,
       "minOSVersion": "17.0",
       "platform": "iOS",
       "isBeta": true,
-      "versionDate": "2026-11-10T07:33:26.745Z",
+      "versionDate": "2026-11-11T00:50:12.260Z",
       "__source": "https://provenance-emu.com/apps.json",
       "__mirrors": [],
       "__stores": [
@@ -46,7 +46,7 @@
       "bundleIdentifier": "com.provenance-emu.provenance.alpha",
       "developerName": "Provenance-EMU",
       "subtitle": "Latest dev builds - test new features early",
-      "localizedDescription": "Alpha build 2f79565 \u00b7 2026-11-10\n\nChanges in this build:\n\u2022 feat: lay out for the folding iPhone from the window, not the device\n\u2022 fix(skins): place the game picture where the skin renderer draws its screen\n\u2022 feat(pause): open the skin catalog from the pause menu, slimmer header\n\u2022 fix(ui): align side menu and settings with the library chrome\n\u2022 fix(saves): slimmer save states sheet with hairline chrome\n\u2022 fix(pause): lighter tile menu that shows it scrolls\n\u2022 noci\n\u2022 fix: four crashes from this week's TestFlight reports\n\u2022 fix(library): blend chrome into the status bar, dock the BIOS tab\n\u2022 fix: restore built-in controls and DOS touch input\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
+      "localizedDescription": "Alpha build ffa9046 \u00b7 2026-11-11\n\nChanges in this build:\n\u2022 style(ui): unify widget chrome; overlay save prompt uses PVAlert\n\u2022 fix: tvOS background kills, Dolphin config crash, BIOS check thread\n\u2022 fix(ui): give alerts side margins; every alert uses PVAlert\n\u2022 build: update PVWebServer to 1.3.1 (#3809)\n\u2022 fix(ui): share skin chrome and lighten launch and save browsers\n\u2022 fix: two crashes from today's TestFlight reports\n\u2022 fix(controls): preserve touch fallback and launch pause ownership\n\u2022 fix(tvos): guard iOS-only save browser styling\n\u2022 fix(controls): iPad touch controls, pause on controller loss\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
       "iconURL": "https://raw.githubusercontent.com/Provenance-Emu/Provenance/develop/Provenance/Resources/Assets.xcassets/AppIcon.appiconset/iTunesArtwork%402x.png",
       "tintColor": "FF6B35",
       "screenshotURLs": [],
@@ -74,12 +74,315 @@
         ]
       },
       "version": "3.4.0",
-      "buildVersion": "11089",
-      "marketingVersion": "3.4.0-alpha.20261110.2f79565",
-      "date": "2026-11-10",
+      "buildVersion": "11103",
+      "marketingVersion": "3.4.0-alpha.20261111.ffa9046",
+      "date": "2026-11-11",
       "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
-      "size": 780927711,
+      "size": 781961007,
       "minOSVersion": "17.0",
+      "versionDate": "2026-11-11",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iCube",
+      "bundleIdentifier": "com.joemattiello.iCube",
+      "developerName": "Provenance Emu",
+      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
+      "localizedDescription": "iCube 1.0.0-beta9-ios Beta 9 for iOS",
+      "iconURL": "https://icube-emu.com/icon-1024.png",
+      "tintColor": "#3B82F6",
+      "category": "games",
+      "screenshots": [
+        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
+        "https://icube-emu.com/screenshots/iphone/search.jpg",
+        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
+        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
+        "https://icube-emu.com/screenshots/iphone/shaders.jpg",
+        "https://icube-emu.com/screenshots/iphone/settings-graphics.jpg",
+        "https://icube-emu.com/screenshots/iphone/settings-controllers.jpg",
+        "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
+      ],
+      "version": "1.0.0-beta9-ios",
+      "buildVersion": "1.0.0-beta9-ios",
+      "date": "2026-11-11",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/iCube.ipa",
+      "size": 82799373,
+      "minOSVersion": "15.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "betaNumber": 9,
+      "versionDate": "2026-11-11",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ],
+      "__hash_duplicates": [
+        {
+          "name": "iCube",
+          "bundleIdentifier": "com.joemattiello.iCube",
+          "version": "1.0.0-beta9-ios"
+        },
+        {
+          "name": "iCube",
+          "bundleIdentifier": "com.joemattiello.iCube",
+          "version": "1.0.0-beta7-ios"
+        }
+      ]
+    },
+    {
+      "name": "iCube",
+      "bundleIdentifier": "com.joemattiello.iCube",
+      "developerName": "Provenance Emu",
+      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
+      "localizedDescription": "iCube 1.0.0-beta8-ios Beta 8 for iOS",
+      "iconURL": "https://icube-emu.com/icon-1024.png",
+      "tintColor": "#3B82F6",
+      "category": "games",
+      "screenshots": [
+        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
+        "https://icube-emu.com/screenshots/iphone/search.jpg",
+        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
+        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
+        "https://icube-emu.com/screenshots/iphone/shaders.jpg",
+        "https://icube-emu.com/screenshots/iphone/settings-graphics.jpg",
+        "https://icube-emu.com/screenshots/iphone/settings-controllers.jpg",
+        "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
+      ],
+      "version": "1.0.0-beta8-ios",
+      "buildVersion": "1.0.0-beta8-ios",
+      "date": "2026-11-11",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/iCube.ipa",
+      "size": 82893911,
+      "minOSVersion": "15.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "betaNumber": 8,
+      "versionDate": "2026-11-11",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iCube",
+      "bundleIdentifier": "com.joemattiello.iCube",
+      "developerName": "Provenance Emu",
+      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
+      "localizedDescription": "iCube 1.0.0-beta7-ios Beta 7 for iOS",
+      "iconURL": "https://icube-emu.com/icon-1024.png",
+      "tintColor": "#3B82F6",
+      "category": "games",
+      "screenshots": [
+        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
+        "https://icube-emu.com/screenshots/iphone/search.jpg",
+        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
+        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
+        "https://icube-emu.com/screenshots/iphone/shaders.jpg",
+        "https://icube-emu.com/screenshots/iphone/settings-graphics.jpg",
+        "https://icube-emu.com/screenshots/iphone/settings-controllers.jpg",
+        "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
+      ],
+      "version": "1.0.0-beta7-ios",
+      "buildVersion": "1.0.0-beta7-ios",
+      "date": "2026-11-11",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/iCube.ipa",
+      "size": 82893502,
+      "minOSVersion": "15.6",
+      "platform": "iOS",
+      "isBeta": true,
+      "betaNumber": 7,
+      "versionDate": "2026-11-11",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ],
+      "__hash_duplicates": [
+        {
+          "name": "iCube",
+          "bundleIdentifier": "com.joemattiello.iCube",
+          "version": "1.0.0-beta9-ios"
+        }
+      ]
+    },
+    {
+      "name": "VSCO",
+      "type": 1,
+      "bundleID": "co.visualsupply.cam",
+      "bundleIdentifier": "co.visualsupply.cam",
+      "version": "462.1.1",
+      "versionDate": "2026-11-11",
+      "fullDate": "20261111075755",
+      "size": 143870180,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/VSCO_462.1.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/VSCO_462.1.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.visualsupply.cam.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.visualsupply.cam.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "B612",
+      "type": 1,
+      "bundleID": "com.linecorp.b612",
+      "bundleIdentifier": "com.linecorp.b612",
+      "version": "15.5.0",
+      "versionDate": "2026-11-11",
+      "fullDate": "20261111074629",
+      "size": 186179282,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/B612_15.5.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/B612_15.5.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.linecorp.b612.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.linecorp.b612.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "SNOW",
+      "type": 1,
+      "bundleID": "com.campmobile.snow",
+      "bundleIdentifier": "com.campmobile.snow",
+      "version": "15.5.0",
+      "versionDate": "2026-11-11",
+      "fullDate": "20261111074015",
+      "size": 186570321,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/SNOW_15.5.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/SNOW_15.5.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.campmobile.snow.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.campmobile.snow.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Mojo",
+      "type": 1,
+      "bundleID": "archery.storify",
+      "bundleIdentifier": "archery.storify",
+      "version": "1.282.1",
+      "versionDate": "2026-11-11",
+      "fullDate": "20261111044733",
+      "size": 181376495,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/Mojo_1.282.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/Mojo_1.282.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/archery.storify.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/archery.storify.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "MyFitnessPal",
+      "type": 1,
+      "bundleID": "com.myfitnesspal.mfp",
+      "bundleIdentifier": "com.myfitnesspal.mfp",
+      "version": "26.45.0",
+      "versionDate": "2026-11-11",
+      "fullDate": "20261111015912",
+      "size": 217742068,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/MyFitnessPal_26.45.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/MyFitnessPal_26.45.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "VlogNow",
+      "type": 1,
+      "bundleID": "com.frontrow.vlog",
+      "bundleIdentifier": "com.frontrow.vlog",
+      "version": "2.24.1",
+      "versionDate": "2026-11-11",
+      "fullDate": "20261111014724",
+      "size": 506105543,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/VlogNow_2.24.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/VlogNow_2.24.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frontrow.vlog.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frontrow.vlog.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "RiseSleep",
+      "type": 1,
+      "bundleID": "com.risesci.nyx",
+      "bundleIdentifier": "com.risesci.nyx",
+      "version": "0.1.649",
+      "versionDate": "2026-11-11",
+      "fullDate": "20261111004005",
+      "size": 134479405,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/RiseSleep_0.1.649_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/RiseSleep_0.1.649_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iFly",
+      "bundleIdentifier": "com.provenance.ifly",
+      "developerName": "Provenance Emu",
+      "subtitle": "Dreamcast Emulator for iOS & tvOS",
+      "localizedDescription": "iFly 1.0.0 (build 1794294741) for iOS",
+      "iconURL": "https://ifly-emu.com/icon-1024.png",
+      "tintColor": "#ff6900",
+      "category": "games",
+      "screenshots": [
+        "https://ifly-emu.com/screenshots/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
+        "https://ifly-emu.com/screenshots/iphone/search.jpg",
+        "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
+        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+      ],
+      "version": "1.0.0+1794294741",
+      "buildVersion": "1794294741",
+      "date": "2026-11-10",
+      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1794294741/iFly-1.0.0-1794294741.ipa",
+      "size": 134666093,
+      "minOSVersion": "17.0",
+      "platform": "iOS",
+      "isBeta": true,
       "versionDate": "2026-11-10",
       "__source": "https://provenance-emu.com/apps.json",
       "__mirrors": [],
@@ -181,130 +484,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "iCube",
-      "bundleIdentifier": "com.joemattiello.iCube",
-      "developerName": "Provenance Emu",
-      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
-      "localizedDescription": "iCube 1.0.0-beta9-ios Beta 9 for iOS",
-      "iconURL": "https://icube-emu.com/icon-1024.png",
-      "tintColor": "#3B82F6",
-      "category": "games",
-      "screenshots": [
-        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
-        "https://icube-emu.com/screenshots/iphone/search.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
-        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
-        "https://icube-emu.com/screenshots/iphone/shaders.jpg",
-        "https://icube-emu.com/screenshots/iphone/settings-graphics.jpg",
-        "https://icube-emu.com/screenshots/iphone/settings-controllers.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
-      ],
-      "version": "1.0.0-beta9-ios",
-      "buildVersion": "1.0.0-beta9-ios",
-      "date": "2026-11-10",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/iCube.ipa",
-      "size": 82799373,
-      "minOSVersion": "15.0",
-      "platform": "iOS",
-      "isBeta": true,
-      "betaNumber": 9,
-      "versionDate": "2026-11-10",
-      "__source": "https://provenance-emu.com/apps.json",
-      "__mirrors": [],
-      "__stores": [
-        "AltStore"
-      ],
-      "__hash_duplicates": [
-        {
-          "name": "iCube",
-          "bundleIdentifier": "com.joemattiello.iCube",
-          "version": "1.0.0-beta9-ios"
-        },
-        {
-          "name": "iCube",
-          "bundleIdentifier": "com.joemattiello.iCube",
-          "version": "1.0.0-beta7-ios"
-        }
-      ]
-    },
-    {
-      "name": "iCube",
-      "bundleIdentifier": "com.joemattiello.iCube",
-      "developerName": "Provenance Emu",
-      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
-      "localizedDescription": "iCube 1.0.0-beta8-ios Beta 8 for iOS",
-      "iconURL": "https://icube-emu.com/icon-1024.png",
-      "tintColor": "#3B82F6",
-      "category": "games",
-      "screenshots": [
-        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
-        "https://icube-emu.com/screenshots/iphone/search.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
-        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
-        "https://icube-emu.com/screenshots/iphone/shaders.jpg",
-        "https://icube-emu.com/screenshots/iphone/settings-graphics.jpg",
-        "https://icube-emu.com/screenshots/iphone/settings-controllers.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
-      ],
-      "version": "1.0.0-beta8-ios",
-      "buildVersion": "1.0.0-beta8-ios",
-      "date": "2026-11-10",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/iCube.ipa",
-      "size": 82893911,
-      "minOSVersion": "15.0",
-      "platform": "iOS",
-      "isBeta": true,
-      "betaNumber": 8,
-      "versionDate": "2026-11-10",
-      "__source": "https://provenance-emu.com/apps.json",
-      "__mirrors": [],
-      "__stores": [
-        "AltStore"
-      ]
-    },
-    {
-      "name": "iCube",
-      "bundleIdentifier": "com.joemattiello.iCube",
-      "developerName": "Provenance Emu",
-      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
-      "localizedDescription": "iCube 1.0.0-beta7-ios Beta 7 for iOS",
-      "iconURL": "https://icube-emu.com/icon-1024.png",
-      "tintColor": "#3B82F6",
-      "category": "games",
-      "screenshots": [
-        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
-        "https://icube-emu.com/screenshots/iphone/search.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
-        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
-        "https://icube-emu.com/screenshots/iphone/shaders.jpg",
-        "https://icube-emu.com/screenshots/iphone/settings-graphics.jpg",
-        "https://icube-emu.com/screenshots/iphone/settings-controllers.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
-      ],
-      "version": "1.0.0-beta7-ios",
-      "buildVersion": "1.0.0-beta7-ios",
-      "date": "2026-11-10",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/iCube.ipa",
-      "size": 82893502,
-      "minOSVersion": "15.6",
-      "platform": "iOS",
-      "isBeta": true,
-      "betaNumber": 7,
-      "versionDate": "2026-11-10",
-      "__source": "https://provenance-emu.com/apps.json",
-      "__mirrors": [],
-      "__stores": [
-        "AltStore"
-      ],
-      "__hash_duplicates": [
-        {
-          "name": "iCube",
-          "bundleIdentifier": "com.joemattiello.iCube",
-          "version": "1.0.0-beta9-ios"
-        }
       ]
     },
     {
@@ -3400,7 +3579,7 @@
       "fullDate": "20261106080333",
       "size": 51927203,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2026/Picsew_3.20_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2026/Picsew_3.20_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/Picsew_3.20_Pro_@thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sugarmo.ScrollClip.png",
@@ -3421,7 +3600,7 @@
       "fullDate": "20261106045618",
       "size": 54805792,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2026/RunGo_7.4.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/RunGo_7.4.2_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2026/RunGo_7.4.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leapingcoyote.rungo.png",
@@ -6004,7 +6183,7 @@
       "fullDate": "20261103064703",
       "size": 5817381,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/Compress_3.5_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/Compress_3.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/Compress_3.5_Premium_@thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.newmarketinglab.ImageCompressor.png",
@@ -7463,7 +7642,7 @@
       "versionDate": "2026-11-02",
       "versionDescription": "App icon fix.",
       "size": 3697748,
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/TendieMaker.v1.0.9.ipa",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/TendieMaker.v1.0.9.ipa",
       "appPermissions": {
         "privacy": {}
       },
@@ -7493,7 +7672,7 @@
       "versionDate": "2026-11-02",
       "versionDescription": "Effect presets (Soft/Medium/Strong pills for Depth shadow and 3D border); tighter 3D frame and smaller shadows.",
       "size": 889664,
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Layers.v1.0.5.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/Layers.v1.0.5.ipa",
       "appPermissions": {
         "privacy": {
           "NSPhotoLibraryAddUsageDescription": "Layers saves your finished wallpaper to Photos so you can set it as your Home Screen wallpaper."
@@ -250174,7 +250353,7 @@
       "version": "1.10.1",
       "versionDate": "2024-10-14",
       "size": 160220,
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/TrollSpeed-1.10.1.ipa",
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollSpeed/TrollSpeed-1.10.1.ipa",
       "developerName": "Lessica",
       "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 06-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png",
@@ -250286,7 +250465,7 @@
       "version": "1.9.2.",
       "versionDate": "2024-10-14",
       "size": 147136,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollSpeed/TrollSpeed-1.9.2.tipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/TrollSpeed-1.9.2.tipa",
       "developerName": "Lessica",
       "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 06-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png",
@@ -250936,7 +251115,7 @@
       "version": "1.2.1",
       "versionDate": "2024-10-14",
       "size": 76865,
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/TrollLEDs-1.2.1.ipa",
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollLEDs/TrollLEDs-1.2.1.ipa",
       "developerName": "PoomSmart",
       "localizedDescription": "Control individual flashlight LEDs. Note: Refer to the original GitHub repository to find the list of supported devices.\nLast updated: 02-04-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.ps.TrollLEDs.png",
@@ -250952,7 +251131,7 @@
       "version": "1.4.0",
       "versionDate": "2024-10-14",
       "size": 49628,
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/TrollLEDs-1.4.0.ipa",
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollLEDs/TrollLEDs-1.4.0.ipa",
       "developerName": "PoomSmart",
       "localizedDescription": "Control individual flashlight LEDs. Note: Refer to the original GitHub repository to find the list of supported devices.\nLast updated: 02-04-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.ps.TrollLEDs.png",

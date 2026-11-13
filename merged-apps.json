@@ -4,7 +4,7 @@
   "subtitle": "Auto-merged from 43 AltStore/ESign sources. Local download URLs provided for cached files.",
   "description": "Deduplicates by (name, bundleIdentifier, version). downloadURL points to local repo copy if available, otherwise original URL. Downloads newest first; resumes from last run.",
   "iconURL": "https://avatars.githubusercontent.com/u/57844837",
-  "appCount": 13495,
+  "appCount": 13497,
   "sourceCount": 43,
   "apps": [
     {
@@ -27,14 +27,14 @@
         "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
       ],
       "version": "1.0.0",
-      "buildVersion": "507",
-      "date": "2026-11-13T00:07:10.036Z",
-      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-507/Non-Jailbroken.ipa",
-      "size": 123842896,
+      "buildVersion": "514",
+      "date": "2026-11-13T05:43:32.297Z",
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-514/Non-Jailbroken.ipa",
+      "size": 123996636,
       "minOSVersion": "17.0",
       "platform": "iOS",
       "isBeta": true,
-      "versionDate": "2026-11-13T00:07:10.036Z",
+      "versionDate": "2026-11-13T05:43:32.297Z",
       "__source": "https://provenance-emu.com/apps.json",
       "__mirrors": [],
       "__stores": [
@@ -125,7 +125,7 @@
         {
           "name": "iCube",
           "bundleIdentifier": "com.joemattiello.iCube",
-          "version": "1.0.0-beta8-ios"
+          "version": "1.0.0-beta9-ios"
         },
         {
           "name": "iCube",
@@ -167,13 +167,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ],
-      "__hash_duplicates": [
-        {
-          "name": "iCube",
-          "bundleIdentifier": "com.joemattiello.iCube",
-          "version": "1.0.0-beta9-ios"
-        }
       ]
     },
     {
@@ -216,6 +209,48 @@
           "bundleIdentifier": "com.joemattiello.iCube",
           "version": "1.0.0-beta9-ios"
         }
+      ]
+    },
+    {
+      "name": "Shapr3D",
+      "type": 1,
+      "bundleID": "com.shapr3d.shapr",
+      "bundleIdentifier": "com.shapr3d.shapr",
+      "version": "26.200.0",
+      "versionDate": "2026-11-13",
+      "fullDate": "20261113200923",
+      "size": 1321635266,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-11-2026/Shapr3D_26.200.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-11-2026/Shapr3D_26.200.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shapr3d.shapr.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shapr3d.shapr.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Most",
+      "type": 1,
+      "bundleID": "com.most.stories",
+      "bundleIdentifier": "com.most.stories",
+      "version": "3.5.9",
+      "versionDate": "2026-11-13",
+      "fullDate": "20261113105828",
+      "size": 235263620,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-11-2026/Most_3.5.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-11-2026/Most_3.5.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.most.stories.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.most.stories.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
       ]
     },
     {
@@ -255050,7 +255085,7 @@
       "version": "1.2.1",
       "versionDate": "2024-10-14",
       "size": 76865,
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/TrollLEDs-1.2.1.ipa",
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollLEDs/TrollLEDs-1.2.1.ipa",
       "developerName": "PoomSmart",
       "localizedDescription": "Control individual flashlight LEDs. Note: Refer to the original GitHub repository to find the list of supported devices.\nLast updated: 02-04-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.ps.TrollLEDs.png",

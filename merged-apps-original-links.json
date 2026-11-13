@@ -4,7 +4,7 @@
   "subtitle": "Auto-merged from 43 AltStore/ESign sources. Original download URLs preserved.",
   "description": "Deduplicates by (name, bundleIdentifier, version). __source is the first source; __mirrors lists additional sources.",
   "iconURL": "https://avatars.githubusercontent.com/u/57844837",
-  "appCount": 13495,
+  "appCount": 13497,
   "sourceCount": 43,
   "apps": [
     {
@@ -27,14 +27,14 @@
         "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
       ],
       "version": "1.0.0",
-      "buildVersion": "507",
-      "date": "2026-11-13T00:07:10.036Z",
-      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-507/Non-Jailbroken.ipa",
-      "size": 123842896,
+      "buildVersion": "514",
+      "date": "2026-11-13T05:43:32.297Z",
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-514/Non-Jailbroken.ipa",
+      "size": 123996636,
       "minOSVersion": "17.0",
       "platform": "iOS",
       "isBeta": true,
-      "versionDate": "2026-11-13T00:07:10.036Z",
+      "versionDate": "2026-11-13T05:43:32.297Z",
       "__source": "https://provenance-emu.com/apps.json",
       "__mirrors": [],
       "__stores": [
@@ -187,6 +187,48 @@
       "betaNumber": 7,
       "versionDate": "2026-11-13",
       "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Shapr3D",
+      "type": 1,
+      "bundleID": "com.shapr3d.shapr",
+      "bundleIdentifier": "com.shapr3d.shapr",
+      "version": "26.200.0",
+      "versionDate": "2026-11-13",
+      "fullDate": "20261113200923",
+      "size": 1321635266,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-11-2026/Shapr3D_26.200.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-11-2026/Shapr3D_26.200.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shapr3d.shapr.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shapr3d.shapr.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Most",
+      "type": 1,
+      "bundleID": "com.most.stories",
+      "bundleIdentifier": "com.most.stories",
+      "version": "3.5.9",
+      "versionDate": "2026-11-13",
+      "fullDate": "20261113105828",
+      "size": 235263620,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-11-2026/Most_3.5.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-11-2026/Most_3.5.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.most.stories.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.most.stories.png",
+      "__source": "https://repository.apptesters.org",
       "__mirrors": [],
       "__stores": [
         "AltStore"

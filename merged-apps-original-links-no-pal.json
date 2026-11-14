@@ -4,7 +4,7 @@
   "subtitle": "Auto-merged from 43 AltStore/ESign sources. Original URLs, PAL fields removed for maximum compatibility.",
   "description": "Same as the original-links catalog but strips appID/marketplaceID/permissions (AltStore PAL) and nested versions arrays.",
   "iconURL": "https://avatars.githubusercontent.com/u/57844837",
-  "appCount": 13501,
+  "appCount": 13502,
   "sourceCount": 43,
   "apps": [
     {
@@ -39,7 +39,7 @@
       "bundleID": "net.whatsapp.WhatsApp",
       "name": "Watusi",
       "subtitle": "The all-in-one tweak for WhatsApp",
-      "localizedDescription": "This update contains the following changes:\n\n- Online List is back: see who's online now, how long they've been online and their last seen, with its own contacts. Open it from the chats list, a row at its top or a tab\n- Fixed restoring a WhatsApp backup leaving photos, videos and voice notes missing from chats\n- Hide Frequently Contacted now also hides it when creating a new group or adding group members\n- Hide Chats: in-app notifications from hidden chats are hidden again on the latest WhatsApp\n- Hide Chats: statuses of hidden chats are now hidden from the Updates tab\n- Call Recording: fixed crackling, distorted sound in new recordings\n- Themes: when a new app font needs a relaunch to show on every screen, Themes now says so and lets you relaunch\n- Themes: the Top Bar colour now applies on iOS 26 instead of showing the background colour\n- Themes: the theme editor's app icon picker now shows the icons\n- Themes: Message Text Size and Sender Name Size now apply after a restart and when switching themes\n- Fixed WhatsApp's Unread filter showing every chat when Hide Chats has hidden chats\n- Fixed a crash after picking a wallpaper photo in the theme editor\n- Fixed a crash on launch when a spoofed group was saved in Contacts Spoofing\n- Fixed a crash when opening some statuses with the status Save or Mark as Viewed button on\n- Keep Deleted Statuses: the \"Deleted at\" time now also shows when the status is opened from the Updates tab's list\n- Fixed the Control Center toggles (Hide Chats, Last Seen, Read Receipts\u2026) not matching the switches in Watusi\n- Contact groups made in Watusi 3 are now brought over to the contacts picker\n- Updates Tracking: open the updates list right from its settings\n\nBased on WhatsApp 26.44.74.",
+      "localizedDescription": "This update contains the following changes:\n\n- Online List is back: see who's online now, how long they've been online and their last seen, with its own contacts. Open it from the chats list, a row at its top or a tab\n- Fixed restoring a WhatsApp backup leaving photos, videos and voice notes missing from chats\n- Hide Frequently Contacted now also hides it when creating a new group or adding group members\n- Hide Chats: in-app notifications from hidden chats are hidden again on the latest WhatsApp\n- Hide Chats: statuses of hidden chats are now hidden from the Updates tab\n- Call Recording: fixed crackling, distorted sound in new recordings\n- Themes: when a new app font needs a relaunch to show on every screen, Themes now says so and lets you relaunch\n- Themes: the Top Bar colour now applies on iOS 26 instead of showing the background colour\n- Themes: the theme editor's app icon picker now shows the icons\n- Themes: Message Text Size and Sender Name Size now apply after a restart and when switching themes\n- Fixed WhatsApp's Unread filter showing every chat when Hide Chats has hidden chats\n- Fixed a crash after picking a wallpaper photo in the theme editor\n- Fixed a crash on launch when a spoofed group was saved in Contacts Spoofing\n- Fixed a crash when opening some statuses with the status Save or Mark as Viewed button on\n- Keep Deleted Statuses: the \"Deleted at\" time now also shows when the status is opened from the Updates tab's list\n- Fixed the Control Center toggles (Hide Chats, Last Seen, Read Receipts\u2026) not matching the switches in Watusi\n- Contact groups made in Watusi 3 are now brought over to the contacts picker\n- Updates Tracking: open the updates list right from its settings\n- Fixed Watusi not loading on RootHide after converting with RootHide Patcher\n\nBased on WhatsApp 26.44.74.",
       "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/wa.png",
       "icon": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/wa.png",
       "screenshotURLs": [
@@ -109,7 +109,7 @@
       "bundleID": "com.fouadraheb.watusi",
       "name": "Watusi \u00b7 Duplicate",
       "subtitle": "The all-in-one tweak for WhatsApp",
-      "localizedDescription": "This update contains the following changes:\n\n- Online List is back: see who's online now, how long they've been online and their last seen, with its own contacts. Open it from the chats list, a row at its top or a tab\n- Fixed restoring a WhatsApp backup leaving photos, videos and voice notes missing from chats\n- Hide Frequently Contacted now also hides it when creating a new group or adding group members\n- Hide Chats: in-app notifications from hidden chats are hidden again on the latest WhatsApp\n- Hide Chats: statuses of hidden chats are now hidden from the Updates tab\n- Call Recording: fixed crackling, distorted sound in new recordings\n- Themes: when a new app font needs a relaunch to show on every screen, Themes now says so and lets you relaunch\n- Themes: the Top Bar colour now applies on iOS 26 instead of showing the background colour\n- Themes: the theme editor's app icon picker now shows the icons\n- Themes: Message Text Size and Sender Name Size now apply after a restart and when switching themes\n- Fixed WhatsApp's Unread filter showing every chat when Hide Chats has hidden chats\n- Fixed a crash after picking a wallpaper photo in the theme editor\n- Fixed a crash on launch when a spoofed group was saved in Contacts Spoofing\n- Fixed a crash when opening some statuses with the status Save or Mark as Viewed button on\n- Keep Deleted Statuses: the \"Deleted at\" time now also shows when the status is opened from the Updates tab's list\n- Fixed the Control Center toggles (Hide Chats, Last Seen, Read Receipts\u2026) not matching the switches in Watusi\n- Contact groups made in Watusi 3 are now brought over to the contacts picker\n- Updates Tracking: open the updates list right from its settings\n\nBased on base app 26.44.74.",
+      "localizedDescription": "This update contains the following changes:\n\n- Online List is back: see who's online now, how long they've been online and their last seen, with its own contacts. Open it from the chats list, a row at its top or a tab\n- Fixed restoring a WhatsApp backup leaving photos, videos and voice notes missing from chats\n- Hide Frequently Contacted now also hides it when creating a new group or adding group members\n- Hide Chats: in-app notifications from hidden chats are hidden again on the latest WhatsApp\n- Hide Chats: statuses of hidden chats are now hidden from the Updates tab\n- Call Recording: fixed crackling, distorted sound in new recordings\n- Themes: when a new app font needs a relaunch to show on every screen, Themes now says so and lets you relaunch\n- Themes: the Top Bar colour now applies on iOS 26 instead of showing the background colour\n- Themes: the theme editor's app icon picker now shows the icons\n- Themes: Message Text Size and Sender Name Size now apply after a restart and when switching themes\n- Fixed WhatsApp's Unread filter showing every chat when Hide Chats has hidden chats\n- Fixed a crash after picking a wallpaper photo in the theme editor\n- Fixed a crash on launch when a spoofed group was saved in Contacts Spoofing\n- Fixed a crash when opening some statuses with the status Save or Mark as Viewed button on\n- Keep Deleted Statuses: the \"Deleted at\" time now also shows when the status is opened from the Updates tab's list\n- Fixed the Control Center toggles (Hide Chats, Last Seen, Read Receipts\u2026) not matching the switches in Watusi\n- Contact groups made in Watusi 3 are now brought over to the contacts picker\n- Updates Tracking: open the updates list right from its settings\n- Fixed Watusi not loading on RootHide after converting with RootHide Patcher\n\nBased on base app 26.44.74.",
       "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/wa.png",
       "icon": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/wa.png",
       "screenshotURLs": [
@@ -179,7 +179,7 @@
       "bundleID": "net.whatsapp.WhatsAppSMB",
       "name": "Watusi Business",
       "subtitle": "The all-in-one tweak for WhatsApp",
-      "localizedDescription": "This update contains the following changes:\n\n- Online List is back: see who's online now, how long they've been online and their last seen, with its own contacts. Open it from the chats list, a row at its top or a tab\n- Fixed restoring a WhatsApp backup leaving photos, videos and voice notes missing from chats\n- Hide Frequently Contacted now also hides it when creating a new group or adding group members\n- Hide Chats: in-app notifications from hidden chats are hidden again on the latest WhatsApp\n- Hide Chats: statuses of hidden chats are now hidden from the Updates tab\n- Call Recording: fixed crackling, distorted sound in new recordings\n- Themes: when a new app font needs a relaunch to show on every screen, Themes now says so and lets you relaunch\n- Themes: the Top Bar colour now applies on iOS 26 instead of showing the background colour\n- Themes: the theme editor's app icon picker now shows the icons\n- Themes: Message Text Size and Sender Name Size now apply after a restart and when switching themes\n- Fixed WhatsApp's Unread filter showing every chat when Hide Chats has hidden chats\n- Fixed a crash after picking a wallpaper photo in the theme editor\n- Fixed a crash on launch when a spoofed group was saved in Contacts Spoofing\n- Fixed a crash when opening some statuses with the status Save or Mark as Viewed button on\n- Keep Deleted Statuses: the \"Deleted at\" time now also shows when the status is opened from the Updates tab's list\n- Fixed the Control Center toggles (Hide Chats, Last Seen, Read Receipts\u2026) not matching the switches in Watusi\n- Contact groups made in Watusi 3 are now brought over to the contacts picker\n- Updates Tracking: open the updates list right from its settings\n\nBased on WhatsApp Business 26.44.74.",
+      "localizedDescription": "This update contains the following changes:\n\n- Online List is back: see who's online now, how long they've been online and their last seen, with its own contacts. Open it from the chats list, a row at its top or a tab\n- Fixed restoring a WhatsApp backup leaving photos, videos and voice notes missing from chats\n- Hide Frequently Contacted now also hides it when creating a new group or adding group members\n- Hide Chats: in-app notifications from hidden chats are hidden again on the latest WhatsApp\n- Hide Chats: statuses of hidden chats are now hidden from the Updates tab\n- Call Recording: fixed crackling, distorted sound in new recordings\n- Themes: when a new app font needs a relaunch to show on every screen, Themes now says so and lets you relaunch\n- Themes: the Top Bar colour now applies on iOS 26 instead of showing the background colour\n- Themes: the theme editor's app icon picker now shows the icons\n- Themes: Message Text Size and Sender Name Size now apply after a restart and when switching themes\n- Fixed WhatsApp's Unread filter showing every chat when Hide Chats has hidden chats\n- Fixed a crash after picking a wallpaper photo in the theme editor\n- Fixed a crash on launch when a spoofed group was saved in Contacts Spoofing\n- Fixed a crash when opening some statuses with the status Save or Mark as Viewed button on\n- Keep Deleted Statuses: the \"Deleted at\" time now also shows when the status is opened from the Updates tab's list\n- Fixed the Control Center toggles (Hide Chats, Last Seen, Read Receipts\u2026) not matching the switches in Watusi\n- Contact groups made in Watusi 3 are now brought over to the contacts picker\n- Updates Tracking: open the updates list right from its settings\n- Fixed Watusi not loading on RootHide after converting with RootHide Patcher\n\nBased on WhatsApp Business 26.44.74.",
       "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/business.png",
       "icon": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/business.png",
       "screenshotURLs": [
@@ -249,7 +249,7 @@
       "bundleID": "com.fouadraheb.watusiSMB",
       "name": "Watusi Business \u00b7 Duplicate",
       "subtitle": "The all-in-one tweak for WhatsApp",
-      "localizedDescription": "This update contains the following changes:\n\n- Online List is back: see who's online now, how long they've been online and their last seen, with its own contacts. Open it from the chats list, a row at its top or a tab\n- Fixed restoring a WhatsApp backup leaving photos, videos and voice notes missing from chats\n- Hide Frequently Contacted now also hides it when creating a new group or adding group members\n- Hide Chats: in-app notifications from hidden chats are hidden again on the latest WhatsApp\n- Hide Chats: statuses of hidden chats are now hidden from the Updates tab\n- Call Recording: fixed crackling, distorted sound in new recordings\n- Themes: when a new app font needs a relaunch to show on every screen, Themes now says so and lets you relaunch\n- Themes: the Top Bar colour now applies on iOS 26 instead of showing the background colour\n- Themes: the theme editor's app icon picker now shows the icons\n- Themes: Message Text Size and Sender Name Size now apply after a restart and when switching themes\n- Fixed WhatsApp's Unread filter showing every chat when Hide Chats has hidden chats\n- Fixed a crash after picking a wallpaper photo in the theme editor\n- Fixed a crash on launch when a spoofed group was saved in Contacts Spoofing\n- Fixed a crash when opening some statuses with the status Save or Mark as Viewed button on\n- Keep Deleted Statuses: the \"Deleted at\" time now also shows when the status is opened from the Updates tab's list\n- Fixed the Control Center toggles (Hide Chats, Last Seen, Read Receipts\u2026) not matching the switches in Watusi\n- Contact groups made in Watusi 3 are now brought over to the contacts picker\n- Updates Tracking: open the updates list right from its settings\n\nBased on base app 26.44.74.",
+      "localizedDescription": "This update contains the following changes:\n\n- Online List is back: see who's online now, how long they've been online and their last seen, with its own contacts. Open it from the chats list, a row at its top or a tab\n- Fixed restoring a WhatsApp backup leaving photos, videos and voice notes missing from chats\n- Hide Frequently Contacted now also hides it when creating a new group or adding group members\n- Hide Chats: in-app notifications from hidden chats are hidden again on the latest WhatsApp\n- Hide Chats: statuses of hidden chats are now hidden from the Updates tab\n- Call Recording: fixed crackling, distorted sound in new recordings\n- Themes: when a new app font needs a relaunch to show on every screen, Themes now says so and lets you relaunch\n- Themes: the Top Bar colour now applies on iOS 26 instead of showing the background colour\n- Themes: the theme editor's app icon picker now shows the icons\n- Themes: Message Text Size and Sender Name Size now apply after a restart and when switching themes\n- Fixed WhatsApp's Unread filter showing every chat when Hide Chats has hidden chats\n- Fixed a crash after picking a wallpaper photo in the theme editor\n- Fixed a crash on launch when a spoofed group was saved in Contacts Spoofing\n- Fixed a crash when opening some statuses with the status Save or Mark as Viewed button on\n- Keep Deleted Statuses: the \"Deleted at\" time now also shows when the status is opened from the Updates tab's list\n- Fixed the Control Center toggles (Hide Chats, Last Seen, Read Receipts\u2026) not matching the switches in Watusi\n- Contact groups made in Watusi 3 are now brought over to the contacts picker\n- Updates Tracking: open the updates list right from its settings\n- Fixed Watusi not loading on RootHide after converting with RootHide Patcher\n\nBased on base app 26.44.74.",
       "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/business.png",
       "icon": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/business.png",
       "screenshotURLs": [
@@ -3354,6 +3354,79 @@
       "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Facebook.v587.0.0.+.iQFace.ipa",
       "date": "2026-11-10",
       "sha256": "8b86d440eb0419d1c890f33b1d55d068c7c6eb4c5b75ae63cdfa5c045c7780f4",
+      "__source": "https://wuxu1.github.io/wuxu-complete-plus.json",
+      "__mirrors": [
+        "https://wuxu1.github.io/wuxu-complete.json"
+      ],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "category": "Social",
+      "version": "47.7.0",
+      "size": 541193819,
+      "tintColor": "0b0b0b",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a1/6a/6ca16a58-1937-7122-e65b-2d901f84fdbb/oEEEv6yBAvIC3s9IGZ1A83wu5TAjAsxiAjLig.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/ce/2f/27ce2fc4-a338-95ab-3bbe-1b9062cf537d/e6733d76-8afb-4efa-b9a1-9937cdd227f7_STEM_iOS_2208.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/b8/d5/b2b8d5ce-7852-5c2c-1bce-4c812c04cb65/329e308a-8a6a-40d8-a1a1-ada1c34e45e8_Mother_iOS_2208.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/77/8b/25778baf-1cdf-6732-6fd0-2ec81e1323f0/aebb5dbd-18b1-423e-b417-f6f7864e3404_Recipe_iOS_2208.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/2e/c2/992ec242-7589-7262-cfd6-11a6115674d0/426a0b06-acb2-4cec-b9a0-b0e69a124d7e_Winter_AI_iOS_2208.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/ea/c0/bceac0a7-89bb-7aac-eeec-4ee64625ce47/4e4d8986-3144-4362-a170-18cb3bab6dd6_Hocky_iOS_2208.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/77/bd/2177bd1d-f668-33ec-0c40-dd2d15e1ff1a/1c75c2b6-1845-4523-b90b-01b54f039b78_Pet_iOS_2208.png/392x696bb.png"
+      ],
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "subtitle": "TikTok with added features.",
+      "beta": false,
+      "versionDescription": "\u2022 TikTok updated to v47.7.0\n\u2022 RXTikTok updated to v2.0.4",
+      "versionDate": "2026-11-10",
+      "appPermissions": {
+        "entitlements": [
+          "application-identifier",
+          "aps-environment",
+          "com.apple.developer.applesignin",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.declared-age-range",
+          "com.apple.developer.group-session",
+          "com.apple.developer.in-app-payments",
+          "com.apple.developer.kernel.extended-virtual-addressing",
+          "com.apple.developer.kernel.increased-memory-limit",
+          "com.apple.developer.networking.multicast",
+          "com.apple.developer.networking.wifi-info",
+          "com.apple.developer.pass-type-identifiers",
+          "com.apple.developer.payment-pass-provisioning",
+          "com.apple.developer.siri",
+          "com.apple.developer.storekit.request-data",
+          "com.apple.developer.team-identifier",
+          "com.apple.developer.usernotifications.communication",
+          "com.apple.developer.usernotifications.time-sensitive",
+          "com.apple.security.application-groups",
+          "keychain-access-groups"
+        ],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "To select sound from your library, allow us to access your Apple Music.",
+          "NSBluetoothAlwaysUsageDescription": "This will allow \"TikTok\" to find and connect to Bluetooth accessories. This app may also use Bluetooth to connect with nearby devices.",
+          "NSBluetoothPeripheralUsageDescription": "This will allow \"TikTok\" to find and connect to Bluetooth accessories. This app may also use Bluetooth to connect with nearby devices.",
+          "NSCalendarsUsageDescription": "Add events to your device calendar to get reminders when events start.",
+          "NSCameraUsageDescription": "You'll be able to record video.",
+          "NSContactsUsageDescription": "Sync your contacts to easily find people you know on TikTok. Your contacts will only be used to help you connect with friends.",
+          "NSFaceIDUsageDescription": "We'll use this to unlock features that require added security.",
+          "NSLocalNetworkUsageDescription": "The TikTok app will be able to discover and connect with devices that have the TikTok app installed for camera and screen sharing.",
+          "NSLocationWhenInUseUsageDescription": "If location services are enabled, TikTok will collect, store and use your device's approximate location to improve your experience.",
+          "NSMicrophoneUsageDescription": "To record audio, allow us to access your Microphone.",
+          "NSPhotoLibraryAddUsageDescription": "To upload from or download to your device, allow access to your photos in your phone settings.",
+          "NSPhotoLibraryUsageDescription": "To upload from or download to your device, allow access to your photos in your phone settings.",
+          "NSUserTrackingUsageDescription": "This allows TikTok to provide you with a better ads experience."
+        }
+      },
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/70/42/50704260-89c4-2aa4-7740-4a6a621af5db/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "developerName": "aJBbo",
+      "localizedDescription": "\u2022 TikTok updated to v47.7.0\n\u2022 RXTikTok updated to v2.0.4",
+      "name": "TikTok++",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/TikTok.v47.7.0.+.RXTikTok.v2.0.4.ipa",
+      "date": "2026-11-10",
+      "sha256": "132056d50c3e6afd1268892dba6a75e98994a44049c9495a8729066b6f06aa34",
       "__source": "https://wuxu1.github.io/wuxu-complete-plus.json",
       "__mirrors": [
         "https://wuxu1.github.io/wuxu-complete.json"
@@ -8463,7 +8536,7 @@
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "subtitle": "TikTok with added features.",
       "beta": false,
-      "versionDescription": "\u2022 TikTok updated to v47.6.0\n\u2022 gtok updated to v2.5",
+      "versionDescription": "\u2022 TikTok updated to v47.7.0\n\u2022 RXTikTok updated to v2.0.4",
       "versionDate": "2026-11-03",
       "appPermissions": {
         "entitlements": [
@@ -13705,7 +13778,7 @@
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "subtitle": "TikTok with added features.",
       "beta": false,
-      "versionDescription": "\u2022 TikTok updated to v47.6.0\n\u2022 gtok updated to v2.5",
+      "versionDescription": "\u2022 TikTok updated to v47.7.0\n\u2022 RXTikTok updated to v2.0.4",
       "versionDate": "2026-10-26",
       "appPermissions": {
         "entitlements": [
@@ -20501,7 +20574,7 @@
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "subtitle": "TikTok with added features.",
       "beta": false,
-      "versionDescription": "\u2022 TikTok updated to v47.6.0\n\u2022 gtok updated to v2.5",
+      "versionDescription": "\u2022 TikTok updated to v47.7.0\n\u2022 RXTikTok updated to v2.0.4",
       "versionDate": "2026-10-19",
       "appPermissions": {
         "entitlements": [
@@ -235641,7 +235714,7 @@
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "subtitle": "TikTok with added features.",
       "beta": false,
-      "versionDescription": "\u2022 TikTok updated to v47.6.0\n\u2022 gtok updated to v2.5",
+      "versionDescription": "\u2022 TikTok updated to v47.7.0\n\u2022 RXTikTok updated to v2.0.4",
       "versionDate": "2025-03-04",
       "appPermissions": {
         "entitlements": [
@@ -279672,7 +279745,7 @@
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "subtitle": "TikTok with added features.",
       "beta": false,
-      "versionDescription": "\u2022 TikTok updated to v47.6.0\n\u2022 gtok updated to v2.5",
+      "versionDescription": "\u2022 TikTok updated to v47.7.0\n\u2022 RXTikTok updated to v2.0.4",
       "versionDate": "2024-04-30",
       "appPermissions": {
         "entitlements": [

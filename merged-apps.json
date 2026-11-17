@@ -4,9 +4,281 @@
   "subtitle": "Auto-merged from 43 AltStore/ESign sources. Local download URLs provided for cached files.",
   "description": "Deduplicates by (name, bundleIdentifier, version). downloadURL points to local repo copy if available, otherwise original URL. Downloads newest first; resumes from last run.",
   "iconURL": "https://avatars.githubusercontent.com/u/57844837",
-  "appCount": 13571,
+  "appCount": 13585,
   "sourceCount": 43,
   "apps": [
+    {
+      "META": {
+        "repoName": "driftywinds' AltStore Repo"
+      },
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.siri"
+        ],
+        "privacy": {
+          "NSUserTrackingUsageDescription": "This app requires tracking permission to deliver personalized content and advertisements."
+        }
+      },
+      "beta": false,
+      "bundleIdentifier": "com.google.ios.youtube",
+      "contact": {
+        "web": "https://github.com/driftywinds/"
+      },
+      "developerName": "Tonwalter888",
+      "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.39/7002adf2-0cdb-44ea-be53-bb54184846YM.ipa",
+      "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png",
+      "localizedDescription": "https://t.me/+rvcObIvOpctiMDI9\n\nA modified version of Youtube",
+      "name": "YouMod + Tweaks (driftywinds)",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr1.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr2.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr3.jpg"
+      ],
+      "size": 130097628,
+      "subtitle": "A flexible enhancer for YouTube on iOS | If you want to donate: - https://ko-fi.com/driftywinds",
+      "tintColor": "e22a41",
+      "version": "21.46.3",
+      "versionDate": "2026-11-17",
+      "versionDescription": "\u2022 Updated YouTube to 21.46.3\n\u2022 Tweak is using 2.0.0",
+      "__source": "https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/master/AltStore/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.associated-appclip-app-identifiers",
+          "com.apple.security.application-groups",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.storekit.request-data",
+          "com.apple.developer.ubiquity-container-identifiers",
+          "com.apple.developer.usernotifications.communication",
+          "com.apple.developer.usernotifications.time-sensitive",
+          "get-task-allow",
+          "com.apple.developer.kernel.extended-virtual-addressing",
+          "com.apple.developer.networking.HotspotConfiguration",
+          "com.apple.developer.icloud-container-environment",
+          "com.apple.developer.icloud-container-identifiers",
+          "com.apple.developer.ubiquity-kvstore-identifier",
+          "com.apple.developer.icloud-services",
+          "com.apple.developer.kernel.increased-memory-limit",
+          "keychain-access-groups",
+          "com.apple.developer.avfoundation.multitasking-camera-access",
+          "com.apple.developer.usernotifications.filtering",
+          "aps-environment",
+          "com.apple.developer.networking.wifi-info"
+        ],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "This app requires Bluetooth access for connecting to nearby devices.",
+          "NSCalendarsUsageDescription": "This app requires access to your calendars for social event integration.",
+          "NSCameraUsageDescription": "This app requires camera access to capture photos and videos.",
+          "NSContactsUsageDescription": "This app requires access to your contacts for enhanced social features.",
+          "NSFaceIDUsageDescription": "This app requires Face ID for secure authentication.",
+          "NSFocusStatusUsageDescription": "This app uses focus status to optimize notifications.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "This app requires location access even when in the background for geotagging.",
+          "NSLocationUsageDescription": "This app requires location access to provide local content.",
+          "NSLocationWhenInUseUsageDescription": "This app requires location access while using the app.",
+          "NSMicrophoneUsageDescription": "This app requires microphone access for recording audio and videos.",
+          "NSPhotoLibraryAddUsageDescription": "This app requires access to add photos to your library.",
+          "NSPhotoLibraryUsageDescription": "This app requires access to your photo library.",
+          "NSUserTrackingUsageDescription": "This app uses tracking to deliver personalized content."
+        }
+      },
+      "beta": false,
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "Ryuk",
+      "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.39/b90531e1-0fa0-479b-9d7f-05fc03e09efR.ipa",
+      "iconURL": "https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/refs/heads/master/AltStore/assets/Instagram_logo_2022.svg.png",
+      "localizedDescription": "Just look up information for SCInsta if you're confused about usage",
+      "name": "Instagram (RyukGram)",
+      "screenshotURLs": [
+        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot1.jpg",
+        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot2.jpg",
+        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot3.jpg",
+        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot4.jpg"
+      ],
+      "size": 91750400,
+      "subtitle": "Additional features and fixes by Ryuk based on SCInsta | If you want to donate: - https://ko-fi.com/driftywinds",
+      "tintColor": "C13584",
+      "version": "456.0.0",
+      "versionDate": "2026-11-17",
+      "versionDescription": "Updated to v454.0.0, RyukGram v1.5.1",
+      "__source": "https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/master/AltStore/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Mockview",
+      "type": 1,
+      "bundleID": "com.kavsoft.MockviewApp",
+      "bundleIdentifier": "com.kavsoft.MockviewApp",
+      "version": "5.0.5",
+      "versionDate": "2026-11-17",
+      "fullDate": "20261117105103",
+      "size": 112230612,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/Mockview_5.0.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/Mockview_5.0.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kavsoft.MockviewApp.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kavsoft.MockviewApp.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "CollaNote",
+      "type": 1,
+      "bundleID": "net.quochuywdm.collanote496",
+      "bundleIdentifier": "net.quochuywdm.collanote496",
+      "version": "5.1.2",
+      "versionDate": "2026-11-17",
+      "fullDate": "20261117093848",
+      "size": 155557844,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/CollaNote_5.1.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/CollaNote_5.1.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.quochuywdm.collanote496.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.quochuywdm.collanote496.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Locket",
+      "type": 1,
+      "bundleID": "com.locket.Locket",
+      "bundleIdentifier": "com.locket.Locket",
+      "version": "2.73.0",
+      "versionDate": "2026-11-17",
+      "fullDate": "20261117082135",
+      "size": 97875349,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/Locket_2.73.0_Gold_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/Locket_2.73.0_Gold_@thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Gold",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.locket.Locket.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.locket.Locket.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Slopes",
+      "type": 1,
+      "bundleID": "com.consumedbycode.slopes",
+      "bundleIdentifier": "com.consumedbycode.slopes",
+      "version": "2026.19",
+      "versionDate": "2026-11-17",
+      "fullDate": "20261117080431",
+      "size": 106243121,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/Slopes_2026.19_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/Slopes_2026.19_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.consumedbycode.slopes.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.consumedbycode.slopes.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "EPIK",
+      "type": 1,
+      "bundleID": "com.snowcorp.epik",
+      "bundleIdentifier": "com.snowcorp.epik",
+      "version": "7.5.20",
+      "versionDate": "2026-11-17",
+      "fullDate": "20261117072236",
+      "size": 182906116,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/EPIK_7.5.20_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/EPIK_7.5.20_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.epik.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.epik.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "ProCCD",
+      "type": 1,
+      "bundleID": "com.yengshine.proccd",
+      "bundleIdentifier": "com.yengshine.proccd",
+      "version": "7.1.1",
+      "versionDate": "2026-11-17",
+      "fullDate": "20261117060954",
+      "size": 263454716,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/ProCCD_7.1.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/ProCCD_7.1.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yengshine.proccd.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yengshine.proccd.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "VDIT",
+      "type": 1,
+      "bundleID": "me.imgbase.videoday",
+      "bundleIdentifier": "me.imgbase.videoday",
+      "version": "4.4.1",
+      "versionDate": "2026-11-17",
+      "fullDate": "20261117051222",
+      "size": 218912263,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/VDIT_4.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/VDIT_4.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/me.imgbase.videoday.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/me.imgbase.videoday.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "OfflineMusic",
+      "type": 1,
+      "bundleID": "com.offlinemusic",
+      "bundleIdentifier": "com.offlinemusic",
+      "version": "4.0.2",
+      "versionDate": "2026-11-17",
+      "fullDate": "20261117050503",
+      "size": 51440698,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/OfflineMusic_4.0.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/OfflineMusic_4.0.2_Pro_@thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.offlinemusic.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.offlinemusic.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
     {
       "name": "Notability",
       "type": 1,
@@ -68,6 +340,303 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
+      ]
+    },
+    {
+      "name": "My Dear Farm+",
+      "bundleIdentifier": "com.hyperbeard.mydearfarmplus",
+      "developerName": "NabzClan",
+      "subtitle": "Welcome to your own pocket farm! Decorating and growing your crops has never been as fun and chill in this sim",
+      "localizedDescription": "My Dear Farm+ v1.12.1 (158.79 MB) \u2014 Sidelix App Store release.",
+      "iconURL": "https://apps.nabzclan.vip/images/1794883590_5670.webp",
+      "tintColor": "#2ecc71",
+      "category": "utilities",
+      "screenshots": [
+        "https://apps.nabzclan.vip/screenshots/17948835896885005.webp",
+        "https://apps.nabzclan.vip/screenshots/17948835906596162.webp",
+        "https://apps.nabzclan.vip/screenshots/17948835909452493.webp",
+        "https://apps.nabzclan.vip/screenshots/17948835906350212.webp",
+        "https://apps.nabzclan.vip/screenshots/17948835909842529.webp",
+        "https://apps.nabzclan.vip/screenshots/17948835907230896.webp"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryAddUsageDescription": "The app requires access to Photos to save media to it.",
+          "NSPhotoLibraryUsageDescription": "The app requires access to Photos to save media to it."
+        }
+      },
+      "version": "1.12.1",
+      "versionDate": "2026-11-16T21:46:30-05:00",
+      "versionDescription": "My Dear Farm+ v1.12.1 (158.79 MB) \u2014 Sidelix App Store release.",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/14/app_14_nabzclan_sidelix.ipa",
+      "size": 166502127,
+      "type": 1,
+      "badges": [
+        {
+          "key": "latest",
+          "label": "Latest Version",
+          "color": "#2ecc71",
+          "icon": "checkmark.seal.fill"
+        },
+        {
+          "key": "free",
+          "label": "Free",
+          "color": "#27ae60",
+          "icon": "checkmark.circle.fill"
+        },
+        {
+          "key": "sidelix_verified",
+          "label": "Sidelix Verified",
+          "color": "#16a085",
+          "icon": "shield.lefthalf.filled"
+        }
+      ],
+      "latest_appstore_app": {
+        "checked": true,
+        "found": true,
+        "bundleIdentifier": "com.hyperbeard.mydearfarmplus",
+        "latest_version": "1.12.1",
+        "repo_version": "1.12.1",
+        "up_to_date": true,
+        "update_available": false,
+        "status": "up_to_date",
+        "price": "Free",
+        "is_paid": false,
+        "store_url": "https://apps.apple.com/us/app/my-dear-farm/id6668861713",
+        "release_date": "2026-11-10T15:58:20Z",
+        "checked_at": "2026-11-16T21:46:32-05:00",
+        "track_id": 6668861713,
+        "track_name": "My Dear Farm+"
+      },
+      "buildVersion": "3",
+      "date": "2026-11-16T21:46:30-05:00",
+      "minOSVersion": "13.0",
+      "__source": "https://apps.nabzclan.vip/repos/esign.php",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
+      ]
+    },
+    {
+      "name": "Stardew Valley+",
+      "bundleIdentifier": "com.concernedape.stardewvalleyarcade",
+      "developerName": "NabzClan",
+      "subtitle": "Move to the countryside, and cultivate a new life in this award-winning open-ended farming RPG! With over 50+",
+      "localizedDescription": "Stardew Valley+ v1.6.15.1 (303.59 MB) \u2014 Sidelix App Store release.",
+      "iconURL": "https://apps.nabzclan.vip/images/1794883459_2040.webp",
+      "tintColor": "#2ecc71",
+      "category": "utilities",
+      "screenshots": [
+        "https://apps.nabzclan.vip/screenshots/17948834588731725.webp",
+        "https://apps.nabzclan.vip/screenshots/17948834588595059.webp",
+        "https://apps.nabzclan.vip/screenshots/17948834581987408.webp",
+        "https://apps.nabzclan.vip/screenshots/17948834599616445.webp",
+        "https://apps.nabzclan.vip/screenshots/17948834591855079.webp",
+        "https://apps.nabzclan.vip/screenshots/17948834595965054.webp"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "version": "1.6.15.1",
+      "versionDate": "2026-11-16T21:44:19-05:00",
+      "versionDescription": "Stardew Valley+ v1.6.15.1 (303.59 MB) \u2014 Sidelix App Store release.",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/13/app_13_nabzclan_sidelix.ipa",
+      "size": 318336871,
+      "type": 1,
+      "badges": [
+        {
+          "key": "latest",
+          "label": "Latest Version",
+          "color": "#2ecc71",
+          "icon": "checkmark.seal.fill"
+        },
+        {
+          "key": "free",
+          "label": "Free",
+          "color": "#27ae60",
+          "icon": "checkmark.circle.fill"
+        },
+        {
+          "key": "sidelix_verified",
+          "label": "Sidelix Verified",
+          "color": "#16a085",
+          "icon": "shield.lefthalf.filled"
+        }
+      ],
+      "latest_appstore_app": {
+        "checked": true,
+        "found": true,
+        "bundleIdentifier": "com.concernedape.stardewvalleyarcade",
+        "latest_version": "1.6.15.1",
+        "repo_version": "1.6.15.1",
+        "up_to_date": true,
+        "update_available": false,
+        "status": "up_to_date",
+        "price": "Free",
+        "is_paid": false,
+        "store_url": "https://apps.apple.com/us/app/stardew-valley/id6449264810",
+        "release_date": "2025-06-05T16:38:30Z",
+        "checked_at": "2026-11-16T21:46:32-05:00",
+        "track_id": 6449264810,
+        "track_name": "Stardew Valley+"
+      },
+      "buildVersion": "0.8",
+      "date": "2026-11-16T21:44:19-05:00",
+      "minOSVersion": "13.0",
+      "__source": "https://apps.nabzclan.vip/repos/esign.php",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
+      ]
+    },
+    {
+      "name": "Stardew Valley",
+      "bundleIdentifier": "com.chucklefish.stardewvalley",
+      "developerName": "NabzClan",
+      "subtitle": "Move to the countryside, and cultivate a new life in this award-winning open-ended farming RPG! With over 50+",
+      "localizedDescription": "Stardew Valley v1.6.15.0 (293.76 MB) \u2014 Sidelix App Store release.",
+      "iconURL": "https://apps.nabzclan.vip/images/1794883183_2567.webp",
+      "tintColor": "#2ecc71",
+      "category": "utilities",
+      "screenshots": [
+        "https://apps.nabzclan.vip/screenshots/17948831821280223.webp",
+        "https://apps.nabzclan.vip/screenshots/17948831824996520.webp",
+        "https://apps.nabzclan.vip/screenshots/17948831822835272.webp",
+        "https://apps.nabzclan.vip/screenshots/17948831839020575.webp",
+        "https://apps.nabzclan.vip/screenshots/17948831833607665.webp",
+        "https://apps.nabzclan.vip/screenshots/17948831834072110.webp"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "version": "1.6.15.0",
+      "versionDate": "2026-11-16T21:39:43-05:00",
+      "versionDescription": "Stardew Valley v1.6.15.0 (293.76 MB) \u2014 Sidelix App Store release.",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/12/app_12_nabzclan_sidelix.ipa",
+      "size": 308028006,
+      "type": 1,
+      "badges": [
+        {
+          "key": "needs_update",
+          "label": "Needs Update (v1.6.15.1)",
+          "color": "#f39c12",
+          "icon": "arrow.triangle.2.circlepath"
+        },
+        {
+          "key": "paid_free",
+          "label": "Paid ($4.99) Free",
+          "color": "#e74c3c",
+          "icon": "gift.fill"
+        },
+        {
+          "key": "sidelix_verified",
+          "label": "Sidelix Verified",
+          "color": "#16a085",
+          "icon": "shield.lefthalf.filled"
+        }
+      ],
+      "latest_appstore_app": {
+        "checked": true,
+        "found": true,
+        "bundleIdentifier": "com.chucklefish.stardewvalley",
+        "latest_version": "1.6.15.1",
+        "repo_version": "1.6.15.0",
+        "up_to_date": false,
+        "update_available": true,
+        "status": "update_available",
+        "price": "$4.99",
+        "is_paid": true,
+        "store_url": "https://apps.apple.com/us/app/stardew-valley/id1406710800",
+        "release_date": "2026-03-19T00:31:54Z",
+        "checked_at": "2026-11-16T21:46:33-05:00",
+        "track_id": 1406710800,
+        "track_name": "Stardew Valley"
+      },
+      "buildVersion": "0.1",
+      "date": "2026-11-16T21:39:43-05:00",
+      "minOSVersion": "13.0",
+      "__source": "https://apps.nabzclan.vip/repos/esign.php",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
+      ]
+    },
+    {
+      "name": "Getting Over It (Paid app)",
+      "bundleIdentifier": "net.Foddy.GettingOverIt",
+      "developerName": "NabzClan",
+      "subtitle": "A game I made For a certain kind of person",
+      "localizedDescription": "Getting Over It (Paid app) v1.14 (113.26 MB) \u2014 Sidelix App Store release.",
+      "iconURL": "https://apps.nabzclan.vip/images/1794882698_6716.webp",
+      "tintColor": "#2ecc71",
+      "category": "utilities",
+      "screenshots": [
+        "https://apps.nabzclan.vip/screenshots/17948826989018398.webp",
+        "https://apps.nabzclan.vip/screenshots/17948826988755092.webp",
+        "https://apps.nabzclan.vip/screenshots/17948826986774234.webp",
+        "https://apps.nabzclan.vip/screenshots/17948826988578903.webp",
+        "https://apps.nabzclan.vip/screenshots/17948826987507670.webp"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "For livestreaming gameplay",
+          "NSMicrophoneUsageDescription": "For livestreaming gameplay"
+        }
+      },
+      "version": "1.14",
+      "versionDate": "2026-11-16T21:31:19-05:00",
+      "versionDescription": "Getting Over It (Paid app) v1.14 (113.26 MB) \u2014 Sidelix App Store release.",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/11/app_11_nabzclan_sidelix.ipa",
+      "size": 118762233,
+      "type": 1,
+      "badges": [
+        {
+          "key": "latest",
+          "label": "Latest Version",
+          "color": "#2ecc71",
+          "icon": "checkmark.seal.fill"
+        },
+        {
+          "key": "paid_free",
+          "label": "Paid ($4.99) Free",
+          "color": "#e74c3c",
+          "icon": "gift.fill"
+        },
+        {
+          "key": "sidelix_verified",
+          "label": "Sidelix Verified",
+          "color": "#16a085",
+          "icon": "shield.lefthalf.filled"
+        }
+      ],
+      "latest_appstore_app": {
+        "checked": true,
+        "found": true,
+        "bundleIdentifier": "net.Foddy.GettingOverIt",
+        "latest_version": "1.14",
+        "repo_version": "1.14",
+        "up_to_date": true,
+        "update_available": false,
+        "status": "up_to_date",
+        "price": "$4.99",
+        "is_paid": true,
+        "store_url": "https://apps.apple.com/us/app/getting-over-it/id1319618742",
+        "release_date": "2021-07-26T14:27:13Z",
+        "checked_at": "2026-11-16T21:46:33-05:00",
+        "track_id": 1319618742,
+        "track_name": "Getting Over It"
+      },
+      "buildVersion": "6",
+      "date": "2026-11-16T21:31:19-05:00",
+      "minOSVersion": "13.0",
+      "__source": "https://apps.nabzclan.vip/repos/esign.php",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
       ]
     },
     {
@@ -144,7 +713,7 @@
         "is_paid": true,
         "store_url": "https://apps.apple.com/us/app/minecraft-play-with-friends/id479516143",
         "release_date": "2026-11-04T20:19:36Z",
-        "checked_at": "2026-11-16T15:00:19-05:00",
+        "checked_at": "2026-11-16T21:46:33-05:00",
         "track_id": 479516143,
         "track_name": "Minecraft: Play with Friends!"
       },
@@ -228,7 +797,7 @@
         "is_paid": false,
         "store_url": null,
         "release_date": null,
-        "checked_at": "2026-11-16T16:00:19-05:00"
+        "checked_at": "2026-11-17T00:46:41-05:00"
       },
       "buildVersion": "1",
       "date": "2026-11-16T08:01:22-05:00",
@@ -315,7 +884,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/youtube/id544007664",
         "release_date": "2026-11-15T17:07:14Z",
-        "checked_at": "2026-11-16T15:00:19-05:00",
+        "checked_at": "2026-11-16T21:46:33-05:00",
         "track_id": 544007664,
         "track_name": "YouTube"
       },
@@ -395,7 +964,7 @@
         "is_paid": true,
         "store_url": "https://apps.apple.com/us/app/shadowrocket/id932747118",
         "release_date": "2026-10-29T03:15:39Z",
-        "checked_at": "2026-11-16T15:00:19-05:00",
+        "checked_at": "2026-11-16T21:46:33-05:00",
         "track_id": 932747118,
         "track_name": "Shadowrocket"
       },
@@ -473,7 +1042,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/brain-test-tricky-puzzles/id1486214495",
         "release_date": "2026-11-15T18:09:34Z",
-        "checked_at": "2026-11-16T15:00:19-05:00",
+        "checked_at": "2026-11-16T21:46:34-05:00",
         "track_id": 1486214495,
         "track_name": "Brain Test: Tricky Puzzles"
       },
@@ -563,7 +1132,7 @@
         "is_paid": true,
         "store_url": "https://apps.apple.com/us/app/alpin-quest-pro-outdoor-gps/id6760764479",
         "release_date": "2026-11-11T21:52:41Z",
-        "checked_at": "2026-11-16T15:00:19-05:00",
+        "checked_at": "2026-11-16T21:46:34-05:00",
         "track_id": 6760764479,
         "track_name": "Alpin Quest PRO \u2013 Outdoor GPS"
       },
@@ -1171,6 +1740,93 @@
       "version": "21.46.3",
       "date": "2026-11-16",
       "sha256": "365368931b8803efe9b8d7cce0b4124579e0cc4d4bf66c816e033741ddb76077",
+      "__source": "https://wuxu1.github.io/wuxu-complete-plus.json",
+      "__mirrors": [
+        "https://wuxu1.github.io/wuxu-complete.json"
+      ],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "BuildBox",
+      "bundleIdentifier": "com.mikevillarroel.buildbox",
+      "developerName": "MikeBuilds",
+      "subtitle": "Compile, sign and install iOS apps from your iPhone",
+      "localizedDescription": "\u2022 BuildBox updated to v2.1.8",
+      "iconURL": "https://mikevillarroel.github.io/mikebuilds-source/icons/buildbox.png",
+      "tintColor": "2f7cf6",
+      "category": "utilities",
+      "beta": false,
+      "screenshotURLs": [],
+      "version": "2.1.8",
+      "versionDate": "2026-11-16",
+      "versionDescription": "\u2022 BuildBox updated to v2.1.8",
+      "size": 25079319,
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/BuildBox-2.1.8.ipa",
+      "appPermissions": {
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "BuildBox pairs with your own iPhone over the local network so it can open the tunnel to this device and install apps signed with a free Apple ID."
+        }
+      },
+      "date": "2026-11-16",
+      "minOSVersion": "18.0",
+      "__source": "https://wuxu1.github.io/wuxu-complete-plus.json",
+      "__mirrors": [
+        "https://wuxu1.github.io/wuxu-complete.json"
+      ],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Reddit++",
+      "bundleIdentifier": "com.reddit.Reddit",
+      "developerName": "Moe",
+      "subtitle": "Reddit with added features!",
+      "localizedDescription": "\u2022 Reddit updated to v2026.46.0",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/74/9d/a1749d85-1061-a0ac-0731-6ea329d668cf/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "tintColor": "a24320",
+      "category": "Lifestyle",
+      "beta": false,
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b5/4b/53/b54b5327-21a6-8edb-e501-1cad4de9be0f/2f5e42be-b39e-4832-afa2-35480ddeab3c_Reddit_SS_5.5_1.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/e5/67/06e5675b-2ac9-726d-d3f5-e4a01e99b280/a69a9c76-db1f-4d3e-8c8a-14728d2a7302_Reddit_SS_5.5_2.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/03/df/dc03dfc4-1a75-58fb-008a-b376ebe0faa4/d6df48a8-9439-40d2-857e-090f02a9e3e7_Reddit_SS_5.5_3.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3e/90/f0/3e90f04b-3370-8693-9da7-389727269bd1/39c1679e-1446-4ba0-b49d-95337ee04d49_Reddit_SS_5.5_4.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/ef/32/cdef3232-e4b6-64ef-0c86-68edc197000b/d4453d1f-b547-44e2-b761-1316d216b3b0_Reddit_SS_5.5_5.jpg/392x696bb.jpg"
+      ],
+      "version": "2026.46.0",
+      "versionDate": "2026-11-16",
+      "versionDescription": "\u2022 Reddit updated to v2026.46.0",
+      "size": 145441527,
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Reddit.v2026.46.0.+.RedditFilter.ipa",
+      "appPermissions": {
+        "entitlements": [
+          "application-identifier",
+          "aps-environment",
+          "com.apple.developer.applesignin",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.declared-age-range",
+          "com.apple.developer.icloud-container-identifiers",
+          "com.apple.developer.icloud-services",
+          "com.apple.developer.networking.multipath",
+          "com.apple.developer.ubiquity-container-identifiers",
+          "com.apple.security.application-groups",
+          "keychain-access-groups"
+        ],
+        "privacy": {
+          "NSCameraUsageDescription": "Use your camera to record videos. See our Privacy Policy for more information.",
+          "NSUserTrackingUsageDescription": "This allows Reddit to provide you with a better ads experience.",
+          "NSPhotoLibraryAddUsageDescription": "Reddit needs permission to save photos and videos to your photo library.",
+          "NSCalendarsUsageDescription": "Reddit needs access to your calendar to operate the community calendar widget.",
+          "NSMicrophoneUsageDescription": "Reddit needs access to your microphone to post videos with audio.",
+          "NSFaceIDUsageDescription": "Reddit needs access to Face ID to unlock your Vault.",
+          "NSPhotoLibraryUsageDescription": "Reddit needs access to your photo library to post, save, and upload photos or videos."
+        }
+      },
+      "date": "2026-11-16",
+      "sha256": "bf06808efc1c8a0b6d3f76167e1ba164296aa20c390708c29cda54a26baf2ca1",
       "__source": "https://wuxu1.github.io/wuxu-complete-plus.json",
       "__mirrors": [
         "https://wuxu1.github.io/wuxu-complete.json"
@@ -2388,12 +3044,12 @@
         {
           "name": "iCube",
           "bundleIdentifier": "com.joemattiello.iCube",
-          "version": "1.0.0-beta8-ios"
+          "version": "1.0.0-beta7-ios"
         },
         {
           "name": "iCube",
           "bundleIdentifier": "com.joemattiello.iCube",
-          "version": "1.0.0-beta7-ios"
+          "version": "1.0.0-beta8-ios"
         }
       ]
     },
@@ -4119,7 +4775,7 @@
       "fullDate": "20261111093445",
       "size": 60634344,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/QrCode_2026.11.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/QrCode_2026.11.3_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/QrCode_2026.11.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
@@ -4369,7 +5025,7 @@
       ],
       "version": "2026.45.1",
       "versionDate": "2026-11-11",
-      "versionDescription": "\u2022 Reddit updated to v2026.45.1",
+      "versionDescription": "\u2022 Reddit updated to v2026.46.0",
       "size": 141548252,
       "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Reddit.v2026.45.1.+.RedditFilter.ipa",
       "appPermissions": {
@@ -4387,13 +5043,13 @@
           "keychain-access-groups"
         ],
         "privacy": {
-          "NSCalendarsUsageDescription": "Reddit needs access to your calendar to operate the community calendar widget.",
           "NSCameraUsageDescription": "Use your camera to record videos. See our Privacy Policy for more information.",
-          "NSFaceIDUsageDescription": "Reddit needs access to Face ID to unlock your Vault.",
+          "NSUserTrackingUsageDescription": "This allows Reddit to provide you with a better ads experience.",
+          "NSPhotoLibraryAddUsageDescription": "Reddit needs permission to save photos and videos to your photo library.",
+          "NSCalendarsUsageDescription": "Reddit needs access to your calendar to operate the community calendar widget.",
           "NSMicrophoneUsageDescription": "Reddit needs access to your microphone to post videos with audio.",
-          "NSPhotoLibraryAddUsageDescription": "Reddit needs access to your photo library to post, save, and upload photos or videos.",
-          "NSPhotoLibraryUsageDescription": "Reddit needs access to your photo library to post, save, and upload photos or videos.",
-          "NSUserTrackingUsageDescription": "This allows Reddit to provide you with a better ads experience."
+          "NSFaceIDUsageDescription": "Reddit needs access to Face ID to unlock your Vault.",
+          "NSPhotoLibraryUsageDescription": "Reddit needs access to your photo library to post, save, and upload photos or videos."
         }
       },
       "date": "2026-11-11",
@@ -4567,71 +5223,6 @@
       ]
     },
     {
-      "appPermissions": {
-        "entitlements": [
-          "com.apple.developer.associated-appclip-app-identifiers",
-          "com.apple.security.application-groups",
-          "com.apple.developer.associated-domains",
-          "com.apple.developer.storekit.request-data",
-          "com.apple.developer.ubiquity-container-identifiers",
-          "com.apple.developer.usernotifications.communication",
-          "com.apple.developer.usernotifications.time-sensitive",
-          "get-task-allow",
-          "com.apple.developer.kernel.extended-virtual-addressing",
-          "com.apple.developer.networking.HotspotConfiguration",
-          "com.apple.developer.icloud-container-environment",
-          "com.apple.developer.icloud-container-identifiers",
-          "com.apple.developer.ubiquity-kvstore-identifier",
-          "com.apple.developer.icloud-services",
-          "com.apple.developer.kernel.increased-memory-limit",
-          "keychain-access-groups",
-          "com.apple.developer.avfoundation.multitasking-camera-access",
-          "com.apple.developer.usernotifications.filtering",
-          "aps-environment",
-          "com.apple.developer.networking.wifi-info"
-        ],
-        "privacy": {
-          "NSBluetoothAlwaysUsageDescription": "This app requires Bluetooth access for connecting to nearby devices.",
-          "NSCalendarsUsageDescription": "This app requires access to your calendars for social event integration.",
-          "NSCameraUsageDescription": "This app requires camera access to capture photos and videos.",
-          "NSContactsUsageDescription": "This app requires access to your contacts for enhanced social features.",
-          "NSFaceIDUsageDescription": "This app requires Face ID for secure authentication.",
-          "NSFocusStatusUsageDescription": "This app uses focus status to optimize notifications.",
-          "NSLocationAlwaysAndWhenInUseUsageDescription": "This app requires location access even when in the background for geotagging.",
-          "NSLocationUsageDescription": "This app requires location access to provide local content.",
-          "NSLocationWhenInUseUsageDescription": "This app requires location access while using the app.",
-          "NSMicrophoneUsageDescription": "This app requires microphone access for recording audio and videos.",
-          "NSPhotoLibraryAddUsageDescription": "This app requires access to add photos to your library.",
-          "NSPhotoLibraryUsageDescription": "This app requires access to your photo library.",
-          "NSUserTrackingUsageDescription": "This app uses tracking to deliver personalized content."
-        }
-      },
-      "beta": false,
-      "bundleIdentifier": "com.burbn.instagram",
-      "developerName": "Ryuk",
-      "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.38/e538b372-067f-4638-b06e-1e9bdd7a0b5R.ipa",
-      "iconURL": "https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/refs/heads/master/AltStore/assets/Instagram_logo_2022.svg.png",
-      "localizedDescription": "Just look up information for SCInsta if you're confused about usage",
-      "name": "Instagram (RyukGram)",
-      "screenshotURLs": [
-        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot1.jpg",
-        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot2.jpg",
-        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot3.jpg",
-        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot4.jpg"
-      ],
-      "size": 91750400,
-      "subtitle": "Additional features and fixes by Ryuk based on SCInsta | If you want to donate: - https://ko-fi.com/driftywinds",
-      "tintColor": "C13584",
-      "version": "455.0.0",
-      "versionDate": "2026-11-10",
-      "versionDescription": "Updated to v454.0.0, RyukGram v1.5.1",
-      "__source": "https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/master/AltStore/apps.json",
-      "__mirrors": [],
-      "__stores": [
-        "AltStore"
-      ]
-    },
-    {
       "name": "Hevy",
       "type": 1,
       "bundleID": "com.hevyapp.hevy",
@@ -4662,7 +5253,7 @@
       "fullDate": "20261110211931",
       "size": 67662955,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/WaterAir_2026.11.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/WaterAir_2026.11.2_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/WaterAir_2026.11.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.waterreminder.png",
@@ -4746,7 +5337,7 @@
       "fullDate": "20261110205501",
       "size": 42065218,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Unblink_5.93_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/Unblink_5.93_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Unblink_5.93_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.idevtal.Wallpapers.png",
@@ -5621,45 +6212,6 @@
       ]
     },
     {
-      "META": {
-        "repoName": "driftywinds' AltStore Repo"
-      },
-      "appPermissions": {
-        "entitlements": [
-          "com.apple.developer.siri"
-        ],
-        "privacy": {
-          "NSUserTrackingUsageDescription": "This app requires tracking permission to deliver personalized content and advertisements."
-        }
-      },
-      "beta": false,
-      "bundleIdentifier": "com.google.ios.youtube",
-      "contact": {
-        "web": "https://github.com/driftywinds/"
-      },
-      "developerName": "Tonwalter888",
-      "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.38/1e7f2f6f-8d16-49cd-b1e8-e91f23d066YM.ipa",
-      "iconURL": "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/Youtube_logo-512.png",
-      "localizedDescription": "https://t.me/+rvcObIvOpctiMDI9\n\nA modified version of Youtube",
-      "name": "YouMod + Tweaks (driftywinds)",
-      "screenshotURLs": [
-        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr1.jpg",
-        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr2.jpg",
-        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr3.jpg"
-      ],
-      "size": 130097628,
-      "subtitle": "A flexible enhancer for YouTube on iOS | If you want to donate: - https://ko-fi.com/driftywinds",
-      "tintColor": "e22a41",
-      "version": "21.45.4",
-      "versionDate": "2026-11-09",
-      "versionDescription": "\u2022 Updated YouTube to 21.45.4\n \u2022 Tweak is using 2.0.0",
-      "__source": "https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/master/AltStore/apps.json",
-      "__mirrors": [],
-      "__stores": [
-        "AltStore"
-      ]
-    },
-    {
       "name": "Duolingo",
       "type": 1,
       "bundleID": "com.duolingo.DuolingoMobile",
@@ -6448,7 +7000,7 @@
       ],
       "version": "2026.45.0",
       "versionDate": "2026-11-09",
-      "versionDescription": "\u2022 Reddit updated to v2026.45.1",
+      "versionDescription": "\u2022 Reddit updated to v2026.46.0",
       "size": 141506307,
       "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Reddit.v2026.45.0.+.RedditFilter.ipa",
       "appPermissions": {
@@ -6466,13 +7018,13 @@
           "keychain-access-groups"
         ],
         "privacy": {
-          "NSCalendarsUsageDescription": "Reddit needs access to your calendar to operate the community calendar widget.",
           "NSCameraUsageDescription": "Use your camera to record videos. See our Privacy Policy for more information.",
-          "NSFaceIDUsageDescription": "Reddit needs access to Face ID to unlock your Vault.",
+          "NSUserTrackingUsageDescription": "This allows Reddit to provide you with a better ads experience.",
+          "NSPhotoLibraryAddUsageDescription": "Reddit needs permission to save photos and videos to your photo library.",
+          "NSCalendarsUsageDescription": "Reddit needs access to your calendar to operate the community calendar widget.",
           "NSMicrophoneUsageDescription": "Reddit needs access to your microphone to post videos with audio.",
-          "NSPhotoLibraryAddUsageDescription": "Reddit needs access to your photo library to post, save, and upload photos or videos.",
-          "NSPhotoLibraryUsageDescription": "Reddit needs access to your photo library to post, save, and upload photos or videos.",
-          "NSUserTrackingUsageDescription": "This allows Reddit to provide you with a better ads experience."
+          "NSFaceIDUsageDescription": "Reddit needs access to Face ID to unlock your Vault.",
+          "NSPhotoLibraryUsageDescription": "Reddit needs access to your photo library to post, save, and upload photos or videos."
         }
       },
       "date": "2026-11-09",
@@ -7407,11 +7959,13 @@
       "screenshotURLs": [],
       "version": "2.1.7",
       "versionDate": "2026-11-07",
-      "versionDescription": "\u2022 BuildBox updated to v2.1.7",
+      "versionDescription": "\u2022 BuildBox updated to v2.1.8",
       "size": 15942746,
       "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.7/BuildBox-2.1.7.ipa",
       "appPermissions": {
-        "privacy": {}
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "BuildBox pairs with your own iPhone over the local network so it can open the tunnel to this device and install apps signed with a free Apple ID."
+        }
       },
       "date": "2026-11-07",
       "minOSVersion": "18.0",
@@ -7965,11 +8519,13 @@
       "screenshotURLs": [],
       "version": "2.1.6",
       "versionDate": "2026-11-06",
-      "versionDescription": "\u2022 BuildBox updated to v2.1.7",
+      "versionDescription": "\u2022 BuildBox updated to v2.1.8",
       "size": 15597600,
       "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.6/BuildBox-2.1.6.ipa",
       "appPermissions": {
-        "privacy": {}
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "BuildBox pairs with your own iPhone over the local network so it can open the tunnel to this device and install apps signed with a free Apple ID."
+        }
       },
       "date": "2026-11-06",
       "minOSVersion": "18.0",
@@ -8000,7 +8556,7 @@
       ],
       "version": "2026.44.1",
       "versionDate": "2026-11-06",
-      "versionDescription": "\u2022 Reddit updated to v2026.45.1",
+      "versionDescription": "\u2022 Reddit updated to v2026.46.0",
       "size": 146915526,
       "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Reddit.v2026.44.1.+.RedditFilter.fixed.ipa",
       "appPermissions": {
@@ -8018,13 +8574,13 @@
           "keychain-access-groups"
         ],
         "privacy": {
-          "NSCalendarsUsageDescription": "Reddit needs access to your calendar to operate the community calendar widget.",
           "NSCameraUsageDescription": "Use your camera to record videos. See our Privacy Policy for more information.",
-          "NSFaceIDUsageDescription": "Reddit needs access to Face ID to unlock your Vault.",
+          "NSUserTrackingUsageDescription": "This allows Reddit to provide you with a better ads experience.",
+          "NSPhotoLibraryAddUsageDescription": "Reddit needs permission to save photos and videos to your photo library.",
+          "NSCalendarsUsageDescription": "Reddit needs access to your calendar to operate the community calendar widget.",
           "NSMicrophoneUsageDescription": "Reddit needs access to your microphone to post videos with audio.",
-          "NSPhotoLibraryAddUsageDescription": "Reddit needs access to your photo library to post, save, and upload photos or videos.",
-          "NSPhotoLibraryUsageDescription": "Reddit needs access to your photo library to post, save, and upload photos or videos.",
-          "NSUserTrackingUsageDescription": "This allows Reddit to provide you with a better ads experience."
+          "NSFaceIDUsageDescription": "Reddit needs access to Face ID to unlock your Vault.",
+          "NSPhotoLibraryUsageDescription": "Reddit needs access to your photo library to post, save, and upload photos or videos."
         }
       },
       "date": "2026-11-06",
@@ -8921,11 +9477,13 @@
       "screenshotURLs": [],
       "version": "2.1.5",
       "versionDate": "2026-11-05",
-      "versionDescription": "\u2022 BuildBox updated to v2.1.7",
+      "versionDescription": "\u2022 BuildBox updated to v2.1.8",
       "size": 15597885,
       "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.5/BuildBox-2.1.5.ipa",
       "appPermissions": {
-        "privacy": {}
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "BuildBox pairs with your own iPhone over the local network so it can open the tunnel to this device and install apps signed with a free Apple ID."
+        }
       },
       "date": "2026-11-05",
       "minOSVersion": "18.0",
@@ -8956,7 +9514,7 @@
       ],
       "version": "2026.44.0",
       "versionDate": "2026-11-05",
-      "versionDescription": "\u2022 Reddit updated to v2026.45.1",
+      "versionDescription": "\u2022 Reddit updated to v2026.46.0",
       "size": 147004450,
       "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Reddit.v2026.44.0.ipa",
       "appPermissions": {
@@ -8974,13 +9532,13 @@
           "keychain-access-groups"
         ],
         "privacy": {
-          "NSCalendarsUsageDescription": "Reddit needs access to your calendar to operate the community calendar widget.",
           "NSCameraUsageDescription": "Use your camera to record videos. See our Privacy Policy for more information.",
-          "NSFaceIDUsageDescription": "Reddit needs access to Face ID to unlock your Vault.",
+          "NSUserTrackingUsageDescription": "This allows Reddit to provide you with a better ads experience.",
+          "NSPhotoLibraryAddUsageDescription": "Reddit needs permission to save photos and videos to your photo library.",
+          "NSCalendarsUsageDescription": "Reddit needs access to your calendar to operate the community calendar widget.",
           "NSMicrophoneUsageDescription": "Reddit needs access to your microphone to post videos with audio.",
-          "NSPhotoLibraryAddUsageDescription": "Reddit needs access to your photo library to post, save, and upload photos or videos.",
-          "NSPhotoLibraryUsageDescription": "Reddit needs access to your photo library to post, save, and upload photos or videos.",
-          "NSUserTrackingUsageDescription": "This allows Reddit to provide you with a better ads experience."
+          "NSFaceIDUsageDescription": "Reddit needs access to Face ID to unlock your Vault.",
+          "NSPhotoLibraryUsageDescription": "Reddit needs access to your photo library to post, save, and upload photos or videos."
         }
       },
       "date": "2026-11-05",
@@ -10182,7 +10740,7 @@
       "fullDate": "20261103064703",
       "size": 5817381,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/Compress_3.5_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/Compress_3.5_Premium_@thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/Compress_3.5_Premium_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.newmarketinglab.ImageCompressor.png",
@@ -11522,11 +12080,13 @@
       "screenshotURLs": [],
       "version": "2.1.4",
       "versionDate": "2026-11-02",
-      "versionDescription": "\u2022 BuildBox updated to v2.1.7",
+      "versionDescription": "\u2022 BuildBox updated to v2.1.8",
       "size": 15595926,
       "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.4/BuildBox-2.1.4.ipa",
       "appPermissions": {
-        "privacy": {}
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "BuildBox pairs with your own iPhone over the local network so it can open the tunnel to this device and install apps signed with a free Apple ID."
+        }
       },
       "date": "2026-11-02",
       "minOSVersion": "18.0",
@@ -11551,11 +12111,13 @@
       "screenshotURLs": [],
       "version": "2.1.3",
       "versionDate": "2026-11-02",
-      "versionDescription": "\u2022 BuildBox updated to v2.1.7",
+      "versionDescription": "\u2022 BuildBox updated to v2.1.8",
       "size": 15651369,
       "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.3/BuildBox-2.1.3.ipa",
       "appPermissions": {
-        "privacy": {}
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "BuildBox pairs with your own iPhone over the local network so it can open the tunnel to this device and install apps signed with a free Apple ID."
+        }
       },
       "date": "2026-11-02",
       "minOSVersion": "18.0",
@@ -11580,11 +12142,13 @@
       "screenshotURLs": [],
       "version": "2.1.1",
       "versionDate": "2026-11-02",
-      "versionDescription": "\u2022 BuildBox updated to v2.1.7",
+      "versionDescription": "\u2022 BuildBox updated to v2.1.8",
       "size": 16290025,
       "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.1/BuildBox-2.1.1.ipa",
       "appPermissions": {
-        "privacy": {}
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "BuildBox pairs with your own iPhone over the local network so it can open the tunnel to this device and install apps signed with a free Apple ID."
+        }
       },
       "date": "2026-11-02",
       "minOSVersion": "18.0",
@@ -11609,11 +12173,13 @@
       "screenshotURLs": [],
       "version": "2.1.0",
       "versionDate": "2026-11-02",
-      "versionDescription": "\u2022 BuildBox updated to v2.1.7",
+      "versionDescription": "\u2022 BuildBox updated to v2.1.8",
       "size": 17956353,
       "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/BuildBox.v2.1.0.ipa",
       "appPermissions": {
-        "privacy": {}
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "BuildBox pairs with your own iPhone over the local network so it can open the tunnel to this device and install apps signed with a free Apple ID."
+        }
       },
       "date": "2026-11-02",
       "sha256": "3c33a63f15589add88f7fd8d965192f37ef20005b7a3e959a2a7a5e65b746df8",
@@ -55189,7 +55755,7 @@
       "version": "3.8.0",
       "versionDate": "2026-07-17T07:44:20Z",
       "versionDescription": "LiveContainer 3.8.0\r \n> [!Warning]\r\n> The standalone version requires SideStore 0.6.2+ or AltStore 2.2.1+ for installation.\r\n> To install LiveContainer with built-in SideStore (\"LiveContainer+SideStore.ipa\"), please use [Impactor](https://github.com/khcrysalis/Impactor) or [iloader](https://github.com/nab138/iloader). See [our installation guide](https://livecontainer.github.io/docs/installation/lc_sidestore) for details.\r \nNew Features\r \nStorage Management\r \n\u2022 Added a new storage management view with a breakdown of app bundles, containers, temporary files, app group data, tweaks, and other files. (Hidden apps' size is included in \"other\" section until unlocked)\r\n\u2022 Added per-app storage details, including app bundle size, container sizes, and last-used date.\r\n\u2022 Added actions to clean temporary files and caches, including guest app caches and LiveContainer's own caches.\r \nMultiple LiveContainers\r\n\u2022 Added configurable launch priority for multiple LiveContainer instances, making shared-app shortcuts choose available instances in the order you prefer. (1367)\r \nShare to Apps in LiveContainer\r\nAdded a share extension to LiveContainer. When you share a URL or a file from iOS's share sheet, LiveContainer will ask which app you would like to open the URL/file in, so the old share to LiveContainer shortcut method is no longer needed. When an ipa file is shared in this way, LiveContainer will ask if you want to install it in LiveContainer or in the built-in SideStore (if installed) (1357)\r \nMultitasking\r \n\u2022 Added per-app multitask preferences. Each app can now follow the global setting, always launch in multitask mode, or avoid multitask mode. (1208)\r\n\u2022 Improved multitask dock behavior: the dock can be made smaller, hidden more cleanly, and has improved padding. (1228, 1250)\r\n\u2022 Added more multitask window animations and improved native-window scene handling.\r\n\u2022 URL schemes and \"open-url\" payloads can be passed to already-running multitask apps and native windows.\r \nJIT\r\n\u2022 Added StosDebug support as a JIT enabler.\r \nTweakLoader\r\nYou can now disable tweaks in the \"Tweaks\" page in LiveContainer's UI. by @SAOMDVN\r \nImprovements\r\n\u2022 Added support for manually setting a container's IDFV. (1194)\r\n\u2022 IDFV spoofing works even when Tweakloader is not loaded.\r\n\u2022 Reworked signing logic for tweaks and app installation, with multithreaded signing support.\r\n\u2022 Download alerts now block tab switching while a download is in progress.\r\n\u2022 Crash reports are shown in a sheet instead of a large alert for better performance on newer iOS versions.\r\n\u2022 Add a \"Clear Notification\" button (1388)\r\n\u2022 Added some popular NSBonjourServices keys so apps can discover AirPlay devices and remote pairing pairable hosts in the local network. (1417)\r \nBug Fixes\r \n\u2022 Fixed \"livecontainer://open-url\" dropping the deep link when launching an app from a cold start. (1339)\r\n\u2022 Fixed the Add to Home Screen menu failing or behaving incorrectly by replacing the SwiftUI context menu implementation. (1209)\r\n\u2022 Fixed a crash when opening Container Preferences if the app did not contain an \"en.lproj\" path. (1239)\r\n\u2022 Fixed apps and AltStore sources not being searchable in some cases. (1365, 1368)\r\n\u2022 Fixed converting a shared app back to private after aborting an install with the same bundle identifier, which could leave stale container state behind. (1347)\r\n\u2022 Fixed shortcuts and JIT flows getting stuck on a busy LiveContainer instance instead of using another available instance. (1386)\r\n\u2022 Fixed file picker not workings for some apps because Tweakloader is not loaded after enabling \"Hide LiveContainer from dyld API\". (1430)\r\n\u2022 Fixed several app launch compatibility issues on iOS 26.5 beta, and some multitask/JIT app launches. (1300, 1310, 1329)\r\n\u2022 Fixed multitask keyboard focus issues on iOS 17.4+, including cases where the keyboard would not appear, Passwords would immediately close, or video playback would freeze in multitask mode. (1402, 844, 870)\r\n\u2022 Added support for iOS 27 developer beta. (1394, 1417, 1416)\r\n\u2022 Fix background downloads in multitask apps (choosing \"Keep App Extensions (Register App ID for Each Extension)\" is required). (1415)\r \nLocalization\r \n\u2022 Updated translations. Added Spanish translation by @Deci8BelioS\r \nCredits\r \nThanks to everyone who contributed code, fixes, testing, and reports for this release, including @boa-z, @ruri1208, @Project516, @yazdipour, @stossy11, and @SAOMDVN.\r \nGreat thanks to everyone who helped translate LiveContainer.",
-      "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/3.8.0/LiveContainer.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/LiveContainer.ipa",
       "localizedDescription": "LiveContainer 3.8.0\r \n> [!Warning]\r\n> The standalone version requires SideStore 0.6.2+ or AltStore 2.2.1+ for installation.\r\n> To install LiveContainer with built-in SideStore (\"LiveContainer+SideStore.ipa\"), please use [Impactor](https://github.com/khcrysalis/Impactor) or [iloader](https://github.com/nab138/iloader). See [our installation guide](https://livecontainer.github.io/docs/installation/lc_sidestore) for details.\r \nNew Features\r \nStorage Management\r \n\u2022 Added a new storage management view with a breakdown of app bundles, containers, temporary files, app group data, tweaks, and other files. (Hidden apps' size is included in \"other\" section until unlocked)\r\n\u2022 Added per-app storage details, including app bundle size, container sizes, and last-used date.\r\n\u2022 Added actions to clean temporary files and caches, including guest app caches and LiveContainer's own caches.\r \nMultiple LiveContainers\r\n\u2022 Added configurable launch priority for multiple LiveContainer instances, making shared-app shortcuts choose available instances in the order you prefer. (1367)\r \nShare to Apps in LiveContainer\r\nAdded a share extension to LiveContainer. When you share a URL or a file from iOS's share sheet, LiveContainer will ask which app you would like to open the URL/file in, so the old share to LiveContainer shortcut method is no longer needed. When an ipa file is shared in this way, LiveContainer will ask if you want to install it in LiveContainer or in the built-in SideStore (if installed) (1357)\r \nMultitasking\r \n\u2022 Added per-app multitask preferences. Each app can now follow the global setting, always launch in multitask mode, or avoid multitask mode. (1208)\r\n\u2022 Improved multitask dock behavior: the dock can be made smaller, hidden more cleanly, and has improved padding. (1228, 1250)\r\n\u2022 Added more multitask window animations and improved native-window scene handling.\r\n\u2022 URL schemes and \"open-url\" payloads can be passed to already-running multitask apps and native windows.\r \nJIT\r\n\u2022 Added StosDebug support as a JIT enabler.\r \nTweakLoader\r\nYou can now disable tweaks in the \"Tweaks\" page in LiveContainer's UI. by @SAOMDVN\r \nImprovements\r\n\u2022 Added support for manually setting a container's IDFV. (1194)\r\n\u2022 IDFV spoofing works even when Tweakloader is not loaded.\r\n\u2022 Reworked signing logic for tweaks and app installation, with multithreaded signing support.\r\n\u2022 Download alerts now block tab switching while a download is in progress.\r\n\u2022 Crash reports are shown in a sheet instead of a large alert for better performance on newer iOS versions.\r\n\u2022 Add a \"Clear Notification\" button (1388)\r\n\u2022 Added some popular NSBonjourServices keys so apps can discover AirPlay devices and remote pairing pairable hosts in the local network. (1417)\r \nBug Fixes\r \n\u2022 Fixed \"livecontainer://open-url\" dropping the deep link when launching an app from a cold start. (1339)\r\n\u2022 Fixed the Add to Home Screen menu failing or behaving incorrectly by replacing the SwiftUI context menu implementation. (1209)\r\n\u2022 Fixed a crash when opening Container Preferences if the app did not contain an \"en.lproj\" path. (1239)\r\n\u2022 Fixed apps and AltStore sources not being searchable in some cases. (1365, 1368)\r\n\u2022 Fixed converting a shared app back to private after aborting an install with the same bundle identifier, which could leave stale container state behind. (1347)\r\n\u2022 Fixed shortcuts and JIT flows getting stuck on a busy LiveContainer instance instead of using another available instance. (1386)\r\n\u2022 Fixed file picker not workings for some apps because Tweakloader is not loaded after enabling \"Hide LiveContainer from dyld API\". (1430)\r\n\u2022 Fixed several app launch compatibility issues on iOS 26.5 beta, and some multitask/JIT app launches. (1300, 1310, 1329)\r\n\u2022 Fixed multitask keyboard focus issues on iOS 17.4+, including cases where the keyboard would not appear, Passwords would immediately close, or video playback would freeze in multitask mode. (1402, 844, 870)\r\n\u2022 Added support for iOS 27 developer beta. (1394, 1417, 1416)\r\n\u2022 Fix background downloads in multitask apps (choosing \"Keep App Extensions (Register App ID for Each Extension)\" is required). (1415)\r \nLocalization\r \n\u2022 Updated translations. Added Spanish translation by @Deci8BelioS\r \nCredits\r \nThanks to everyone who contributed code, fixes, testing, and reports for this release, including @boa-z, @ruri1208, @Project516, @yazdipour, @stossy11, and @SAOMDVN.\r \nGreat thanks to everyone who helped translate LiveContainer.",
       "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/AppIcon1024.png",
       "tintColor": "#0784FC",
@@ -240636,7 +241202,7 @@
       "version": "3.4.0",
       "versionDate": "2025-04-20T07:00:00Z",
       "versionDescription": "LiveContainer 3.8.0\r \n> [!Warning]\r\n> The standalone version requires SideStore 0.6.2+ or AltStore 2.2.1+ for installation.\r\n> To install LiveContainer with built-in SideStore (\"LiveContainer+SideStore.ipa\"), please use [Impactor](https://github.com/khcrysalis/Impactor) or [iloader](https://github.com/nab138/iloader). See [our installation guide](https://livecontainer.github.io/docs/installation/lc_sidestore) for details.\r \nNew Features\r \nStorage Management\r \n\u2022 Added a new storage management view with a breakdown of app bundles, containers, temporary files, app group data, tweaks, and other files. (Hidden apps' size is included in \"other\" section until unlocked)\r\n\u2022 Added per-app storage details, including app bundle size, container sizes, and last-used date.\r\n\u2022 Added actions to clean temporary files and caches, including guest app caches and LiveContainer's own caches.\r \nMultiple LiveContainers\r\n\u2022 Added configurable launch priority for multiple LiveContainer instances, making shared-app shortcuts choose available instances in the order you prefer. (1367)\r \nShare to Apps in LiveContainer\r\nAdded a share extension to LiveContainer. When you share a URL or a file from iOS's share sheet, LiveContainer will ask which app you would like to open the URL/file in, so the old share to LiveContainer shortcut method is no longer needed. When an ipa file is shared in this way, LiveContainer will ask if you want to install it in LiveContainer or in the built-in SideStore (if installed) (1357)\r \nMultitasking\r \n\u2022 Added per-app multitask preferences. Each app can now follow the global setting, always launch in multitask mode, or avoid multitask mode. (1208)\r\n\u2022 Improved multitask dock behavior: the dock can be made smaller, hidden more cleanly, and has improved padding. (1228, 1250)\r\n\u2022 Added more multitask window animations and improved native-window scene handling.\r\n\u2022 URL schemes and \"open-url\" payloads can be passed to already-running multitask apps and native windows.\r \nJIT\r\n\u2022 Added StosDebug support as a JIT enabler.\r \nTweakLoader\r\nYou can now disable tweaks in the \"Tweaks\" page in LiveContainer's UI. by @SAOMDVN\r \nImprovements\r\n\u2022 Added support for manually setting a container's IDFV. (1194)\r\n\u2022 IDFV spoofing works even when Tweakloader is not loaded.\r\n\u2022 Reworked signing logic for tweaks and app installation, with multithreaded signing support.\r\n\u2022 Download alerts now block tab switching while a download is in progress.\r\n\u2022 Crash reports are shown in a sheet instead of a large alert for better performance on newer iOS versions.\r\n\u2022 Add a \"Clear Notification\" button (1388)\r\n\u2022 Added some popular NSBonjourServices keys so apps can discover AirPlay devices and remote pairing pairable hosts in the local network. (1417)\r \nBug Fixes\r \n\u2022 Fixed \"livecontainer://open-url\" dropping the deep link when launching an app from a cold start. (1339)\r\n\u2022 Fixed the Add to Home Screen menu failing or behaving incorrectly by replacing the SwiftUI context menu implementation. (1209)\r\n\u2022 Fixed a crash when opening Container Preferences if the app did not contain an \"en.lproj\" path. (1239)\r\n\u2022 Fixed apps and AltStore sources not being searchable in some cases. (1365, 1368)\r\n\u2022 Fixed converting a shared app back to private after aborting an install with the same bundle identifier, which could leave stale container state behind. (1347)\r\n\u2022 Fixed shortcuts and JIT flows getting stuck on a busy LiveContainer instance instead of using another available instance. (1386)\r\n\u2022 Fixed file picker not workings for some apps because Tweakloader is not loaded after enabling \"Hide LiveContainer from dyld API\". (1430)\r\n\u2022 Fixed several app launch compatibility issues on iOS 26.5 beta, and some multitask/JIT app launches. (1300, 1310, 1329)\r\n\u2022 Fixed multitask keyboard focus issues on iOS 17.4+, including cases where the keyboard would not appear, Passwords would immediately close, or video playback would freeze in multitask mode. (1402, 844, 870)\r\n\u2022 Added support for iOS 27 developer beta. (1394, 1417, 1416)\r\n\u2022 Fix background downloads in multitask apps (choosing \"Keep App Extensions (Register App ID for Each Extension)\" is required). (1415)\r \nLocalization\r \n\u2022 Updated translations. Added Spanish translation by @Deci8BelioS\r \nCredits\r \nThanks to everyone who contributed code, fixes, testing, and reports for this release, including @boa-z, @ruri1208, @Project516, @yazdipour, @stossy11, and @SAOMDVN.\r \nGreat thanks to everyone who helped translate LiveContainer.",
-      "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/3.4.0/LiveContainer.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/LiveContainer.ipa",
       "localizedDescription": "\u26a0\ufe0fThis version \u26a0\ufe0fREQUIRES\u26a0\ufe0f SideStore 0.6.0+ / AltStore 2.0+ to install.\r \nThis version improved app re-signing experience, add support for new JIT enablers, increased compatibility with relatively old apps and add translation for Arabic, French, German, Japanese, Portuguese and Swedish.\r \n>[!Note]\r\nLiveContainer has upgraded SDK version to 18.2, which breaks some apps that works on previous versions. Fortunately we have developed the \"Spoof SDK Version\" feature, forcing system libraries to operate in the SDK version the app is built with. You can enable \"Spoof SDK Version\".\r \n\r\nNew Features\r\n1. New Re-Sign Strategy\r\nInstead of keeping track of expiration date, LiveContainer now directly ask iOS to determine whether the code signature is valid, which significantly decreases app re-sign rate. For now your apps will be re-signed only if their code signature is invalid, which probably happens when your certificate is expired (usually takes a year), or is revoked (when you reinstall SideStore/AltStore).\r \n2. Support for StikJIT(StikDebug), SideStore JIT\r\n [StikJIT(StikDebug)](https://github.com/StephenDev0/StikJIT) is the newest on-device JIT enabler powered by [idevice](https://github.com/jkcoxson/idevice). You can now install it both as a standalone app or install it inside LiveContainer. See 265 item 5.8 for more information.\r \nSideStore has recently switched its backend to idevice and added on-device JIT support. For now its JIT URL Scheme has not been implemented so you have to manually enable JIT for LiveContainer.\r \n3. Spoof SDK version\r\nSpoofing SDK version forces system libraries to operate in the SDK version the app is built with. This fix works surprisingly well so we decided to enable it by default for newly installed apps. This fixes some old apps crashing because of the new SDK. We also removed the \"Bypass AssertBarrierOnQueue\" fix since the root cause is SDK version.\r \nFix 421 422\r \n4. Support Import Certificate From SideStore\r\nWith [this SideStore pr](https://github.com/SideStore/SideStore/pull/959), we can now directly retrieve certificate from SideStore (0.6.2-20250420.25+) without the patch, thus simplifying the process of enabling JIT-Less mode.\r \n5. Game Mode Support\r\nWith the SDK version upgrade, LiveContainer now supports game mode. If you don't need it, you can turn it off in the control center. \r \nBug Fixes\r\n1. Fix a regression caused by NSBundle path fix. Fix 409\r\n2. Keep app's plugin folder in case some apps need files inside. Fix hugeBlack/LiveContainer43\r\n3. Add TPRO rw in overwrite exec path in case the executable path is TPRO protected. Fix 327\r\n4. Replace all \"withCheckedContinuation\" with \"withUnsafeContinuation\" to solve crash on iOS 18.0 beta. Fix 435\r\n5. Add file permission to solve some sign issues. Fix 448\r \nRemoved Features\r\nThe following features are removed because it's not useful in current version or constantly causing issues.\r\n1. AltSign: We drop AltSign support because it's constantly causing issues and it's relatively old.\r\n2. Bypass AssertBarrierOnQueue: It is replaced by \"Spoof SDK version\"\r\n3. Sign Only on Signature Expires: It's now useless as we directly determine if an app's code signature is valid by asking the system.\r \nTranslation\r\nLiveContainer is now translated into Arabic, Simplified Chinese, French, German, Japanese, Portuguese and Swedish\r\n\u2022 Arabic: translated by dlshad2\r\n\u2022 French: translated by @p-sage\r\n\u2022 German: translated by @BeityBytes\r\n\u2022 Japanese: translated by @naolad\r\n\u2022 Portuguese: translated by damn_the_daniel\r\n\u2022 Swedish: translated by @se2crid\r \nCredit\r\nShout out to @khanhduytran0 for doing a lot of research under the hood!\r \nOther\r\nLiveContainer is now migrated from a Theos project to a Xcode project, which simplifies the development and significantly decreased Github Actions build time (2 minutes now and around 10 minutes previously)",
       "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/AppIcon1024.png",
       "tintColor": "#0784FC",
@@ -241654,7 +242220,7 @@
       "version": "1.6",
       "versionDate": "2025-02-22T21:37:29-05:00",
       "versionDescription": "Added new animation!",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/Countdown.ipa",
+      "downloadURL": "https://github.com/neoarz/Countdown-App/releases/download/1.6/Countdown.ipa",
       "localizedDescription": "Added new animation!",
       "iconURL": "https://github.com/neoarz/Countdown-App/raw/main/Assets/CountdownLogo.jpg",
       "tintColor": "000",
@@ -250524,7 +251090,7 @@
       "version": "1.12.1.",
       "versionDate": "2024-11-14",
       "size": 162585,
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/TrollSpeed-1.12.1.tipa",
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-14-2024/TrollSpeed-1.12.1.tipa",
       "developerName": "Lessica",
       "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 06-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png",
@@ -257404,7 +257970,7 @@
       "version": "1.2.1",
       "versionDate": "2024-10-14",
       "size": 76865,
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/TrollLEDs-1.2.1.ipa",
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollLEDs/TrollLEDs-1.2.1.ipa",
       "developerName": "PoomSmart",
       "localizedDescription": "Control individual flashlight LEDs. Note: Refer to the original GitHub repository to find the list of supported devices.\nLast updated: 02-04-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.ps.TrollLEDs.png",
@@ -261623,7 +262189,7 @@
       "version": "1.3.0",
       "versionDate": "2024-10-13",
       "size": 30408,
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/ResolutionSetterTS-1.3.0.ipa",
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ResolutionSetterTS/ResolutionSetterTS-1.3.0.ipa",
       "developerName": "",
       "localizedDescription": "",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.michael.resolutionsetter.png",

@@ -4,9 +4,84 @@
   "subtitle": "Auto-merged from 43 AltStore/ESign sources. Original download URLs preserved.",
   "description": "Deduplicates by (name, bundleIdentifier, version). __source is the first source; __mirrors lists additional sources.",
   "iconURL": "https://avatars.githubusercontent.com/u/57844837",
-  "appCount": 13585,
+  "appCount": 13597,
   "sourceCount": 43,
   "apps": [
+    {
+      "name": "Terraria",
+      "bundleIdentifier": "com.505games.terraria",
+      "developerName": "NabzClan",
+      "subtitle": "The world is at your fingertips as you fight for survival, explore for fortune, and dig for glory. Delve deep",
+      "localizedDescription": "Terraria v1.4.5.8.1 (181.20 MB) \u2014 Sidelix App Store release.",
+      "iconURL": "https://apps.nabzclan.vip/images/1794934095_7617.webp",
+      "tintColor": "#2ecc71",
+      "category": "utilities",
+      "screenshots": [
+        "https://apps.nabzclan.vip/screenshots/17949340952687739.webp",
+        "https://apps.nabzclan.vip/screenshots/17949340954110476.webp",
+        "https://apps.nabzclan.vip/screenshots/17949340951456590.webp",
+        "https://apps.nabzclan.vip/screenshots/17949340962493885.webp",
+        "https://apps.nabzclan.vip/screenshots/17949340962385385.webp",
+        "https://apps.nabzclan.vip/screenshots/17949340964332218.webp"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "Terraria uses the local network to announce, discover and connect to multiplayer sessions."
+        }
+      },
+      "version": "1.4.5.8.1",
+      "versionDate": "2026-11-17T11:47:18-05:00",
+      "versionDescription": "Terraria v1.4.5.8.1 (181.20 MB) \u2014 Sidelix App Store release.",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/15/app_15_nabzclan_sidelix.ipa",
+      "size": 190001497,
+      "type": 1,
+      "badges": [
+        {
+          "key": "latest",
+          "label": "Latest Version",
+          "color": "#2ecc71",
+          "icon": "checkmark.seal.fill"
+        },
+        {
+          "key": "paid_free",
+          "label": "Paid ($4.99) Free",
+          "color": "#e74c3c",
+          "icon": "gift.fill"
+        },
+        {
+          "key": "sidelix_verified",
+          "label": "Sidelix Verified",
+          "color": "#16a085",
+          "icon": "shield.lefthalf.filled"
+        }
+      ],
+      "latest_appstore_app": {
+        "checked": true,
+        "found": true,
+        "bundleIdentifier": "com.505games.terraria",
+        "latest_version": "1.4.5.8.1",
+        "repo_version": "1.4.5.8.1",
+        "up_to_date": true,
+        "update_available": false,
+        "status": "up_to_date",
+        "price": "$4.99",
+        "is_paid": true,
+        "store_url": "https://apps.apple.com/us/app/terraria/id640364616",
+        "release_date": "2026-09-17T15:05:10Z",
+        "checked_at": "2026-11-17T11:48:17-05:00",
+        "track_id": 640364616,
+        "track_name": "Terraria"
+      },
+      "buildVersion": "101483",
+      "date": "2026-11-17T11:47:18-05:00",
+      "minOSVersion": "13.0",
+      "__source": "https://apps.nabzclan.vip/repos/esign.php",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
+      ]
+    },
     {
       "META": {
         "repoName": "driftywinds' AltStore Repo"
@@ -106,6 +181,237 @@
       "versionDate": "2026-11-17",
       "versionDescription": "Updated to v454.0.0, RyukGram v1.5.1",
       "__source": "https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/master/AltStore/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Fitia",
+      "type": 1,
+      "bundleID": "com.ulisesolave.Fitia",
+      "bundleIdentifier": "com.ulisesolave.Fitia",
+      "version": "25.3",
+      "versionDate": "2026-11-17",
+      "fullDate": "20261117220729",
+      "size": 122650680,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/Fitia_25.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/Fitia_25.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ulisesolave.Fitia.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ulisesolave.Fitia.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Calm",
+      "type": 1,
+      "bundleID": "com.calm.calmapp",
+      "bundleIdentifier": "com.calm.calmapp",
+      "version": "7.5.1",
+      "versionDate": "2026-11-17",
+      "fullDate": "20261117212952",
+      "size": 126765273,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/Calm_7.5.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/Calm_7.5.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calm.calmapp.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calm.calmapp.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Picsart",
+      "type": 1,
+      "bundleID": "com.picsart.studio",
+      "bundleIdentifier": "com.picsart.studio",
+      "version": "31.1.1",
+      "versionDate": "2026-11-17",
+      "fullDate": "20261117170054",
+      "size": 127614932,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/Picsart_31.1.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/Picsart_31.1.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picsart.studio.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picsart.studio.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "NutriCoach",
+      "type": 1,
+      "bundleID": "nutrition.coach",
+      "bundleIdentifier": "nutrition.coach",
+      "version": "2.7.1",
+      "versionDate": "2026-11-17",
+      "fullDate": "20261117161908",
+      "size": 78019764,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/NutriCoach_2.7.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/NutriCoach_2.7.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nutrition.coach.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nutrition.coach.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Mojo",
+      "type": 1,
+      "bundleID": "archery.storify",
+      "bundleIdentifier": "archery.storify",
+      "version": "1.283.0",
+      "versionDate": "2026-11-17",
+      "fullDate": "20261117152712",
+      "size": 182299263,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/Mojo_1.283.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/Mojo_1.283.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/archery.storify.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/archery.storify.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Buddy",
+      "type": 1,
+      "bundleID": "com.iPwners.Plonkan",
+      "bundleIdentifier": "com.iPwners.Plonkan",
+      "version": "13.53",
+      "versionDate": "2026-11-17",
+      "fullDate": "20261117151004",
+      "size": 110910144,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/Buddy_13.53_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/Buddy_13.53_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iPwners.Plonkan.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iPwners.Plonkan.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "ColorPop",
+      "type": 1,
+      "bundleID": "com.mwm.procolor",
+      "bundleIdentifier": "com.mwm.procolor",
+      "version": "2.69.03",
+      "versionDate": "2026-11-17",
+      "fullDate": "20261117145339",
+      "size": 191124012,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/ColorPop_2.69.03_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/ColorPop_2.69.03_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.procolor.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.procolor.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "SoundLab",
+      "type": 1,
+      "bundleID": "com.castpeer.audioroom.ios",
+      "bundleIdentifier": "com.castpeer.audioroom.ios",
+      "version": "2.11.7",
+      "versionDate": "2026-11-17",
+      "fullDate": "20261117115054",
+      "size": 146984032,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/SoundLab_2.11.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/SoundLab_2.11.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.castpeer.audioroom.ios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.castpeer.audioroom.ios.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "PeakVisor",
+      "type": 1,
+      "bundleID": "ru.routes.peakvisor",
+      "bundleIdentifier": "ru.routes.peakvisor",
+      "version": "5.122",
+      "versionDate": "2026-11-17",
+      "fullDate": "20261117115036",
+      "size": 164407298,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/PeakVisor_5.122_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/PeakVisor_5.122_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ru.routes.peakvisor.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ru.routes.peakvisor.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "FindAir",
+      "type": 1,
+      "bundleID": "co.airapps.finderbot",
+      "bundleIdentifier": "co.airapps.finderbot",
+      "version": "2026.11.4",
+      "versionDate": "2026-11-17",
+      "fullDate": "20261117113420",
+      "size": 66534704,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/FindAir_2026.11.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/FindAir_2026.11.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.finderbot.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.finderbot.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "CalculatorAir",
+      "type": 1,
+      "bundleID": "com.CalculatorForiPad.InternetRocks",
+      "bundleIdentifier": "com.CalculatorForiPad.InternetRocks",
+      "version": "2026.11.4",
+      "versionDate": "2026-11-17",
+      "fullDate": "20261117112744",
+      "size": 67275671,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/CalculatorAir_2026.11.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/CalculatorAir_2026.11.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.CalculatorForiPad.InternetRocks.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.CalculatorForiPad.InternetRocks.png",
+      "__source": "https://repository.apptesters.org",
       "__mirrors": [],
       "__stores": [
         "AltStore"
@@ -405,7 +711,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/my-dear-farm/id6668861713",
         "release_date": "2026-11-10T15:58:20Z",
-        "checked_at": "2026-11-16T21:46:32-05:00",
+        "checked_at": "2026-11-17T11:48:17-05:00",
         "track_id": 6668861713,
         "track_name": "My Dear Farm+"
       },
@@ -478,7 +784,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/stardew-valley/id6449264810",
         "release_date": "2025-06-05T16:38:30Z",
-        "checked_at": "2026-11-16T21:46:32-05:00",
+        "checked_at": "2026-11-17T11:48:17-05:00",
         "track_id": 6449264810,
         "track_name": "Stardew Valley+"
       },
@@ -551,7 +857,7 @@
         "is_paid": true,
         "store_url": "https://apps.apple.com/us/app/stardew-valley/id1406710800",
         "release_date": "2026-03-19T00:31:54Z",
-        "checked_at": "2026-11-16T21:46:33-05:00",
+        "checked_at": "2026-11-17T11:48:17-05:00",
         "track_id": 1406710800,
         "track_name": "Stardew Valley"
       },
@@ -626,7 +932,7 @@
         "is_paid": true,
         "store_url": "https://apps.apple.com/us/app/getting-over-it/id1319618742",
         "release_date": "2021-07-26T14:27:13Z",
-        "checked_at": "2026-11-16T21:46:33-05:00",
+        "checked_at": "2026-11-17T11:48:17-05:00",
         "track_id": 1319618742,
         "track_name": "Getting Over It"
       },
@@ -713,7 +1019,7 @@
         "is_paid": true,
         "store_url": "https://apps.apple.com/us/app/minecraft-play-with-friends/id479516143",
         "release_date": "2026-11-04T20:19:36Z",
-        "checked_at": "2026-11-16T21:46:33-05:00",
+        "checked_at": "2026-11-17T11:48:17-05:00",
         "track_id": 479516143,
         "track_name": "Minecraft: Play with Friends!"
       },
@@ -797,7 +1103,7 @@
         "is_paid": false,
         "store_url": null,
         "release_date": null,
-        "checked_at": "2026-11-17T00:46:41-05:00"
+        "checked_at": "2026-11-17T14:48:30-05:00"
       },
       "buildVersion": "1",
       "date": "2026-11-16T08:01:22-05:00",
@@ -884,7 +1190,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/youtube/id544007664",
         "release_date": "2026-11-15T17:07:14Z",
-        "checked_at": "2026-11-16T21:46:33-05:00",
+        "checked_at": "2026-11-17T11:48:17-05:00",
         "track_id": 544007664,
         "track_name": "YouTube"
       },
@@ -964,7 +1270,7 @@
         "is_paid": true,
         "store_url": "https://apps.apple.com/us/app/shadowrocket/id932747118",
         "release_date": "2026-10-29T03:15:39Z",
-        "checked_at": "2026-11-16T21:46:33-05:00",
+        "checked_at": "2026-11-17T11:48:17-05:00",
         "track_id": 932747118,
         "track_name": "Shadowrocket"
       },
@@ -1042,7 +1348,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/brain-test-tricky-puzzles/id1486214495",
         "release_date": "2026-11-15T18:09:34Z",
-        "checked_at": "2026-11-16T21:46:34-05:00",
+        "checked_at": "2026-11-17T11:48:17-05:00",
         "track_id": 1486214495,
         "track_name": "Brain Test: Tricky Puzzles"
       },
@@ -1132,7 +1438,7 @@
         "is_paid": true,
         "store_url": "https://apps.apple.com/us/app/alpin-quest-pro-outdoor-gps/id6760764479",
         "release_date": "2026-11-11T21:52:41Z",
-        "checked_at": "2026-11-16T21:46:34-05:00",
+        "checked_at": "2026-11-17T11:48:17-05:00",
         "track_id": 6760764479,
         "track_name": "Alpin Quest PRO \u2013 Outdoor GPS"
       },

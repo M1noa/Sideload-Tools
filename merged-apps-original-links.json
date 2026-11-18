@@ -4,9 +4,1021 @@
   "subtitle": "Auto-merged from 43 AltStore/ESign sources. Original download URLs preserved.",
   "description": "Deduplicates by (name, bundleIdentifier, version). __source is the first source; __mirrors lists additional sources.",
   "iconURL": "https://avatars.githubusercontent.com/u/57844837",
-  "appCount": 13612,
+  "appCount": 13635,
   "sourceCount": 43,
   "apps": [
+    {
+      "name": "PdfEdit",
+      "type": 1,
+      "bundleID": "com.apalonapps.pdfeditor",
+      "bundleIdentifier": "com.apalonapps.pdfeditor",
+      "version": "2.14.22",
+      "versionDate": "2026-11-19",
+      "fullDate": "20261119001711",
+      "size": 385611171,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-11-2026/PdfEdit_2.14.22_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-11-2026/PdfEdit_2.14.22_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.pdfeditor.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.pdfeditor.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "FreeYourMusic",
+      "type": 1,
+      "bundleID": "io.stampapp.Stamp",
+      "bundleIdentifier": "io.stampapp.Stamp",
+      "version": "11.3.0",
+      "versionDate": "2026-11-19",
+      "fullDate": "20261119000419",
+      "size": 26298457,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-11-2026/FreeYourMusic_11.3.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-11-2026/FreeYourMusic_11.3.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.stampapp.Stamp.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.stampapp.Stamp.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "id": "IG-SL-NoPlugins",
+      "developerName": "Fouad Raheb",
+      "sortId": 18,
+      "bundleIdentifier": "com.burbn.instagram",
+      "bundleID": "com.burbn.instagram",
+      "name": "Regram (No Plugins)",
+      "subtitle": "The all-in-one tweak for Instagram",
+      "localizedDescription": "This update contains the following changes:\n\n- Bug fixes and compatibility updates for IG 455 and 456.\n- Hidden Chats: now its own page (Settings \u203a Privacy). Lock them behind Face ID or a passcode, keep them out of the messages badge and DM search, choose when they hide again, and add chats by username. Revealed hidden chats show a lock.\n- Instants: new Confirm Instant Videos (Settings \u203a Confirmations). After you record a video Instant, preview it and choose Send or Discard before it goes out.\n- Messages: new Accurate Active Status (Settings \u203a Messages). People show as offline as soon as they leave, with a faster refresh you can choose. Offline activity alerts and history now use the time they actually left.\n- Reels: new Hold to Pause (Settings \u203a Reels). Holding a reel pauses it again and hides its buttons, instead of opening Instagram's options.\n- Long videos: Instagram's landscape player gets the action button, playback controls and button hiding, plus an option to open every long landscape video in it (Settings \u203a Reels \u203a Long Videos).\n- Playback controls: new, shorter design for reels, stories and long videos, with new Action button and Open in player buttons. Choose which buttons show and their order in Playback Controls \u203a Customize Buttons.\n- Playback controls: drag the speed bar for 0.05\u00d7 steps, double-tap it for 1\u00d7. Mute is now on the volume bar, Keep Speed next to the speed bar. Hold a button or tap its \u2022\u2022\u2022 for more options.\n- Stories playback controls: hold the previous / next buttons to jump to the previous / next person.\n- Reels: the floating playback button now shows the speed when it isn't 1\u00d7. The \u2022\u2022\u2022 button shows it only while holding it opens the playback controls.\n- Video player: Live Text support. Pause a video to select its text, translate or copy it, or tap the Live Text button to show all of it.\n- iPhone Duo unfolded / iPad: story Mark Seen (eye) now marks the story you're watching and moves to its next story, not the next person's. Download, mentions and playback buttons also act on the story on screen.\n- Activity Alerts: fixed online / offline alerts and Activity History not working on some accounts.\n- Messages Only: the schedule now turns it off when the time window ends.\n- Confirmations: new Double-Tapping a Repost Bubble. Asks before a double tap likes someone's repost on a post or reel.\n- Hide Chats: new option to remove Hide Chat from the menu when you long-press a chat (Settings \u203a Privacy \u203a Hidden Chats).\n- IG Feature Flags: new Try These picks: Sort Profile Reels (Force enables the sort option on profile Reels) and Liquid Glass Design (Instagram's new glass look, for iOS 26+ devices that don't have it yet).\n- Settings: How It Works pages have a new, clearer design, and IG Feature Flags and its Try These list now have one too.\n- Profile Analyzer: Since last scan now also shows who you followed and unfollowed.\n- Follow buttons in Regram lists now ask first in a small menu at the button (Settings \u203a Confirmations \u203a Regram Follow Buttons). Profile Analyzer lists no longer have Follow / Unfollow in the swipe actions.\n- Fixed select-mode buttons (unfollow, delete, export\u2026) hidden under the tab bar when a Regram screen is one of your tabs.\n- Reel date: now opens with a long press, so tapping the username no longer opens the date by mistake.\n\nBased on Instagram 456.0.0.",
+      "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
+      "icon": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
+      "screenshotURLs": [
+        "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
+        "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
+        "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",
+        "https://fouadraheb.com/images/landing/regram/09e-media-vault-list.webp",
+        "https://fouadraheb.com/images/landing/regram/11a-downloads-list.webp",
+        "https://fouadraheb.com/images/landing/regram/07b-activity-history-timeline.webp",
+        "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
+        "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
+      ],
+      "screenshots": [
+        "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
+        "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
+        "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",
+        "https://fouadraheb.com/images/landing/regram/09e-media-vault-list.webp",
+        "https://fouadraheb.com/images/landing/regram/11a-downloads-list.webp",
+        "https://fouadraheb.com/images/landing/regram/07b-activity-history-timeline.webp",
+        "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
+        "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
+      ],
+      "category": "social",
+      "tintColor": "#E1306C",
+      "appPermissions": {
+        "entitlements": [
+          "get-task-allow"
+        ],
+        "privacy": {
+          "NSCameraUsageDescription": "Instagram uses your device's camera to do things like help you take photos, record videos and use effects.",
+          "NSFaceIDUsageDescription": "Enable Face ID for quick and secure authentication on Instagram.",
+          "NSContactsUsageDescription": "Instagram will use your contacts to suggest people and things you care about, and offer a better service. Your contacts will be periodically synced and securely stored on Instagram\u2019s servers.",
+          "NSLocationUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
+          "NSCalendarsUsageDescription": "This will let Instagram sync events to your calendar.",
+          "NSMicrophoneUsageDescription": "Instagram uses your device's microphone to do things like help you record videos and preview audio effects.",
+          "NSFocusStatusUsageDescription": "This allows Instagram to check to see if you\u2019ve been missing notifications from friends. You can always change this later in settings.",
+          "NSPhotoLibraryUsageDescription": "Instagram uses access to your camera roll to do things like help you share photos and videos to Instagram, apply effects and suggest photos and videos to share.",
+          "NSUserTrackingUsageDescription": "This allows Instagram to provide you with a better ads experience.",
+          "NSBluetoothAlwaysUsageDescription": "This allows your phone to find and connect to the glasses using a Bluetooth connection.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your Camera Roll.",
+          "NSLocationWhenInUseUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings."
+        }
+      },
+      "version": "456.0.0",
+      "versionDate": "2026-11-18T18:34:41+00:00",
+      "versionDescription": "",
+      "fullDate": "20261118183441",
+      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1795027252741-4qgje/com.burbn.instagram_456.0.0_regram_7.1_sl_noplugs.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1795027252741-4qgje/com.burbn.instagram_456.0.0_regram_7.1_sl_noplugs.ipa",
+      "size": 339716146,
+      "marketingVersion": "7.1",
+      "date": "2026-11-18T18:34:41+00:00",
+      "__source": "https://altstore.fouadraheb.com",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "id": "IG-SL-Duplicate",
+      "developerName": "Fouad Raheb",
+      "sortId": 17,
+      "bundleIdentifier": "com.fouadraheb.regram",
+      "bundleID": "com.fouadraheb.regram",
+      "name": "Regram (Duplicate)",
+      "subtitle": "The all-in-one tweak for Instagram",
+      "localizedDescription": "This update contains the following changes:\n\n- Bug fixes and compatibility updates for IG 455 and 456.\n- Hidden Chats: now its own page (Settings \u203a Privacy). Lock them behind Face ID or a passcode, keep them out of the messages badge and DM search, choose when they hide again, and add chats by username. Revealed hidden chats show a lock.\n- Instants: new Confirm Instant Videos (Settings \u203a Confirmations). After you record a video Instant, preview it and choose Send or Discard before it goes out.\n- Messages: new Accurate Active Status (Settings \u203a Messages). People show as offline as soon as they leave, with a faster refresh you can choose. Offline activity alerts and history now use the time they actually left.\n- Reels: new Hold to Pause (Settings \u203a Reels). Holding a reel pauses it again and hides its buttons, instead of opening Instagram's options.\n- Long videos: Instagram's landscape player gets the action button, playback controls and button hiding, plus an option to open every long landscape video in it (Settings \u203a Reels \u203a Long Videos).\n- Playback controls: new, shorter design for reels, stories and long videos, with new Action button and Open in player buttons. Choose which buttons show and their order in Playback Controls \u203a Customize Buttons.\n- Playback controls: drag the speed bar for 0.05\u00d7 steps, double-tap it for 1\u00d7. Mute is now on the volume bar, Keep Speed next to the speed bar. Hold a button or tap its \u2022\u2022\u2022 for more options.\n- Stories playback controls: hold the previous / next buttons to jump to the previous / next person.\n- Reels: the floating playback button now shows the speed when it isn't 1\u00d7. The \u2022\u2022\u2022 button shows it only while holding it opens the playback controls.\n- Video player: Live Text support. Pause a video to select its text, translate or copy it, or tap the Live Text button to show all of it.\n- iPhone Duo unfolded / iPad: story Mark Seen (eye) now marks the story you're watching and moves to its next story, not the next person's. Download, mentions and playback buttons also act on the story on screen.\n- Activity Alerts: fixed online / offline alerts and Activity History not working on some accounts.\n- Messages Only: the schedule now turns it off when the time window ends.\n- Confirmations: new Double-Tapping a Repost Bubble. Asks before a double tap likes someone's repost on a post or reel.\n- Hide Chats: new option to remove Hide Chat from the menu when you long-press a chat (Settings \u203a Privacy \u203a Hidden Chats).\n- IG Feature Flags: new Try These picks: Sort Profile Reels (Force enables the sort option on profile Reels) and Liquid Glass Design (Instagram's new glass look, for iOS 26+ devices that don't have it yet).\n- Settings: How It Works pages have a new, clearer design, and IG Feature Flags and its Try These list now have one too.\n- Profile Analyzer: Since last scan now also shows who you followed and unfollowed.\n- Follow buttons in Regram lists now ask first in a small menu at the button (Settings \u203a Confirmations \u203a Regram Follow Buttons). Profile Analyzer lists no longer have Follow / Unfollow in the swipe actions.\n- Fixed select-mode buttons (unfollow, delete, export\u2026) hidden under the tab bar when a Regram screen is one of your tabs.\n- Reel date: now opens with a long press, so tapping the username no longer opens the date by mistake.\n\nBased on base app 456.0.0.",
+      "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
+      "icon": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
+      "screenshotURLs": [
+        "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
+        "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
+        "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",
+        "https://fouadraheb.com/images/landing/regram/09e-media-vault-list.webp",
+        "https://fouadraheb.com/images/landing/regram/11a-downloads-list.webp",
+        "https://fouadraheb.com/images/landing/regram/07b-activity-history-timeline.webp",
+        "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
+        "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
+      ],
+      "screenshots": [
+        "https://fouadraheb.com/images/landing/regram/01a-profile-analyzer-dashboard.webp",
+        "https://fouadraheb.com/images/landing/regram/02b-stories-archive-insights.webp",
+        "https://fouadraheb.com/images/landing/regram/03b-profile-tracking-changes.webp",
+        "https://fouadraheb.com/images/landing/regram/09e-media-vault-list.webp",
+        "https://fouadraheb.com/images/landing/regram/11a-downloads-list.webp",
+        "https://fouadraheb.com/images/landing/regram/07b-activity-history-timeline.webp",
+        "https://fouadraheb.com/images/landing/regram/05a-follow-requests-sent.webp",
+        "https://fouadraheb.com/images/landing/regram/16a-reels-limit-usage.webp"
+      ],
+      "category": "social",
+      "tintColor": "#E1306C",
+      "appPermissions": {
+        "entitlements": [
+          "get-task-allow"
+        ],
+        "privacy": {
+          "NSCameraUsageDescription": "Instagram uses your device's camera to do things like help you take photos, record videos and use effects.",
+          "NSFaceIDUsageDescription": "Enable Face ID for quick and secure authentication on Instagram.",
+          "NSContactsUsageDescription": "Instagram will use your contacts to suggest people and things you care about, and offer a better service. Your contacts will be periodically synced and securely stored on Instagram\u2019s servers.",
+          "NSLocationUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
+          "NSCalendarsUsageDescription": "This will let Instagram sync events to your calendar.",
+          "NSMicrophoneUsageDescription": "Instagram uses your device's microphone to do things like help you record videos and preview audio effects.",
+          "NSFocusStatusUsageDescription": "This allows Instagram to check to see if you\u2019ve been missing notifications from friends. You can always change this later in settings.",
+          "NSPhotoLibraryUsageDescription": "Instagram uses access to your camera roll to do things like help you share photos and videos to Instagram, apply effects and suggest photos and videos to share.",
+          "NSUserTrackingUsageDescription": "This allows Instagram to provide you with a better ads experience.",
+          "NSBluetoothAlwaysUsageDescription": "This allows your phone to find and connect to the glasses using a Bluetooth connection.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your Camera Roll.",
+          "NSLocationWhenInUseUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings."
+        }
+      },
+      "version": "456.0.0",
+      "versionDate": "2026-11-18T18:34:41+00:00",
+      "versionDescription": "",
+      "fullDate": "20261118183441",
+      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1795027252741-2y85m/com.fouadraheb.regram_456.0.0_regram_7.1_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1795027252741-2y85m/com.fouadraheb.regram_456.0.0_regram_7.1_sl.ipa",
+      "size": 336533488,
+      "marketingVersion": "7.1",
+      "date": "2026-11-18T18:34:41+00:00",
+      "__source": "https://altstore.fouadraheb.com",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "MovieBoxPro",
+      "bundleIdentifier": "com.xd.mbp31",
+      "developerName": "NabzClan",
+      "subtitle": "Watch movies at premium level",
+      "localizedDescription": "MovieBoxPro v16.5 (49.22 MB) \u2014 Sidelix App Store release.",
+      "iconURL": "https://apps.nabzclan.vip/images/1795014529_4649.webp",
+      "tintColor": "#2ecc71",
+      "category": "utilities",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "Allow MovieBoxPro use Bluetooth to find Cast Devices?",
+          "NSBluetoothPeripheralUsageDescription": "Allow MovieBoxPro use Bluetooth to find Cast Devices?",
+          "NSCameraUsageDescription": "Allow MovieBoxPro access your Camera?",
+          "NSLocalNetworkUsageDescription": "MovieBox uses the local network to discover Cast-enabled devices on your WiFi\nnetwork.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Allow MovieBoxPro to access your location for detailed feedback info?",
+          "NSLocationAlwaysUsageDescription": "Allow MovieBoxPro to access your location for detailed feedback info?",
+          "NSLocationWhenInUseUsageDescription": "Allow MovieBoxPro to access your location for detailed feedback info?",
+          "NSMicrophoneUsageDescription": "Allow MovieBoxPro access your Microphone?",
+          "NSPhotoLibraryAddUsageDescription": "Allow MovieBoxPro save  photo to your library?",
+          "NSPhotoLibraryUsageDescription": "Allow MovieBoxPro save  photo to your library?",
+          "NSUserTrackingUsageDescription": "MovieBoxPro need to access your idfa be used to deliver personalized content to you."
+        }
+      },
+      "version": "16.5",
+      "versionDate": "2026-11-18T10:08:49-05:00",
+      "versionDescription": "MovieBoxPro v16.5 (49.22 MB) \u2014 Sidelix App Store release.",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/8/app_8_nabzclan_sidelix.ipa",
+      "size": 51645502,
+      "type": 1,
+      "badges": [
+        {
+          "key": "sideload_exclusive",
+          "label": "Exclusive / Sideload",
+          "color": "#8e44ad",
+          "icon": "sparkles"
+        },
+        {
+          "key": "free",
+          "label": "Free",
+          "color": "#27ae60",
+          "icon": "checkmark.circle.fill"
+        },
+        {
+          "key": "featured",
+          "label": "Featured",
+          "color": "#3498db",
+          "icon": "star.fill"
+        },
+        {
+          "key": "sidelix_verified",
+          "label": "Sidelix Verified",
+          "color": "#16a085",
+          "icon": "shield.lefthalf.filled"
+        }
+      ],
+      "latest_appstore_app": {
+        "checked": true,
+        "found": false,
+        "bundleIdentifier": "com.xd.mbp31",
+        "latest_version": null,
+        "repo_version": "16.5",
+        "up_to_date": null,
+        "update_available": false,
+        "status": "custom_sideload",
+        "price": null,
+        "is_paid": false,
+        "store_url": null,
+        "release_date": null,
+        "checked_at": "2026-11-18T14:09:00-05:00"
+      },
+      "buildVersion": "1",
+      "date": "2026-11-18T10:08:49-05:00",
+      "minOSVersion": "15.0",
+      "__source": "https://apps.nabzclan.vip/repos/esign.php",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
+      ]
+    },
+    {
+      "name": "Minecraft (Free Paid)",
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "developerName": "NabzClan",
+      "subtitle": "Dive into an open world of building, crafting and survival. Gather resources, survive the night, and build wha",
+      "localizedDescription": "Minecraft (Free Paid) v26.62 (664.57 MB) \u2014 Sidelix App Store release.",
+      "iconURL": "https://apps.nabzclan.vip/images/1795014482_5927.webp",
+      "tintColor": "#2ecc71",
+      "category": "utilities",
+      "screenshots": [
+        "https://apps.nabzclan.vip/screenshots/17950144824226148.webp",
+        "https://apps.nabzclan.vip/screenshots/17950144828447054.webp",
+        "https://apps.nabzclan.vip/screenshots/17950144825493779.webp",
+        "https://apps.nabzclan.vip/screenshots/17950144826973020.webp",
+        "https://apps.nabzclan.vip/screenshots/17950144829469351.webp",
+        "https://apps.nabzclan.vip/screenshots/17950144823240575.webp"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Used for Live Broadcast",
+          "NSContactsUsageDescription": "When you use the Xbox Live Friend Finder, it will access your contacts to help you find your friends.",
+          "NSLocalNetworkUsageDescription": "Minecraft wants to access your local network. This allows you and others on your local network to play together. Declining this permission does not affect online features or gameplay. But will prevent you and others, on the same network, from playing together.",
+          "NSMicrophoneUsageDescription": "Used for Live Broadcast",
+          "NSPhotoLibraryAddUsageDescription": "Used to read and write Minecraft images.",
+          "NSPhotoLibraryUsageDescription": "Used to read and write Minecraft images.",
+          "NSUserTrackingUsageDescription": "Your data will be used to track advertising efficiency."
+        }
+      },
+      "version": "26.62",
+      "versionDate": "2026-11-18T10:08:02-05:00",
+      "versionDescription": "Minecraft (Free Paid) v26.62 (664.57 MB) \u2014 Sidelix App Store release.",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/9/app_9_nabzclan_sidelix.ipa",
+      "size": 696849840,
+      "type": 1,
+      "badges": [
+        {
+          "key": "latest",
+          "label": "Latest Version",
+          "color": "#2ecc71",
+          "icon": "checkmark.seal.fill"
+        },
+        {
+          "key": "paid_free",
+          "label": "Paid ($6.99) Free",
+          "color": "#e74c3c",
+          "icon": "gift.fill"
+        },
+        {
+          "key": "featured",
+          "label": "Featured",
+          "color": "#3498db",
+          "icon": "star.fill"
+        },
+        {
+          "key": "sidelix_verified",
+          "label": "Sidelix Verified",
+          "color": "#16a085",
+          "icon": "shield.lefthalf.filled"
+        }
+      ],
+      "latest_appstore_app": {
+        "checked": true,
+        "found": true,
+        "bundleIdentifier": "com.mojang.minecraftpe",
+        "latest_version": "26.62",
+        "repo_version": "26.62",
+        "up_to_date": true,
+        "update_available": false,
+        "status": "up_to_date",
+        "price": "$6.99",
+        "is_paid": true,
+        "store_url": "https://apps.apple.com/us/app/minecraft-play-with-friends/id479516143",
+        "release_date": "2026-11-04T20:19:36Z",
+        "checked_at": "2026-11-18T10:08:56-05:00",
+        "track_id": 479516143,
+        "track_name": "Minecraft: Play with Friends!"
+      },
+      "buildVersion": "1.26.62.01",
+      "date": "2026-11-18T10:08:02-05:00",
+      "minOSVersion": "15.0",
+      "__source": "https://apps.nabzclan.vip/repos/esign.php",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
+      ]
+    },
+    {
+      "name": "YouTube plus",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "PoomSmart",
+      "subtitle": "Features: \u2022 no ads \u2022 120Hz screen recording trail \u2022 YTPiP 1.12.15 Picture-in-Picture \u2022 YTKACE 1.1.8 \u2022 YTHUD 2.",
+      "localizedDescription": "YouTube plus v21.45.4 (157.00 MB) \u2014 Sidelix App Store release.",
+      "iconURL": "https://apps.nabzclan.vip/images/1794980048_8640.webp",
+      "tintColor": "#2ecc71",
+      "category": "utilities",
+      "screenshots": [
+        "https://apps.nabzclan.vip/screenshots/17949800489711764.webp",
+        "https://apps.nabzclan.vip/screenshots/17949800481529961.webp",
+        "https://apps.nabzclan.vip/screenshots/17949800488487368.webp",
+        "https://apps.nabzclan.vip/screenshots/17949800482544281.webp",
+        "https://apps.nabzclan.vip/screenshots/17949800488289673.webp"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "This lets you add your own audio files to your videos.",
+          "NSBluetoothPeripheralUsageDescription": "YouTube needs bluetooth access to scan for nearby Cast devices.",
+          "NSCameraUsageDescription": "This lets you create videos using the app.",
+          "NSContactsUsageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with.",
+          "NSLocalNetworkUsageDescription": "Access to your network allows YouTube to discover and connect to devices such as your TV.",
+          "NSLocationWhenInUseUsageDescription": "This enables local content discovery, improved recommendations, and enhanced search results.",
+          "NSMicrophoneUsageDescription": "This lets you include audio with your videos and search using your voice.",
+          "NSPhotoLibraryUsageDescription": "This lets you upload media you've already created.",
+          "NSUserTrackingUsageDescription": "To personalize ads and provide ad measurement, YouTube will link activity from this app with activity from non-Google apps and websites."
+        }
+      },
+      "version": "21.45.4",
+      "versionDate": "2026-11-18T00:34:07-05:00",
+      "versionDescription": "YouTube plus v21.45.4 (157.00 MB) \u2014 Sidelix App Store release.",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/7/app_7_nabzclan_sidelix.ipa",
+      "size": 164621627,
+      "type": 1,
+      "badges": [
+        {
+          "key": "needs_update",
+          "label": "Needs Update (v21.46.3)",
+          "color": "#f39c12",
+          "icon": "arrow.triangle.2.circlepath"
+        },
+        {
+          "key": "free",
+          "label": "Free",
+          "color": "#27ae60",
+          "icon": "checkmark.circle.fill"
+        },
+        {
+          "key": "featured",
+          "label": "Featured",
+          "color": "#3498db",
+          "icon": "star.fill"
+        },
+        {
+          "key": "sidelix_verified",
+          "label": "Sidelix Verified",
+          "color": "#16a085",
+          "icon": "shield.lefthalf.filled"
+        }
+      ],
+      "latest_appstore_app": {
+        "checked": true,
+        "found": true,
+        "bundleIdentifier": "com.google.ios.youtube",
+        "latest_version": "21.46.3",
+        "repo_version": "21.45.4",
+        "up_to_date": false,
+        "update_available": true,
+        "status": "update_available",
+        "price": "Free",
+        "is_paid": false,
+        "store_url": "https://apps.apple.com/us/app/youtube/id544007664",
+        "release_date": "2026-11-15T17:07:14Z",
+        "checked_at": "2026-11-18T10:08:56-05:00",
+        "track_id": 544007664,
+        "track_name": "YouTube"
+      },
+      "buildVersion": "21.45.4",
+      "date": "2026-11-18T00:34:07-05:00",
+      "minOSVersion": "17.0",
+      "__source": "https://apps.nabzclan.vip/repos/esign.php",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
+      ]
+    },
+    {
+      "name": "TikTok Douyin - plus",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "developerName": "NabzClan",
+      "subtitle": "Douyin 41.2.0 Official Modified Plus - Certificate Installation Login Method - Please use the DYkiller full-sc",
+      "localizedDescription": "TikTok Douyin - plus v41.1.0 (694.26 MB) \u2014 Sidelix App Store release.",
+      "iconURL": "https://apps.nabzclan.vip/images/1794979724_3166.webp",
+      "tintColor": "#2ecc71",
+      "category": "utilities",
+      "screenshots": [
+        "https://apps.nabzclan.vip/screenshots/17949797242428194.webp",
+        "https://apps.nabzclan.vip/screenshots/17949797248665469.webp",
+        "https://apps.nabzclan.vip/screenshots/17949797257346126.webp",
+        "https://apps.nabzclan.vip/screenshots/17949797251910743.webp",
+        "https://apps.nabzclan.vip/screenshots/17949797258474270.webp",
+        "https://apps.nabzclan.vip/screenshots/17949797252755686.webp"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "\u7528\u4e8e\u9009\u53d6\u624b\u673a\u5185\u7684\u672c\u5730\u97f3\u4e50",
+          "NSBluetoothAlwaysUsageDescription": "\u5141\u8bb8\u540e\uff0c\u4f60\u53ef\u4ee5\u5728\u6296\u97f3\u4e2d\u4f7f\u7528\u6295\u5c4f\u3001\u667a\u80fd\u8bbe\u5907\u7b49\u670d\u52a1",
+          "NSBluetoothPeripheralUsageDescription": "\u5141\u8bb8\u540e\uff0c\u4f60\u53ef\u4ee5\u5728\u6296\u97f3\u4e2d\u4f7f\u7528\u6295\u5c4f\u3001\u667a\u80fd\u8bbe\u5907\u7b49\u670d\u52a1",
+          "NSCalendarsFullAccessUsageDescription": "\u6296\u97f3\u9700\u8981\u83b7\u53d6\u4f60\u7684\u65e5\u5386\u6743\u9650\uff0c\u4ee5\u4fbf\u4f60\u6b63\u5e38\u4f7f\u7528\u9884\u7ea6\u6216\u4fc3\u9500\u63d0\u9192\u7b49\u670d\u52a1",
+          "NSCalendarsUsageDescription": "\u6296\u97f3\u9700\u8981\u83b7\u53d6\u4f60\u7684\u65e5\u5386\u6743\u9650\uff0c\u4ee5\u4fbf\u4f60\u6b63\u5e38\u4f7f\u7528\u9884\u7ea6\u6216\u4fc3\u9500\u63d0\u9192\u7b49\u670d\u52a1",
+          "NSCalendarsWriteOnlyAccessUsageDescription": "\u6296\u97f3\u9700\u8981\u83b7\u53d6\u4f60\u7684\u65e5\u5386\u5199\u5165\u6743\u9650\uff0c\u4ee5\u6839\u636e\u4f60\u5728\u672c\u5e94\u7528\u5185\u7684\u9884\u7ea6\uff0c\u6dfb\u52a0\u6216\u7f16\u8f91\u76f8\u5e94\u65e5\u7a0b\u63d0\u9192",
+          "NSCameraUsageDescription": "\u7528\u4e8e\u62cd\u7167\u3001\u5f55\u5236\u89c6\u9891\u3001\u89c6\u9891\u901a\u8bdd\u3001\u76f4\u64ad\u3001\u626b\u4e00\u626b\u53ca\u5b9e\u540d\u8ba4\u8bc1\u573a\u666f\u4e0b\u7684\u6821\u9a8c",
+          "NSContactsUsageDescription": "\u7528\u4e8e\u83b7\u77e5\u901a\u8baf\u5f55\u8054\u7cfb\u4eba\u4e2d\u4f7f\u7528\u8be5\u5e94\u7528\u7684\u7528\u6237\u540d\u5355",
+          "NSFaceIDUsageDescription": "\u6b63\u5728\u4e3a\u60a8\u5f00\u901a\u7cfb\u7edf\u6388\u6743",
+          "NSLocalNetworkUsageDescription": "\u4e3a\u4e86\u4fdd\u969c\u5e76\u4f18\u5316\u89c6\u9891\u64ad\u653e\uff1b\u67e5\u627e\u5e76\u8fde\u63a5\u5230\u672c\u5730\u7f51\u7edc\u4e0a\u7684\u8bbe\u5907\uff0c\u4ee5\u4f7f\u7528\u6295\u5c4f\u529f\u80fd\uff0c\u6216\u5b8c\u6210\u8de8\u8bbe\u5907\u8eab\u4efd\u6821\u9a8c\u3002",
+          "NSLocationWhenInUseUsageDescription": "\u7528\u4e8e\u63a8\u8350\u9644\u8fd1\u7684\u5185\u5bb9\u548c\u670d\u52a1",
+          "NSMicrophoneUsageDescription": "\u7528\u4e8e\u62cd\u6444\u3001\u76f4\u64ad\u3001\u89c6\u9891\u6216\u8bed\u97f3\u901a\u8bdd\u3001\u8bed\u97f3\u8f93\u5165\u7b49\u5f55\u97f3\u6216\u901a\u8baf\u573a\u666f",
+          "NSMotionUsageDescription": "\u8bf7\u5141\u8bb8\u83b7\u53d6\u60a8\u7684\u884c\u8d70\u6570\u636e\uff0c\u4ee5\u4fbf\u4e8e\u5956\u52b1\u7684\u51c6\u786e\u6027\u53d1\u653e",
+          "NSPhotoLibraryAddUsageDescription": "\u7528\u4e8e\u4fbf\u6377\u5730\u4fdd\u5b58\u89c6\u9891\u3001\u56fe\u7247\u7b49\u5185\u5bb9\u81f3\u672c\u5730",
+          "NSPhotoLibraryUsageDescription": "\u8bf7\u5141\u8bb8\u8bbf\u95ee\u6240\u6709\u7167\u7247\uff0c\u4ee5\u4fbf\u66f4\u81ea\u7531\u5730\u5236\u4f5c\u89c6\u9891\u548c\u4fdd\u5b58\u4f5c\u54c1\u81f3\u672c\u5730",
+          "NSUserTrackingUsageDescription": "\u8bf7\u653e\u5fc3\uff0c\u5f00\u542f\u6743\u9650\u4e0d\u4f1a\u83b7\u53d6\u4f60\u5728\u5176\u4ed6\u7ad9\u70b9\u7684\u9690\u79c1\u4fe1\u606f\uff0c\u8be5\u6743\u9650\u4ec5\u7528\u4e8e\u6807\u8bc6\u8bbe\u5907\u5e76\u4fdd\u969c\u670d\u52a1\u5b89\u5168\u4e0e\u63d0\u5347\u6d4f\u89c8\u4f53\u9a8c"
+        }
+      },
+      "version": "41.1.0",
+      "versionDate": "2026-11-18T00:25:49-05:00",
+      "versionDescription": "TikTok Douyin - plus v41.1.0 (694.26 MB) \u2014 Sidelix App Store release.",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/17/app_17_nabzclan_sidelix.ipa",
+      "size": 727983914,
+      "type": 1,
+      "badges": [
+        {
+          "key": "needs_update",
+          "label": "Needs Update (v47.8.0)",
+          "color": "#f39c12",
+          "icon": "arrow.triangle.2.circlepath"
+        },
+        {
+          "key": "free",
+          "label": "Free",
+          "color": "#27ae60",
+          "icon": "checkmark.circle.fill"
+        },
+        {
+          "key": "sidelix_verified",
+          "label": "Sidelix Verified",
+          "color": "#16a085",
+          "icon": "shield.lefthalf.filled"
+        }
+      ],
+      "latest_appstore_app": {
+        "checked": true,
+        "found": true,
+        "bundleIdentifier": "com.zhiliaoapp.musically",
+        "latest_version": "47.8.0",
+        "repo_version": "41.1.0",
+        "up_to_date": false,
+        "update_available": true,
+        "status": "update_available",
+        "price": "Free",
+        "is_paid": false,
+        "store_url": "https://apps.apple.com/us/app/tiktok-videos-shop-live/id835599320",
+        "release_date": "2026-11-17T00:47:45Z",
+        "checked_at": "2026-11-18T10:08:55-05:00",
+        "track_id": 835599320,
+        "track_name": "TikTok - Videos, Shop & LIVE"
+      },
+      "buildVersion": "411016",
+      "date": "2026-11-18T00:25:49-05:00",
+      "minOSVersion": "15.0",
+      "__source": "https://apps.nabzclan.vip/repos/esign.php",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
+      ]
+    },
+    {
+      "name": "Roblox Delta",
+      "bundleIdentifier": "com.roblox.robloxmobile",
+      "developerName": "delta team",
+      "subtitle": "Delta is a revolutionary new way to experience the world of scripting with its extensive library of features t",
+      "localizedDescription": "Roblox Delta v2.747.1486 (142.63 MB) \u2014 Sidelix App Store release.",
+      "iconURL": "https://apps.nabzclan.vip/images/1794982360_7053.webp",
+      "tintColor": "#2ecc71",
+      "category": "games",
+      "screenshots": [
+        "https://apps.nabzclan.vip/screenshots/17949823609518104.webp",
+        "https://apps.nabzclan.vip/screenshots/17949823609748338.webp",
+        "https://apps.nabzclan.vip/screenshots/17949823601696429.webp",
+        "https://apps.nabzclan.vip/screenshots/17949823605787611.webp",
+        "https://apps.nabzclan.vip/screenshots/17949823608292660.webp",
+        "https://apps.nabzclan.vip/screenshots/17949823608588200.webp"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Roblox uses your camera to check your age, animate your avatar, and scan QR codes.",
+          "NSContactsUsageDescription": "Connect with friends on Roblox. Your contacts will be regularly synced and matches with other Roblox users will be stored to help you find friends. You can manage this any time in settings.",
+          "NSLocalNetworkUsageDescription": "Roblox needs access to local networks to connect to players around you.",
+          "NSLocationWhenInUseUsageDescription": "Roblox needs access to your location to improve your user experience",
+          "NSMicrophoneUsageDescription": "Roblox needs access to your microphone for voice chat.",
+          "NSMotionUsageDescription": "Roblox needs access to the accelerometer to enhance your play experience.",
+          "NSPhotoLibraryAddUsageDescription": "Allow Roblox to access your photo library so you can save images and videos to your device's camera roll.",
+          "NSPhotoLibraryUsageDescription": "Roblox needs access to your photos to enhance your play experience."
+        }
+      },
+      "version": "2.747.1486",
+      "versionDate": "2026-11-18T00:15:25-05:00",
+      "versionDescription": "Roblox Delta v2.747.1486 (142.63 MB) \u2014 Sidelix App Store release.",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/16/app_16_nabzclan_sidelix.ipa",
+      "size": 149554804,
+      "type": 1,
+      "badges": [
+        {
+          "key": "latest",
+          "label": "Latest Version",
+          "color": "#2ecc71",
+          "icon": "checkmark.seal.fill"
+        },
+        {
+          "key": "free",
+          "label": "Free",
+          "color": "#27ae60",
+          "icon": "checkmark.circle.fill"
+        },
+        {
+          "key": "featured",
+          "label": "Featured",
+          "color": "#3498db",
+          "icon": "star.fill"
+        },
+        {
+          "key": "sidelix_verified",
+          "label": "Sidelix Verified",
+          "color": "#16a085",
+          "icon": "shield.lefthalf.filled"
+        }
+      ],
+      "latest_appstore_app": {
+        "checked": true,
+        "found": true,
+        "bundleIdentifier": "com.roblox.robloxmobile",
+        "latest_version": "2.747.1486",
+        "repo_version": "2.747.1486",
+        "up_to_date": true,
+        "update_available": false,
+        "status": "up_to_date",
+        "price": "Free",
+        "is_paid": false,
+        "store_url": "https://apps.apple.com/us/app/roblox/id431946152",
+        "release_date": "2026-11-16T17:37:31Z",
+        "checked_at": "2026-11-18T10:08:55-05:00",
+        "track_id": 431946152,
+        "track_name": "Roblox"
+      },
+      "buildVersion": "2.747.1486",
+      "date": "2026-11-18T00:15:25-05:00",
+      "minOSVersion": "14.0",
+      "__source": "https://apps.nabzclan.vip/repos/esign.php",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
+      ]
+    },
+    {
+      "name": "Duolingo",
+      "type": 1,
+      "bundleID": "com.duolingo.DuolingoMobile",
+      "bundleIdentifier": "com.duolingo.DuolingoMobile",
+      "version": "7.149.1",
+      "versionDate": "2026-11-18",
+      "fullDate": "20261118235641",
+      "size": 212477615,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/Duolingo_7.149.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/Duolingo_7.149.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.duolingo.DuolingoMobile.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.duolingo.DuolingoMobile.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Tripsy",
+      "type": 1,
+      "bundleID": "app.tripsy.ios",
+      "bundleIdentifier": "app.tripsy.ios",
+      "version": "3.10.9",
+      "versionDate": "2026-11-18",
+      "fullDate": "20261118234957",
+      "size": 92961304,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/Tripsy_3.10.9_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/Tripsy_3.10.9_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.tripsy.ios.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.tripsy.ios.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Fitia",
+      "type": 1,
+      "bundleID": "com.ulisesolave.Fitia",
+      "bundleIdentifier": "com.ulisesolave.Fitia",
+      "version": "25.3.1",
+      "versionDate": "2026-11-18",
+      "fullDate": "20261118234950",
+      "size": 122639284,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/Fitia_25.3.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/Fitia_25.3.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ulisesolave.Fitia.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ulisesolave.Fitia.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "FitNotes",
+      "type": 1,
+      "bundleID": "xyz.gingertech.fitnotes",
+      "bundleIdentifier": "xyz.gingertech.fitnotes",
+      "version": "19",
+      "versionDate": "2026-11-18",
+      "fullDate": "20261118220637",
+      "size": 12859879,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/FitNotes_19_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/FitNotes_19_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/xyz.gingertech.fitnotes.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/xyz.gingertech.fitnotes.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Captions",
+      "type": 1,
+      "bundleID": "boomer.Smart-Video",
+      "bundleIdentifier": "boomer.Smart-Video",
+      "version": "13.44.0",
+      "versionDate": "2026-11-18",
+      "fullDate": "20261118211336",
+      "size": 126066643,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/Captions_13.44.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/Captions_13.44.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/boomer.Smart-Video.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/boomer.Smart-Video.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Moovit",
+      "type": 1,
+      "bundleID": "com.tranzmate.tranzmate1",
+      "bundleIdentifier": "com.tranzmate.tranzmate1",
+      "version": "5.205.1",
+      "versionDate": "2026-11-18",
+      "fullDate": "20261118194024",
+      "size": 150875586,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/Moovit_5.205.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/Moovit_5.205.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tranzmate.tranzmate1.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tranzmate.tranzmate1.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Rest",
+      "type": 1,
+      "bundleID": "com.evolve.helm",
+      "bundleIdentifier": "com.evolve.helm",
+      "version": "3.211.0",
+      "versionDate": "2026-11-18",
+      "fullDate": "20261118183742",
+      "size": 133456900,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/Rest_3.211.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/Rest_3.211.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.evolve.helm.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.evolve.helm.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Videoleap",
+      "type": 1,
+      "bundleID": "com.lightricks.Enlight-Video",
+      "bundleIdentifier": "com.lightricks.Enlight-Video",
+      "version": "2.89",
+      "versionDate": "2026-11-18",
+      "fullDate": "20261118183017",
+      "size": 402486299,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/Videoleap_2.89_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/Videoleap_2.89_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Enlight-Video.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Enlight-Video.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Bazaart",
+      "type": 1,
+      "bundleID": "co.bazaart.app",
+      "bundleIdentifier": "co.bazaart.app",
+      "version": "27.0.9",
+      "versionDate": "2026-11-18",
+      "fullDate": "20261118162212",
+      "size": 116052428,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/Bazaart_27.0.9_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/Bazaart_27.0.9_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.bazaart.app.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.bazaart.app.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "ScannerAir",
+      "type": 1,
+      "bundleID": "co.airapps.scannerapp",
+      "bundleIdentifier": "co.airapps.scannerapp",
+      "version": "2026.11.3",
+      "versionDate": "2026-11-18",
+      "fullDate": "20261118155016",
+      "size": 145997773,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/ScannerAir_2026.11.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/ScannerAir_2026.11.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.scannerapp.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.scannerapp.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "WaterAir",
+      "type": 1,
+      "bundleID": "co.airapps.waterreminder",
+      "bundleIdentifier": "co.airapps.waterreminder",
+      "version": "2026.11.3",
+      "versionDate": "2026-11-18",
+      "fullDate": "20261118154320",
+      "size": 67974408,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/WaterAir_2026.11.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/WaterAir_2026.11.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.waterreminder.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.waterreminder.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Animock",
+      "type": 1,
+      "bundleID": "com.hassantaleb.mockup",
+      "bundleIdentifier": "com.hassantaleb.mockup",
+      "version": "7.0",
+      "versionDate": "2026-11-18",
+      "fullDate": "20261118154309",
+      "size": 185591159,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/Animock_7.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/Animock_7.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hassantaleb.mockup.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hassantaleb.mockup.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "SimplyPiano",
+      "type": 1,
+      "bundleID": "com.joytunes.asla",
+      "bundleIdentifier": "com.joytunes.asla",
+      "version": "9.11.5",
+      "versionDate": "2026-11-18",
+      "fullDate": "20261118151124",
+      "size": 155926219,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/SimplyPiano_9.11.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/SimplyPiano_9.11.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Shapeyard",
+      "type": 1,
+      "bundleID": "app.chudo",
+      "bundleIdentifier": "app.chudo",
+      "version": "5.34.2",
+      "versionDate": "2026-11-18",
+      "fullDate": "20261118150417",
+      "size": 86547539,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/Shapeyard_5.34.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/Shapeyard_5.34.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.chudo.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.chudo.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "AlightMotion",
+      "type": 1,
+      "bundleID": "com.alightcreative.motion",
+      "bundleIdentifier": "com.alightcreative.motion",
+      "version": "6.2.61",
+      "versionDate": "2026-11-18",
+      "fullDate": "20261118150409",
+      "size": 132159164,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/AlightMotion_6.2.61_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/AlightMotion_6.2.61_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alightcreative.motion.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alightcreative.motion.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "SimplyDraw",
+      "type": 1,
+      "bundleID": "com.joytunes.Draw",
+      "bundleIdentifier": "com.joytunes.Draw",
+      "version": "1.23.0",
+      "versionDate": "2026-11-18",
+      "fullDate": "20261118142638",
+      "size": 55949973,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/SimplyDraw_1.23.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/SimplyDraw_1.23.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.Draw.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.Draw.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "SNOW",
+      "type": 1,
+      "bundleID": "com.campmobile.snow",
+      "bundleIdentifier": "com.campmobile.snow",
+      "version": "15.5.1",
+      "versionDate": "2026-11-18",
+      "fullDate": "20261118131445",
+      "size": 186610373,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/SNOW_15.5.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/SNOW_15.5.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.campmobile.snow.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.campmobile.snow.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Phocus",
+      "type": 1,
+      "bundleID": "com.ahmetserdarkaradeniz.Phocus",
+      "bundleIdentifier": "com.ahmetserdarkaradeniz.Phocus",
+      "version": "3.6.1",
+      "versionDate": "2026-11-18",
+      "fullDate": "20261118115647",
+      "size": 250257068,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/Phocus_3.6.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/Phocus_3.6.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ahmetserdarkaradeniz.Phocus.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ahmetserdarkaradeniz.Phocus.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "PeakVisor",
+      "type": 1,
+      "bundleID": "ru.routes.peakvisor",
+      "bundleIdentifier": "ru.routes.peakvisor",
+      "version": "5.123",
+      "versionDate": "2026-11-18",
+      "fullDate": "20261118103938",
+      "size": 164628469,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/PeakVisor_5.123_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/PeakVisor_5.123_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ru.routes.peakvisor.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ru.routes.peakvisor.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
     {
       "name": "Sketchar",
       "type": 1,
@@ -336,191 +1348,13 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580",
         "release_date": "2026-11-13T13:54:31Z",
-        "checked_at": "2026-11-18T00:15:11-05:00",
+        "checked_at": "2026-11-18T10:08:55-05:00",
         "track_id": 324684580,
         "track_name": "Spotify: Music and Podcasts"
       },
       "buildVersion": "920002054",
       "date": "2026-11-17T23:59:24-05:00",
       "minOSVersion": "15.0",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "TikTok Douyin - plus",
-      "bundleIdentifier": "com.zhiliaoapp.musically",
-      "developerName": "NabzClan",
-      "subtitle": "Douyin 41.2.0 Official Modified Plus - Certificate Installation Login Method - Please use the DYkiller full-sc",
-      "localizedDescription": "TikTok Douyin - plus v47.8.0 (675.34 MB) \u2014 Sidelix App Store release.",
-      "iconURL": "https://apps.nabzclan.vip/images/1794974039_1295.webp",
-      "tintColor": "#2ecc71",
-      "category": "utilities",
-      "screenshots": [
-        "https://apps.nabzclan.vip/screenshots/17949740386922183.webp",
-        "https://apps.nabzclan.vip/screenshots/17949740387262903.webp",
-        "https://apps.nabzclan.vip/screenshots/17949740393922606.webp",
-        "https://apps.nabzclan.vip/screenshots/17949740399893742.webp",
-        "https://apps.nabzclan.vip/screenshots/17949740395280725.webp",
-        "https://apps.nabzclan.vip/screenshots/17949740399784338.webp"
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSAppleMusicUsageDescription": "\u7528\u4e8e\u9009\u53d6\u624b\u673a\u5185\u7684\u672c\u5730\u97f3\u4e50",
-          "NSBluetoothAlwaysUsageDescription": "\u5141\u8bb8\u540e\uff0c\u4f60\u53ef\u4ee5\u5728\u6296\u97f3\u4e2d\u4f7f\u7528\u6295\u5c4f\u3001\u667a\u80fd\u8bbe\u5907\u7b49\u670d\u52a1",
-          "NSBluetoothPeripheralUsageDescription": "\u5141\u8bb8\u540e\uff0c\u4f60\u53ef\u4ee5\u5728\u6296\u97f3\u4e2d\u4f7f\u7528\u6295\u5c4f\u3001\u667a\u80fd\u8bbe\u5907\u7b49\u670d\u52a1",
-          "NSCalendarsFullAccessUsageDescription": "\u6296\u97f3\u9700\u8981\u83b7\u53d6\u4f60\u7684\u65e5\u5386\u6743\u9650\uff0c\u4ee5\u4fbf\u4f60\u6b63\u5e38\u4f7f\u7528\u9884\u7ea6\u6216\u4fc3\u9500\u63d0\u9192\u7b49\u670d\u52a1",
-          "NSCalendarsUsageDescription": "\u6296\u97f3\u9700\u8981\u83b7\u53d6\u4f60\u7684\u65e5\u5386\u6743\u9650\uff0c\u4ee5\u4fbf\u4f60\u6b63\u5e38\u4f7f\u7528\u9884\u7ea6\u6216\u4fc3\u9500\u63d0\u9192\u7b49\u670d\u52a1",
-          "NSCalendarsWriteOnlyAccessUsageDescription": "\u6296\u97f3\u9700\u8981\u83b7\u53d6\u4f60\u7684\u65e5\u5386\u5199\u5165\u6743\u9650\uff0c\u4ee5\u6839\u636e\u4f60\u5728\u672c\u5e94\u7528\u5185\u7684\u9884\u7ea6\uff0c\u6dfb\u52a0\u6216\u7f16\u8f91\u76f8\u5e94\u65e5\u7a0b\u63d0\u9192",
-          "NSCameraUsageDescription": "\u7528\u4e8e\u62cd\u7167\u3001\u5f55\u5236\u89c6\u9891\u3001\u89c6\u9891\u901a\u8bdd\u3001\u76f4\u64ad\u3001\u626b\u4e00\u626b\u53ca\u5b9e\u540d\u8ba4\u8bc1\u573a\u666f\u4e0b\u7684\u6821\u9a8c",
-          "NSContactsUsageDescription": "\u7528\u4e8e\u83b7\u77e5\u901a\u8baf\u5f55\u8054\u7cfb\u4eba\u4e2d\u4f7f\u7528\u8be5\u5e94\u7528\u7684\u7528\u6237\u540d\u5355",
-          "NSFaceIDUsageDescription": "\u6b63\u5728\u4e3a\u60a8\u5f00\u901a\u7cfb\u7edf\u6388\u6743",
-          "NSLocalNetworkUsageDescription": "\u4e3a\u4e86\u4fdd\u969c\u5e76\u4f18\u5316\u89c6\u9891\u64ad\u653e\uff1b\u67e5\u627e\u5e76\u8fde\u63a5\u5230\u672c\u5730\u7f51\u7edc\u4e0a\u7684\u8bbe\u5907\uff0c\u4ee5\u4f7f\u7528\u6295\u5c4f\u529f\u80fd\uff0c\u6216\u5b8c\u6210\u8de8\u8bbe\u5907\u8eab\u4efd\u6821\u9a8c\u3002",
-          "NSLocationWhenInUseUsageDescription": "\u7528\u4e8e\u63a8\u8350\u9644\u8fd1\u7684\u5185\u5bb9\u548c\u670d\u52a1",
-          "NSMicrophoneUsageDescription": "\u7528\u4e8e\u62cd\u6444\u3001\u76f4\u64ad\u3001\u89c6\u9891\u6216\u8bed\u97f3\u901a\u8bdd\u3001\u8bed\u97f3\u8f93\u5165\u7b49\u5f55\u97f3\u6216\u901a\u8baf\u573a\u666f",
-          "NSMotionUsageDescription": "\u8bf7\u5141\u8bb8\u83b7\u53d6\u60a8\u7684\u884c\u8d70\u6570\u636e\uff0c\u4ee5\u4fbf\u4e8e\u5956\u52b1\u7684\u51c6\u786e\u6027\u53d1\u653e",
-          "NSPhotoLibraryAddUsageDescription": "\u7528\u4e8e\u4fbf\u6377\u5730\u4fdd\u5b58\u89c6\u9891\u3001\u56fe\u7247\u7b49\u5185\u5bb9\u81f3\u672c\u5730",
-          "NSPhotoLibraryUsageDescription": "\u8bf7\u5141\u8bb8\u8bbf\u95ee\u6240\u6709\u7167\u7247\uff0c\u4ee5\u4fbf\u66f4\u81ea\u7531\u5730\u5236\u4f5c\u89c6\u9891\u548c\u4fdd\u5b58\u4f5c\u54c1\u81f3\u672c\u5730",
-          "NSUserTrackingUsageDescription": "\u8bf7\u653e\u5fc3\uff0c\u5f00\u542f\u6743\u9650\u4e0d\u4f1a\u83b7\u53d6\u4f60\u5728\u5176\u4ed6\u7ad9\u70b9\u7684\u9690\u79c1\u4fe1\u606f\uff0c\u8be5\u6743\u9650\u4ec5\u7528\u4e8e\u6807\u8bc6\u8bbe\u5907\u5e76\u4fdd\u969c\u670d\u52a1\u5b89\u5168\u4e0e\u63d0\u5347\u6d4f\u89c8\u4f53\u9a8c"
-        }
-      },
-      "version": "47.8.0",
-      "versionDate": "2026-11-17T22:53:59-05:00",
-      "versionDescription": "TikTok Douyin - plus v47.8.0 (675.34 MB) \u2014 Sidelix App Store release.",
-      "downloadURL": "https://appstore.sidelix.vip/repos/download/17/app_17_nabzclan_sidelix.ipa",
-      "size": 708147835,
-      "type": 1,
-      "badges": [
-        {
-          "key": "latest",
-          "label": "Latest Version",
-          "color": "#2ecc71",
-          "icon": "checkmark.seal.fill"
-        },
-        {
-          "key": "free",
-          "label": "Free",
-          "color": "#27ae60",
-          "icon": "checkmark.circle.fill"
-        },
-        {
-          "key": "sidelix_verified",
-          "label": "Sidelix Verified",
-          "color": "#16a085",
-          "icon": "shield.lefthalf.filled"
-        }
-      ],
-      "latest_appstore_app": {
-        "checked": true,
-        "found": true,
-        "bundleIdentifier": "com.zhiliaoapp.musically",
-        "latest_version": "47.8.0",
-        "repo_version": "47.8.0",
-        "up_to_date": true,
-        "update_available": false,
-        "status": "up_to_date",
-        "price": "Free",
-        "is_paid": false,
-        "store_url": "https://apps.apple.com/us/app/tiktok-videos-shop-live/id835599320",
-        "release_date": "2026-11-17T00:47:45Z",
-        "checked_at": "2026-11-18T00:15:11-05:00",
-        "track_id": 835599320,
-        "track_name": "TikTok - Videos, Shop & LIVE"
-      },
-      "buildVersion": "412021",
-      "date": "2026-11-17T22:53:59-05:00",
-      "minOSVersion": "15.0",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Roblox Delta",
-      "bundleIdentifier": "com.roblox.robloxmobile",
-      "developerName": "delta team",
-      "subtitle": "Delta is a revolutionary new way to experience the world of scripting with its extensive library of features t",
-      "localizedDescription": "Roblox Delta v2.747.1486 (144.05 MB) \u2014 Sidelix App Store release.",
-      "iconURL": "https://apps.nabzclan.vip/images/1794978909_3792.webp",
-      "tintColor": "#2ecc71",
-      "category": "games",
-      "screenshots": [
-        "https://apps.nabzclan.vip/screenshots/17949760987807675.webp",
-        "https://apps.nabzclan.vip/screenshots/17949760984466010.webp",
-        "https://apps.nabzclan.vip/screenshots/17949760982829611.webp",
-        "https://apps.nabzclan.vip/screenshots/17949760982372148.webp",
-        "https://apps.nabzclan.vip/screenshots/17949760982759683.webp",
-        "https://apps.nabzclan.vip/screenshots/17949760987407128.webp"
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSCameraUsageDescription": "Roblox uses your camera to check your age, animate your avatar, and scan QR codes.",
-          "NSContactsUsageDescription": "Connect with friends on Roblox. Your contacts will be regularly synced and matches with other Roblox users will be stored to help you find friends. You can manage this any time in settings.",
-          "NSLocalNetworkUsageDescription": "Roblox needs access to local networks to connect to players around you.",
-          "NSLocationWhenInUseUsageDescription": "Roblox needs access to your location to improve your user experience",
-          "NSMicrophoneUsageDescription": "Roblox needs access to your microphone for voice chat.",
-          "NSMotionUsageDescription": "Roblox needs access to the accelerometer to enhance your play experience.",
-          "NSPhotoLibraryAddUsageDescription": "Allow Roblox to access your photo library so you can save images and videos to your device's camera roll.",
-          "NSPhotoLibraryUsageDescription": "Roblox needs access to your photos to enhance your play experience."
-        }
-      },
-      "version": "2.747.1486",
-      "versionDate": "2026-11-17T18:38:49-05:00",
-      "versionDescription": "Roblox Delta v2.747.1486 (144.05 MB) \u2014 Sidelix App Store release.",
-      "downloadURL": "https://appstore.sidelix.vip/repos/download/16/app_16_nabzclan_sidelix.ipa",
-      "size": 149554804,
-      "type": 1,
-      "badges": [
-        {
-          "key": "latest",
-          "label": "Latest Version",
-          "color": "#2ecc71",
-          "icon": "checkmark.seal.fill"
-        },
-        {
-          "key": "free",
-          "label": "Free",
-          "color": "#27ae60",
-          "icon": "checkmark.circle.fill"
-        },
-        {
-          "key": "featured",
-          "label": "Featured",
-          "color": "#3498db",
-          "icon": "star.fill"
-        },
-        {
-          "key": "sidelix_verified",
-          "label": "Sidelix Verified",
-          "color": "#16a085",
-          "icon": "shield.lefthalf.filled"
-        }
-      ],
-      "latest_appstore_app": {
-        "checked": true,
-        "found": true,
-        "bundleIdentifier": "com.roblox.robloxmobile",
-        "latest_version": "2.747.1486",
-        "repo_version": "2.747.1486",
-        "up_to_date": true,
-        "update_available": false,
-        "status": "up_to_date",
-        "price": "Free",
-        "is_paid": false,
-        "store_url": "https://apps.apple.com/us/app/roblox/id431946152",
-        "release_date": "2026-11-16T17:37:31Z",
-        "checked_at": "2026-11-18T00:15:11-05:00",
-        "track_id": 431946152,
-        "track_name": "Roblox"
-      },
-      "buildVersion": "2.747.1486",
-      "date": "2026-11-17T18:38:49-05:00",
-      "minOSVersion": "14.0",
       "__source": "https://apps.nabzclan.vip/repos/esign.php",
       "__mirrors": [],
       "__stores": [
@@ -589,7 +1423,7 @@
         "is_paid": true,
         "store_url": "https://apps.apple.com/us/app/terraria/id640364616",
         "release_date": "2026-09-17T15:05:10Z",
-        "checked_at": "2026-11-18T00:15:11-05:00",
+        "checked_at": "2026-11-18T10:08:56-05:00",
         "track_id": 640364616,
         "track_name": "Terraria"
       },
@@ -1231,7 +2065,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/my-dear-farm/id6668861713",
         "release_date": "2026-11-10T15:58:20Z",
-        "checked_at": "2026-11-18T00:15:11-05:00",
+        "checked_at": "2026-11-18T10:08:56-05:00",
         "track_id": 6668861713,
         "track_name": "My Dear Farm+"
       },
@@ -1304,7 +2138,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/stardew-valley/id6449264810",
         "release_date": "2025-06-05T16:38:30Z",
-        "checked_at": "2026-11-18T00:15:11-05:00",
+        "checked_at": "2026-11-18T10:08:56-05:00",
         "track_id": 6449264810,
         "track_name": "Stardew Valley+"
       },
@@ -1377,7 +2211,7 @@
         "is_paid": true,
         "store_url": "https://apps.apple.com/us/app/stardew-valley/id1406710800",
         "release_date": "2026-03-19T00:31:54Z",
-        "checked_at": "2026-11-18T00:15:11-05:00",
+        "checked_at": "2026-11-18T10:08:56-05:00",
         "track_id": 1406710800,
         "track_name": "Stardew Valley"
       },
@@ -1452,271 +2286,13 @@
         "is_paid": true,
         "store_url": "https://apps.apple.com/us/app/getting-over-it/id1319618742",
         "release_date": "2021-07-26T14:27:13Z",
-        "checked_at": "2026-11-18T00:15:11-05:00",
+        "checked_at": "2026-11-18T10:08:56-05:00",
         "track_id": 1319618742,
         "track_name": "Getting Over It"
       },
       "buildVersion": "6",
       "date": "2026-11-16T21:31:19-05:00",
       "minOSVersion": "13.0",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Minecraft (Free Paid)",
-      "bundleIdentifier": "com.mojang.minecraftpe",
-      "developerName": "NabzClan",
-      "subtitle": "Dive into an open world of building, crafting and survival. Gather resources, survive the night, and build wha",
-      "localizedDescription": "Minecraft (Free Paid) v26.62 (664.53 MB) \u2014 Sidelix App Store release.",
-      "iconURL": "https://apps.nabzclan.vip/images/1794859213_2920.webp",
-      "tintColor": "#2ecc71",
-      "category": "utilities",
-      "screenshots": [
-        "https://apps.nabzclan.vip/screenshots/17948592132217684.webp",
-        "https://apps.nabzclan.vip/screenshots/17948592146867189.webp",
-        "https://apps.nabzclan.vip/screenshots/17948592148592676.webp",
-        "https://apps.nabzclan.vip/screenshots/17948592143336755.webp",
-        "https://apps.nabzclan.vip/screenshots/17948592141123371.webp",
-        "https://apps.nabzclan.vip/screenshots/17948592147028809.webp"
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSCameraUsageDescription": "Used for Live Broadcast",
-          "NSContactsUsageDescription": "When you use the Xbox Live Friend Finder, it will access your contacts to help you find your friends.",
-          "NSLocalNetworkUsageDescription": "Minecraft wants to access your local network. This allows you and others on your local network to play together. Declining this permission does not affect online features or gameplay. But will prevent you and others, on the same network, from playing together.",
-          "NSMicrophoneUsageDescription": "Used for Live Broadcast",
-          "NSPhotoLibraryAddUsageDescription": "Used to read and write Minecraft images.",
-          "NSPhotoLibraryUsageDescription": "Used to read and write Minecraft images.",
-          "NSUserTrackingUsageDescription": "Your data will be used to track advertising efficiency."
-        }
-      },
-      "version": "26.62",
-      "versionDate": "2026-11-16T15:00:13-05:00",
-      "versionDescription": "Minecraft (Free Paid) v26.62 (664.53 MB) \u2014 Sidelix App Store release.",
-      "downloadURL": "https://appstore.sidelix.vip/repos/download/9/app_9_nabzclan_sidelix.ipa",
-      "size": 696844973,
-      "type": 1,
-      "badges": [
-        {
-          "key": "latest",
-          "label": "Latest Version",
-          "color": "#2ecc71",
-          "icon": "checkmark.seal.fill"
-        },
-        {
-          "key": "paid_free",
-          "label": "Paid ($6.99) Free",
-          "color": "#e74c3c",
-          "icon": "gift.fill"
-        },
-        {
-          "key": "featured",
-          "label": "Featured",
-          "color": "#3498db",
-          "icon": "star.fill"
-        },
-        {
-          "key": "sidelix_verified",
-          "label": "Sidelix Verified",
-          "color": "#16a085",
-          "icon": "shield.lefthalf.filled"
-        }
-      ],
-      "latest_appstore_app": {
-        "checked": true,
-        "found": true,
-        "bundleIdentifier": "com.mojang.minecraftpe",
-        "latest_version": "26.62",
-        "repo_version": "26.62",
-        "up_to_date": true,
-        "update_available": false,
-        "status": "up_to_date",
-        "price": "$6.99",
-        "is_paid": true,
-        "store_url": "https://apps.apple.com/us/app/minecraft-play-with-friends/id479516143",
-        "release_date": "2026-11-04T20:19:36Z",
-        "checked_at": "2026-11-18T00:15:11-05:00",
-        "track_id": 479516143,
-        "track_name": "Minecraft: Play with Friends!"
-      },
-      "buildVersion": "1.26.62.01",
-      "date": "2026-11-16T15:00:13-05:00",
-      "minOSVersion": "15.0",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "MovieBoxPro",
-      "bundleIdentifier": "com.xd.mbp31",
-      "developerName": "NabzClan",
-      "subtitle": "Watch movies at premium level",
-      "localizedDescription": "MovieBoxPro v16.5 (49.22 MB) \u2014 Sidelix App Store release.",
-      "iconURL": "https://apps.nabzclan.vip/images/1794816082_4743.webp",
-      "tintColor": "#2ecc71",
-      "category": "utilities",
-      "screenshots": [],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSBluetoothAlwaysUsageDescription": "Allow MovieBoxPro use Bluetooth to find Cast Devices?",
-          "NSBluetoothPeripheralUsageDescription": "Allow MovieBoxPro use Bluetooth to find Cast Devices?",
-          "NSCameraUsageDescription": "Allow MovieBoxPro access your Camera?",
-          "NSLocalNetworkUsageDescription": "MovieBox uses the local network to discover Cast-enabled devices on your WiFi\nnetwork.",
-          "NSLocationAlwaysAndWhenInUseUsageDescription": "Allow MovieBoxPro to access your location for detailed feedback info?",
-          "NSLocationAlwaysUsageDescription": "Allow MovieBoxPro to access your location for detailed feedback info?",
-          "NSLocationWhenInUseUsageDescription": "Allow MovieBoxPro to access your location for detailed feedback info?",
-          "NSMicrophoneUsageDescription": "Allow MovieBoxPro access your Microphone?",
-          "NSPhotoLibraryAddUsageDescription": "Allow MovieBoxPro save  photo to your library?",
-          "NSPhotoLibraryUsageDescription": "Allow MovieBoxPro save  photo to your library?",
-          "NSUserTrackingUsageDescription": "MovieBoxPro need to access your idfa be used to deliver personalized content to you."
-        }
-      },
-      "version": "16.5",
-      "versionDate": "2026-11-16T08:01:22-05:00",
-      "versionDescription": "MovieBoxPro v16.5 (49.22 MB) \u2014 Sidelix App Store release.",
-      "downloadURL": "https://appstore.sidelix.vip/repos/download/8/app_8_nabzclan_sidelix.ipa",
-      "size": 51645502,
-      "type": 1,
-      "badges": [
-        {
-          "key": "sideload_exclusive",
-          "label": "Exclusive / Sideload",
-          "color": "#8e44ad",
-          "icon": "sparkles"
-        },
-        {
-          "key": "free",
-          "label": "Free",
-          "color": "#27ae60",
-          "icon": "checkmark.circle.fill"
-        },
-        {
-          "key": "featured",
-          "label": "Featured",
-          "color": "#3498db",
-          "icon": "star.fill"
-        },
-        {
-          "key": "sidelix_verified",
-          "label": "Sidelix Verified",
-          "color": "#16a085",
-          "icon": "shield.lefthalf.filled"
-        }
-      ],
-      "latest_appstore_app": {
-        "checked": true,
-        "found": false,
-        "bundleIdentifier": "com.xd.mbp31",
-        "latest_version": null,
-        "repo_version": "16.5",
-        "up_to_date": null,
-        "update_available": false,
-        "status": "custom_sideload",
-        "price": null,
-        "is_paid": false,
-        "store_url": null,
-        "release_date": null,
-        "checked_at": "2026-11-18T00:15:11-05:00"
-      },
-      "buildVersion": "1",
-      "date": "2026-11-16T08:01:22-05:00",
-      "minOSVersion": "15.0",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "YouTube plus",
-      "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "PoomSmart",
-      "subtitle": "Features: \u2022 no ads \u2022 120Hz screen recording trail \u2022 YTPiP 1.12.15 Picture-in-Picture \u2022 YTKACE 1.1.8 \u2022 YTHUD 2.",
-      "localizedDescription": "YouTube plus v21.46.3 (158.85 MB) \u2014 Sidelix App Store release.",
-      "iconURL": "https://apps.nabzclan.vip/images/1794810763_6409.webp",
-      "tintColor": "#2ecc71",
-      "category": "utilities",
-      "screenshots": [
-        "https://apps.nabzclan.vip/screenshots/17948107624836760.webp",
-        "https://apps.nabzclan.vip/screenshots/17948107626749385.webp",
-        "https://apps.nabzclan.vip/screenshots/17948107637717946.webp",
-        "https://apps.nabzclan.vip/screenshots/17948107631533577.webp",
-        "https://apps.nabzclan.vip/screenshots/17948107632170427.webp",
-        "https://apps.nabzclan.vip/screenshots/17948107635922280.webp"
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSAppleMusicUsageDescription": "This lets you add your own audio files to your videos.",
-          "NSBluetoothPeripheralUsageDescription": "YouTube needs bluetooth access to scan for nearby Cast devices.",
-          "NSCameraUsageDescription": "This lets you create videos using the app.",
-          "NSContactsUsageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with.",
-          "NSLocalNetworkUsageDescription": "Access to your network allows YouTube to discover and connect to devices such as your TV.",
-          "NSLocationWhenInUseUsageDescription": "This enables local content discovery, improved recommendations, and enhanced search results.",
-          "NSMicrophoneUsageDescription": "This lets you include audio with your videos and search using your voice.",
-          "NSPhotoLibraryUsageDescription": "This lets you upload media you've already created.",
-          "NSUserTrackingUsageDescription": "To personalize ads and provide ad measurement, YouTube will link activity from this app with activity from non-Google apps and websites."
-        }
-      },
-      "version": "21.46.3",
-      "versionDate": "2026-11-16T06:32:43-05:00",
-      "versionDescription": "YouTube plus v21.46.3 (158.85 MB) \u2014 Sidelix App Store release.",
-      "downloadURL": "https://appstore.sidelix.vip/repos/download/7/app_7_nabzclan_sidelix.ipa",
-      "size": 166601807,
-      "type": 1,
-      "badges": [
-        {
-          "key": "latest",
-          "label": "Latest Version",
-          "color": "#2ecc71",
-          "icon": "checkmark.seal.fill"
-        },
-        {
-          "key": "free",
-          "label": "Free",
-          "color": "#27ae60",
-          "icon": "checkmark.circle.fill"
-        },
-        {
-          "key": "featured",
-          "label": "Featured",
-          "color": "#3498db",
-          "icon": "star.fill"
-        },
-        {
-          "key": "sidelix_verified",
-          "label": "Sidelix Verified",
-          "color": "#16a085",
-          "icon": "shield.lefthalf.filled"
-        }
-      ],
-      "latest_appstore_app": {
-        "checked": true,
-        "found": true,
-        "bundleIdentifier": "com.google.ios.youtube",
-        "latest_version": "21.46.3",
-        "repo_version": "21.46.3",
-        "up_to_date": true,
-        "update_available": false,
-        "status": "up_to_date",
-        "price": "Free",
-        "is_paid": false,
-        "store_url": "https://apps.apple.com/us/app/youtube/id544007664",
-        "release_date": "2026-11-15T17:07:14Z",
-        "checked_at": "2026-11-18T00:15:11-05:00",
-        "track_id": 544007664,
-        "track_name": "YouTube"
-      },
-      "buildVersion": "21.46.3",
-      "date": "2026-11-16T06:32:43-05:00",
-      "minOSVersion": "17.0",
       "__source": "https://apps.nabzclan.vip/repos/esign.php",
       "__mirrors": [],
       "__stores": [
@@ -1790,7 +2366,7 @@
         "is_paid": true,
         "store_url": "https://apps.apple.com/us/app/shadowrocket/id932747118",
         "release_date": "2026-10-29T03:15:39Z",
-        "checked_at": "2026-11-18T00:15:11-05:00",
+        "checked_at": "2026-11-18T10:08:56-05:00",
         "track_id": 932747118,
         "track_name": "Shadowrocket"
       },
@@ -1868,7 +2444,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/brain-test-tricky-puzzles/id1486214495",
         "release_date": "2026-11-15T18:09:34Z",
-        "checked_at": "2026-11-18T00:15:12-05:00",
+        "checked_at": "2026-11-18T10:08:56-05:00",
         "track_id": 1486214495,
         "track_name": "Brain Test: Tricky Puzzles"
       },
@@ -1882,11 +2458,11 @@
       ]
     },
     {
-      "name": "Alpin Quest PRO 0 (Free paid)",
+      "name": "Alpin Quest PRO (Free paid)",
       "bundleIdentifier": "com.alpinquest.app",
       "developerName": "NabzClan",
       "subtitle": "free paid app ----- Alpin Quest PRO is a professional GPS and field GIS application developed for military per",
-      "localizedDescription": "Alpin Quest PRO 0 (Free paid) v10.0.200+2500 (23.62 MB) \u2014 Sidelix App Store release.",
+      "localizedDescription": "Alpin Quest PRO (Free paid) v10.0.200+2500 (23.62 MB) \u2014 Sidelix App Store release.",
       "iconURL": "https://apps.nabzclan.vip/images/1794858671_2125.webp",
       "tintColor": "#2ecc71",
       "category": "utilities",
@@ -1915,7 +2491,7 @@
       },
       "version": "10.0.200+2500",
       "versionDate": "2026-11-16T04:50:44-05:00",
-      "versionDescription": "Alpin Quest PRO 0 (Free paid) v10.0.200+2500 (23.62 MB) \u2014 Sidelix App Store release.",
+      "versionDescription": "Alpin Quest PRO (Free paid) v10.0.200+2500 (23.62 MB) \u2014 Sidelix App Store release.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/4/app_4_nabzclan_sidelix.ipa",
       "size": 24686043,
       "type": 1,
@@ -1958,7 +2534,7 @@
         "is_paid": true,
         "store_url": "https://apps.apple.com/us/app/alpin-quest-pro-outdoor-gps/id6760764479",
         "release_date": "2026-11-11T21:52:41Z",
-        "checked_at": "2026-11-18T00:15:12-05:00",
+        "checked_at": "2026-11-18T10:08:56-05:00",
         "track_id": 6760764479,
         "track_name": "Alpin Quest PRO \u2013 Outdoor GPS"
       },
@@ -6867,9 +7443,9 @@
       "version": "454.1.0",
       "versionDate": "2026-11-09T18:45:26+00:00",
       "versionDescription": "",
-      "fullDate": "20261109184526",
+      "fullDate": "20261118183441",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1794250144993-iap5o/com.burbn.instagram_454.1.0_regram_7.0.1_sl_noplugs.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1794250144993-iap5o/com.burbn.instagram_454.1.0_regram_7.0.1_sl_noplugs.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1795027252741-4qgje/com.burbn.instagram_456.0.0_regram_7.1_sl_noplugs.ipa",
       "size": 323057734,
       "marketingVersion": "7.0.1",
       "date": "2026-11-09T18:45:26+00:00",
@@ -6935,9 +7511,9 @@
       "version": "454.1.0",
       "versionDate": "2026-11-09T18:45:26+00:00",
       "versionDescription": "",
-      "fullDate": "20261109184526",
+      "fullDate": "20261118183441",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1794250144992-sebkf/com.fouadraheb.regram_454.1.0_regram_7.0.1_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1794250144992-sebkf/com.fouadraheb.regram_454.1.0_regram_7.0.1_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1795027252741-2y85m/com.fouadraheb.regram_456.0.0_regram_7.1_sl.ipa",
       "size": 320022975,
       "marketingVersion": "7.0.1",
       "date": "2026-11-09T18:45:26+00:00",
@@ -23655,9 +24231,9 @@
       "version": "452.0.1",
       "versionDate": "2026-10-20T11:18:03+00:00",
       "versionDescription": "",
-      "fullDate": "20261109184526",
+      "fullDate": "20261118183441",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792499222882-g1phx/com.burbn.instagram_452.0.1_regram_6.5_sl_noplugs.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1794250144993-iap5o/com.burbn.instagram_454.1.0_regram_7.0.1_sl_noplugs.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1795027252741-4qgje/com.burbn.instagram_456.0.0_regram_7.1_sl_noplugs.ipa",
       "size": 296298875,
       "marketingVersion": "6.5",
       "date": "2026-10-20T11:18:03+00:00",
@@ -23723,9 +24299,9 @@
       "version": "452.0.1",
       "versionDate": "2026-10-20T11:18:03+00:00",
       "versionDescription": "",
-      "fullDate": "20261109184526",
+      "fullDate": "20261118183441",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792499222882-rlxv7/com.fouadraheb.regram_452.0.1_regram_6.5_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1794250144992-sebkf/com.fouadraheb.regram_454.1.0_regram_7.0.1_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1795027252741-2y85m/com.fouadraheb.regram_456.0.0_regram_7.1_sl.ipa",
       "size": 293405643,
       "marketingVersion": "6.5",
       "date": "2026-10-20T11:18:03+00:00",
@@ -24356,9 +24932,9 @@
       "version": "450.1.0",
       "versionDate": "2026-10-10T11:48:47+00:00",
       "versionDescription": "",
-      "fullDate": "20261109184526",
+      "fullDate": "20261118183441",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1791633150600-5s3m7/com.burbn.instagram_450.1.0_regram_6.4_sl_noplugs.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1794250144993-iap5o/com.burbn.instagram_454.1.0_regram_7.0.1_sl_noplugs.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1795027252741-4qgje/com.burbn.instagram_456.0.0_regram_7.1_sl_noplugs.ipa",
       "size": 280748738,
       "marketingVersion": "6.4",
       "date": "2026-10-10T11:48:47+00:00",
@@ -24424,9 +25000,9 @@
       "version": "450.1.0",
       "versionDate": "2026-10-10T11:48:47+00:00",
       "versionDescription": "",
-      "fullDate": "20261109184526",
+      "fullDate": "20261118183441",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1791633150599-mb4fm/com.fouadraheb.regram_450.1.0_regram_6.4_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1794250144992-sebkf/com.fouadraheb.regram_454.1.0_regram_7.0.1_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1795027252741-2y85m/com.fouadraheb.regram_456.0.0_regram_7.1_sl.ipa",
       "size": 278062480,
       "marketingVersion": "6.4",
       "date": "2026-10-10T11:48:47+00:00",
@@ -28525,9 +29101,9 @@
       "version": "448.0.0",
       "versionDate": "2026-09-28T18:38:54+00:00",
       "versionDescription": "",
-      "fullDate": "20261109184526",
+      "fullDate": "20261118183441",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1790621057583-90wdd/com.burbn.instagram_448.0.0_regram_6.3_sl_noplugs.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1794250144993-iap5o/com.burbn.instagram_454.1.0_regram_7.0.1_sl_noplugs.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1795027252741-4qgje/com.burbn.instagram_456.0.0_regram_7.1_sl_noplugs.ipa",
       "size": 272219308,
       "marketingVersion": "6.3",
       "date": "2026-09-28T18:38:54+00:00",
@@ -28593,9 +29169,9 @@
       "version": "448.0.0",
       "versionDate": "2026-09-28T18:38:54+00:00",
       "versionDescription": "",
-      "fullDate": "20261109184526",
+      "fullDate": "20261118183441",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1790621057583-b8dfz/com.fouadraheb.regram_448.0.0_regram_6.3_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1794250144992-sebkf/com.fouadraheb.regram_454.1.0_regram_7.0.1_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1795027252741-2y85m/com.fouadraheb.regram_456.0.0_regram_7.1_sl.ipa",
       "size": 269624337,
       "marketingVersion": "6.3",
       "date": "2026-09-28T18:38:54+00:00",
@@ -31496,9 +32072,9 @@
       "version": "447.0.0",
       "versionDate": "2026-09-21T16:46:03+00:00",
       "versionDescription": "",
-      "fullDate": "20261109184526",
+      "fullDate": "20261118183441",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1790010075535-mkfr8/com.burbn.instagram_447.0.0_regram_6.2_sl_noplugs.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1794250144993-iap5o/com.burbn.instagram_454.1.0_regram_7.0.1_sl_noplugs.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1795027252741-4qgje/com.burbn.instagram_456.0.0_regram_7.1_sl_noplugs.ipa",
       "size": 268981267,
       "marketingVersion": "6.2",
       "date": "2026-09-21T16:46:03+00:00",
@@ -31564,9 +32140,9 @@
       "version": "447.0.0",
       "versionDate": "2026-09-21T16:46:03+00:00",
       "versionDescription": "",
-      "fullDate": "20261109184526",
+      "fullDate": "20261118183441",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1790010075535-ndbov/com.fouadraheb.regram_447.0.0_regram_6.2_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1794250144992-sebkf/com.fouadraheb.regram_454.1.0_regram_7.0.1_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1795027252741-2y85m/com.fouadraheb.regram_456.0.0_regram_7.1_sl.ipa",
       "size": 266408268,
       "marketingVersion": "6.2",
       "date": "2026-09-21T16:46:03+00:00",
@@ -39595,9 +40171,9 @@
       "version": "445.0.0",
       "versionDate": "2026-09-02T08:44:35+00:00",
       "versionDescription": "",
-      "fullDate": "20261109184526",
+      "fullDate": "20261118183441",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1788339843573-4m0ux/com.burbn.instagram_445.0.0_regram_6.1_sl_noplugs.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1794250144993-iap5o/com.burbn.instagram_454.1.0_regram_7.0.1_sl_noplugs.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1795027252741-4qgje/com.burbn.instagram_456.0.0_regram_7.1_sl_noplugs.ipa",
       "size": 268204223,
       "marketingVersion": "6.1",
       "date": "2026-09-02T08:44:35+00:00",
@@ -39663,9 +40239,9 @@
       "version": "445.0.0",
       "versionDate": "2026-09-02T08:44:35+00:00",
       "versionDescription": "",
-      "fullDate": "20261109184526",
+      "fullDate": "20261118183441",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1788339843572-m5b7s/com.fouadraheb.regram_445.0.0_regram_6.1_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1794250144992-sebkf/com.fouadraheb.regram_454.1.0_regram_7.0.1_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1795027252741-2y85m/com.fouadraheb.regram_456.0.0_regram_7.1_sl.ipa",
       "size": 265677022,
       "marketingVersion": "6.1",
       "date": "2026-09-02T08:44:35+00:00",
@@ -43811,9 +44387,9 @@
       "version": "443.1.0",
       "versionDate": "2026-08-23T12:48:20+00:00",
       "versionDescription": "",
-      "fullDate": "20261109184526",
+      "fullDate": "20261118183441",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1787487946004-tz5lk/com.burbn.instagram_443.1.0_regram_6.0.1_sl_noplugs.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1794250144993-iap5o/com.burbn.instagram_454.1.0_regram_7.0.1_sl_noplugs.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1795027252741-4qgje/com.burbn.instagram_456.0.0_regram_7.1_sl_noplugs.ipa",
       "size": 268957242,
       "marketingVersion": "6.0.1",
       "date": "2026-08-23T12:48:20+00:00",
@@ -43879,9 +44455,9 @@
       "version": "443.1.0",
       "versionDate": "2026-08-23T12:48:20+00:00",
       "versionDescription": "",
-      "fullDate": "20261109184526",
+      "fullDate": "20261118183441",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1787487946004-6r46a/com.fouadraheb.regram_443.1.0_regram_6.0.1_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1794250144992-sebkf/com.fouadraheb.regram_454.1.0_regram_7.0.1_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1795027252741-2y85m/com.fouadraheb.regram_456.0.0_regram_7.1_sl.ipa",
       "size": 266508593,
       "marketingVersion": "6.0.1",
       "date": "2026-08-23T12:48:20+00:00",
@@ -44703,9 +45279,9 @@
       "version": "443.0.0",
       "versionDate": "2026-08-20T20:58:36+00:00",
       "versionDescription": "",
-      "fullDate": "20261109184526",
+      "fullDate": "20261118183441",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1787260303160-qwacj/com.burbn.instagram_443.0.0_regram_6.0_sl_noplugs.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1794250144993-iap5o/com.burbn.instagram_454.1.0_regram_7.0.1_sl_noplugs.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1795027252741-4qgje/com.burbn.instagram_456.0.0_regram_7.1_sl_noplugs.ipa",
       "size": 268889076,
       "marketingVersion": "6.0",
       "date": "2026-08-20T20:58:36+00:00",
@@ -44771,9 +45347,9 @@
       "version": "443.0.0",
       "versionDate": "2026-08-20T20:58:36+00:00",
       "versionDescription": "",
-      "fullDate": "20261109184526",
+      "fullDate": "20261118183441",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1787260303159-mpd8c/com.fouadraheb.regram_443.0.0_regram_6.0_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1794250144992-sebkf/com.fouadraheb.regram_454.1.0_regram_7.0.1_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1795027252741-2y85m/com.fouadraheb.regram_456.0.0_regram_7.1_sl.ipa",
       "size": 266440187,
       "marketingVersion": "6.0",
       "date": "2026-08-20T20:58:36+00:00",
@@ -55041,9 +55617,9 @@
       "version": "439.0.0",
       "versionDate": "2026-07-21T19:48:57+00:00",
       "versionDescription": "",
-      "fullDate": "20261109184526",
+      "fullDate": "20261118183441",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1784664131112-fnmd3/com.burbn.instagram_439.0.0_regram_5.2.1_sl_noplugs.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1794250144993-iap5o/com.burbn.instagram_454.1.0_regram_7.0.1_sl_noplugs.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1795027252741-4qgje/com.burbn.instagram_456.0.0_regram_7.1_sl_noplugs.ipa",
       "size": 271399109,
       "marketingVersion": "5.2.1",
       "date": "2026-07-21T19:48:57+00:00",
@@ -55109,9 +55685,9 @@
       "version": "439.0.0",
       "versionDate": "2026-07-21T19:48:57+00:00",
       "versionDescription": "",
-      "fullDate": "20261109184526",
+      "fullDate": "20261118183441",
       "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1784664131112-9uylf/com.fouadraheb.regram_439.0.0_regram_5.2.1_sl.ipa",
-      "down": "https://fouadraheb.com/dl/storage/ipa/1794250144992-sebkf/com.fouadraheb.regram_454.1.0_regram_7.0.1_sl.ipa",
+      "down": "https://fouadraheb.com/dl/storage/ipa/1795027252741-2y85m/com.fouadraheb.regram_456.0.0_regram_7.1_sl.ipa",
       "size": 269010147,
       "marketingVersion": "5.2.1",
       "date": "2026-07-21T19:48:57+00:00",

@@ -4,9 +4,201 @@
   "subtitle": "Auto-merged from 43 AltStore/ESign sources. Original download URLs preserved.",
   "description": "Deduplicates by (name, bundleIdentifier, version). __source is the first source; __mirrors lists additional sources.",
   "iconURL": "https://avatars.githubusercontent.com/u/57844837",
-  "appCount": 13635,
+  "appCount": 13645,
   "sourceCount": 43,
   "apps": [
+    {
+      "bundleIdentifier": "eu.pokemmo.client",
+      "developerName": "PokeMMO",
+      "downloadURL": "https://dl.pokemmo.com/PokeMMO-Client.ipa?r=35119",
+      "iconURL": "https://pokemmo.com/build/images/altstore.f5930b35.png",
+      "localizedDescription": "PokeMMO is a free to play mmorpg, come join a growing community as you level up and discover new monsters. Available now on PC, Android, iOS, Mac, and Linux.",
+      "name": "PokeMMO",
+      "screenshotURLs": [
+        "https://pokemmo.com/build/images/screenshot/c.b5d935d8.png",
+        "https://pokemmo.com/build/images/screenshot/b.3a233486.png",
+        "https://pokemmo.com/build/images/screenshot/d.4080dd9c.png",
+        "https://pokemmo.com/build/images/screenshot/e.ed0aa85b.png",
+        "https://pokemmo.com/build/images/screenshot/a.debf11f5.png"
+      ],
+      "size": 133893685,
+      "tintColor": "73ACE2",
+      "version": "35119",
+      "versionDate": "2026-11-19T01:07:41+00:00",
+      "__source": "https://pokemmo.eu/altstore/",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Action",
+      "type": 1,
+      "bundleID": "com.future.kapi",
+      "bundleIdentifier": "com.future.kapi",
+      "version": "4.46.0",
+      "versionDate": "2026-11-19",
+      "fullDate": "20261119084552",
+      "size": 168652191,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-11-2026/Action_4.46.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-11-2026/Action_4.46.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.future.kapi.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.future.kapi.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Calm",
+      "type": 1,
+      "bundleID": "com.calm.calmapp",
+      "bundleIdentifier": "com.calm.calmapp",
+      "version": "7.6",
+      "versionDate": "2026-11-19",
+      "fullDate": "20261119064745",
+      "size": 126894654,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-11-2026/Calm_7.6_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-11-2026/Calm_7.6_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calm.calmapp.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calm.calmapp.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Threads",
+      "type": 1,
+      "bundleID": "com.burbn.barcelona",
+      "bundleIdentifier": "com.burbn.barcelona",
+      "version": "456.0.0",
+      "versionDate": "2026-11-19",
+      "fullDate": "20261119055525",
+      "size": 118224551,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-11-2026/Threads_456.0.0_ThreadsPulse_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-11-2026/Threads_456.0.0_ThreadsPulse_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with ThreadsPulse",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.burbn.barcelona.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.burbn.barcelona.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "DynamicLyrics",
+      "type": 1,
+      "bundleID": "com.bing.lyrics",
+      "bundleIdentifier": "com.bing.lyrics",
+      "version": "2.0.8",
+      "versionDate": "2026-11-19",
+      "fullDate": "20261119054846",
+      "size": 29248152,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-11-2026/DynamicLyrics_2.0.8_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-11-2026/DynamicLyrics_2.0.8_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bing.lyrics.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bing.lyrics.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Drafts",
+      "type": 1,
+      "bundleID": "com.agiletortoise.Drafts5",
+      "bundleIdentifier": "com.agiletortoise.Drafts5",
+      "version": "55.0",
+      "versionDate": "2026-11-19",
+      "fullDate": "20261119041651",
+      "size": 51609505,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-11-2026/Drafts_55.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-11-2026/Drafts_55.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.agiletortoise.Drafts5.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.agiletortoise.Drafts5.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "CLIME",
+      "type": 1,
+      "bundleID": "com.apalonapps.radarfree",
+      "bundleIdentifier": "com.apalonapps.radarfree",
+      "version": "5.13.73",
+      "versionDate": "2026-11-19",
+      "fullDate": "20261119031951",
+      "size": 182116251,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-11-2026/CLIME_5.13.73_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-11-2026/CLIME_5.13.73_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.radarfree.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.radarfree.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Crsel",
+      "type": 1,
+      "bundleID": "com.frameoneapps.Crsel",
+      "bundleIdentifier": "com.frameoneapps.Crsel",
+      "version": "1.6.6",
+      "versionDate": "2026-11-19",
+      "fullDate": "20261119024224",
+      "size": 113855226,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-11-2026/Crsel_1.6.6_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-11-2026/Crsel_1.6.6_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frameoneapps.Crsel.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frameoneapps.Crsel.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Mercury",
+      "type": 1,
+      "bundleID": "com.tripleglazedstudios.Weather",
+      "bundleIdentifier": "com.tripleglazedstudios.Weather",
+      "version": "3.8.3",
+      "versionDate": "2026-11-19",
+      "fullDate": "20261119022019",
+      "size": 80101153,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-11-2026/Mercury_3.8.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-11-2026/Mercury_3.8.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tripleglazedstudios.Weather.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tripleglazedstudios.Weather.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
     {
       "name": "PdfEdit",
       "type": 1,
@@ -50,6 +242,89 @@
       ]
     },
     {
+      "name": "Cooking Diary - (Hacked)",
+      "bundleIdentifier": "com.mytonallc.cookingdiary",
+      "developerName": "NabzClan",
+      "subtitle": "Features: \u258eFree purchases: Click \"Buy,\" then \"Cancel.\"",
+      "localizedDescription": "Cooking Diary - (Hacked) v2.59.1 (506.38 MB) \u2014 Sidelix App Store release.",
+      "iconURL": "https://apps.nabzclan.vip/images/1795045700_3806.webp",
+      "tintColor": "#2ecc71",
+      "category": "games",
+      "screenshots": [
+        "https://apps.nabzclan.vip/screenshots/17950457006023253.webp",
+        "https://apps.nabzclan.vip/screenshots/17950457007730933.webp",
+        "https://apps.nabzclan.vip/screenshots/17950457007098701.webp",
+        "https://apps.nabzclan.vip/screenshots/17950457007542218.webp",
+        "https://apps.nabzclan.vip/screenshots/17950457005610367.webp",
+        "https://apps.nabzclan.vip/screenshots/17950457004578454.webp"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothPeripheralUsageDescription": "please click cancel",
+          "NSCalendarsUsageDescription": "Some ad content requests access to the Calendar",
+          "NSCameraUsageDescription": "Some ad requests write access to the Camera",
+          "NSContactsUsageDescription": "we don't use contacts data, please click cancel",
+          "NSLocationWhenInUseUsageDescription": "for statistics",
+          "NSMicrophoneUsageDescription": "please click cancel",
+          "NSPhotoLibraryAddUsageDescription": "Some ad content requests write access to the Photo Library",
+          "NSPhotoLibraryUsageDescription": "We need to access your photos in order to attach them",
+          "NSUserTrackingUsageDescription": "Your device's data (IDFA) will help make the game better."
+        }
+      },
+      "version": "2.59.1",
+      "versionDate": "2026-11-18T18:48:19-05:00",
+      "versionDescription": "Cooking Diary - (Hacked) v2.59.1 (506.38 MB) \u2014 Sidelix App Store release.",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/20/app_20_nabzclan_sidelix.ipa",
+      "size": 530978546,
+      "type": 1,
+      "badges": [
+        {
+          "key": "needs_update",
+          "label": "Needs Update (v2.59.2)",
+          "color": "#f39c12",
+          "icon": "arrow.triangle.2.circlepath"
+        },
+        {
+          "key": "free",
+          "label": "Free",
+          "color": "#27ae60",
+          "icon": "checkmark.circle.fill"
+        },
+        {
+          "key": "sidelix_verified",
+          "label": "Sidelix Verified",
+          "color": "#16a085",
+          "icon": "shield.lefthalf.filled"
+        }
+      ],
+      "latest_appstore_app": {
+        "checked": true,
+        "found": true,
+        "bundleIdentifier": "com.mytonallc.cookingdiary",
+        "latest_version": "2.59.2",
+        "repo_version": "2.59.1",
+        "up_to_date": false,
+        "update_available": true,
+        "status": "update_available",
+        "price": "Free",
+        "is_paid": false,
+        "store_url": "https://apps.apple.com/us/app/cooking-diary-restaurant-game/id1214763610",
+        "release_date": "2026-11-18T21:44:16Z",
+        "checked_at": "2026-11-18T20:59:44-05:00",
+        "track_id": 1214763610,
+        "track_name": "Cooking Diary\u00ae Restaurant Game"
+      },
+      "buildVersion": "2.59.1.28125.1",
+      "date": "2026-11-18T18:48:19-05:00",
+      "minOSVersion": "15.0",
+      "__source": "https://apps.nabzclan.vip/repos/esign.php",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
+      ]
+    },
+    {
       "id": "IG-SL-NoPlugins",
       "developerName": "Fouad Raheb",
       "sortId": 18,
@@ -57,7 +332,7 @@
       "bundleID": "com.burbn.instagram",
       "name": "Regram (No Plugins)",
       "subtitle": "The all-in-one tweak for Instagram",
-      "localizedDescription": "This update contains the following changes:\n\n- Bug fixes and compatibility updates for IG 455 and 456.\n- Hidden Chats: now its own page (Settings \u203a Privacy). Lock them behind Face ID or a passcode, keep them out of the messages badge and DM search, choose when they hide again, and add chats by username. Revealed hidden chats show a lock.\n- Instants: new Confirm Instant Videos (Settings \u203a Confirmations). After you record a video Instant, preview it and choose Send or Discard before it goes out.\n- Messages: new Accurate Active Status (Settings \u203a Messages). People show as offline as soon as they leave, with a faster refresh you can choose. Offline activity alerts and history now use the time they actually left.\n- Reels: new Hold to Pause (Settings \u203a Reels). Holding a reel pauses it again and hides its buttons, instead of opening Instagram's options.\n- Long videos: Instagram's landscape player gets the action button, playback controls and button hiding, plus an option to open every long landscape video in it (Settings \u203a Reels \u203a Long Videos).\n- Playback controls: new, shorter design for reels, stories and long videos, with new Action button and Open in player buttons. Choose which buttons show and their order in Playback Controls \u203a Customize Buttons.\n- Playback controls: drag the speed bar for 0.05\u00d7 steps, double-tap it for 1\u00d7. Mute is now on the volume bar, Keep Speed next to the speed bar. Hold a button or tap its \u2022\u2022\u2022 for more options.\n- Stories playback controls: hold the previous / next buttons to jump to the previous / next person.\n- Reels: the floating playback button now shows the speed when it isn't 1\u00d7. The \u2022\u2022\u2022 button shows it only while holding it opens the playback controls.\n- Video player: Live Text support. Pause a video to select its text, translate or copy it, or tap the Live Text button to show all of it.\n- iPhone Duo unfolded / iPad: story Mark Seen (eye) now marks the story you're watching and moves to its next story, not the next person's. Download, mentions and playback buttons also act on the story on screen.\n- Activity Alerts: fixed online / offline alerts and Activity History not working on some accounts.\n- Messages Only: the schedule now turns it off when the time window ends.\n- Confirmations: new Double-Tapping a Repost Bubble. Asks before a double tap likes someone's repost on a post or reel.\n- Hide Chats: new option to remove Hide Chat from the menu when you long-press a chat (Settings \u203a Privacy \u203a Hidden Chats).\n- IG Feature Flags: new Try These picks: Sort Profile Reels (Force enables the sort option on profile Reels) and Liquid Glass Design (Instagram's new glass look, for iOS 26+ devices that don't have it yet).\n- Settings: How It Works pages have a new, clearer design, and IG Feature Flags and its Try These list now have one too.\n- Profile Analyzer: Since last scan now also shows who you followed and unfollowed.\n- Follow buttons in Regram lists now ask first in a small menu at the button (Settings \u203a Confirmations \u203a Regram Follow Buttons). Profile Analyzer lists no longer have Follow / Unfollow in the swipe actions.\n- Fixed select-mode buttons (unfollow, delete, export\u2026) hidden under the tab bar when a Regram screen is one of your tabs.\n- Reel date: now opens with a long press, so tapping the username no longer opens the date by mistake.\n\nBased on Instagram 456.0.0.",
+      "localizedDescription": "This update contains the following changes:\n\n- Bug fixes and compatibility updates for IG 455 and 456.\n- Hidden Chats: now its own page (Settings \u203a Privacy). Lock them behind Face ID or a passcode, keep them out of the messages badge and DM search, choose when they hide again, and add chats by username. Revealed hidden chats show a lock.\n- Instants: new Confirm Instant Videos (Settings \u203a Confirmations). After you record a video Instant, preview it and choose Send or Discard before it goes out.\n- Messages: new Accurate Active Status (Settings \u203a Messages). People show as offline as soon as they leave, with a faster refresh you can choose. Offline activity alerts and history now use the time they actually left.\n- Reels: new Hold to Pause (Settings \u203a Reels). Holding a reel pauses it again and hides its buttons, instead of opening Instagram's options.\n- Long videos: Instagram's landscape player gets the action button, playback controls and button hiding, plus an option to open every long landscape video in it (Settings \u203a Reels \u203a Long Videos).\n- Playback controls: new, shorter design for reels, stories and long videos, with new Action button and Open in player buttons. Choose which buttons show and their order in Playback Controls \u203a Customize Buttons.\n- Playback controls: drag the speed bar for 0.05\u00d7 steps, double-tap it for 1\u00d7. Mute is now on the volume bar, Keep Speed next to the speed bar. Hold a button or tap its \u2022\u2022\u2022 for more options.\n- Stories playback controls: hold the previous / next buttons to jump to the previous / next person.\n- Reels: the floating playback button now shows the speed when it isn't 1\u00d7. The \u2022\u2022\u2022 button shows it only while holding it opens the playback controls.\n- Video player: Live Text support. Pause a video to select its text, translate or copy it, or tap the Live Text button to show all of it.\n- iPhone Duo unfolded / iPad: story Mark Seen (eye) now marks the story you're watching and moves to its next story, not the next person's. Download, mentions and playback buttons also act on the story on screen.\n- Activity Alerts: fixed online / offline alerts and Activity History not working on some accounts.\n- Messages Only: the schedule now turns it off when the time window ends.\n- Confirmations: new Double-Tapping a Repost Bubble. Asks before a double tap likes someone's repost on a post or reel.\n- Hide Chats: new option to remove Hide Chat from the menu when you long-press a chat (Settings \u203a Privacy \u203a Hidden Chats).\n- IG Feature Flags: new Try These picks: Sort Profile Reels (Force enables the sort option on profile Reels) and Liquid Glass Design (Instagram's new glass look, for iOS 26+ devices that don't have it yet).\n- Settings: How It Works pages have a new, clearer design, and IG Feature Flags and its Try These list now have one too.\n- Profile Analyzer: Since last scan now also shows who you followed and unfollowed.\n- Follow buttons in Regram lists now ask first in a small menu at the button (Settings \u203a Confirmations \u203a Regram Follow Buttons). Profile Analyzer lists no longer have Follow / Unfollow in the swipe actions.\n- Fixed select-mode buttons (unfollow, delete, export\u2026) hidden under the tab bar when a Regram screen is one of your tabs.\n- Reel date: now opens with a long press, so tapping the username no longer opens the date by mistake.\n- Fixed Regram not loading on RootHide after converting with RootHide Patcher.\n- Fixed holding Search to open a copied link only working on one account when accounts use different settings profiles.\n\nBased on Instagram 456.0.0.",
       "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
       "icon": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
       "screenshotURLs": [
@@ -125,7 +400,7 @@
       "bundleID": "com.fouadraheb.regram",
       "name": "Regram (Duplicate)",
       "subtitle": "The all-in-one tweak for Instagram",
-      "localizedDescription": "This update contains the following changes:\n\n- Bug fixes and compatibility updates for IG 455 and 456.\n- Hidden Chats: now its own page (Settings \u203a Privacy). Lock them behind Face ID or a passcode, keep them out of the messages badge and DM search, choose when they hide again, and add chats by username. Revealed hidden chats show a lock.\n- Instants: new Confirm Instant Videos (Settings \u203a Confirmations). After you record a video Instant, preview it and choose Send or Discard before it goes out.\n- Messages: new Accurate Active Status (Settings \u203a Messages). People show as offline as soon as they leave, with a faster refresh you can choose. Offline activity alerts and history now use the time they actually left.\n- Reels: new Hold to Pause (Settings \u203a Reels). Holding a reel pauses it again and hides its buttons, instead of opening Instagram's options.\n- Long videos: Instagram's landscape player gets the action button, playback controls and button hiding, plus an option to open every long landscape video in it (Settings \u203a Reels \u203a Long Videos).\n- Playback controls: new, shorter design for reels, stories and long videos, with new Action button and Open in player buttons. Choose which buttons show and their order in Playback Controls \u203a Customize Buttons.\n- Playback controls: drag the speed bar for 0.05\u00d7 steps, double-tap it for 1\u00d7. Mute is now on the volume bar, Keep Speed next to the speed bar. Hold a button or tap its \u2022\u2022\u2022 for more options.\n- Stories playback controls: hold the previous / next buttons to jump to the previous / next person.\n- Reels: the floating playback button now shows the speed when it isn't 1\u00d7. The \u2022\u2022\u2022 button shows it only while holding it opens the playback controls.\n- Video player: Live Text support. Pause a video to select its text, translate or copy it, or tap the Live Text button to show all of it.\n- iPhone Duo unfolded / iPad: story Mark Seen (eye) now marks the story you're watching and moves to its next story, not the next person's. Download, mentions and playback buttons also act on the story on screen.\n- Activity Alerts: fixed online / offline alerts and Activity History not working on some accounts.\n- Messages Only: the schedule now turns it off when the time window ends.\n- Confirmations: new Double-Tapping a Repost Bubble. Asks before a double tap likes someone's repost on a post or reel.\n- Hide Chats: new option to remove Hide Chat from the menu when you long-press a chat (Settings \u203a Privacy \u203a Hidden Chats).\n- IG Feature Flags: new Try These picks: Sort Profile Reels (Force enables the sort option on profile Reels) and Liquid Glass Design (Instagram's new glass look, for iOS 26+ devices that don't have it yet).\n- Settings: How It Works pages have a new, clearer design, and IG Feature Flags and its Try These list now have one too.\n- Profile Analyzer: Since last scan now also shows who you followed and unfollowed.\n- Follow buttons in Regram lists now ask first in a small menu at the button (Settings \u203a Confirmations \u203a Regram Follow Buttons). Profile Analyzer lists no longer have Follow / Unfollow in the swipe actions.\n- Fixed select-mode buttons (unfollow, delete, export\u2026) hidden under the tab bar when a Regram screen is one of your tabs.\n- Reel date: now opens with a long press, so tapping the username no longer opens the date by mistake.\n\nBased on base app 456.0.0.",
+      "localizedDescription": "This update contains the following changes:\n\n- Bug fixes and compatibility updates for IG 455 and 456.\n- Hidden Chats: now its own page (Settings \u203a Privacy). Lock them behind Face ID or a passcode, keep them out of the messages badge and DM search, choose when they hide again, and add chats by username. Revealed hidden chats show a lock.\n- Instants: new Confirm Instant Videos (Settings \u203a Confirmations). After you record a video Instant, preview it and choose Send or Discard before it goes out.\n- Messages: new Accurate Active Status (Settings \u203a Messages). People show as offline as soon as they leave, with a faster refresh you can choose. Offline activity alerts and history now use the time they actually left.\n- Reels: new Hold to Pause (Settings \u203a Reels). Holding a reel pauses it again and hides its buttons, instead of opening Instagram's options.\n- Long videos: Instagram's landscape player gets the action button, playback controls and button hiding, plus an option to open every long landscape video in it (Settings \u203a Reels \u203a Long Videos).\n- Playback controls: new, shorter design for reels, stories and long videos, with new Action button and Open in player buttons. Choose which buttons show and their order in Playback Controls \u203a Customize Buttons.\n- Playback controls: drag the speed bar for 0.05\u00d7 steps, double-tap it for 1\u00d7. Mute is now on the volume bar, Keep Speed next to the speed bar. Hold a button or tap its \u2022\u2022\u2022 for more options.\n- Stories playback controls: hold the previous / next buttons to jump to the previous / next person.\n- Reels: the floating playback button now shows the speed when it isn't 1\u00d7. The \u2022\u2022\u2022 button shows it only while holding it opens the playback controls.\n- Video player: Live Text support. Pause a video to select its text, translate or copy it, or tap the Live Text button to show all of it.\n- iPhone Duo unfolded / iPad: story Mark Seen (eye) now marks the story you're watching and moves to its next story, not the next person's. Download, mentions and playback buttons also act on the story on screen.\n- Activity Alerts: fixed online / offline alerts and Activity History not working on some accounts.\n- Messages Only: the schedule now turns it off when the time window ends.\n- Confirmations: new Double-Tapping a Repost Bubble. Asks before a double tap likes someone's repost on a post or reel.\n- Hide Chats: new option to remove Hide Chat from the menu when you long-press a chat (Settings \u203a Privacy \u203a Hidden Chats).\n- IG Feature Flags: new Try These picks: Sort Profile Reels (Force enables the sort option on profile Reels) and Liquid Glass Design (Instagram's new glass look, for iOS 26+ devices that don't have it yet).\n- Settings: How It Works pages have a new, clearer design, and IG Feature Flags and its Try These list now have one too.\n- Profile Analyzer: Since last scan now also shows who you followed and unfollowed.\n- Follow buttons in Regram lists now ask first in a small menu at the button (Settings \u203a Confirmations \u203a Regram Follow Buttons). Profile Analyzer lists no longer have Follow / Unfollow in the swipe actions.\n- Fixed select-mode buttons (unfollow, delete, export\u2026) hidden under the tab bar when a Regram screen is one of your tabs.\n- Reel date: now opens with a long press, so tapping the username no longer opens the date by mistake.\n- Fixed Regram not loading on RootHide after converting with RootHide Patcher.\n- Fixed holding Search to open a copied link only working on one account when accounts use different settings profiles.\n\nBased on base app 456.0.0.",
       "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
       "icon": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
       "screenshotURLs": [
@@ -186,12 +461,85 @@
       ]
     },
     {
+      "name": "Sea Battle 2 (Tweaked)",
+      "bundleIdentifier": "com.byril.seabattle2",
+      "developerName": "NabzClan",
+      "subtitle": "Features: \u258eFree purchases: Click \"Buy,\" then \"Cancel.\"",
+      "localizedDescription": "Sea Battle 2 (Tweaked) v4.3.0 (97.50 MB) \u2014 Sidelix App Store release.",
+      "iconURL": "https://apps.nabzclan.vip/images/1795042085_6880.webp",
+      "tintColor": "#2ecc71",
+      "category": "games",
+      "screenshots": [
+        "https://apps.nabzclan.vip/screenshots/17950420849559571.webp",
+        "https://apps.nabzclan.vip/screenshots/17950420859574660.webp",
+        "https://apps.nabzclan.vip/screenshots/17950420858557723.webp",
+        "https://apps.nabzclan.vip/screenshots/17950420856317955.webp",
+        "https://apps.nabzclan.vip/screenshots/17950420853350564.webp",
+        "https://apps.nabzclan.vip/screenshots/17950420858339540.webp"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "version": "4.3.0",
+      "versionDate": "2026-11-18T17:48:05-05:00",
+      "versionDescription": "Sea Battle 2 (Tweaked) v4.3.0 (97.50 MB) \u2014 Sidelix App Store release.",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/19/app_19_nabzclan_sidelix.ipa",
+      "size": 102236160,
+      "type": 1,
+      "badges": [
+        {
+          "key": "latest",
+          "label": "Latest Version",
+          "color": "#2ecc71",
+          "icon": "checkmark.seal.fill"
+        },
+        {
+          "key": "free",
+          "label": "Free",
+          "color": "#27ae60",
+          "icon": "checkmark.circle.fill"
+        },
+        {
+          "key": "sidelix_verified",
+          "label": "Sidelix Verified",
+          "color": "#16a085",
+          "icon": "shield.lefthalf.filled"
+        }
+      ],
+      "latest_appstore_app": {
+        "checked": true,
+        "found": true,
+        "bundleIdentifier": "com.byril.seabattle2",
+        "latest_version": "4.3.0",
+        "repo_version": "4.3.0",
+        "up_to_date": true,
+        "update_available": false,
+        "status": "up_to_date",
+        "price": "Free",
+        "is_paid": false,
+        "store_url": "https://apps.apple.com/us/app/sea-battle-2/id913173849",
+        "release_date": "2026-11-12T08:29:47Z",
+        "checked_at": "2026-11-18T20:59:44-05:00",
+        "track_id": 913173849,
+        "track_name": "Sea Battle 2"
+      },
+      "buildVersion": "1",
+      "date": "2026-11-18T17:48:05-05:00",
+      "minOSVersion": "14.0",
+      "__source": "https://apps.nabzclan.vip/repos/esign.php",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
+      ]
+    },
+    {
       "name": "MovieBoxPro",
       "bundleIdentifier": "com.xd.mbp31",
       "developerName": "NabzClan",
       "subtitle": "Watch movies at premium level",
       "localizedDescription": "MovieBoxPro v16.5 (49.22 MB) \u2014 Sidelix App Store release.",
-      "iconURL": "https://apps.nabzclan.vip/images/1795014529_4649.webp",
+      "iconURL": "https://apps.nabzclan.vip/images/1795042005_7252.webp",
       "tintColor": "#2ecc71",
       "category": "utilities",
       "screenshots": [],
@@ -256,7 +604,7 @@
         "is_paid": false,
         "store_url": null,
         "release_date": null,
-        "checked_at": "2026-11-18T14:09:00-05:00"
+        "checked_at": "2026-11-18T23:59:49-05:00"
       },
       "buildVersion": "1",
       "date": "2026-11-18T10:08:49-05:00",
@@ -341,7 +689,7 @@
         "is_paid": true,
         "store_url": "https://apps.apple.com/us/app/minecraft-play-with-friends/id479516143",
         "release_date": "2026-11-04T20:19:36Z",
-        "checked_at": "2026-11-18T10:08:56-05:00",
+        "checked_at": "2026-11-18T20:59:45-05:00",
         "track_id": 479516143,
         "track_name": "Minecraft: Play with Friends!"
       },
@@ -429,7 +777,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/youtube/id544007664",
         "release_date": "2026-11-15T17:07:14Z",
-        "checked_at": "2026-11-18T10:08:56-05:00",
+        "checked_at": "2026-11-18T20:59:45-05:00",
         "track_id": 544007664,
         "track_name": "YouTube"
       },
@@ -519,7 +867,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/tiktok-videos-shop-live/id835599320",
         "release_date": "2026-11-17T00:47:45Z",
-        "checked_at": "2026-11-18T10:08:55-05:00",
+        "checked_at": "2026-11-18T20:59:44-05:00",
         "track_id": 835599320,
         "track_name": "TikTok - Videos, Shop & LIVE"
       },
@@ -570,10 +918,10 @@
       "type": 1,
       "badges": [
         {
-          "key": "latest",
-          "label": "Latest Version",
-          "color": "#2ecc71",
-          "icon": "checkmark.seal.fill"
+          "key": "needs_update",
+          "label": "Needs Update (v2.748.1526)",
+          "color": "#f39c12",
+          "icon": "arrow.triangle.2.circlepath"
         },
         {
           "key": "free",
@@ -598,16 +946,16 @@
         "checked": true,
         "found": true,
         "bundleIdentifier": "com.roblox.robloxmobile",
-        "latest_version": "2.747.1486",
+        "latest_version": "2.748.1526",
         "repo_version": "2.747.1486",
-        "up_to_date": true,
-        "update_available": false,
-        "status": "up_to_date",
+        "up_to_date": false,
+        "update_available": true,
+        "status": "update_available",
         "price": "Free",
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/roblox/id431946152",
-        "release_date": "2026-11-16T17:37:31Z",
-        "checked_at": "2026-11-18T10:08:55-05:00",
+        "release_date": "2026-11-18T17:48:51Z",
+        "checked_at": "2026-11-18T20:59:44-05:00",
         "track_id": 431946152,
         "track_name": "Roblox"
       },
@@ -1348,7 +1696,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580",
         "release_date": "2026-11-13T13:54:31Z",
-        "checked_at": "2026-11-18T10:08:55-05:00",
+        "checked_at": "2026-11-18T20:59:44-05:00",
         "track_id": 324684580,
         "track_name": "Spotify: Music and Podcasts"
       },
@@ -1423,7 +1771,7 @@
         "is_paid": true,
         "store_url": "https://apps.apple.com/us/app/terraria/id640364616",
         "release_date": "2026-09-17T15:05:10Z",
-        "checked_at": "2026-11-18T10:08:56-05:00",
+        "checked_at": "2026-11-18T20:59:44-05:00",
         "track_id": 640364616,
         "track_name": "Terraria"
       },
@@ -2065,7 +2413,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/my-dear-farm/id6668861713",
         "release_date": "2026-11-10T15:58:20Z",
-        "checked_at": "2026-11-18T10:08:56-05:00",
+        "checked_at": "2026-11-18T20:59:44-05:00",
         "track_id": 6668861713,
         "track_name": "My Dear Farm+"
       },
@@ -2138,7 +2486,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/stardew-valley/id6449264810",
         "release_date": "2025-06-05T16:38:30Z",
-        "checked_at": "2026-11-18T10:08:56-05:00",
+        "checked_at": "2026-11-18T20:59:44-05:00",
         "track_id": 6449264810,
         "track_name": "Stardew Valley+"
       },
@@ -2211,7 +2559,7 @@
         "is_paid": true,
         "store_url": "https://apps.apple.com/us/app/stardew-valley/id1406710800",
         "release_date": "2026-03-19T00:31:54Z",
-        "checked_at": "2026-11-18T10:08:56-05:00",
+        "checked_at": "2026-11-18T20:59:45-05:00",
         "track_id": 1406710800,
         "track_name": "Stardew Valley"
       },
@@ -2286,7 +2634,7 @@
         "is_paid": true,
         "store_url": "https://apps.apple.com/us/app/getting-over-it/id1319618742",
         "release_date": "2021-07-26T14:27:13Z",
-        "checked_at": "2026-11-18T10:08:56-05:00",
+        "checked_at": "2026-11-18T20:59:45-05:00",
         "track_id": 1319618742,
         "track_name": "Getting Over It"
       },
@@ -2366,7 +2714,7 @@
         "is_paid": true,
         "store_url": "https://apps.apple.com/us/app/shadowrocket/id932747118",
         "release_date": "2026-10-29T03:15:39Z",
-        "checked_at": "2026-11-18T10:08:56-05:00",
+        "checked_at": "2026-11-18T20:59:45-05:00",
         "track_id": 932747118,
         "track_name": "Shadowrocket"
       },
@@ -2444,7 +2792,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/brain-test-tricky-puzzles/id1486214495",
         "release_date": "2026-11-15T18:09:34Z",
-        "checked_at": "2026-11-18T10:08:56-05:00",
+        "checked_at": "2026-11-18T20:59:45-05:00",
         "track_id": 1486214495,
         "track_name": "Brain Test: Tricky Puzzles"
       },
@@ -2534,7 +2882,7 @@
         "is_paid": true,
         "store_url": "https://apps.apple.com/us/app/alpin-quest-pro-outdoor-gps/id6760764479",
         "release_date": "2026-11-11T21:52:41Z",
-        "checked_at": "2026-11-18T10:08:56-05:00",
+        "checked_at": "2026-11-18T20:59:45-05:00",
         "track_id": 6760764479,
         "track_name": "Alpin Quest PRO \u2013 Outdoor GPS"
       },
@@ -3946,30 +4294,6 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/PHCXZHD53T.com.enki.insights.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/PHCXZHD53T.com.enki.insights.png",
       "__source": "https://repository.apptesters.org",
-      "__mirrors": [],
-      "__stores": [
-        "AltStore"
-      ]
-    },
-    {
-      "bundleIdentifier": "eu.pokemmo.client",
-      "developerName": "PokeMMO",
-      "downloadURL": "https://dl.pokemmo.com/PokeMMO-Client.ipa?r=35061",
-      "iconURL": "https://pokemmo.com/build/images/altstore.f5930b35.png",
-      "localizedDescription": "PokeMMO is a free to play mmorpg, come join a growing community as you level up and discover new monsters. Available now on PC, Android, iOS, Mac, and Linux.",
-      "name": "PokeMMO",
-      "screenshotURLs": [
-        "https://pokemmo.com/build/images/screenshot/c.b5d935d8.png",
-        "https://pokemmo.com/build/images/screenshot/b.3a233486.png",
-        "https://pokemmo.com/build/images/screenshot/d.4080dd9c.png",
-        "https://pokemmo.com/build/images/screenshot/e.ed0aa85b.png",
-        "https://pokemmo.com/build/images/screenshot/a.debf11f5.png"
-      ],
-      "size": 133946930,
-      "tintColor": "73ACE2",
-      "version": "35061",
-      "versionDate": "2026-11-14T01:06:23+00:00",
-      "__source": "https://pokemmo.eu/altstore/",
       "__mirrors": [],
       "__stores": [
         "AltStore"

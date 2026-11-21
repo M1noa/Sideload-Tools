@@ -4,9 +4,244 @@
   "subtitle": "Auto-merged from 43 AltStore/ESign sources. Original URLs, PAL fields removed for maximum compatibility.",
   "description": "Same as the original-links catalog but strips appID/marketplaceID/permissions (AltStore PAL) and nested versions arrays.",
   "iconURL": "https://avatars.githubusercontent.com/u/57844837",
-  "appCount": 13678,
+  "appCount": 13699,
   "sourceCount": 43,
   "apps": [
+    {
+      "name": "Provenance Alpha",
+      "bundleIdentifier": "org.provenance-emu.provenance.alpha",
+      "developerName": "Provenance-EMU",
+      "subtitle": "Latest dev builds - test new features early",
+      "localizedDescription": "Alpha build 490bb7b \u00b7 2026-11-21\n\nChanges in this build:\n\u2022 fix(ci): sideload feed and fakesign use the ids the builds carry\n\u2022 revert: auto-translation strings that created partial localizations\n\u2022 [Auto-translation] Translate new/changed strings\n\u2022 fix(sync): register sync settings defaults on the main thread\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
+      "iconURL": "https://raw.githubusercontent.com/Provenance-Emu/Provenance/develop/Provenance/Resources/Assets.xcassets/AppIcon.appiconset/iTunesArtwork%402x.png",
+      "tintColor": "FF6B35",
+      "screenshotURLs": [],
+      "appPermissions": {
+        "entitlements": [
+          {
+            "name": "com.apple.security.application-groups"
+          },
+          {
+            "name": "com.apple.developer.icloud-services"
+          },
+          {
+            "name": "com.apple.developer.icloud-container-identifiers"
+          }
+        ],
+        "privacy": [
+          {
+            "name": "LocalNetwork",
+            "usageDescription": "Used to discover and connect to local network game servers for netplay."
+          },
+          {
+            "name": "Camera",
+            "usageDescription": "Used to scan QR codes for importing game data."
+          }
+        ]
+      },
+      "version": "3.4.0",
+      "buildVersion": "11283",
+      "marketingVersion": "3.4.0-alpha.20261121.490bb7b",
+      "date": "2026-11-21",
+      "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
+      "size": 785237349,
+      "minOSVersion": "17.0",
+      "versionDate": "2026-11-21",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "wpsoffice",
+      "type": 1,
+      "bundleID": "com.kingsoft.office.g.wpsoffice",
+      "bundleIdentifier": "com.kingsoft.office.g.wpsoffice",
+      "version": "26.11.1",
+      "versionDate": "2026-11-21",
+      "fullDate": "20261121082503",
+      "size": 329449314,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-11-2026/wpsoffice_26.11.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-11-2026/wpsoffice_26.11.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kingsoft.office.g.wpsoffice.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kingsoft.office.g.wpsoffice.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "TORVPN",
+      "type": 1,
+      "bundleID": "com.youssef.developer.Full-Browser",
+      "bundleIdentifier": "com.youssef.developer.Full-Browser",
+      "version": "12.6",
+      "versionDate": "2026-11-21",
+      "fullDate": "20261121063719",
+      "size": 177826052,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-11-2026/TORVPN_12.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-11-2026/TORVPN_12.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.youssef.developer.Full-Browser.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.youssef.developer.Full-Browser.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "SnapEdit",
+      "type": 1,
+      "bundleID": "com.sfun.snapedit",
+      "bundleIdentifier": "com.sfun.snapedit",
+      "version": "6.30",
+      "versionDate": "2026-11-21",
+      "fullDate": "20261121061546",
+      "size": 149008472,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-11-2026/SnapEdit_6.30_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-11-2026/SnapEdit_6.30_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sfun.snapedit.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sfun.snapedit.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Crsel",
+      "type": 1,
+      "bundleID": "com.frameoneapps.Crsel",
+      "bundleIdentifier": "com.frameoneapps.Crsel",
+      "version": "1.6.7",
+      "versionDate": "2026-11-21",
+      "fullDate": "20261121055346",
+      "size": 116742791,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-11-2026/Crsel_1.6.7_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-11-2026/Crsel_1.6.7_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frameoneapps.Crsel.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frameoneapps.Crsel.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "ThePiano",
+      "type": 2,
+      "bundleID": "com.impalastudios.pianofree",
+      "bundleIdentifier": "com.impalastudios.pianofree",
+      "version": "2.26.7",
+      "versionDate": "2026-11-21",
+      "fullDate": "20261121035937",
+      "size": 109327361,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-11-2026/ThePiano_2.26.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-11-2026/ThePiano_2.26.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.impalastudios.pianofree.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.impalastudios.pianofree.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "VSCO",
+      "type": 1,
+      "bundleID": "co.visualsupply.cam",
+      "bundleIdentifier": "co.visualsupply.cam",
+      "version": "463.0.1",
+      "versionDate": "2026-11-21",
+      "fullDate": "20261121031728",
+      "size": 158467252,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-11-2026/VSCO_463.0.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-11-2026/VSCO_463.0.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.visualsupply.cam.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.visualsupply.cam.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Halide",
+      "type": 1,
+      "bundleID": "com.chromanoir.Zeit",
+      "bundleIdentifier": "com.chromanoir.Zeit",
+      "version": "3.4.1",
+      "versionDate": "2026-11-21",
+      "fullDate": "20261121015428",
+      "size": 88003874,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-11-2026/Halide_3.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-11-2026/Halide_3.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.chromanoir.Zeit.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.chromanoir.Zeit.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "VlogNow",
+      "type": 1,
+      "bundleID": "com.frontrow.vlog",
+      "bundleIdentifier": "com.frontrow.vlog",
+      "version": "2.26.0",
+      "versionDate": "2026-11-21",
+      "fullDate": "20261121014234",
+      "size": 508112634,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-11-2026/VlogNow_2.26.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-11-2026/VlogNow_2.26.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frontrow.vlog.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frontrow.vlog.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "superagent",
+      "type": 1,
+      "bundleID": "com.agent.super.extension.safari",
+      "bundleIdentifier": "com.agent.super.extension.safari",
+      "version": "4.7.6",
+      "versionDate": "2026-11-21",
+      "fullDate": "20261121013538",
+      "size": 32885234,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-11-2026/superagent_4.7.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-11-2026/superagent_4.7.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.agent.super.extension.safari.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.agent.super.extension.safari.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
     {
       "name": "Lifesum",
       "type": 1,
@@ -23,6 +258,872 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sillens.iShape.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sillens.iShape.png",
       "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Voice Recorder AI Notes: Spiik (Hacked)",
+      "bundleIdentifier": "io.fadel.Spiik",
+      "developerName": "NabzClan",
+      "subtitle": "Features: - hacked subscription",
+      "localizedDescription": "Voice Recorder AI Notes: Spiik (Hacked) v1.0.157 (35.35 MB) \u2014 Sidelix App Store release.",
+      "iconURL": "https://apps.nabzclan.vip/images/1795235131_6042.webp",
+      "tintColor": "#2ecc71",
+      "category": "utilities",
+      "screenshots": [
+        "https://apps.nabzclan.vip/screenshots/17952351315098250.webp",
+        "https://apps.nabzclan.vip/screenshots/17952351312132828.webp",
+        "https://apps.nabzclan.vip/screenshots/17952351313933361.webp",
+        "https://apps.nabzclan.vip/screenshots/17952351312890033.webp",
+        "https://apps.nabzclan.vip/screenshots/17952351314249448.webp"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAudioCaptureUsageDescription": "Spiik records your Mac\u2019s audio so meeting recordings include everyone on the call.",
+          "NSMicrophoneUsageDescription": "Spiik uses the microphone to record your voice.",
+          "NSPhotoLibraryUsageDescription": "Spiik needs access to Photos in order to import Videos for transcription.",
+          "NSSpeechRecognitionUsageDescription": "Spiik uses Apple's Speech Recognition technology to live transcribe your audio."
+        }
+      },
+      "version": "1.0.157",
+      "versionDate": "2026-11-20T23:25:30-05:00",
+      "versionDescription": "Voice Recorder AI Notes: Spiik (Hacked) v1.0.157 (35.35 MB) \u2014 Sidelix App Store release.",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/26/app_26_nabzclan_sidelix.ipa",
+      "size": 37064063,
+      "type": 1,
+      "badges": [
+        {
+          "key": "latest",
+          "label": "Latest Version",
+          "color": "#2ecc71",
+          "icon": "checkmark.seal.fill"
+        },
+        {
+          "key": "free",
+          "label": "Free",
+          "color": "#27ae60",
+          "icon": "checkmark.circle.fill"
+        },
+        {
+          "key": "sidelix_verified",
+          "label": "Sidelix Verified",
+          "color": "#16a085",
+          "icon": "shield.lefthalf.filled"
+        }
+      ],
+      "latest_appstore_app": {
+        "checked": true,
+        "found": true,
+        "bundleIdentifier": "io.fadel.Spiik",
+        "latest_version": "1.0.157",
+        "repo_version": "1.0.157",
+        "up_to_date": true,
+        "update_available": false,
+        "status": "up_to_date",
+        "price": "Free",
+        "is_paid": false,
+        "store_url": "https://apps.apple.com/us/app/voice-recorder-ai-notes-spiik/id6451387537",
+        "release_date": "2026-11-19T19:33:28Z",
+        "checked_at": "2026-11-20T23:25:34-05:00",
+        "track_id": 6451387537,
+        "track_name": "Voice Recorder AI Notes: Spiik"
+      },
+      "buildVersion": "158",
+      "date": "2026-11-20T23:25:30-05:00",
+      "minOSVersion": "16.4",
+      "__source": "https://apps.nabzclan.vip/repos/esign.php",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
+      ]
+    },
+    {
+      "name": "Magic Sort - (Hacked)",
+      "bundleIdentifier": "com.grandgames.magicsort",
+      "developerName": "NabzClan",
+      "subtitle": "Features: \u258eFree purchases: Click \"Buy,\" then \"Cancel.\"",
+      "localizedDescription": "Magic Sort - (Hacked) v0.0.3538 (202.87 MB) \u2014 Sidelix App Store release.",
+      "iconURL": "https://apps.nabzclan.vip/images/1795234469_9232.webp",
+      "tintColor": "#2ecc71",
+      "category": "games",
+      "screenshots": [
+        "https://apps.nabzclan.vip/screenshots/17952344691344549.webp",
+        "https://apps.nabzclan.vip/screenshots/17952344695120515.webp",
+        "https://apps.nabzclan.vip/screenshots/17952344707367721.webp",
+        "https://apps.nabzclan.vip/screenshots/17952344704410124.webp",
+        "https://apps.nabzclan.vip/screenshots/17952344703435775.webp",
+        "https://apps.nabzclan.vip/screenshots/17952344709957483.webp",
+        "https://apps.nabzclan.vip/screenshots/17952344709603050.webp"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSUserTrackingUsageDescription": "Your data will help us to provide a more personalized experience and offers."
+        }
+      },
+      "version": "0.0.3538",
+      "versionDate": "2026-11-20T23:14:29-05:00",
+      "versionDescription": "Magic Sort - (Hacked) v0.0.3538 (202.87 MB) \u2014 Sidelix App Store release.",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/25/app_25_nabzclan_sidelix.ipa",
+      "size": 212728912,
+      "type": 1,
+      "badges": [
+        {
+          "key": "needs_update",
+          "label": "Needs Update (v35.38)",
+          "color": "#f39c12",
+          "icon": "arrow.triangle.2.circlepath"
+        },
+        {
+          "key": "free",
+          "label": "Free",
+          "color": "#27ae60",
+          "icon": "checkmark.circle.fill"
+        },
+        {
+          "key": "sidelix_verified",
+          "label": "Sidelix Verified",
+          "color": "#16a085",
+          "icon": "shield.lefthalf.filled"
+        }
+      ],
+      "latest_appstore_app": {
+        "checked": true,
+        "found": true,
+        "bundleIdentifier": "com.grandgames.magicsort",
+        "latest_version": "35.38",
+        "repo_version": "0.0.3538",
+        "up_to_date": false,
+        "update_available": true,
+        "status": "update_available",
+        "price": "Free",
+        "is_paid": false,
+        "store_url": "https://apps.apple.com/us/app/magic-sort/id6499209744",
+        "release_date": "2026-11-20T20:26:05Z",
+        "checked_at": "2026-11-20T23:25:34-05:00",
+        "track_id": 6499209744,
+        "track_name": "Magic Sort!"
+      },
+      "buildVersion": "0.0.3538",
+      "date": "2026-11-20T23:14:29-05:00",
+      "minOSVersion": "13.0",
+      "__source": "https://apps.nabzclan.vip/repos/esign.php",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
+      ]
+    },
+    {
+      "name": "Cash App - AlpineV5Trial",
+      "bundleIdentifier": "com.squareup.cash",
+      "developerName": "Alpine",
+      "subtitle": "Cash app prop - AlpineV5Trial warning: use only for pranks",
+      "localizedDescription": "Cash App - AlpineV5Trial v5.78.0 (7.90 MB) \u2014 Sidelix App Store release.",
+      "iconURL": "https://apps.nabzclan.vip/images/1795233248_5746.webp",
+      "tintColor": "#2ecc71",
+      "category": "utilities",
+      "screenshots": [
+        "https://apps.nabzclan.vip/screenshots/17952332478687243.webp",
+        "https://apps.nabzclan.vip/screenshots/17952332479203697.webp",
+        "https://apps.nabzclan.vip/screenshots/17952332471676025.webp",
+        "https://apps.nabzclan.vip/screenshots/17952332479870334.webp",
+        "https://apps.nabzclan.vip/screenshots/17952332471226539.webp",
+        "https://apps.nabzclan.vip/screenshots/17952332487900594.webp",
+        "https://apps.nabzclan.vip/screenshots/17952332482258373.webp"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSFaceIDUsageDescription": "We use Face ID for secure authentication."
+        }
+      },
+      "version": "5.78.0",
+      "versionDate": "2026-11-20T22:54:08-05:00",
+      "versionDescription": "Cash App - AlpineV5Trial v5.78.0 (7.90 MB) \u2014 Sidelix App Store release.",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/24/app_24_nabzclan_sidelix.ipa",
+      "size": 8284297,
+      "type": 1,
+      "badges": [
+        {
+          "key": "latest",
+          "label": "Latest Version",
+          "color": "#2ecc71",
+          "icon": "checkmark.seal.fill"
+        },
+        {
+          "key": "free",
+          "label": "Free",
+          "color": "#27ae60",
+          "icon": "checkmark.circle.fill"
+        },
+        {
+          "key": "sidelix_verified",
+          "label": "Sidelix Verified",
+          "color": "#16a085",
+          "icon": "shield.lefthalf.filled"
+        }
+      ],
+      "latest_appstore_app": {
+        "checked": true,
+        "found": true,
+        "bundleIdentifier": "com.squareup.cash",
+        "latest_version": "5.78.0",
+        "repo_version": "5.78.0",
+        "up_to_date": true,
+        "update_available": false,
+        "status": "up_to_date",
+        "price": "Free",
+        "is_paid": false,
+        "store_url": "https://apps.apple.com/us/app/cash-app/id711923939",
+        "release_date": "2026-11-16T18:15:24Z",
+        "checked_at": "2026-11-20T23:25:34-05:00",
+        "track_id": 711923939,
+        "track_name": "Cash App"
+      },
+      "buildVersion": "1.2",
+      "date": "2026-11-20T22:54:08-05:00",
+      "minOSVersion": "17.6",
+      "__source": "https://apps.nabzclan.vip/repos/esign.php",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
+      ]
+    },
+    {
+      "name": "Ryukgram",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "ryukgram team",
+      "subtitle": "Features: General Hide ads and Meta AI Hide the TestFlight popup and turn off app haptics Always mute keeps ev",
+      "localizedDescription": "Ryukgram v453.0.0 (332.10 MB) \u2014 Sidelix App Store release.",
+      "iconURL": "https://apps.nabzclan.vip/images/1795231984_4951.webp",
+      "tintColor": "#2ecc71",
+      "category": "utilities",
+      "screenshots": [
+        "https://apps.nabzclan.vip/screenshots/17952319842501627.webp",
+        "https://apps.nabzclan.vip/screenshots/17952319847799550.webp",
+        "https://apps.nabzclan.vip/screenshots/17952319842295122.webp",
+        "https://apps.nabzclan.vip/screenshots/17952319848695249.webp",
+        "https://apps.nabzclan.vip/screenshots/17952319842517896.webp",
+        "https://apps.nabzclan.vip/screenshots/17952319852933887.webp",
+        "https://apps.nabzclan.vip/screenshots/17952319856206704.webp"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "Instagram uses this to connect your Apple Music account so you can add music to your content.",
+          "NSBluetoothAlwaysUsageDescription": "This allows your phone to find and connect to the glasses using a Bluetooth connection.",
+          "NSCalendarsUsageDescription": "This will let Instagram sync events to your calendar.",
+          "NSCalendarsWriteOnlyAccessUsageDescription": "This will let Instagram sync events to your calendar.",
+          "NSCameraUsageDescription": "Instagram uses your device's camera to do things like help you take photos, record videos and use effects.",
+          "NSContactsUsageDescription": "Instagram will use your contacts to suggest people and things you care about, and offer a better service. Your contacts will be periodically synced and securely stored on Instagram\u2019s servers.",
+          "NSFaceIDUsageDescription": "Enable Face ID for quick and secure authentication on Instagram.",
+          "NSFocusStatusUsageDescription": "This allows Instagram to check to see if you\u2019ve been missing notifications from friends. You can always change this later in settings.",
+          "NSLocalNetworkUsageDescription": "Used to discover and connect to compatible streaming devices on your Wi-Fi network.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
+          "NSLocationUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
+          "NSLocationWhenInUseUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
+          "NSMicrophoneUsageDescription": "Instagram uses your device's microphone to do things like help you record videos and preview audio effects.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your Camera Roll.",
+          "NSPhotoLibraryUsageDescription": "Instagram uses access to your camera roll to do things like help you share photos and videos to Instagram, apply effects and suggest photos and videos to share.",
+          "NSSpeechRecognitionUsageDescription": "Instagram uses speech recognition to turn what you say into text, so you can speak a message instead of typing it.",
+          "NSUserTrackingUsageDescription": "This helps Instagram personalize ads we show you."
+        }
+      },
+      "version": "453.0.0",
+      "versionDate": "2026-11-20T22:33:04-05:00",
+      "versionDescription": "Ryukgram v453.0.0 (332.10 MB) \u2014 Sidelix App Store release.",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/23/app_23_nabzclan_sidelix.ipa",
+      "size": 348235403,
+      "type": 1,
+      "badges": [
+        {
+          "key": "needs_update",
+          "label": "Needs Update (v456.0.0)",
+          "color": "#f39c12",
+          "icon": "arrow.triangle.2.circlepath"
+        },
+        {
+          "key": "free",
+          "label": "Free",
+          "color": "#27ae60",
+          "icon": "checkmark.circle.fill"
+        },
+        {
+          "key": "sidelix_verified",
+          "label": "Sidelix Verified",
+          "color": "#16a085",
+          "icon": "shield.lefthalf.filled"
+        }
+      ],
+      "latest_appstore_app": {
+        "checked": true,
+        "found": true,
+        "bundleIdentifier": "com.burbn.instagram",
+        "latest_version": "456.0.0",
+        "repo_version": "453.0.0",
+        "up_to_date": false,
+        "update_available": true,
+        "status": "update_available",
+        "price": "Free",
+        "is_paid": false,
+        "store_url": "https://apps.apple.com/us/app/instagram/id389801252",
+        "release_date": "2026-11-16T13:17:23Z",
+        "checked_at": "2026-11-20T23:25:34-05:00",
+        "track_id": 389801252,
+        "track_name": "Instagram"
+      },
+      "buildVersion": "1099096960",
+      "date": "2026-11-20T22:33:04-05:00",
+      "minOSVersion": "16.3",
+      "__source": "https://apps.nabzclan.vip/repos/esign.php",
+      "__mirrors": [
+        "https://source.ryuksign.com/"
+      ],
+      "__stores": [
+        "ESign",
+        "KSign"
+      ]
+    },
+    {
+      "name": "X - NeoFreeBird",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "NeoFreeBird",
+      "subtitle": "\u274c X 12.44 Requires iOS 15 or later. Supports login, supports iOS 27 certificate signing. \u2757\ufe0f\u2757\ufe0f \ud83d\udc4c Supports d",
+      "localizedDescription": "X - NeoFreeBird v12.45.1 (276.10 MB) \u2014 Sidelix App Store release.",
+      "iconURL": "https://apps.nabzclan.vip/images/1795231387_6057.webp",
+      "tintColor": "#2ecc71",
+      "category": "utilities",
+      "screenshots": [
+        "https://apps.nabzclan.vip/screenshots/17952313874836147.webp",
+        "https://apps.nabzclan.vip/screenshots/17952313878801763.webp",
+        "https://apps.nabzclan.vip/screenshots/17952313879849540.webp",
+        "https://apps.nabzclan.vip/screenshots/17952313878400709.webp",
+        "https://apps.nabzclan.vip/screenshots/17952313875398774.webp",
+        "https://apps.nabzclan.vip/screenshots/17952313878334780.webp",
+        "https://apps.nabzclan.vip/screenshots/17952313876523886.webp"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAlarmKitUsageDescription": "Grok Bot can set alarms and timers when you ask it to.",
+          "NSCalendarsFullAccessUsageDescription": "Grok Bot can read your calendar when you ask about your schedule, and add, change, or delete events when you ask it to.",
+          "NSCalendarsUsageDescription": "Add events to your calendar from X.",
+          "NSCameraUsageDescription": "Capture and post photos and videos from X.",
+          "NSContactsUsageDescription": "We will securely upload your contacts to our servers to help you connect with friends and suggest users to follow on X.",
+          "NSFaceIDUsageDescription": "Use FaceID to authenticate on X.",
+          "NSLocationUsageDescription": "Enjoy the X experience tailored to your location.",
+          "NSLocationWhenInUseUsageDescription": "Enjoy the X experience tailored to your location.",
+          "NSMicrophoneUsageDescription": "Capture and post videos with sound from X.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you download photos and videos to your Photos.",
+          "NSPhotoLibraryUsageDescription": "Allow access to share photos from your camera roll.",
+          "NSRemindersFullAccessUsageDescription": "Grok Bot can read your reminders when you ask about them, and add, change, or delete reminders when you ask it to.",
+          "NSSpeechRecognitionUsageDescription": "Going forward, whenever you choose to share captions on this device, Apple will provide the service. Doing so helps make sure people of all hearing abilities can access your content.",
+          "NSUserTrackingUsageDescription": "This helps X show you more relevant ads."
+        }
+      },
+      "version": "12.45.1",
+      "versionDate": "2026-11-20T22:23:07-05:00",
+      "versionDescription": "X - NeoFreeBird v12.45.1 (276.10 MB) \u2014 Sidelix App Store release.",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/22/app_22_nabzclan_sidelix.ipa",
+      "size": 289515896,
+      "type": 1,
+      "badges": [
+        {
+          "key": "latest",
+          "label": "Latest Version",
+          "color": "#2ecc71",
+          "icon": "checkmark.seal.fill"
+        },
+        {
+          "key": "free",
+          "label": "Free",
+          "color": "#27ae60",
+          "icon": "checkmark.circle.fill"
+        },
+        {
+          "key": "sidelix_verified",
+          "label": "Sidelix Verified",
+          "color": "#16a085",
+          "icon": "shield.lefthalf.filled"
+        }
+      ],
+      "latest_appstore_app": {
+        "checked": true,
+        "found": true,
+        "bundleIdentifier": "com.atebits.Tweetie2",
+        "latest_version": "12.45.1",
+        "repo_version": "12.45.1",
+        "up_to_date": true,
+        "update_available": false,
+        "status": "up_to_date",
+        "price": "Free",
+        "is_paid": false,
+        "store_url": "https://apps.apple.com/us/app/x/id333903271",
+        "release_date": "2026-11-19T14:25:14Z",
+        "checked_at": "2026-11-20T23:25:35-05:00",
+        "track_id": 333903271,
+        "track_name": "X"
+      },
+      "buildVersion": "22",
+      "date": "2026-11-20T22:23:07-05:00",
+      "minOSVersion": "15.0",
+      "__source": "https://apps.nabzclan.vip/repos/esign.php",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
+      ]
+    },
+    {
+      "name": "iPadn",
+      "bundleIdentifier": "app.local.iPadn",
+      "developerName": "mengangs",
+      "subtitle": "Search, download and install the apps you own, on iPhone and iPad. Works with iPhone, iPad, Apple TV and Mac a",
+      "localizedDescription": "iPadn v2.3.0 (45.27 MB) \u2014 Sidelix App Store release.",
+      "iconURL": "https://apps.nabzclan.vip/images/1795230887_7708.webp",
+      "tintColor": "#2ecc71",
+      "category": "utilities",
+      "screenshots": [
+        "https://apps.nabzclan.vip/screenshots/17952309599847300.webp",
+        "https://apps.nabzclan.vip/screenshots/17952309599333664.webp",
+        "https://apps.nabzclan.vip/screenshots/17952310099115402.webp",
+        "https://apps.nabzclan.vip/screenshots/17952310095213108.webp",
+        "https://apps.nabzclan.vip/screenshots/17952310094094043.webp",
+        "https://apps.nabzclan.vip/screenshots/17952310093421136.webp",
+        "https://apps.nabzclan.vip/screenshots/17952310098136053.webp",
+        "https://apps.nabzclan.vip/screenshots/17952310096192362.webp"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSFaceIDUsageDescription": "\u4f7f\u7528\u9762\u5bb9 ID \u89e3\u9501 iPadn\u3002",
+          "NSLocalNetworkUsageDescription": "\u901a\u8fc7\u672c\u673a\u56de\u73af\u5730\u5740\u52a0\u8f7d\u7b7e\u540d\u8d44\u6e90\u548c\u63d0\u4f9b\u5b89\u88c5\u5305\u6587\u4ef6\uff0c\u67e5\u627e\u672c\u673a\u7684\u5b89\u88c5\u670d\u52a1\uff0c\u5e76\u5728\u4f60\u5f00\u542f\u300cWi\u2011Fi \u4f20\u8f93\u300d\u65f6\u5411\u540c\u4e00\u7f51\u7edc\u7684\u7535\u8111\u63d0\u4f9b\u5b89\u88c5\u5305\u3002"
+        }
+      },
+      "version": "2.3.0",
+      "versionDate": "2026-11-20T22:14:48-05:00",
+      "versionDescription": "iPadn v2.3.0 (45.27 MB) \u2014 Sidelix App Store release.",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/21/app_21_nabzclan_sidelix.ipa",
+      "size": 47468922,
+      "type": 1,
+      "badges": [
+        {
+          "key": "sideload_exclusive",
+          "label": "Exclusive / Sideload",
+          "color": "#8e44ad",
+          "icon": "sparkles"
+        },
+        {
+          "key": "free",
+          "label": "Free",
+          "color": "#27ae60",
+          "icon": "checkmark.circle.fill"
+        },
+        {
+          "key": "sidelix_verified",
+          "label": "Sidelix Verified",
+          "color": "#16a085",
+          "icon": "shield.lefthalf.filled"
+        }
+      ],
+      "latest_appstore_app": {
+        "checked": true,
+        "found": false,
+        "bundleIdentifier": "app.local.iPadn",
+        "latest_version": null,
+        "repo_version": "2.3.0",
+        "up_to_date": null,
+        "update_available": false,
+        "status": "custom_sideload",
+        "price": null,
+        "is_paid": false,
+        "store_url": null,
+        "release_date": null,
+        "checked_at": "2026-11-20T23:25:35-05:00"
+      },
+      "buildVersion": "36",
+      "date": "2026-11-20T22:14:48-05:00",
+      "minOSVersion": "17.0",
+      "__source": "https://apps.nabzclan.vip/repos/esign.php",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
+      ]
+    },
+    {
+      "name": "iCube",
+      "bundleIdentifier": "com.joemattiello.iCube",
+      "developerName": "Provenance Emu",
+      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
+      "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
+      "iconURL": "https://icube-emu.com/icon-1024.png",
+      "tintColor": "#3B82F6",
+      "category": "games",
+      "screenshots": [
+        "https://icube-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://icube-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://icube-emu.com/screenshots/2026-11/iphone/trinitron.jpg",
+        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
+        "https://icube-emu.com/screenshots/iphone/search.jpg",
+        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
+        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
+        "https://icube-emu.com/screenshots/iphone/shaders.jpg"
+      ],
+      "version": "1.0.0",
+      "buildVersion": "545",
+      "date": "2026-11-20T10:02:09.180Z",
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-545/Non-Jailbroken.ipa",
+      "size": 124781056,
+      "minOSVersion": "17.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "versionDate": "2026-11-20T10:02:09.180Z",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iFly",
+      "bundleIdentifier": "com.provenance.ifly",
+      "developerName": "Provenance Emu",
+      "subtitle": "Dreamcast Emulator for iOS & tvOS",
+      "localizedDescription": "iFly 1.0.0 (build 1795170836) for iOS",
+      "iconURL": "https://ifly-emu.com/icon-1024.png",
+      "tintColor": "#ff6900",
+      "category": "games",
+      "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
+        "https://ifly-emu.com/screenshots/iphone/search.jpg",
+        "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
+      ],
+      "version": "1.0.0+1795170836",
+      "buildVersion": "1795170836",
+      "date": "2026-11-20",
+      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795170836/iFly-1.0.0-1795170836.ipa",
+      "size": 137000688,
+      "minOSVersion": "17.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "versionDate": "2026-11-20",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iFly",
+      "bundleIdentifier": "com.provenance.ifly",
+      "developerName": "Provenance Emu",
+      "subtitle": "Dreamcast Emulator for iOS & tvOS",
+      "localizedDescription": "iFly 1.0.0 (build 1795163016) for iOS",
+      "iconURL": "https://ifly-emu.com/icon-1024.png",
+      "tintColor": "#ff6900",
+      "category": "games",
+      "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
+        "https://ifly-emu.com/screenshots/iphone/search.jpg",
+        "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
+      ],
+      "version": "1.0.0+1795163016",
+      "buildVersion": "1795163016",
+      "date": "2026-11-20",
+      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795163016/iFly-1.0.0-1795163016.ipa",
+      "size": 136974214,
+      "minOSVersion": "17.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "versionDate": "2026-11-20",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iFly",
+      "bundleIdentifier": "com.provenance.ifly",
+      "developerName": "Provenance Emu",
+      "subtitle": "Dreamcast Emulator for iOS & tvOS",
+      "localizedDescription": "iFly 1.0.0 (build 1795158816) for iOS",
+      "iconURL": "https://ifly-emu.com/icon-1024.png",
+      "tintColor": "#ff6900",
+      "category": "games",
+      "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
+        "https://ifly-emu.com/screenshots/iphone/search.jpg",
+        "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
+      ],
+      "version": "1.0.0+1795158816",
+      "buildVersion": "1795158816",
+      "date": "2026-11-20",
+      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795158816/iFly-1.0.0-1795158816.ipa",
+      "size": 136685811,
+      "minOSVersion": "17.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "versionDate": "2026-11-20",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iFly",
+      "bundleIdentifier": "com.provenance.ifly",
+      "developerName": "Provenance Emu",
+      "subtitle": "Dreamcast Emulator for iOS & tvOS",
+      "localizedDescription": "iFly 1.0.0 (build 1795156932) for iOS",
+      "iconURL": "https://ifly-emu.com/icon-1024.png",
+      "tintColor": "#ff6900",
+      "category": "games",
+      "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
+        "https://ifly-emu.com/screenshots/iphone/search.jpg",
+        "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
+      ],
+      "version": "1.0.0+1795156932",
+      "buildVersion": "1795156932",
+      "date": "2026-11-20",
+      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795156932/iFly-1.0.0-1795156932.ipa",
+      "size": 136593040,
+      "minOSVersion": "17.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "versionDate": "2026-11-20",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iFly",
+      "bundleIdentifier": "com.provenance.ifly",
+      "developerName": "Provenance Emu",
+      "subtitle": "Dreamcast Emulator for iOS & tvOS",
+      "localizedDescription": "iFly 1.0.0 (build 1795156210) for iOS",
+      "iconURL": "https://ifly-emu.com/icon-1024.png",
+      "tintColor": "#ff6900",
+      "category": "games",
+      "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
+        "https://ifly-emu.com/screenshots/iphone/search.jpg",
+        "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
+      ],
+      "version": "1.0.0+1795156210",
+      "buildVersion": "1795156210",
+      "date": "2026-11-20",
+      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795156210/iFly-1.0.0-1795156210.ipa",
+      "size": 136592814,
+      "minOSVersion": "17.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "versionDate": "2026-11-20",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iFly",
+      "bundleIdentifier": "com.provenance.ifly",
+      "developerName": "Provenance Emu",
+      "subtitle": "Dreamcast Emulator for iOS & tvOS",
+      "localizedDescription": "iFly 1.0.0 (build 1795155398) for iOS",
+      "iconURL": "https://ifly-emu.com/icon-1024.png",
+      "tintColor": "#ff6900",
+      "category": "games",
+      "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
+        "https://ifly-emu.com/screenshots/iphone/search.jpg",
+        "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
+      ],
+      "version": "1.0.0+1795155398",
+      "buildVersion": "1795155398",
+      "date": "2026-11-20",
+      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795155398/iFly-1.0.0-1795155398.ipa",
+      "size": 136592825,
+      "minOSVersion": "17.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "versionDate": "2026-11-20",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iFly",
+      "bundleIdentifier": "com.provenance.ifly",
+      "developerName": "Provenance Emu",
+      "subtitle": "Dreamcast Emulator for iOS & tvOS",
+      "localizedDescription": "iFly 1.0.0 (build 1795154718) for iOS",
+      "iconURL": "https://ifly-emu.com/icon-1024.png",
+      "tintColor": "#ff6900",
+      "category": "games",
+      "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
+        "https://ifly-emu.com/screenshots/iphone/search.jpg",
+        "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
+      ],
+      "version": "1.0.0+1795154718",
+      "buildVersion": "1795154718",
+      "date": "2026-11-20",
+      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795154718/iFly-1.0.0-1795154718.ipa",
+      "size": 136577963,
+      "minOSVersion": "17.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "versionDate": "2026-11-20",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iCube",
+      "bundleIdentifier": "com.joemattiello.iCube",
+      "developerName": "Provenance Emu",
+      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
+      "localizedDescription": "iCube 1.0.0-beta9-ios Beta 9 for iOS",
+      "iconURL": "https://icube-emu.com/icon-1024.png",
+      "tintColor": "#3B82F6",
+      "category": "games",
+      "screenshots": [
+        "https://icube-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://icube-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://icube-emu.com/screenshots/2026-11/iphone/trinitron.jpg",
+        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
+        "https://icube-emu.com/screenshots/iphone/search.jpg",
+        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
+        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
+        "https://icube-emu.com/screenshots/iphone/shaders.jpg"
+      ],
+      "version": "1.0.0-beta9-ios",
+      "buildVersion": "1.0.0-beta9-ios",
+      "date": "2026-11-20",
+      "downloadURL": "https://icube-emu.com/builds-versioned/1.0.0/iOS-Beta9/iCube.ipa",
+      "size": 82799373,
+      "minOSVersion": "15.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "betaNumber": 9,
+      "versionDate": "2026-11-20",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iCube",
+      "bundleIdentifier": "com.joemattiello.iCube",
+      "developerName": "Provenance Emu",
+      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
+      "localizedDescription": "iCube 1.0.0-beta8-ios Beta 8 for iOS",
+      "iconURL": "https://icube-emu.com/icon-1024.png",
+      "tintColor": "#3B82F6",
+      "category": "games",
+      "screenshots": [
+        "https://icube-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://icube-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://icube-emu.com/screenshots/2026-11/iphone/trinitron.jpg",
+        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
+        "https://icube-emu.com/screenshots/iphone/search.jpg",
+        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
+        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
+        "https://icube-emu.com/screenshots/iphone/shaders.jpg"
+      ],
+      "version": "1.0.0-beta8-ios",
+      "buildVersion": "1.0.0-beta8-ios",
+      "date": "2026-11-20",
+      "downloadURL": "https://icube-emu.com/builds-versioned/1.0.0/iOS-Beta8/iCube.ipa",
+      "size": 82893911,
+      "minOSVersion": "15.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "betaNumber": 8,
+      "versionDate": "2026-11-20",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iCube",
+      "bundleIdentifier": "com.joemattiello.iCube",
+      "developerName": "Provenance Emu",
+      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
+      "localizedDescription": "iCube 1.0.0-beta7-ios Beta 7 for iOS",
+      "iconURL": "https://icube-emu.com/icon-1024.png",
+      "tintColor": "#3B82F6",
+      "category": "games",
+      "screenshots": [
+        "https://icube-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://icube-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://icube-emu.com/screenshots/2026-11/iphone/trinitron.jpg",
+        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
+        "https://icube-emu.com/screenshots/iphone/search.jpg",
+        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
+        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
+        "https://icube-emu.com/screenshots/iphone/shaders.jpg"
+      ],
+      "version": "1.0.0-beta7-ios",
+      "buildVersion": "1.0.0-beta7-ios",
+      "date": "2026-11-20",
+      "downloadURL": "https://icube-emu.com/builds-versioned/1.0.0/iOS-Beta7/iCube.ipa",
+      "size": 82893502,
+      "minOSVersion": "15.6",
+      "platform": "iOS",
+      "isBeta": true,
+      "betaNumber": 7,
+      "versionDate": "2026-11-20",
+      "__source": "https://provenance-emu.com/apps.json",
       "__mirrors": [],
       "__stores": [
         "AltStore"
@@ -1103,7 +2204,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/cooking-diary-restaurant-game/id1214763610",
         "release_date": "2026-11-18T21:44:16Z",
-        "checked_at": "2026-11-20T09:54:05-05:00",
+        "checked_at": "2026-11-20T23:25:35-05:00",
         "track_id": 1214763610,
         "track_name": "Cooking Diary\u00ae Restaurant Game"
       },
@@ -1281,10 +2382,10 @@
       "type": 1,
       "badges": [
         {
-          "key": "latest",
-          "label": "Latest Version",
-          "color": "#2ecc71",
-          "icon": "checkmark.seal.fill"
+          "key": "needs_update",
+          "label": "Needs Update (v4.3.1)",
+          "color": "#f39c12",
+          "icon": "arrow.triangle.2.circlepath"
         },
         {
           "key": "free",
@@ -1303,16 +2404,16 @@
         "checked": true,
         "found": true,
         "bundleIdentifier": "com.byril.seabattle2",
-        "latest_version": "4.3.0",
+        "latest_version": "4.3.1",
         "repo_version": "4.3.0",
-        "up_to_date": true,
-        "update_available": false,
-        "status": "up_to_date",
+        "up_to_date": false,
+        "update_available": true,
+        "status": "update_available",
         "price": "Free",
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/sea-battle-2/id913173849",
-        "release_date": "2026-11-12T08:29:47Z",
-        "checked_at": "2026-11-20T09:54:05-05:00",
+        "release_date": "2026-11-20T18:46:15Z",
+        "checked_at": "2026-11-20T23:25:35-05:00",
         "track_id": 913173849,
         "track_name": "Sea Battle 2"
       },
@@ -1396,7 +2497,7 @@
         "is_paid": false,
         "store_url": null,
         "release_date": null,
-        "checked_at": "2026-11-20T13:54:46-05:00"
+        "checked_at": "2026-11-20T23:25:35-05:00"
       },
       "buildVersion": "1",
       "date": "2026-11-18T10:08:49-05:00",
@@ -1481,7 +2582,7 @@
         "is_paid": true,
         "store_url": "https://apps.apple.com/us/app/minecraft-play-with-friends/id479516143",
         "release_date": "2026-11-04T20:19:36Z",
-        "checked_at": "2026-11-20T09:54:07-05:00",
+        "checked_at": "2026-11-20T23:25:35-05:00",
         "track_id": 479516143,
         "track_name": "Minecraft: Play with Friends!"
       },
@@ -1569,7 +2670,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/youtube/id544007664",
         "release_date": "2026-11-15T17:07:14Z",
-        "checked_at": "2026-11-20T09:54:18-05:00",
+        "checked_at": "2026-11-20T23:25:35-05:00",
         "track_id": 544007664,
         "track_name": "YouTube"
       },
@@ -1659,7 +2760,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/tiktok-videos-shop-live/id835599320",
         "release_date": "2026-11-17T00:47:45Z",
-        "checked_at": "2026-11-20T09:54:05-05:00",
+        "checked_at": "2026-11-20T23:25:35-05:00",
         "track_id": 835599320,
         "track_name": "TikTok - Videos, Shop & LIVE"
       },
@@ -1747,7 +2848,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/roblox/id431946152",
         "release_date": "2026-11-18T17:48:51Z",
-        "checked_at": "2026-11-20T09:54:06-05:00",
+        "checked_at": "2026-11-20T23:25:35-05:00",
         "track_id": 431946152,
         "track_name": "Roblox"
       },
@@ -2543,10 +3644,10 @@
       "type": 1,
       "badges": [
         {
-          "key": "latest",
-          "label": "Latest Version",
-          "color": "#2ecc71",
-          "icon": "checkmark.seal.fill"
+          "key": "needs_update",
+          "label": "Needs Update (v9.2.2)",
+          "color": "#f39c12",
+          "icon": "arrow.triangle.2.circlepath"
         },
         {
           "key": "free",
@@ -2565,16 +3666,16 @@
         "checked": true,
         "found": true,
         "bundleIdentifier": "com.spotify.client",
-        "latest_version": "9.2.0",
+        "latest_version": "9.2.2",
         "repo_version": "9.2.0",
-        "up_to_date": true,
-        "update_available": false,
-        "status": "up_to_date",
+        "up_to_date": false,
+        "update_available": true,
+        "status": "update_available",
         "price": "Free",
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580",
-        "release_date": "2026-11-13T13:54:31Z",
-        "checked_at": "2026-11-20T09:54:05-05:00",
+        "release_date": "2026-11-20T07:17:17Z",
+        "checked_at": "2026-11-20T23:25:35-05:00",
         "track_id": 324684580,
         "track_name": "Spotify: Music and Podcasts"
       },
@@ -2649,7 +3750,7 @@
         "is_paid": true,
         "store_url": "https://apps.apple.com/us/app/terraria/id640364616",
         "release_date": "2026-09-17T15:05:10Z",
-        "checked_at": "2026-11-20T09:54:18-05:00",
+        "checked_at": "2026-11-20T23:25:35-05:00",
         "track_id": 640364616,
         "track_name": "Terraria"
       },
@@ -3291,7 +4392,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/my-dear-farm/id6668861713",
         "release_date": "2026-11-10T15:58:20Z",
-        "checked_at": "2026-11-20T09:54:06-05:00",
+        "checked_at": "2026-11-20T23:25:35-05:00",
         "track_id": 6668861713,
         "track_name": "My Dear Farm+"
       },
@@ -3364,7 +4465,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/stardew-valley/id6449264810",
         "release_date": "2025-06-05T16:38:30Z",
-        "checked_at": "2026-11-20T09:54:07-05:00",
+        "checked_at": "2026-11-20T23:25:35-05:00",
         "track_id": 6449264810,
         "track_name": "Stardew Valley+"
       },
@@ -3437,7 +4538,7 @@
         "is_paid": true,
         "store_url": "https://apps.apple.com/us/app/stardew-valley/id1406710800",
         "release_date": "2026-03-19T00:31:54Z",
-        "checked_at": "2026-11-20T09:54:07-05:00",
+        "checked_at": "2026-11-20T23:25:35-05:00",
         "track_id": 1406710800,
         "track_name": "Stardew Valley"
       },
@@ -3512,7 +4613,7 @@
         "is_paid": true,
         "store_url": "https://apps.apple.com/us/app/getting-over-it/id1319618742",
         "release_date": "2021-07-26T14:27:13Z",
-        "checked_at": "2026-11-20T09:54:18-05:00",
+        "checked_at": "2026-11-20T23:25:35-05:00",
         "track_id": 1319618742,
         "track_name": "Getting Over It"
       },
@@ -3592,7 +4693,7 @@
         "is_paid": true,
         "store_url": "https://apps.apple.com/us/app/shadowrocket/id932747118",
         "release_date": "2026-10-29T03:15:39Z",
-        "checked_at": "2026-11-20T09:54:19-05:00",
+        "checked_at": "2026-11-20T23:25:35-05:00",
         "track_id": 932747118,
         "track_name": "Shadowrocket"
       },
@@ -3670,7 +4771,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/brain-test-tricky-puzzles/id1486214495",
         "release_date": "2026-11-19T09:24:36Z",
-        "checked_at": "2026-11-20T09:54:19-05:00",
+        "checked_at": "2026-11-20T23:25:35-05:00",
         "track_id": 1486214495,
         "track_name": "Brain Test: Tricky Puzzles"
       },
@@ -3760,7 +4861,7 @@
         "is_paid": true,
         "store_url": "https://apps.apple.com/us/app/alpin-quest-pro-outdoor-gps/id6760764479",
         "release_date": "2026-11-20T00:48:45Z",
-        "checked_at": "2026-11-20T09:54:19-05:00",
+        "checked_at": "2026-11-20T23:25:35-05:00",
         "track_id": 6760764479,
         "track_name": "Alpin Quest PRO \u2013 Outdoor GPS"
       },
@@ -5531,191 +6632,6 @@
       ]
     },
     {
-      "name": "iCube",
-      "bundleIdentifier": "com.joemattiello.iCube",
-      "developerName": "Provenance Emu",
-      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
-      "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
-      "iconURL": "https://icube-emu.com/icon-1024.png",
-      "tintColor": "#3B82F6",
-      "category": "games",
-      "screenshots": [
-        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
-        "https://icube-emu.com/screenshots/iphone/search.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
-        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
-        "https://icube-emu.com/screenshots/iphone/shaders.jpg",
-        "https://icube-emu.com/screenshots/iphone/settings-graphics.jpg",
-        "https://icube-emu.com/screenshots/iphone/settings-controllers.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
-      ],
-      "version": "1.0.0",
-      "buildVersion": "514",
-      "date": "2026-11-13T05:43:32.297Z",
-      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-514/Non-Jailbroken.ipa",
-      "size": 123996636,
-      "minOSVersion": "17.0",
-      "platform": "iOS",
-      "isBeta": true,
-      "versionDate": "2026-11-13T05:43:32.297Z",
-      "__source": "https://provenance-emu.com/apps.json",
-      "__mirrors": [],
-      "__stores": [
-        "AltStore"
-      ]
-    },
-    {
-      "name": "Provenance Alpha",
-      "bundleIdentifier": "com.provenance-emu.provenance.alpha",
-      "developerName": "Provenance-EMU",
-      "subtitle": "Latest dev builds - test new features early",
-      "localizedDescription": "Alpha build 45eca85 \u00b7 2026-11-13\n\nChanges in this build:\n\u2022 feat(input): route controller tilt to Dolphin Wii Remote\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
-      "iconURL": "https://raw.githubusercontent.com/Provenance-Emu/Provenance/develop/Provenance/Resources/Assets.xcassets/AppIcon.appiconset/iTunesArtwork%402x.png",
-      "tintColor": "FF6B35",
-      "screenshotURLs": [],
-      "appPermissions": {
-        "entitlements": [
-          {
-            "name": "com.apple.security.application-groups"
-          },
-          {
-            "name": "com.apple.developer.icloud-services"
-          },
-          {
-            "name": "com.apple.developer.icloud-container-identifiers"
-          }
-        ],
-        "privacy": [
-          {
-            "name": "LocalNetwork",
-            "usageDescription": "Used to discover and connect to local network game servers for netplay."
-          },
-          {
-            "name": "Camera",
-            "usageDescription": "Used to scan QR codes for importing game data."
-          }
-        ]
-      },
-      "version": "3.4.0",
-      "buildVersion": "11154",
-      "marketingVersion": "3.4.0-alpha.20261113.45eca85",
-      "date": "2026-11-13",
-      "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
-      "size": 783048569,
-      "minOSVersion": "17.0",
-      "versionDate": "2026-11-13",
-      "__source": "https://provenance-emu.com/apps.json",
-      "__mirrors": [],
-      "__stores": [
-        "AltStore"
-      ]
-    },
-    {
-      "name": "iCube",
-      "bundleIdentifier": "com.joemattiello.iCube",
-      "developerName": "Provenance Emu",
-      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
-      "localizedDescription": "iCube 1.0.0-beta9-ios Beta 9 for iOS",
-      "iconURL": "https://icube-emu.com/icon-1024.png",
-      "tintColor": "#3B82F6",
-      "category": "games",
-      "screenshots": [
-        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
-        "https://icube-emu.com/screenshots/iphone/search.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
-        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
-        "https://icube-emu.com/screenshots/iphone/shaders.jpg",
-        "https://icube-emu.com/screenshots/iphone/settings-graphics.jpg",
-        "https://icube-emu.com/screenshots/iphone/settings-controllers.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
-      ],
-      "version": "1.0.0-beta9-ios",
-      "buildVersion": "1.0.0-beta9-ios",
-      "date": "2026-11-13",
-      "downloadURL": "https://icube-emu.com/builds-versioned/1.0.0/iOS-Beta9/iCube.ipa",
-      "size": 82799373,
-      "minOSVersion": "15.0",
-      "platform": "iOS",
-      "isBeta": true,
-      "betaNumber": 9,
-      "versionDate": "2026-11-13",
-      "__source": "https://provenance-emu.com/apps.json",
-      "__mirrors": [],
-      "__stores": [
-        "AltStore"
-      ]
-    },
-    {
-      "name": "iCube",
-      "bundleIdentifier": "com.joemattiello.iCube",
-      "developerName": "Provenance Emu",
-      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
-      "localizedDescription": "iCube 1.0.0-beta8-ios Beta 8 for iOS",
-      "iconURL": "https://icube-emu.com/icon-1024.png",
-      "tintColor": "#3B82F6",
-      "category": "games",
-      "screenshots": [
-        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
-        "https://icube-emu.com/screenshots/iphone/search.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
-        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
-        "https://icube-emu.com/screenshots/iphone/shaders.jpg",
-        "https://icube-emu.com/screenshots/iphone/settings-graphics.jpg",
-        "https://icube-emu.com/screenshots/iphone/settings-controllers.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
-      ],
-      "version": "1.0.0-beta8-ios",
-      "buildVersion": "1.0.0-beta8-ios",
-      "date": "2026-11-13",
-      "downloadURL": "https://icube-emu.com/builds-versioned/1.0.0/iOS-Beta8/iCube.ipa",
-      "size": 82893911,
-      "minOSVersion": "15.0",
-      "platform": "iOS",
-      "isBeta": true,
-      "betaNumber": 8,
-      "versionDate": "2026-11-13",
-      "__source": "https://provenance-emu.com/apps.json",
-      "__mirrors": [],
-      "__stores": [
-        "AltStore"
-      ]
-    },
-    {
-      "name": "iCube",
-      "bundleIdentifier": "com.joemattiello.iCube",
-      "developerName": "Provenance Emu",
-      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
-      "localizedDescription": "iCube 1.0.0-beta7-ios Beta 7 for iOS",
-      "iconURL": "https://icube-emu.com/icon-1024.png",
-      "tintColor": "#3B82F6",
-      "category": "games",
-      "screenshots": [
-        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
-        "https://icube-emu.com/screenshots/iphone/search.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
-        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
-        "https://icube-emu.com/screenshots/iphone/shaders.jpg",
-        "https://icube-emu.com/screenshots/iphone/settings-graphics.jpg",
-        "https://icube-emu.com/screenshots/iphone/settings-controllers.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
-      ],
-      "version": "1.0.0-beta7-ios",
-      "buildVersion": "1.0.0-beta7-ios",
-      "date": "2026-11-13",
-      "downloadURL": "https://icube-emu.com/builds-versioned/1.0.0/iOS-Beta7/iCube.ipa",
-      "size": 82893502,
-      "minOSVersion": "15.6",
-      "platform": "iOS",
-      "isBeta": true,
-      "betaNumber": 7,
-      "versionDate": "2026-11-13",
-      "__source": "https://provenance-emu.com/apps.json",
-      "__mirrors": [],
-      "__stores": [
-        "AltStore"
-      ]
-    },
-    {
       "name": "Shapr3D",
       "type": 1,
       "bundleID": "com.shapr3d.shapr",
@@ -5935,12 +6851,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1794465576",
       "buildVersion": "1794465576",
@@ -5967,12 +6885,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1794459606",
       "buildVersion": "1794459606",
@@ -6825,12 +7745,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1794380700",
       "buildVersion": "1794380700",
@@ -6857,12 +7779,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1794377660",
       "buildVersion": "1794377660",
@@ -6889,12 +7813,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1794365272",
       "buildVersion": "1794365272",
@@ -6921,12 +7847,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1794357435",
       "buildVersion": "1794357435",
@@ -6953,12 +7881,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1794356639",
       "buildVersion": "1794356639",
@@ -6985,12 +7915,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1794356023",
       "buildVersion": "1794356023",
@@ -7650,12 +8582,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1794351891",
       "buildVersion": "1794351891",
@@ -7682,12 +8616,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1794294741",
       "buildVersion": "1794294741",
@@ -7714,12 +8650,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1794290015",
       "buildVersion": "1794290015",
@@ -7746,12 +8684,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1794284717",
       "buildVersion": "1794284717",
@@ -7778,12 +8718,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1794269763",
       "buildVersion": "1794269763",
@@ -8735,12 +9677,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1794187576",
       "buildVersion": "1794187576",
@@ -8767,12 +9711,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1794181823",
       "buildVersion": "1794181823",
@@ -9625,12 +10571,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1794113466",
       "buildVersion": "1794113466",
@@ -9657,12 +10605,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1794111910",
       "buildVersion": "1794111910",
@@ -9689,12 +10639,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1794111174",
       "buildVersion": "1794111174",
@@ -9721,12 +10673,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1794109333",
       "buildVersion": "1794109333",
@@ -9753,12 +10707,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1794105845",
       "buildVersion": "1794105845",
@@ -9785,12 +10741,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1794103491",
       "buildVersion": "1794103491",
@@ -10006,12 +10964,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1794078934",
       "buildVersion": "1794078934",
@@ -10038,12 +10998,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1794024116",
       "buildVersion": "1794024116",
@@ -10070,12 +11032,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1794023512",
       "buildVersion": "1794023512",
@@ -10102,12 +11066,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1794016776",
       "buildVersion": "1794016776",
@@ -10134,12 +11100,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1794014830",
       "buildVersion": "1794014830",
@@ -10166,12 +11134,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1794009841",
       "buildVersion": "1794009841",
@@ -10565,12 +11535,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1793945919",
       "buildVersion": "1793945919",
@@ -10597,12 +11569,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1793945272",
       "buildVersion": "1793945272",
@@ -10629,12 +11603,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1793941915",
       "buildVersion": "1793941915",
@@ -10661,12 +11637,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1793935432",
       "buildVersion": "1793935432",
@@ -10693,12 +11671,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1793934423",
       "buildVersion": "1793934423",
@@ -10725,12 +11705,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1793927244",
       "buildVersion": "1793927244",
@@ -10757,12 +11739,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1793925418",
       "buildVersion": "1793925418",
@@ -10789,12 +11773,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1793924199",
       "buildVersion": "1793924199",
@@ -12140,12 +13126,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1793769586",
       "buildVersion": "1793769586",
@@ -12831,12 +13819,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1793743533",
       "buildVersion": "1793743533",
@@ -12863,12 +13853,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1793689605",
       "buildVersion": "1793689605",
@@ -12895,12 +13887,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1793686697",
       "buildVersion": "1793686697",
@@ -12927,12 +13921,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1793684508",
       "buildVersion": "1793684508",
@@ -12959,12 +13955,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1793682823",
       "buildVersion": "1793682823",
@@ -12991,12 +13989,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1793671207",
       "buildVersion": "1793671207",
@@ -13023,12 +14023,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1793669514",
       "buildVersion": "1793669514",
@@ -13055,12 +14057,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1793663689",
       "buildVersion": "1793663689",
@@ -13785,12 +14789,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1793661737",
       "buildVersion": "1793661737",
@@ -13817,12 +14823,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1793661024",
       "buildVersion": "1793661024",
@@ -13849,12 +14857,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1793659803",
       "buildVersion": "1793659803",
@@ -13881,12 +14891,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1793658447",
       "buildVersion": "1793658447",
@@ -13913,12 +14925,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1793657811",
       "buildVersion": "1793657811",
@@ -13945,12 +14959,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1793600633",
       "buildVersion": "1793600633",
@@ -13977,12 +14993,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1793599972",
       "buildVersion": "1793599972",
@@ -14899,12 +15917,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1793561974",
       "buildVersion": "1793561974",
@@ -14931,12 +15951,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1793507282",
       "buildVersion": "1793507282",
@@ -14963,12 +15985,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1793499217",
       "buildVersion": "1793499217",
@@ -14995,12 +16019,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1793496899",
       "buildVersion": "1793496899",
@@ -15027,12 +16053,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1793496226",
       "buildVersion": "1793496226",
@@ -15059,12 +16087,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1793494383",
       "buildVersion": "1793494383",
@@ -15091,12 +16121,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1793491703",
       "buildVersion": "1793491703",
@@ -15228,12 +16260,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1793473481",
       "buildVersion": "1793473481",
@@ -15260,12 +16294,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1793428381",
       "buildVersion": "1793428381",
@@ -15292,12 +16328,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1793414823",
       "buildVersion": "1793414823",
@@ -15324,12 +16362,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1793411785",
       "buildVersion": "1793411785",
@@ -15356,12 +16396,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1793406805",
       "buildVersion": "1793406805",
@@ -15943,48 +16985,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSCameraUsageDescription": "Instagram uses your device's camera to do things like help you take photos, record videos and use effects.",
-          "NSMicrophoneUsageDescription": "Instagram uses your device's microphone to do things like help you record videos and preview audio effects.",
-          "NSPhotoLibraryUsageDescription": "Instagram uses access to your camera roll to do things like help you share photos and videos to Instagram, apply effects and suggest photos and videos to share.",
-          "NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your Camera Roll.",
-          "NSContactsUsageDescription": "Instagram will use your contacts to suggest people and things you care about, and offer a better service.",
-          "NSLocationWhenInUseUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places.",
-          "NSLocationAlwaysAndWhenInUseUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places.",
-          "NSFaceIDUsageDescription": "Enable Face ID for quick and secure authentication on Instagram.",
-          "NSCalendarsUsageDescription": "This will let Instagram sync events to your calendar.",
-          "NSBluetoothAlwaysUsageDescription": "This allows your phone to find and connect to devices using a Bluetooth connection.",
-          "NSLocalNetworkUsageDescription": "Used to discover and connect to compatible streaming devices on your Wi-Fi network.",
-          "NSFocusStatusUsageDescription": "This allows Instagram to check whether you've been missing notifications from friends.",
-          "NSUserTrackingUsageDescription": "This helps Instagram personalize ads we show you."
-        }
-      },
-      "bundleIdentifier": "com.burbn.instagram",
-      "category": "social",
-      "developerName": "Ryuk",
-      "downloadURL": "https://source.ryuksign.com/ipas/3288e9a370947dc46d8c.ipa",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/e5/f2/30e5f206-5a5b-c586-5d94-619f69c53448/Placeholder.mill/400x400bb-75.png",
-      "localizedDescription": "# [release] RyukGram v1.5.1\n\n### \ud83c\udd95 New features\n\n#### Interface\n\n- Native liquid glass tab bar on iOS 26 and later, with its options under Tab bar > Liquid glass\n- Expanded photos and videos rotate to landscape while the rest of Instagram stays portrait\n- Hide ads covers sponsored posts between comments\n- Hide Meta AI removes the Meta AI button from the share sheet\n\n#### Reels & stories\n\n- Long videos get an action button, a playback panel with speed, scrubber, skip, sound and save frame, and a menu button hold option\n- Hide live streams from the stories tray and the reels feed\n- Split long story videos into back to back parts instead of trimming, from Photos or the Gallery\n- Stories archive groups posts into one card per story, with tap-through and swipe to the next story\n- Stories archive can keep thumbnails only, with viewers, counts and the full download while the link lives\n\n#### Profiles & data\n\n- Spoofed counts take an optional base so they show from 0, plus optional random daily growth\n- Logs and archives can show data saved on your other accounts, under Profiles > Show data from\n- Audio categories are shared across all your accounts\n\n#### Instagram feature flags\n\n- MobileConfig is now Instagram feature flags at the top of Advanced, with a shorter notice and one tap to turn it on, replacing the old experimental features menu\n- Select several configs or params to turn overrides off, back on or reset them at once\n- Sort by recently changed, name or number\n- Record reads shows which configs Instagram reads during an action\n- Every config and field in Instagram 453 is named, with the new ones marked\n\n### \ud83d\udee0 Fixes\n\n#### Instagram compatibility\n\n- Reel photo downloads, long press save, expanded reel photos, vanish swipe, doom-scroll limit and chat peek work again on 453\n- Reel refresh confirmation and the tab button refresh option work again on 452\n- Story auto-advance and playback pause work with Instagram's new story viewer\n- Instants buttons show on the new Instants layout\n- Withdrawn follow requests show as cancelled, and unfollowing no longer logs a request\n- Custom story fonts no longer crash the font picker with Instagram's remote fonts\n\n#### Media & downloads\n\n- Download all saves carousel videos as videos and asks quality once, with per item picks, audio only and video only\n- Save all no longer skips carousels, fills partly saved posts and saves a story once across highlights\n- Save frame on reels captures the on-screen frame\n- Cancelling a download stops only that one, even mid-encode, and clears its files\n- Send an image as your doodle works without drawing first\n- Call recordings capture the other side's video in more cases and no longer flash on quality changes\n- Your camera in call recordings lands where you place it, with rounded corners and a live layout preview\n\n#### Interface & stability\n\n- Saved tab no longer crashes, and added tabs no longer jump to Activity or show the previous account after switching\n- iPhone Duo keeps the side tab bar with hidden tabs, and holding Home opens settings\n- Long post spoof counts no longer push the saves count off screen\n- Restoring a backup brings back every setting, including toggles from older versions\n- Backup only asks for accounts when per-account data is ticked\n- Data with an undetected owner shows as Unknown in backups and Storage\n\n### \u26a0\ufe0f Known issues\n\n- Unfollow confirmation is missing on profiles in Instagram 446 and later",
-      "minOSVersion": "16.3",
-      "name": "RyukGram",
-      "size": 361338517,
-      "subtitle": "Instagram, supercharged with RyukGram \u00b7 by @axryuk \u00b7 RyukGram v1.5.1",
-      "version": "453.0.0",
-      "versionDate": "2026-10-29T00:00:00Z",
-      "versionDescription": "# [release] RyukGram v1.5.1\n\n### \ud83c\udd95 New features\n\n#### Interface\n\n- Native liquid glass tab bar on iOS 26 and later, with its options under Tab bar > Liquid glass\n- Expanded photos and videos rotate to landscape while the rest of Instagram stays portrait\n- Hide ads covers sponsored posts between comments\n- Hide Meta AI removes the Meta AI button from the share sheet\n\n#### Reels & stories\n\n- Long videos get an action button, a playback panel with speed, scrubber, skip, sound and save frame, and a menu button hold option\n- Hide live streams from the stories tray and the reels feed\n- Split long story videos into back to back parts instead of trimming, from Photos or the Gallery\n- Stories archive groups posts into one card per story, with tap-through and swipe to the next story\n- Stories archive can keep thumbnails only, with viewers, counts and the full download while the link lives\n\n#### Profiles & data\n\n- Spoofed counts take an optional base so they show from 0, plus optional random daily growth\n- Logs and archives can show data saved on your other accounts, under Profiles > Show data from\n- Audio categories are shared across all your accounts\n\n#### Instagram feature flags\n\n- MobileConfig is now Instagram feature flags at the top of Advanced, with a shorter notice and one tap to turn it on, replacing the old experimental features menu\n- Select several configs or params to turn overrides off, back on or reset them at once\n- Sort by recently changed, name or number\n- Record reads shows which configs Instagram reads during an action\n- Every config and field in Instagram 453 is named, with the new ones marked\n\n### \ud83d\udee0 Fixes\n\n#### Instagram compatibility\n\n- Reel photo downloads, long press save, expanded reel photos, vanish swipe, doom-scroll limit and chat peek work again on 453\n- Reel refresh confirmation and the tab button refresh option work again on 452\n- Story auto-advance and playback pause work with Instagram's new story viewer\n- Instants buttons show on the new Instants layout\n- Withdrawn follow requests show as cancelled, and unfollowing no longer logs a request\n- Custom story fonts no longer crash the font picker with Instagram's remote fonts\n\n#### Media & downloads\n\n- Download all saves carousel videos as videos and asks quality once, with per item picks, audio only and video only\n- Save all no longer skips carousels, fills partly saved posts and saves a story once across highlights\n- Save frame on reels captures the on-screen frame\n- Cancelling a download stops only that one, even mid-encode, and clears its files\n- Send an image as your doodle works without drawing first\n- Call recordings capture the other side's video in more cases and no longer flash on quality changes\n- Your camera in call recordings lands where you place it, with rounded corners and a live layout preview\n\n#### Interface & stability\n\n- Saved tab no longer crashes, and added tabs no longer jump to Activity or show the previous account after switching\n- iPhone Duo keeps the side tab bar with hidden tabs, and holding Home opens settings\n- Long post spoof counts no longer push the saves count off screen\n- Restoring a backup brings back every setting, including toggles from older versions\n- Backup only asks for accounts when per-account data is ticked\n- Data with an undetected owner shows as Unknown in backups and Storage\n\n### \u26a0\ufe0f Known issues\n\n- Unfollow confirmation is missing on profiles in Instagram 446 and later",
-      "website": "https://source.ryuksign.com",
-      "buildVersion": "1099096960",
-      "date": "2026-10-29T00:00:00Z",
-      "sha256": "5194ab9a14096cab726695fbf1a777190bcfb0ecb2ed5d70a8b9cd24f0fa0787",
-      "__source": "https://source.ryuksign.com/",
-      "__mirrors": [],
-      "__stores": [
-        "KSign"
       ]
     },
     {
@@ -26224,12 +27224,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1791610021",
       "buildVersion": "1791610021",
@@ -26256,12 +27258,14 @@
       "tintColor": "#ff6900",
       "category": "games",
       "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
         "https://ifly-emu.com/screenshots/iphone/library.jpg",
         "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
         "https://ifly-emu.com/screenshots/iphone/search.jpg",
         "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
-        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
-        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
       ],
       "version": "1.0.0+1791436698",
       "buildVersion": "1791436698",
@@ -117276,7 +118280,7 @@
     },
     {
       "name": "Provenance",
-      "bundleIdentifier": "com.provenance-emu.provenance",
+      "bundleIdentifier": "org.provenance-emu.provenance",
       "developerName": "Provenance-EMU",
       "subtitle": "Multi-system retro emulator for iOS & tvOS",
       "localizedDescription": "What's New in 3.3.0\n\nThis is a big one. Four months of work since 3.2.1 covering iCloud sync, a completely revamped tvOS interface, video filters, and a ton of core and stability fixes.\n\n\u2601\ufe0f iCloud / CloudKit Sync\n- ROMs, save states, BIOS files, and artwork now sync across devices via iCloud\n- Real-time download progress indicators when loading cloud save states\n- Auto BIOS sync on game load when available in iCloud\n- ROM metadata syncs alongside files\n- Artwork syncs after library updates\n- CloudKit records management tab in Settings\n- iCloud upsell UI for new users with empty libraries\n- Sync queue pauses during emulation and resumes after\n\n\ud83d\udcfa New tvOS UI (Default)\n- Completely redesigned tvOS interface now enabled by default\n- RetroWave-themed side menu with smooth animations\n- Save states browser accessible from the main UI with artwork and core name\n- \"View All\" saves section with per-system filtering\n- TopShelf v2: recent games and save states with artwork and timestamps\n- Cheats UI in the pause menu\n- Game \"More Info\" panel\n- Log viewer tab\n- Import status view in side menu\n- Search with persistent history\n- Dozens of focus, navigation, and theming fixes throughout\n\n\ud83c\udfa8 Video Filters & Shaders\n- Unified filter pipeline works across native and RetroArch cores\n- GB and VHS filters improved\n- Filters accessible from the pause menu\n- RetroArch GLES 3D cores now supported (Vecx/GLiden, etc.)\n- Dolphin shader/filter support\n- PPSSPP filter support\n\n\ud83c\udfae Core & Controller Fixes\n- **RetroArch**: Fixed player index mapping for MFi, PS4, and Xbox controllers; PS4 start/select fixed; 32x controls added; GameCube controller responder added\n- **Mupen64Plus**: Fixed PS4 start button; fixed tvOS scaling and placement; better save error messages\n- **Dolphin**: Fixed Vulkan landscape rendering\n- **GenPluGX**: Added CHD support; added wide-screen GameGear core\n- **PicoDrive**: Fixed crash on unload; fixed 32x controller mapping\n- **FCEUmm**: Fixed start/select button mapping\n- **Mednafen**: Fixed DualShock/DualSense pause/play button mapping\n- **GameBatte / TGDB Dual**: Fixed PSX/Xbox pause/select button mapping\n\n\ud83d\udc1b Bug Fixes & Stability\n- Fixed multiple app hangs from main-thread Realm access (moved to background)\n- Fixed crash in pause menu when closing core\n- Fixed potential crash if audio ring buffer init fails\n- Fixed crash in share/import extension\n- Fixed aspect ratio issues in Stella and some other cores\n- Fixed FPS label appearing in screenshots\n- Fixed artwork not refreshing in game library after sync\n- Fixed game importer re-queuing already-imported items\n- Fixed Realm contentless core crash\n- Fixed \"Continue\" carousel metadata mismatch\n- Skin selector refreshes orientation previews on rotation change\n- ManicSkin/DeltaSkin files can now be opened directly f",
@@ -177763,7 +178767,7 @@
     },
     {
       "name": "Provenance",
-      "bundleIdentifier": "com.provenance-emu.provenance",
+      "bundleIdentifier": "org.provenance-emu.provenance",
       "developerName": "Provenance-EMU",
       "subtitle": "Multi-system retro emulator for iOS & tvOS",
       "localizedDescription": "**Full Changelog**: https://github.com/Provenance-Emu/Provenance/compare/3.2.0...3.2.1\n\nBug fixes:\n\n- iPad skins fixed\n- Joystick in default skin fixed in landscape\n- Atari Lynx Retroach controls fixed\n- RetroAchievements login fixed\n- Skin selection and import UIs fixed\n- Skin rotation issues fixed\n- Skin previews fixed",
@@ -179455,7 +180459,7 @@
     },
     {
       "name": "Provenance",
-      "bundleIdentifier": "com.provenance-emu.provenance",
+      "bundleIdentifier": "org.provenance-emu.provenance",
       "developerName": "Provenance-EMU",
       "subtitle": "Multi-system retro emulator for iOS & tvOS",
       "localizedDescription": "Release 3.2.0\n\nWe're excited to announce Provenance 3.2.0, a major update focused on performance, skins, and quality of life improvements. This release brings highly requested features and fixes that make Provenance faster and more enjoyable than ever.\n\n\ud83c\udfa8 Skins: Now Free for Everyone!\n\nThe biggest news: **Full skin support is now available to all users\u2014no Provenance Plus required!** We believe everyone should enjoy customizing their gaming experience. However, if you love what we're building, please consider supporting the project through [Provenance Plus](https://apps.apple.com/us/app/provenance-app/id1596862805) or [Patreon](https://www.patreon.com/provenance).\n\nWhat's New with Skins\n\n- **Full Manic and Delta Skin Support** for all systems (except 3DS and DS\u2014those are coming soon!)\n- **Dramatically Improved Performance**: Faster rendering, loading, and smoother UI\n- **Fixed Rotation Issues**: No more slow redraws when changing orientation\n- **Memory Optimizations**: More efficient skin storage and rendering\n- **RetroArch Core Support**: Skins now work across all emulator cores\n- **Enhanced Skin Browser**: Faster, more responsive skin selection and preview\n\n\u26a1 Performance Improvements\n\nLibrary & UI\n- **Faster Main Library**: Significantly improved scrolling and navigation performance\n- **Optimized Rendering Loop**: Better frame pacing and smoother gameplay across all cores\n\nCore Performance\n- **Dreamcast/Flycast Enhancements**:\n  - Faster emulation speed\n  - Windows CE-based games now supported\n  - Full networking support enabled\n- **emuThreeDS (3DS Core)**: Performance bump and reduced graphic glitches\n- **PPSSPP**: More options exposed, layout fixes, and full skin support\n\nROM Management\n- **Rewritten ROM Importer**:\n  - Batch processing for multiple imports\n  - Significantly improved artwork matching\u2014more comprehensive, faster, and more accurate\n  - Much faster and more reliable with fewer errors\n  - Fixed bug where existing ROMs were repeatedly re-imported\n  - Eliminated erroneous duplicate imports\n  - **7zip Archive Support**: Fixed large 7zip archive handling\n- **MAME/CPS ZIP Support**: Drop MAME/CPS1,2,3 ZIP files directly into imports or the MAME/CPS ROMs folder\u2014they'll import and load correctly!\n\n\ud83d\udc1b Major Bug Fixes\n\nCore Stability\n- **GameCube/Wii (Dolphin) Improvements**:\n  - Fixed flickering after pause/resume\n  - Fixed mis-mapped button inputs\n  - Corrected inverted settings\n  - Faster access to overclock/underclock settings\n  - Performance improvements matching dedicated emulator apps\n- **Atari ST**: No longer crashes at boot\n- **Vectrex**: Fixed core booting and blank video output\n- **Mednafen**: Fixed static audio in CHD files with FLAC compression\n- **Odyssey2**: Added numpad button support (can now select game number at boot)\n- **Atar",
@@ -240566,7 +241570,7 @@
     },
     {
       "name": "Provenance",
-      "bundleIdentifier": "com.provenance-emu.provenance",
+      "bundleIdentifier": "org.provenance-emu.provenance",
       "developerName": "Provenance-EMU",
       "subtitle": "Multi-system retro emulator for iOS & tvOS",
       "localizedDescription": "What's Changed\n* Add custom textures to emuThree by @yippeeeyay in https://github.com/Provenance-Emu/Provenance/pull/2391\n* Fix custom textures option 3ds (forgot to bridge to CitraWrapper.mm) by @yippeeeyay in https://github.com/Provenance-Emu/Provenance/pull/2398\n* ROM Deletion Improvement by @pabloarista in https://github.com/Provenance-Emu/Provenance/pull/2399\n* Update PVMetalViewController.swift - Fix Rotation misalignment. by @mrjschulte in https://github.com/Provenance-Emu/Provenance/pull/2400\n* Update crt_filter_ps.metal to fix broken scanline check by @mrjschulte in https://github.com/Provenance-Emu/Provenance/pull/2401\n* Update megaTron.metal by @mrjschulte in https://github.com/Provenance-Emu/Provenance/pull/2402\n* Update PVMetalViewController.swift for megaTron Uniforms by @mrjschulte in https://github.com/Provenance-Emu/Provenance/pull/2403\n* Update PVMetalViewController.swift - fix ulTron by @mrjschulte in https://github.com/Provenance-Emu/Provenance/pull/2404\n* Release/3.0.5 by @JoeMatt in https://github.com/Provenance-Emu/Provenance/pull/2406\n\n**Full Changelog**: https://github.com/Provenance-Emu/Provenance/compare/3.0.4...3.0.5",
@@ -307099,7 +308103,7 @@
     },
     {
       "name": "Provenance",
-      "bundleIdentifier": "com.provenance-emu.provenance",
+      "bundleIdentifier": "org.provenance-emu.provenance",
       "developerName": "Provenance-EMU",
       "subtitle": "Multi-system retro emulator for iOS & tvOS",
       "localizedDescription": "[2.1.1] - 2022-06-15\n\nAdded\n\n- Controls: PSX on-screen joystick can be disabled in settings. No longer shows when controller is connected\n- Swift UI beta for tvOS\n- tvOS theme support\n- Metal shader 200% speedup \ud83d\udc49 @mrjschulte\n- early dosbox testing code (no running yet)\n\nFixed\n\n- tgbdual crash on ios fixed\n\nUpdated\n\n- fceux update core to 2.6.2",
@@ -307699,7 +308703,7 @@
     },
     {
       "name": "Provenance",
-      "bundleIdentifier": "com.provenance-emu.provenance",
+      "bundleIdentifier": "org.provenance-emu.provenance",
       "developerName": "Provenance-EMU",
       "subtitle": "Multi-system retro emulator for iOS & tvOS",
       "localizedDescription": "Links\n\n- \ud83d\udcf2 [iOS IPA](https://github.com/Provenance-Emu/Provenance/releases/download/2.0.3/Provenance-iOS.ipa)\n- \ud83d\udcfa [tvOS IPA](https://github.com/Provenance-Emu/Provenance/releases/download/2.0.3/Provenance-tvOS.ipa)\n- \ud83d\udcdd [GitHub](https://github.com/Provenance-Emu/Provenance/releases/tag/2.0.3)\n- \ud83c\udfea [AltStore](https://provenance-emu.com/altstore/)\n\n\ud83e\udd70 [Patreon](https://patreon.com/provenance/)\n\nInstall Instructions\n\nhttps://wiki.provenance-emu.com/installation-and-usage/installing-provenance/sideloading\n\nChanges\n\n*More Bug fixes, some core updates.*\n\n[2.0.3] - 2021-12-16\n\nAdded\n\n- Odyssey2 core\n- Mac Catalyst early support (M1 and Intel) (not for public use yet)\n- SNES FAST and PCE FAST core options for Mednafen\n- watch os demo target\n- Odyssey add and use od2 extension\n- Add odyssey to build\n- Tentative support for VecX and CrabEMU\n- macOS testing catalyst\n- Add nitotv methods for tvOS\n- Override openURL for tvOS\n- Add Patron link to readme\n- Add Desmume2015 core\n- DuckStation initial commit\n- Cores add plist feature to ignore\n- Add PPSSPP Source\n- Play! PS2 initial commit\n- Add Dolphin project\n- Add GameCube support classes and metadata (WIP)\n- Add flycast core (WIP)\n- Add a Chinese loading example\n- Add localized strings file and example\n\nFixed\n\n- #1621 GBC palette options crashed gambatte\n- #1414 smarter expecptions in PVSystem\n- #1645 PCE Audio setting tweaks to match real hardware\n- #1637 Cheats label name cut off fixed\n- #1649 two PCE module audio related setting tweaks that enable Provenance's PCE Audio output to match much closer to the measured MDFourier output of a real system, as tested with @artemio from the MDFourier project.\n- Fixed rare crash in OERingBuffer\n- Cores that don't support saves no loner display save actions in menu\n- OpenVGDB Update (fixes artwork and metadata not loading)\n- Fixed strong self refs in some classes, closures\n- Fixed MD5 mismatch log message\n- Add back a crash logger #1605 add crash logger and fix minor build settings\n- switch jaguar to upstream branch\n- core option as bool for objc\n- RxDataSources switch to SPM package\n- Fix some implicit self block refs\n- closes Conflicts not reported #1601 conflicts reporting correctly\n- fixes Gambatte core immediately crashes #1621 GBC palette options crashed gambatte\n- refs After Resolving an \"Import Conflict\", subsequent imports no longer work #1414 smarter expecptions in PVSystem\n- refs WebDav Server Always-On broken #822 add small main queue delay 4webdav start\n- tvOS add multi micro gamepad to infoplist\n- tvOS fix target order setting error\n- Fix minor iCloud warning\n- Fix random warnings\n- Fix force unwraps in appdeleagte\n- Fix finicky tvOS schemes\n- Fix whole/single compilation for rel/arch targets\n- Mednafen, proper ELOG in swift\n- Mednafen remove dead file ref\n- RxSw",
@@ -307965,7 +308969,7 @@
     },
     {
       "name": "Provenance",
-      "bundleIdentifier": "com.provenance-emu.provenance",
+      "bundleIdentifier": "org.provenance-emu.provenance",
       "developerName": "Provenance-EMU",
       "subtitle": "Multi-system retro emulator for iOS & tvOS",
       "localizedDescription": "More Bug fixes mostly.\n\nAdded\n\n- XCode will detect missing git submodules and auto-clone recursive before building the rest of the project\n\nFixed\n\n- #1586 Running same core twice in a row would crash\n- #1593 Cheat codes menu crash fixes and other cheat code quality improvements\n\nUpdated\n\n- #1564 SteamController native SPM package port\n- Jaguar core updated with libretro upstream + my performance hacks. PR made https://github.com/libretro/virtualjaguar-libretro/pull/53#issuecomment-919242560\n- Fix many static analyzer warnings about possible nil pointer/un-malloc'd memory usage, now we check and log nils or early exit where applicable \n- SQLite.swift updated \n- RxRealm updated from 5.0.2 to 5.0.3\n- realm-cocoa updated from 10.14.0 to 10.15.0",
@@ -308008,7 +309012,7 @@
     },
     {
       "name": "Provenance",
-      "bundleIdentifier": "com.provenance-emu.provenance",
+      "bundleIdentifier": "org.provenance-emu.provenance",
       "developerName": "Provenance-EMU",
       "subtitle": "Multi-system retro emulator for iOS & tvOS",
       "localizedDescription": "Special thanks and shout-outs to @braindx, @error404-na, @zydeco, @mrjschulte, @yoshisuga, @sevdestruct, the Mupen team, and additional contributors.\n\n**AltStore Release**\nAdd our new AltStore source: https://provenance-emu.com/apps.json\n\n**N64 Release!** with Mupen64Plus + GlideN64 \u2014 a non-jailbreak emulation _first._ A lot in this update: Swift codebase conversion, Atari Jaguar support, Saturn, Dreamcast\u2026full _multi-disc support_ for all of you RPG fans out there, dark theme default, 60 FPS optimizations, core updates, new touch controls, iOS 12, iPhone X, WebDAV support and _much more\u2026_\n\n\u26a0\ufe0f **Breaking** \u26a0\ufe0f\n\n2.0 does not support upgrading from 1.4 libraries. It MAY work with some versions of 1.5beta's but not all betas are the same. Your mileage may vary. For this reason we're updating the version to 2, to indicate the lack of upgrade path. \n\n\u2139\ufe0f *You can install 2.0 along side 1.x by using a different bundle id*\nAdded\n\nNew Cores\n\n- **N64 Core**: Mupen64Plus\n  - GlideN64 Preview (_only_ non-jailbreak app to do this)\n  - High-Resolution Texture Support\n    - Gliden64 & Rice\n  - 4 players\n  - Rumble support\n- **Sega Saturn Core**: Mednafen\n- **Atari Jaguar Core**: Virtual Jaguar custom _Alpha_ ** Note: requires additional steps for BIOS, very unstable **\n- **Sege Dreamcast Core**: Reicast custom _Alpha_ ** Note: Unplayable, sync issues. For dev testing only **\n- [Additional] **Nintendo GameBoy Core**: [TGBDual](https://github.com/libretro/tgbdual-libretro) _Beta_\n\nNew Features\n\n- **[Multi-disc Support](https://github.com/jasarien/Provenance/wiki/Importing-ROMs#multi-disc-games)** (disc-swapping)\n- iOS 11-15 Support\n  <sup>Including Smart Invert Support so cover art and emulator view won't invert</sup><br>\n- iPhone X Support\n  <sup>Full-screen Support, Home Indicator: Hides with controller, Dims while playing</sup><br>\n- MFi+ (Instant Button Swap Modes) to access to missing buttons on MFi Controllers ([MFi Controls](https://bit.ly/2LDZNzI))\n- iCloud Syncing for Save States and Battery Saves _Beta_\n- New Dark Theme Default\n- Timed Auto Saves (default: every 10 minutes)\n- Game Info View & Game Info Preview View (on 3D Touch)\n  - Extended editable ROM meta data ([Customizing ROMs](https://github.com/Provenance-Emu/Provenance/wiki/Customizing-ROMs))\n    <sup>cover art, title, description, genre, release date, publisher, play history\u2026</sup><br>\n  - Single ROM Browsing (swipe left/right)\n  - Links to Game Manuals\n- Share Button\n  - Export ROM, Saves, Screenshot and custom artwork\n- WebDAV Support (access from the Finder or other WebDAV clients)\n- Optional Touch/Overlay Controls Additions:\n  - Start/Select Always On-screen (for MFi usage with iOS)\n  - All-Right Shoulders (moves L1, L2, and Z to right side)\n- Save/Load Save States View with Screenshots\n- Add R",

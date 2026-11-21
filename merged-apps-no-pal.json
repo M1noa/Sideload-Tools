@@ -4,15 +4,440 @@
   "subtitle": "Auto-merged from 43 AltStore/ESign sources. Local cached URLs where available, PAL fields removed.",
   "description": "Same as the merged catalog but strips appID/marketplaceID/permissions (AltStore PAL) and nested versions arrays.",
   "iconURL": "https://avatars.githubusercontent.com/u/57844837",
-  "appCount": 13699,
+  "appCount": 13706,
   "sourceCount": 43,
   "apps": [
+    {
+      "name": "iCube",
+      "bundleIdentifier": "com.joemattiello.iCube",
+      "developerName": "Provenance Emu",
+      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
+      "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
+      "iconURL": "https://icube-emu.com/icon-1024.png",
+      "tintColor": "#3B82F6",
+      "category": "games",
+      "screenshots": [
+        "https://icube-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://icube-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://icube-emu.com/screenshots/2026-11/iphone/trinitron.jpg",
+        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
+        "https://icube-emu.com/screenshots/iphone/search.jpg",
+        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
+        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
+        "https://icube-emu.com/screenshots/iphone/shaders.jpg"
+      ],
+      "version": "1.0.0",
+      "buildVersion": "546",
+      "date": "2026-11-21T07:01:24.859Z",
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-546/Non-Jailbroken.ipa",
+      "size": 124780512,
+      "minOSVersion": "17.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "versionDate": "2026-11-21T07:01:24.859Z",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Procreate Pocket (Paid app)",
+      "bundleIdentifier": "au.com.savageinteractive.procreate-pocket",
+      "developerName": "Savage Interactive Pty Ltd",
+      "subtitle": "App of the Year winner Procreate Pocket is the most feature-packed and versatile art app ever designed for iPh",
+      "localizedDescription": "Procreate Pocket (Paid app) v4.0.19 (313.96 MB) \u2014 Sidelix App Store release.",
+      "iconURL": "https://apps.nabzclan.vip/images/1795241507_7789.webp",
+      "tintColor": "#2ecc71",
+      "category": "utilities",
+      "screenshots": [
+        "https://apps.nabzclan.vip/screenshots/17952415072953902.webp",
+        "https://apps.nabzclan.vip/screenshots/17952415072404496.webp",
+        "https://apps.nabzclan.vip/screenshots/17952415072155995.webp",
+        "https://apps.nabzclan.vip/screenshots/17952415071798639.webp",
+        "https://apps.nabzclan.vip/screenshots/17952415077563551.webp",
+        "https://apps.nabzclan.vip/screenshots/17952415072032262.webp",
+        "https://apps.nabzclan.vip/screenshots/17952415083634298.webp"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "This app needs access to Bluetooth to connect third-party styluses.",
+          "NSBluetoothPeripheralUsageDescription": "3rd-party Stylus connectivity.",
+          "NSCameraUsageDescription": "Importing images from the camera.",
+          "NSMicrophoneUsageDescription": "Record audio in FacePaint recording.",
+          "NSPhotoLibraryAddUsageDescription": "Add images to your photo library.",
+          "NSPhotoLibraryUsageDescription": "Transferring images to and from Photos."
+        }
+      },
+      "version": "4.0.19",
+      "versionDate": "2026-11-21T01:11:47-05:00",
+      "versionDescription": "Procreate Pocket (Paid app) v4.0.19 (313.96 MB) \u2014 Sidelix App Store release.",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/31/app_31_nabzclan_sidelix.ipa",
+      "size": 329212738,
+      "type": 1,
+      "badges": [
+        {
+          "key": "needs_update",
+          "label": "Needs Update (v5.0.2)",
+          "color": "#f39c12",
+          "icon": "arrow.triangle.2.circlepath"
+        },
+        {
+          "key": "paid_free",
+          "label": "Paid ($5.99) Free",
+          "color": "#e74c3c",
+          "icon": "gift.fill"
+        },
+        {
+          "key": "featured",
+          "label": "Featured",
+          "color": "#3498db",
+          "icon": "star.fill"
+        },
+        {
+          "key": "sidelix_verified",
+          "label": "Sidelix Verified",
+          "color": "#16a085",
+          "icon": "shield.lefthalf.filled"
+        }
+      ],
+      "latest_appstore_app": {
+        "checked": true,
+        "found": true,
+        "bundleIdentifier": "au.com.savageinteractive.procreate-pocket",
+        "latest_version": "5.0.2",
+        "repo_version": "4.0.19",
+        "up_to_date": false,
+        "update_available": true,
+        "status": "update_available",
+        "price": "$5.99",
+        "is_paid": true,
+        "store_url": "https://apps.apple.com/us/app/procreate-pocket/id916366645",
+        "release_date": "2026-10-30T23:12:43Z",
+        "checked_at": "2026-11-21T12:44:13-05:00",
+        "track_id": 916366645,
+        "track_name": "Procreate Pocket"
+      },
+      "buildVersion": "37826",
+      "date": "2026-11-21T01:11:47-05:00",
+      "minOSVersion": "15.4.1",
+      "__source": "https://apps.nabzclan.vip/repos/esign.php",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
+      ]
+    },
+    {
+      "name": "Esign",
+      "bundleIdentifier": "p3.xyz.yyyue.esign",
+      "developerName": "esign team",
+      "subtitle": "Esign app signer",
+      "localizedDescription": "Esign v5.0.2 (7.82 MB) \u2014 Sidelix App Store release.",
+      "iconURL": "https://apps.nabzclan.vip/images/1795241166_6495.webp",
+      "tintColor": "#2ecc71",
+      "category": "developer",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "\u70b9\u5141\u8bb8\uff0c\u624d\u80fd\u4f7f\u7528\u3002",
+          "NSCameraUsageDescription": "\u6388\u6743\u540e\u624d\u80fd\u4f7f\u7528\u60a8\u7684\u76f8\u673a\u8fdb\u884c\u626b\u4e00\u626b",
+          "NSLocationWhenInUseUsageDescription": "\u5f00\u542f\u5b9a\u4f4d\u670d\u52a1\uff0c\u6211\u4eec\u5c06\u6839\u636e\u60a8\u7684\u4f4d\u7f6e,\u4e3a\u60a8\u63d0\u4f9b\u76f8\u5173\u4fe1\u606f\u3002\u5728\u672a\u7ecf\u8bb8\u53ef\u524d\u4e0d\u4f1a\u5f00\u542f\u5b9a\u4f4d\u670d\u52a1\uff0c\u8bf7\u653e\u5fc3\u4f7f\u7528\u3002",
+          "NSPhotoLibraryAddUsageDescription": "\u6388\u6743\u540e\u624d\u80fd\u5c06\u56fe\u7247\u4fdd\u5b58\u5230\u672c\u5730\u76f8\u518c",
+          "NSPhotoLibraryUsageDescription": "\u6388\u6743\u540e\u624d\u80fd\u8bbf\u95ee\u60a8\u7684\u624b\u673a\u76f8\u518c\uff0c\u60a8\u624d\u80fd\u4e0a\u4f20\u5bf9\u5e94\u7684\u56fe\u7247",
+          "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you"
+        }
+      },
+      "version": "5.0.2",
+      "versionDate": "2026-11-21T01:05:04-05:00",
+      "versionDescription": "Esign v5.0.2 (7.82 MB) \u2014 Sidelix App Store release.",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/30/app_30_nabzclan_sidelix.ipa",
+      "size": 8203880,
+      "type": 1,
+      "badges": [
+        {
+          "key": "sideload_exclusive",
+          "label": "Exclusive / Sideload",
+          "color": "#8e44ad",
+          "icon": "sparkles"
+        },
+        {
+          "key": "free",
+          "label": "Free",
+          "color": "#27ae60",
+          "icon": "checkmark.circle.fill"
+        },
+        {
+          "key": "sidelix_verified",
+          "label": "Sidelix Verified",
+          "color": "#16a085",
+          "icon": "shield.lefthalf.filled"
+        }
+      ],
+      "latest_appstore_app": {
+        "checked": true,
+        "found": false,
+        "bundleIdentifier": "p3.xyz.yyyue.esign",
+        "latest_version": null,
+        "repo_version": "5.0.2",
+        "up_to_date": null,
+        "update_available": false,
+        "status": "custom_sideload",
+        "price": null,
+        "is_paid": false,
+        "store_url": null,
+        "release_date": null,
+        "checked_at": "2026-11-21T12:44:14-05:00"
+      },
+      "buildVersion": "1",
+      "date": "2026-11-21T01:05:04-05:00",
+      "minOSVersion": "11.0",
+      "__source": "https://apps.nabzclan.vip/repos/esign.php",
+      "__mirrors": [
+        "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps_esign.json",
+        "https://wuxu1.github.io/wuxu-complete-plus.json",
+        "https://wuxu1.github.io/wuxu-complete.json"
+      ],
+      "__stores": [
+        "ESign",
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Gbox",
+      "bundleIdentifier": "com.ncs.gbox",
+      "developerName": "Gbox",
+      "subtitle": "App signer",
+      "localizedDescription": "Gbox v6.2.1 (4.76 MB) \u2014 Sidelix App Store release.",
+      "iconURL": "https://apps.nabzclan.vip/images/1795240787_3874.webp",
+      "tintColor": "#2ecc71",
+      "category": "developer",
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "Grant access to the sandbox. Required for app functionality.",
+          "NSCameraUsageDescription": "\u662f\u5426\u6743\u5141\u8bb8\u8bbf\u95ee\u76f8\u673a\uff0c\u4ee5\u5bfc\u5165\u7167\u7247",
+          "NSFaceIDUsageDescription": "\u662f\u5426\u6388\u6743\u5141\u8bb8\u4f7f\u7528\u9762\u5bb9ID\uff0c\u4ee5\u52a0\u5bc6\u60a8\u7684\u8d44\u6599",
+          "NSLocalNetworkUsageDescription": "\u9700\u8981\u53d1\u73b0\u5e76\u8fde\u63a5\u5230\u5c40\u57df\u7f51\u5185\u7684\u8bbe\u5907",
+          "NSPhotoLibraryAddUsageDescription": "\u662f\u5426\u6743\u5141\u8bb8\u76f8\u518c\u6388\u6743\uff0c\u4ee5\u5bfc\u5165\u76f8\u518c\u6216\u8005\u89c6\u9891",
+          "NSPhotoLibraryUsageDescription": "\u662f\u5426\u6743\u5141\u8bb8\u8bbf\u95ee\u76f8\u518c\uff0c\u4ee5\u5bfc\u5165\u76f8\u518c\u6216\u8005\u89c6\u9891"
+        }
+      },
+      "version": "6.2.1",
+      "versionDate": "2026-11-21T00:51:10-05:00",
+      "versionDescription": "Gbox v6.2.1 (4.76 MB) \u2014 Sidelix App Store release.",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/29/app_29_nabzclan_sidelix.ipa",
+      "size": 4988094,
+      "type": 1,
+      "badges": [
+        {
+          "key": "sideload_exclusive",
+          "label": "Exclusive / Sideload",
+          "color": "#8e44ad",
+          "icon": "sparkles"
+        },
+        {
+          "key": "free",
+          "label": "Free",
+          "color": "#27ae60",
+          "icon": "checkmark.circle.fill"
+        },
+        {
+          "key": "featured",
+          "label": "Featured",
+          "color": "#3498db",
+          "icon": "star.fill"
+        },
+        {
+          "key": "sidelix_verified",
+          "label": "Sidelix Verified",
+          "color": "#16a085",
+          "icon": "shield.lefthalf.filled"
+        }
+      ],
+      "latest_appstore_app": {
+        "checked": true,
+        "found": false,
+        "bundleIdentifier": "com.ncs.gbox",
+        "latest_version": null,
+        "repo_version": "6.2.1",
+        "up_to_date": null,
+        "update_available": false,
+        "status": "custom_sideload",
+        "price": null,
+        "is_paid": false,
+        "store_url": null,
+        "release_date": null,
+        "checked_at": "2026-11-21T12:44:14-05:00"
+      },
+      "buildVersion": "621",
+      "date": "2026-11-21T00:51:10-05:00",
+      "minOSVersion": "15.0",
+      "__source": "https://apps.nabzclan.vip/repos/esign.php",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
+      ]
+    },
+    {
+      "name": "Mini Metro+",
+      "bundleIdentifier": "com.dinopoloclub.minimetro.arcade",
+      "developerName": "Dinosaur Polo Club",
+      "subtitle": "Mini Metro is a game about designing a subway map for a growing city. Draw lines between stations and start yo",
+      "localizedDescription": "Mini Metro+ v1.10.0 (105.58 MB) \u2014 Sidelix App Store release.",
+      "iconURL": "https://apps.nabzclan.vip/images/1795239984_7744.webp",
+      "tintColor": "#2ecc71",
+      "category": "utilities",
+      "screenshots": [
+        "https://apps.nabzclan.vip/screenshots/17952399849430904.webp",
+        "https://apps.nabzclan.vip/screenshots/17952399843998486.webp",
+        "https://apps.nabzclan.vip/screenshots/17952399847350859.webp",
+        "https://apps.nabzclan.vip/screenshots/17952399844886590.webp"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryAddUsageDescription": "Mini Metro would like to save this image to your Photo Library.",
+          "NSPhotoLibraryUsageDescription": "Mini Metro would like to save this image to your Photo Library."
+        }
+      },
+      "version": "1.10.0",
+      "versionDate": "2026-11-21T00:46:24-05:00",
+      "versionDescription": "Mini Metro+ v1.10.0 (105.58 MB) \u2014 Sidelix App Store release.",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/28/app_28_nabzclan_sidelix.ipa",
+      "size": 110707521,
+      "type": 1,
+      "badges": [
+        {
+          "key": "latest",
+          "label": "Latest Version",
+          "color": "#2ecc71",
+          "icon": "checkmark.seal.fill"
+        },
+        {
+          "key": "free",
+          "label": "Free",
+          "color": "#27ae60",
+          "icon": "checkmark.circle.fill"
+        },
+        {
+          "key": "sidelix_verified",
+          "label": "Sidelix Verified",
+          "color": "#16a085",
+          "icon": "shield.lefthalf.filled"
+        }
+      ],
+      "latest_appstore_app": {
+        "checked": true,
+        "found": true,
+        "bundleIdentifier": "com.dinopoloclub.minimetro.arcade",
+        "latest_version": "1.10.0",
+        "repo_version": "1.10.0",
+        "up_to_date": true,
+        "update_available": false,
+        "status": "up_to_date",
+        "price": "Free",
+        "is_paid": false,
+        "store_url": "https://apps.apple.com/us/app/mini-metro/id1550663539",
+        "release_date": "2026-10-21T21:09:02Z",
+        "checked_at": "2026-11-21T12:44:14-05:00",
+        "track_id": 1550663539,
+        "track_name": "Mini Metro+"
+      },
+      "buildVersion": "4",
+      "date": "2026-11-21T00:46:24-05:00",
+      "minOSVersion": "13.0",
+      "__source": "https://apps.nabzclan.vip/repos/esign.php",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
+      ]
+    },
+    {
+      "name": "Turmoil+",
+      "bundleIdentifier": "com.gamious.turmoilplus",
+      "developerName": "Gamious B.V.",
+      "subtitle": "Turmoil+ offers players a visually charming, tongue-in-cheek take on the simulation genre inspired by the 19th",
+      "localizedDescription": "Turmoil+ v1.0.8 (184.08 MB) \u2014 Sidelix App Store release.",
+      "iconURL": "https://apps.nabzclan.vip/images/1795239918_6499.webp",
+      "tintColor": "#2ecc71",
+      "category": "utilities",
+      "screenshots": [
+        "https://apps.nabzclan.vip/screenshots/17952399183714127.webp",
+        "https://apps.nabzclan.vip/screenshots/17952399191923607.webp",
+        "https://apps.nabzclan.vip/screenshots/17952399199517415.webp",
+        "https://apps.nabzclan.vip/screenshots/17952399191953435.webp",
+        "https://apps.nabzclan.vip/screenshots/17952399193223108.webp",
+        "https://apps.nabzclan.vip/screenshots/17952399199426740.webp",
+        "https://apps.nabzclan.vip/screenshots/17952399197030845.webp"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryAddUsageDescription": "The app requires access to Photos to save media to it.",
+          "NSPhotoLibraryUsageDescription": "The app requires access to Photos to save media to it."
+        }
+      },
+      "version": "1.0.8",
+      "versionDate": "2026-11-21T00:45:18-05:00",
+      "versionDescription": "Turmoil+ v1.0.8 (184.08 MB) \u2014 Sidelix App Store release.",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/27/app_27_nabzclan_sidelix.ipa",
+      "size": 193025616,
+      "type": 1,
+      "badges": [
+        {
+          "key": "latest",
+          "label": "Latest Version",
+          "color": "#2ecc71",
+          "icon": "checkmark.seal.fill"
+        },
+        {
+          "key": "free",
+          "label": "Free",
+          "color": "#27ae60",
+          "icon": "checkmark.circle.fill"
+        },
+        {
+          "key": "sidelix_verified",
+          "label": "Sidelix Verified",
+          "color": "#16a085",
+          "icon": "shield.lefthalf.filled"
+        }
+      ],
+      "latest_appstore_app": {
+        "checked": true,
+        "found": true,
+        "bundleIdentifier": "com.gamious.turmoilplus",
+        "latest_version": "1.0.8",
+        "repo_version": "1.0.8",
+        "up_to_date": true,
+        "update_available": false,
+        "status": "up_to_date",
+        "price": "Free",
+        "is_paid": false,
+        "store_url": "https://apps.apple.com/us/app/turmoil/id6446276883",
+        "release_date": "2026-06-17T21:49:01Z",
+        "checked_at": "2026-11-21T12:44:14-05:00",
+        "track_id": 6446276883,
+        "track_name": "Turmoil+"
+      },
+      "buildVersion": "31",
+      "date": "2026-11-21T00:45:18-05:00",
+      "minOSVersion": "15.0",
+      "__source": "https://apps.nabzclan.vip/repos/esign.php",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
+      ]
+    },
     {
       "name": "Provenance Alpha",
       "bundleIdentifier": "org.provenance-emu.provenance.alpha",
       "developerName": "Provenance-EMU",
       "subtitle": "Latest dev builds - test new features early",
-      "localizedDescription": "Alpha build 490bb7b \u00b7 2026-11-21\n\nChanges in this build:\n\u2022 fix(ci): sideload feed and fakesign use the ids the builds carry\n\u2022 revert: auto-translation strings that created partial localizations\n\u2022 [Auto-translation] Translate new/changed strings\n\u2022 fix(sync): register sync settings defaults on the main thread\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
+      "localizedDescription": "Alpha build e0f5945 \u00b7 2026-11-21\n\nChanges in this build:\n\u2022 feat(sharing): a library's games are a cover grid\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
       "iconURL": "https://raw.githubusercontent.com/Provenance-Emu/Provenance/develop/Provenance/Resources/Assets.xcassets/AppIcon.appiconset/iTunesArtwork%402x.png",
       "tintColor": "FF6B35",
       "screenshotURLs": [],
@@ -40,14 +465,166 @@
         ]
       },
       "version": "3.4.0",
-      "buildVersion": "11283",
-      "marketingVersion": "3.4.0-alpha.20261121.490bb7b",
+      "buildVersion": "11285",
+      "marketingVersion": "3.4.0-alpha.20261121.e0f5945",
       "date": "2026-11-21",
       "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
-      "size": 785237349,
+      "size": 785330665,
       "minOSVersion": "17.0",
       "versionDate": "2026-11-21",
       "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iCube",
+      "bundleIdentifier": "com.joemattiello.iCube",
+      "developerName": "Provenance Emu",
+      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
+      "localizedDescription": "iCube 1.0.0-beta9-ios Beta 9 for iOS",
+      "iconURL": "https://icube-emu.com/icon-1024.png",
+      "tintColor": "#3B82F6",
+      "category": "games",
+      "screenshots": [
+        "https://icube-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://icube-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://icube-emu.com/screenshots/2026-11/iphone/trinitron.jpg",
+        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
+        "https://icube-emu.com/screenshots/iphone/search.jpg",
+        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
+        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
+        "https://icube-emu.com/screenshots/iphone/shaders.jpg"
+      ],
+      "version": "1.0.0-beta9-ios",
+      "buildVersion": "1.0.0-beta9-ios",
+      "date": "2026-11-21",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/iCube.ipa",
+      "size": 82799373,
+      "minOSVersion": "15.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "betaNumber": 9,
+      "versionDate": "2026-11-21",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ],
+      "__hash_duplicates": [
+        {
+          "name": "iCube",
+          "bundleIdentifier": "com.joemattiello.iCube",
+          "version": "1.0.0-beta8-ios"
+        },
+        {
+          "name": "iCube",
+          "bundleIdentifier": "com.joemattiello.iCube",
+          "version": "1.0.0-beta7-ios"
+        }
+      ]
+    },
+    {
+      "name": "iCube",
+      "bundleIdentifier": "com.joemattiello.iCube",
+      "developerName": "Provenance Emu",
+      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
+      "localizedDescription": "iCube 1.0.0-beta8-ios Beta 8 for iOS",
+      "iconURL": "https://icube-emu.com/icon-1024.png",
+      "tintColor": "#3B82F6",
+      "category": "games",
+      "screenshots": [
+        "https://icube-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://icube-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://icube-emu.com/screenshots/2026-11/iphone/trinitron.jpg",
+        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
+        "https://icube-emu.com/screenshots/iphone/search.jpg",
+        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
+        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
+        "https://icube-emu.com/screenshots/iphone/shaders.jpg"
+      ],
+      "version": "1.0.0-beta8-ios",
+      "buildVersion": "1.0.0-beta8-ios",
+      "date": "2026-11-21",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/iCube.ipa",
+      "size": 82893911,
+      "minOSVersion": "15.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "betaNumber": 8,
+      "versionDate": "2026-11-21",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ],
+      "__hash_duplicates": [
+        {
+          "name": "iCube",
+          "bundleIdentifier": "com.joemattiello.iCube",
+          "version": "1.0.0-beta9-ios"
+        }
+      ]
+    },
+    {
+      "name": "iCube",
+      "bundleIdentifier": "com.joemattiello.iCube",
+      "developerName": "Provenance Emu",
+      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
+      "localizedDescription": "iCube 1.0.0-beta7-ios Beta 7 for iOS",
+      "iconURL": "https://icube-emu.com/icon-1024.png",
+      "tintColor": "#3B82F6",
+      "category": "games",
+      "screenshots": [
+        "https://icube-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://icube-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://icube-emu.com/screenshots/2026-11/iphone/trinitron.jpg",
+        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
+        "https://icube-emu.com/screenshots/iphone/search.jpg",
+        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
+        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
+        "https://icube-emu.com/screenshots/iphone/shaders.jpg"
+      ],
+      "version": "1.0.0-beta7-ios",
+      "buildVersion": "1.0.0-beta7-ios",
+      "date": "2026-11-21",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/iCube.ipa",
+      "size": 82893502,
+      "minOSVersion": "15.6",
+      "platform": "iOS",
+      "isBeta": true,
+      "betaNumber": 7,
+      "versionDate": "2026-11-21",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ],
+      "__hash_duplicates": [
+        {
+          "name": "iCube",
+          "bundleIdentifier": "com.joemattiello.iCube",
+          "version": "1.0.0-beta9-ios"
+        }
+      ]
+    },
+    {
+      "name": "HabitKit",
+      "type": 1,
+      "bundleID": "com.roehl.habitkit",
+      "bundleIdentifier": "com.roehl.habitkit",
+      "version": "1.19.3",
+      "versionDate": "2026-11-21",
+      "fullDate": "20261121143944",
+      "size": 107013165,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-11-2026/HabitKit_1.19.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-11-2026/HabitKit_1.19.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.roehl.habitkit.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.roehl.habitkit.png",
+      "__source": "https://repository.apptesters.org",
       "__mirrors": [],
       "__stores": [
         "AltStore"
@@ -327,7 +904,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/voice-recorder-ai-notes-spiik/id6451387537",
         "release_date": "2026-11-19T19:33:28Z",
-        "checked_at": "2026-11-20T23:25:34-05:00",
+        "checked_at": "2026-11-21T12:44:14-05:00",
         "track_id": 6451387537,
         "track_name": "Voice Recorder AI Notes: Spiik"
       },
@@ -403,7 +980,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/magic-sort/id6499209744",
         "release_date": "2026-11-20T20:26:05Z",
-        "checked_at": "2026-11-20T23:25:34-05:00",
+        "checked_at": "2026-11-21T12:44:14-05:00",
         "track_id": 6499209744,
         "track_name": "Magic Sort!"
       },
@@ -479,7 +1056,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/cash-app/id711923939",
         "release_date": "2026-11-16T18:15:24Z",
-        "checked_at": "2026-11-20T23:25:34-05:00",
+        "checked_at": "2026-11-21T12:44:14-05:00",
         "track_id": 711923939,
         "track_name": "Cash App"
       },
@@ -571,7 +1148,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/instagram/id389801252",
         "release_date": "2026-11-16T13:17:23Z",
-        "checked_at": "2026-11-20T23:25:34-05:00",
+        "checked_at": "2026-11-21T12:44:15-05:00",
         "track_id": 389801252,
         "track_name": "Instagram"
       },
@@ -663,7 +1240,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/x/id333903271",
         "release_date": "2026-11-19T14:25:14Z",
-        "checked_at": "2026-11-20T23:25:35-05:00",
+        "checked_at": "2026-11-21T12:44:15-05:00",
         "track_id": 333903271,
         "track_name": "X"
       },
@@ -741,7 +1318,7 @@
         "is_paid": false,
         "store_url": null,
         "release_date": null,
-        "checked_at": "2026-11-20T23:25:35-05:00"
+        "checked_at": "2026-11-21T12:44:15-05:00"
       },
       "buildVersion": "36",
       "date": "2026-11-20T22:14:48-05:00",
@@ -750,40 +1327,6 @@
       "__mirrors": [],
       "__stores": [
         "ESign"
-      ]
-    },
-    {
-      "name": "iCube",
-      "bundleIdentifier": "com.joemattiello.iCube",
-      "developerName": "Provenance Emu",
-      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
-      "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
-      "iconURL": "https://icube-emu.com/icon-1024.png",
-      "tintColor": "#3B82F6",
-      "category": "games",
-      "screenshots": [
-        "https://icube-emu.com/screenshots/2026-11/iphone/play.jpg",
-        "https://icube-emu.com/screenshots/2026-11/iphone/library.jpg",
-        "https://icube-emu.com/screenshots/2026-11/iphone/trinitron.jpg",
-        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
-        "https://icube-emu.com/screenshots/iphone/search.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
-        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
-        "https://icube-emu.com/screenshots/iphone/shaders.jpg"
-      ],
-      "version": "1.0.0",
-      "buildVersion": "545",
-      "date": "2026-11-20T10:02:09.180Z",
-      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-545/Non-Jailbroken.ipa",
-      "size": 124781056,
-      "minOSVersion": "17.0",
-      "platform": "iOS",
-      "isBeta": true,
-      "versionDate": "2026-11-20T10:02:09.180Z",
-      "__source": "https://provenance-emu.com/apps.json",
-      "__mirrors": [],
-      "__stores": [
-        "AltStore"
       ]
     },
     {
@@ -1022,137 +1565,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "iCube",
-      "bundleIdentifier": "com.joemattiello.iCube",
-      "developerName": "Provenance Emu",
-      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
-      "localizedDescription": "iCube 1.0.0-beta9-ios Beta 9 for iOS",
-      "iconURL": "https://icube-emu.com/icon-1024.png",
-      "tintColor": "#3B82F6",
-      "category": "games",
-      "screenshots": [
-        "https://icube-emu.com/screenshots/2026-11/iphone/play.jpg",
-        "https://icube-emu.com/screenshots/2026-11/iphone/library.jpg",
-        "https://icube-emu.com/screenshots/2026-11/iphone/trinitron.jpg",
-        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
-        "https://icube-emu.com/screenshots/iphone/search.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
-        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
-        "https://icube-emu.com/screenshots/iphone/shaders.jpg"
-      ],
-      "version": "1.0.0-beta9-ios",
-      "buildVersion": "1.0.0-beta9-ios",
-      "date": "2026-11-20",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/iCube.ipa",
-      "size": 82799373,
-      "minOSVersion": "15.0",
-      "platform": "iOS",
-      "isBeta": true,
-      "betaNumber": 9,
-      "versionDate": "2026-11-20",
-      "__source": "https://provenance-emu.com/apps.json",
-      "__mirrors": [],
-      "__stores": [
-        "AltStore"
-      ],
-      "__hash_duplicates": [
-        {
-          "name": "iCube",
-          "bundleIdentifier": "com.joemattiello.iCube",
-          "version": "1.0.0-beta8-ios"
-        },
-        {
-          "name": "iCube",
-          "bundleIdentifier": "com.joemattiello.iCube",
-          "version": "1.0.0-beta7-ios"
-        }
-      ]
-    },
-    {
-      "name": "iCube",
-      "bundleIdentifier": "com.joemattiello.iCube",
-      "developerName": "Provenance Emu",
-      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
-      "localizedDescription": "iCube 1.0.0-beta8-ios Beta 8 for iOS",
-      "iconURL": "https://icube-emu.com/icon-1024.png",
-      "tintColor": "#3B82F6",
-      "category": "games",
-      "screenshots": [
-        "https://icube-emu.com/screenshots/2026-11/iphone/play.jpg",
-        "https://icube-emu.com/screenshots/2026-11/iphone/library.jpg",
-        "https://icube-emu.com/screenshots/2026-11/iphone/trinitron.jpg",
-        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
-        "https://icube-emu.com/screenshots/iphone/search.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
-        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
-        "https://icube-emu.com/screenshots/iphone/shaders.jpg"
-      ],
-      "version": "1.0.0-beta8-ios",
-      "buildVersion": "1.0.0-beta8-ios",
-      "date": "2026-11-20",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/iCube.ipa",
-      "size": 82893911,
-      "minOSVersion": "15.0",
-      "platform": "iOS",
-      "isBeta": true,
-      "betaNumber": 8,
-      "versionDate": "2026-11-20",
-      "__source": "https://provenance-emu.com/apps.json",
-      "__mirrors": [],
-      "__stores": [
-        "AltStore"
-      ],
-      "__hash_duplicates": [
-        {
-          "name": "iCube",
-          "bundleIdentifier": "com.joemattiello.iCube",
-          "version": "1.0.0-beta9-ios"
-        }
-      ]
-    },
-    {
-      "name": "iCube",
-      "bundleIdentifier": "com.joemattiello.iCube",
-      "developerName": "Provenance Emu",
-      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
-      "localizedDescription": "iCube 1.0.0-beta7-ios Beta 7 for iOS",
-      "iconURL": "https://icube-emu.com/icon-1024.png",
-      "tintColor": "#3B82F6",
-      "category": "games",
-      "screenshots": [
-        "https://icube-emu.com/screenshots/2026-11/iphone/play.jpg",
-        "https://icube-emu.com/screenshots/2026-11/iphone/library.jpg",
-        "https://icube-emu.com/screenshots/2026-11/iphone/trinitron.jpg",
-        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
-        "https://icube-emu.com/screenshots/iphone/search.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
-        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
-        "https://icube-emu.com/screenshots/iphone/shaders.jpg"
-      ],
-      "version": "1.0.0-beta7-ios",
-      "buildVersion": "1.0.0-beta7-ios",
-      "date": "2026-11-20",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/iCube.ipa",
-      "size": 82893502,
-      "minOSVersion": "15.6",
-      "platform": "iOS",
-      "isBeta": true,
-      "betaNumber": 7,
-      "versionDate": "2026-11-20",
-      "__source": "https://provenance-emu.com/apps.json",
-      "__mirrors": [],
-      "__stores": [
-        "AltStore"
-      ],
-      "__hash_duplicates": [
-        {
-          "name": "iCube",
-          "bundleIdentifier": "com.joemattiello.iCube",
-          "version": "1.0.0-beta9-ios"
-        }
       ]
     },
     {
@@ -1403,6 +1815,121 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png",
       "__source": "https://repository.apptesters.org",
       "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "category": "Social",
+      "version": "588.1.0",
+      "size": 256777664,
+      "tintColor": "0c63f9",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e2/c0/fa/e2c0faf7-2613-0ead-3c3a-193d992e3930/f254967c-6ef9-4cc6-b4bf-e89cf016337c_1-iOS-5.5-Home.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6a/d9/9b/6ad99bf8-e769-1fd2-0ac7-f9f0553978a2/c795c58d-ec37-463c-9ab9-ba0b8bc00ddd_2-iOS-5.5-Reels.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/96/e9/f496e921-c05e-ade9-ef3c-c37949d0e6aa/0130e841-7bad-4f8c-83c9-61ea0bac7d7b_3-iOS-5.5-Stories.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a5/c9/20/a5c9207f-2eb4-ccf1-6573-bda3c3e089cb/9b761f68-4cd1-4c66-b5f2-76de4f58005f_4-iOS-5.5-Groups.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e9/40/05/e9400518-1876-dbdd-89aa-a2f88916f117/68c29824-a52c-4766-8aea-0a70c7a2f86f_5-iOS-5.5-Profile.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/b2/5c/40b25ca0-8eee-0e9c-b068-08ec6741908b/28ff37e9-d855-4e6e-a8b4-fb2d585bb9ca_6-iOS-5.5-Marketplace.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/a0/d6/dfa0d6c7-a1a2-873f-953c-4997aab4acbb/691c88f4-f976-46bb-92e1-5f088e8aa47f_7-iOS-5.5-Share.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/50/41/325041cd-f718-ba5b-5c05-3c930a8af80c/d49c0719-9500-4504-8a4c-3124b914bafa_8-iOS-5.5-Search_with_AI.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/29/3e/02293e8a-d565-25b2-2405-31389c8a6e6e/ee650e7b-1eaa-4de6-81a2-0b35dac16446_9-iOS-5.5-Write_with_AI.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f6/b2/32/f6b2327b-e56b-7c4c-b41b-2ee19340e8d5/89fe27f2-ff0a-4a61-a502-73c2bd05da89_10-iOS-5.5-Notifications.png/392x696bb.png"
+      ],
+      "bundleIdentifier": "com.facebook.Facebook",
+      "subtitle": "Facebook with a number of new features!",
+      "beta": false,
+      "versionDescription": "\u2022 Facebook updated to v588.1.0",
+      "versionDate": "2026-11-20",
+      "appPermissions": {
+        "entitlements": [
+          "application-identifier",
+          "aps-environment",
+          "com.apple.accounts.facebook.defaultaccess",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.avfoundation.multitasking-camera-access",
+          "com.apple.developer.declared-age-range",
+          "com.apple.developer.icloud-container-identifiers",
+          "com.apple.developer.icloud-services",
+          "com.apple.developer.in-app-payments",
+          "com.apple.developer.in-app-payments-delegate",
+          "com.apple.developer.kernel.extended-virtual-addressing",
+          "com.apple.developer.kernel.increased-memory-limit",
+          "com.apple.developer.networking.HotspotConfiguration",
+          "com.apple.developer.networking.multicast",
+          "com.apple.developer.networking.wifi-info",
+          "com.apple.developer.nfc.readersession.formats",
+          "com.apple.developer.siri",
+          "com.apple.developer.storekit.request-data",
+          "com.apple.developer.team-identifier",
+          "com.apple.developer.ubiquity-container-identifiers",
+          "com.apple.developer.ubiquity-kvstore-identifier",
+          "com.apple.developer.usernotifications.communication",
+          "com.apple.developer.usernotifications.time-sensitive",
+          "com.apple.security.application-groups",
+          "keychain-access-groups"
+        ],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "Facebook uses access to your media library to do things like help you play music and other audio from your device, and to save audio to your device.",
+          "NSBluetoothAlwaysUsageDescription": "Facebook uses Bluetooth so you can do things like find and connect to devices and cast videos to TV.",
+          "NSBluetoothPeripheralUsageDescription": "Facebook uses Bluetooth so you can do things like find and connect to devices and cast videos to TV.",
+          "NSCalendarsFullAccessUsageDescription": "This will let Facebook sync events you're hosting or attending to your calendar.",
+          "NSCalendarsUsageDescription": "This will let Facebook sync events you're hosting or attending to your calendar.",
+          "NSCameraUsageDescription": "Facebook uses access to your camera to do things like help you take and share photos, record videos, and use visual effects.\n\nYou can always change this in your device settings.",
+          "NSContactsUsageDescription": "Allowing access to your address book helps you see the contacts you can choose to add and helps us provide a better service.",
+          "NSFaceIDUsageDescription": "Enable Face ID for quick and secure authentication on Facebook.",
+          "NSLocalNetworkUsageDescription": "Facebook uses your local network so you can do things like find and connect to devices and cast videos to TV.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Facebook uses this to provide more relevant and personalized experiences, like helping you check-in, find local events and get better ads.",
+          "NSLocationWhenInUseUsageDescription": "Facebook uses this to provide more relevant and personalized experiences, like helping you check-in, find local events and get better ads.",
+          "NSMicrophoneUsageDescription": "Facebook uses access to your microphone to do things like help you record audio, identify songs, search with your voice and use audio effects.\n\nYou can always change this in your device settings.",
+          "NSMotionUsageDescription": "Facebook uses this to provide more relevant and personalized experiences.",
+          "NSPhotoLibraryAddUsageDescription": "Facebook uses access to your photos to do things like help you save images to your device, share and apply visual effects to your photos and videos, and to suggest photos and videos to share.",
+          "NSPhotoLibraryUsageDescription": "Facebook uses access to your photos to do things like help you share and apply visual effects to your photos and videos, and to suggest photos and videos to share.",
+          "NSSiriUsageDescription": "This will let Siri help you look for photos on Facebook",
+          "NSSpeechRecognitionUsageDescription": "Facebook will use speech recognition to detect your confirmation.",
+          "NSUserTrackingUsageDescription": "This helps Facebook personalize ads we show you."
+        }
+      },
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/72/b7/7f72b76a-5865-3da5-8dc3-71a2b75551e9/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "developerName": "Michael Lema",
+      "localizedDescription": "\u2022 Facebook updated to v588.1.0",
+      "name": "Facebook++",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Facebook.v588.1.0.+.iQFace.v1.2.ipa",
+      "date": "2026-11-20",
+      "sha256": "e7d47f2dda5f31d8dc995395a09e00d1a14e099323d3982c7c3078faead96aff",
+      "__source": "https://wuxu1.github.io/wuxu-complete-plus.json",
+      "__mirrors": [
+        "https://wuxu1.github.io/wuxu-complete.json"
+      ],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "TendieMaker",
+      "bundleIdentifier": "com.mikevillarroel.tendiemaker",
+      "developerName": "MikeBuilds",
+      "subtitle": "Make .tendie live wallpapers from your own videos",
+      "localizedDescription": "\u2022 TendieMaker updated to v1.0.11",
+      "iconURL": "https://mikevillarroel.github.io/mikebuilds-source/icons/tendiemaker.png",
+      "tintColor": "fdac03",
+      "category": "photo-video",
+      "beta": false,
+      "screenshotURLs": [],
+      "version": "1.0.11",
+      "versionDate": "2026-11-20",
+      "versionDescription": "\u2022 TendieMaker updated to v1.0.11",
+      "size": 6152820,
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/TendieMaker-1.0.11.ipa",
+      "appPermissions": {
+        "privacy": {}
+      },
+      "date": "2026-11-20",
+      "minOSVersion": "17.0",
+      "__source": "https://wuxu1.github.io/wuxu-complete-plus.json",
+      "__mirrors": [
+        "https://wuxu1.github.io/wuxu-complete.json"
+      ],
       "__stores": [
         "AltStore"
       ]
@@ -2144,7 +2671,7 @@
       "screenshotURLs": [],
       "version": "1.0.10",
       "versionDate": "2026-11-19",
-      "versionDescription": "\u2022 TendieMaker updated to v1.0.10",
+      "versionDescription": "\u2022 TendieMaker updated to v1.0.11",
       "size": 5997865,
       "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/TendieMaker-1.0.10.ipa",
       "appPermissions": {
@@ -2230,7 +2757,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/cooking-diary-restaurant-game/id1214763610",
         "release_date": "2026-11-18T21:44:16Z",
-        "checked_at": "2026-11-20T23:25:35-05:00",
+        "checked_at": "2026-11-21T12:44:15-05:00",
         "track_id": 1214763610,
         "track_name": "Cooking Diary\u00ae Restaurant Game"
       },
@@ -2439,7 +2966,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/sea-battle-2/id913173849",
         "release_date": "2026-11-20T18:46:15Z",
-        "checked_at": "2026-11-20T23:25:35-05:00",
+        "checked_at": "2026-11-21T12:44:15-05:00",
         "track_id": 913173849,
         "track_name": "Sea Battle 2"
       },
@@ -2523,7 +3050,7 @@
         "is_paid": false,
         "store_url": null,
         "release_date": null,
-        "checked_at": "2026-11-20T23:25:35-05:00"
+        "checked_at": "2026-11-21T12:44:17-05:00"
       },
       "buildVersion": "1",
       "date": "2026-11-18T10:08:49-05:00",
@@ -2608,7 +3135,7 @@
         "is_paid": true,
         "store_url": "https://apps.apple.com/us/app/minecraft-play-with-friends/id479516143",
         "release_date": "2026-11-04T20:19:36Z",
-        "checked_at": "2026-11-20T23:25:35-05:00",
+        "checked_at": "2026-11-21T12:44:16-05:00",
         "track_id": 479516143,
         "track_name": "Minecraft: Play with Friends!"
       },
@@ -2696,7 +3223,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/youtube/id544007664",
         "release_date": "2026-11-15T17:07:14Z",
-        "checked_at": "2026-11-20T23:25:35-05:00",
+        "checked_at": "2026-11-21T12:44:17-05:00",
         "track_id": 544007664,
         "track_name": "YouTube"
       },
@@ -2786,7 +3313,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/tiktok-videos-shop-live/id835599320",
         "release_date": "2026-11-17T00:47:45Z",
-        "checked_at": "2026-11-20T23:25:35-05:00",
+        "checked_at": "2026-11-21T12:44:15-05:00",
         "track_id": 835599320,
         "track_name": "TikTok - Videos, Shop & LIVE"
       },
@@ -2874,7 +3401,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/roblox/id431946152",
         "release_date": "2026-11-18T17:48:51Z",
-        "checked_at": "2026-11-20T23:25:35-05:00",
+        "checked_at": "2026-11-21T12:44:16-05:00",
         "track_id": 431946152,
         "track_name": "Roblox"
       },
@@ -3558,7 +4085,7 @@
       "bundleIdentifier": "com.facebook.Facebook",
       "subtitle": "Facebook with a number of new features!",
       "beta": false,
-      "versionDescription": "\u2022 Facebook updated to v588.0.0\n\u2022 iQFace updated to v1.2",
+      "versionDescription": "\u2022 Facebook updated to v588.1.0",
       "versionDate": "2026-11-18",
       "appPermissions": {
         "entitlements": [
@@ -3701,7 +4228,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580",
         "release_date": "2026-11-20T07:17:17Z",
-        "checked_at": "2026-11-20T23:25:35-05:00",
+        "checked_at": "2026-11-21T12:44:15-05:00",
         "track_id": 324684580,
         "track_name": "Spotify: Music and Podcasts"
       },
@@ -3776,7 +4303,7 @@
         "is_paid": true,
         "store_url": "https://apps.apple.com/us/app/terraria/id640364616",
         "release_date": "2026-09-17T15:05:10Z",
-        "checked_at": "2026-11-20T23:25:35-05:00",
+        "checked_at": "2026-11-21T12:44:16-05:00",
         "track_id": 640364616,
         "track_name": "Terraria"
       },
@@ -4092,7 +4619,7 @@
       "fullDate": "20261117113420",
       "size": 66534704,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/FindAir_2026.11.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/FindAir_2026.11.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/FindAir_2026.11.4_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.finderbot.png",
@@ -4113,7 +4640,7 @@
       "fullDate": "20261117112744",
       "size": 67275671,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/CalculatorAir_2026.11.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/CalculatorAir_2026.11.4_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/CalculatorAir_2026.11.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.CalculatorForiPad.InternetRocks.png",
@@ -4418,7 +4945,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/my-dear-farm/id6668861713",
         "release_date": "2026-11-10T15:58:20Z",
-        "checked_at": "2026-11-20T23:25:35-05:00",
+        "checked_at": "2026-11-21T12:44:16-05:00",
         "track_id": 6668861713,
         "track_name": "My Dear Farm+"
       },
@@ -4491,7 +5018,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/stardew-valley/id6449264810",
         "release_date": "2025-06-05T16:38:30Z",
-        "checked_at": "2026-11-20T23:25:35-05:00",
+        "checked_at": "2026-11-21T12:44:16-05:00",
         "track_id": 6449264810,
         "track_name": "Stardew Valley+"
       },
@@ -4564,7 +5091,7 @@
         "is_paid": true,
         "store_url": "https://apps.apple.com/us/app/stardew-valley/id1406710800",
         "release_date": "2026-03-19T00:31:54Z",
-        "checked_at": "2026-11-20T23:25:35-05:00",
+        "checked_at": "2026-11-21T12:44:16-05:00",
         "track_id": 1406710800,
         "track_name": "Stardew Valley"
       },
@@ -4639,7 +5166,7 @@
         "is_paid": true,
         "store_url": "https://apps.apple.com/us/app/getting-over-it/id1319618742",
         "release_date": "2021-07-26T14:27:13Z",
-        "checked_at": "2026-11-20T23:25:35-05:00",
+        "checked_at": "2026-11-21T12:44:16-05:00",
         "track_id": 1319618742,
         "track_name": "Getting Over It"
       },
@@ -4719,7 +5246,7 @@
         "is_paid": true,
         "store_url": "https://apps.apple.com/us/app/shadowrocket/id932747118",
         "release_date": "2026-10-29T03:15:39Z",
-        "checked_at": "2026-11-20T23:25:35-05:00",
+        "checked_at": "2026-11-21T12:44:17-05:00",
         "track_id": 932747118,
         "track_name": "Shadowrocket"
       },
@@ -4797,7 +5324,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/brain-test-tricky-puzzles/id1486214495",
         "release_date": "2026-11-19T09:24:36Z",
-        "checked_at": "2026-11-20T23:25:35-05:00",
+        "checked_at": "2026-11-21T12:44:17-05:00",
         "track_id": 1486214495,
         "track_name": "Brain Test: Tricky Puzzles"
       },
@@ -4887,7 +5414,7 @@
         "is_paid": true,
         "store_url": "https://apps.apple.com/us/app/alpin-quest-pro-outdoor-gps/id6760764479",
         "release_date": "2026-11-20T00:48:45Z",
-        "checked_at": "2026-11-20T23:25:35-05:00",
+        "checked_at": "2026-11-21T12:44:17-05:00",
         "track_id": 6760764479,
         "track_name": "Alpin Quest PRO \u2013 Outdoor GPS"
       },
@@ -5600,7 +6127,7 @@
       "fullDate": "20261115212326",
       "size": 8630531,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-11-2026/NFCTools_3.6_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/NFCTools_3.6_Pro_@thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-11-2026/NFCTools_3.6_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wakdev.wdnfc.png",
@@ -9418,7 +9945,7 @@
       "bundleIdentifier": "com.facebook.Facebook",
       "subtitle": "Facebook with a number of new features!",
       "beta": false,
-      "versionDescription": "\u2022 Facebook updated to v588.0.0\n\u2022 iQFace updated to v1.2",
+      "versionDescription": "\u2022 Facebook updated to v588.1.0",
       "versionDate": "2026-11-10",
       "appPermissions": {
         "entitlements": [
@@ -13689,7 +14216,7 @@
       "bundleIdentifier": "com.facebook.Facebook",
       "subtitle": "Facebook with a number of new features!",
       "beta": false,
-      "versionDescription": "\u2022 Facebook updated to v588.0.0\n\u2022 iQFace updated to v1.2",
+      "versionDescription": "\u2022 Facebook updated to v588.1.0",
       "versionDate": "2026-11-04",
       "appPermissions": {
         "entitlements": [
@@ -14348,7 +14875,7 @@
       "fullDate": "20261103064703",
       "size": 5817381,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/Compress_3.5_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/Compress_3.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/Compress_3.5_Premium_@thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.newmarketinglab.ImageCompressor.png",
@@ -15827,7 +16354,7 @@
       "screenshotURLs": [],
       "version": "1.0.9",
       "versionDate": "2026-11-02",
-      "versionDescription": "\u2022 TendieMaker updated to v1.0.10",
+      "versionDescription": "\u2022 TendieMaker updated to v1.0.11",
       "size": 3697748,
       "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/TendieMaker.v1.0.9.ipa",
       "appPermissions": {
@@ -15859,7 +16386,7 @@
       "versionDate": "2026-11-02",
       "versionDescription": "Effect presets (Soft/Medium/Strong pills for Depth shadow and 3D border); tighter 3D frame and smaller shadows.",
       "size": 889664,
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/Layers.v1.0.5.ipa",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Layers.v1.0.5.ipa",
       "appPermissions": {
         "privacy": {
           "NSPhotoLibraryAddUsageDescription": "Layers saves your finished wallpaper to Photos so you can set it as your Home Screen wallpaper."
@@ -18555,7 +19082,7 @@
       "bundleIdentifier": "com.facebook.Facebook",
       "subtitle": "Facebook with a number of new features!",
       "beta": false,
-      "versionDescription": "\u2022 Facebook updated to v588.0.0\n\u2022 iQFace updated to v1.2",
+      "versionDescription": "\u2022 Facebook updated to v588.1.0",
       "versionDate": "2026-10-28",
       "appPermissions": {
         "entitlements": [
@@ -21855,7 +22382,7 @@
       "bundleIdentifier": "com.facebook.Facebook",
       "subtitle": "Facebook with a number of new features!",
       "beta": false,
-      "versionDescription": "\u2022 Facebook updated to v588.0.0\n\u2022 iQFace updated to v1.2",
+      "versionDescription": "\u2022 Facebook updated to v588.1.0",
       "versionDate": "2026-10-23",
       "appPermissions": {
         "entitlements": [
@@ -26653,7 +27180,7 @@
       "bundleIdentifier": "com.facebook.Facebook",
       "subtitle": "Facebook with a number of new features!",
       "beta": false,
-      "versionDescription": "\u2022 Facebook updated to v588.0.0\n\u2022 iQFace updated to v1.2",
+      "versionDescription": "\u2022 Facebook updated to v588.1.0",
       "versionDate": "2026-10-19",
       "appPermissions": {
         "entitlements": [
@@ -208022,7 +208549,7 @@
       "bundleIdentifier": "com.facebook.Facebook",
       "subtitle": "Facebook with a number of new features!",
       "beta": false,
-      "versionDescription": "\u2022 Facebook updated to v588.0.0\n\u2022 iQFace updated to v1.2",
+      "versionDescription": "\u2022 Facebook updated to v588.1.0",
       "versionDate": "2025-10-04",
       "appPermissions": {
         "entitlements": [
@@ -241744,7 +242271,7 @@
       "bundleIdentifier": "com.facebook.Facebook",
       "subtitle": "Facebook with a number of new features!",
       "beta": false,
-      "versionDescription": "\u2022 Facebook updated to v588.0.0\n\u2022 iQFace updated to v1.2",
+      "versionDescription": "\u2022 Facebook updated to v588.1.0",
       "versionDate": "2025-03-04",
       "appPermissions": {
         "entitlements": [
@@ -242403,7 +242930,7 @@
       "version": "1.6",
       "versionDate": "2025-02-22T21:37:29-05:00",
       "versionDescription": "Added new animation!",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/Countdown.ipa",
+      "downloadURL": "https://github.com/neoarz/Countdown-App/releases/download/1.6/Countdown.ipa",
       "localizedDescription": "Added new animation!",
       "iconURL": "https://github.com/neoarz/Countdown-App/raw/main/Assets/CountdownLogo.jpg",
       "tintColor": "000",
@@ -248144,7 +248671,7 @@
       "version": "3.0.0",
       "versionDate": "2024-12-16T07:00:00Z",
       "versionDescription": "LiveContainer 3.8.0\r \n> [!Warning]\r\n> The standalone version requires SideStore 0.6.2+ or AltStore 2.2.1+ for installation.\r\n> To install LiveContainer with built-in SideStore (\"LiveContainer+SideStore.ipa\"), please use [Impactor](https://github.com/khcrysalis/Impactor) or [iloader](https://github.com/nab138/iloader). See [our installation guide](https://livecontainer.github.io/docs/installation/lc_sidestore) for details.\r \nNew Features\r \nStorage Management\r \n\u2022 Added a new storage management view with a breakdown of app bundles, containers, temporary files, app group data, tweaks, and other files. (Hidden apps' size is included in \"other\" section until unlocked)\r\n\u2022 Added per-app storage details, including app bundle size, container sizes, and last-used date.\r\n\u2022 Added actions to clean temporary files and caches, including guest app caches and LiveContainer's own caches.\r \nMultiple LiveContainers\r\n\u2022 Added configurable launch priority for multiple LiveContainer instances, making shared-app shortcuts choose available instances in the order you prefer. (1367)\r \nShare to Apps in LiveContainer\r\nAdded a share extension to LiveContainer. When you share a URL or a file from iOS's share sheet, LiveContainer will ask which app you would like to open the URL/file in, so the old share to LiveContainer shortcut method is no longer needed. When an ipa file is shared in this way, LiveContainer will ask if you want to install it in LiveContainer or in the built-in SideStore (if installed) (1357)\r \nMultitasking\r \n\u2022 Added per-app multitask preferences. Each app can now follow the global setting, always launch in multitask mode, or avoid multitask mode. (1208)\r\n\u2022 Improved multitask dock behavior: the dock can be made smaller, hidden more cleanly, and has improved padding. (1228, 1250)\r\n\u2022 Added more multitask window animations and improved native-window scene handling.\r\n\u2022 URL schemes and \"open-url\" payloads can be passed to already-running multitask apps and native windows.\r \nJIT\r\n\u2022 Added StosDebug support as a JIT enabler.\r \nTweakLoader\r\nYou can now disable tweaks in the \"Tweaks\" page in LiveContainer's UI. by @SAOMDVN\r \nImprovements\r\n\u2022 Added support for manually setting a container's IDFV. (1194)\r\n\u2022 IDFV spoofing works even when Tweakloader is not loaded.\r\n\u2022 Reworked signing logic for tweaks and app installation, with multithreaded signing support.\r\n\u2022 Download alerts now block tab switching while a download is in progress.\r\n\u2022 Crash reports are shown in a sheet instead of a large alert for better performance on newer iOS versions.\r\n\u2022 Add a \"Clear Notification\" button (1388)\r\n\u2022 Added some popular NSBonjourServices keys so apps can discover AirPlay devices and remote pairing pairable hosts in the local network. (1417)\r \nBug Fixes\r \n\u2022 Fixed \"livecontainer://open-url\" dropping the deep link when launching an app from a cold start. (1339)\r\n\u2022 Fixed the Add to Home Screen menu failing or behaving incorrectly by replacing the SwiftUI context menu implementation. (1209)\r\n\u2022 Fixed a crash when opening Container Preferences if the app did not contain an \"en.lproj\" path. (1239)\r\n\u2022 Fixed apps and AltStore sources not being searchable in some cases. (1365, 1368)\r\n\u2022 Fixed converting a shared app back to private after aborting an install with the same bundle identifier, which could leave stale container state behind. (1347)\r\n\u2022 Fixed shortcuts and JIT flows getting stuck on a busy LiveContainer instance instead of using another available instance. (1386)\r\n\u2022 Fixed file picker not workings for some apps because Tweakloader is not loaded after enabling \"Hide LiveContainer from dyld API\". (1430)\r\n\u2022 Fixed several app launch compatibility issues on iOS 26.5 beta, and some multitask/JIT app launches. (1300, 1310, 1329)\r\n\u2022 Fixed multitask keyboard focus issues on iOS 17.4+, including cases where the keyboard would not appear, Passwords would immediately close, or video playback would freeze in multitask mode. (1402, 844, 870)\r\n\u2022 Added support for iOS 27 developer beta. (1394, 1417, 1416)\r\n\u2022 Fix background downloads in multitask apps (choosing \"Keep App Extensions (Register App ID for Each Extension)\" is required). (1415)\r \nLocalization\r \n\u2022 Updated translations. Added Spanish translation by @Deci8BelioS\r \nCredits\r \nThanks to everyone who contributed code, fixes, testing, and reports for this release, including @boa-z, @ruri1208, @Project516, @yazdipour, @stossy11, and @SAOMDVN.\r \nGreat thanks to everyone who helped translate LiveContainer.",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/com.kdt.livecontainer_3.0.0.ipa",
+      "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/3.0.0/com.kdt.livecontainer_3.0.0.ipa",
       "localizedDescription": "Features\r\niOS 18.2+ Support\r \nSwiftUI rewrite (153)\r\nLiveContainer now has a AltStore-like UI. \r\n\u2022 Main page is colorful now (192) by @slds1 \r\n\u2022 SideJITServer/JITStreamer 2.0 support\r\n\u2022 AltStore support\r\n\u2022 New JITLess mode that patch your store, so no jitless renew is required\r\n\u2022 Locking(164) apps by @fkunn1326 & hiding apps\r \nMultiple LiveContainer (153)\r\nNow you can install 2 LiveContainers to run 2 apps at the same time. App and their data, Keychains and most preferences can be shared between these two. If user open an app via URL Scheme or from My Apps screen, the LiveContainer that last ran that app will be switched to.\r \nBetter Open in App Support (153)\r\nIt turns out that some apps don't rely on URL Schemes and use Universal Links instead. In this update, the web page's \"apple-app-site-association\" will be checked and LiveContainer will launch app based on it.\r \nLocalization (153)\r\nLocalization is now supported. You can add a language in LiveContainerSwiftUI project and add your translation in \"Localizable.xcstrings\", then submit your translation as PR. We may consider adding something like a Crowdin page if it\u2019s large enough (?)\r \nDedicated AltStore/SideStore source (156)\r \nFixes\r\niOS file picker issue (153): 68, 123, 142\r \nDuplicated Flutter-based app bundle name (153): 112\r\n",
       "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/AppIcon1024.png",
       "tintColor": "#0784FC",
@@ -249214,7 +249741,7 @@
       "version": "1.12.1.",
       "versionDate": "2024-11-14",
       "size": 162585,
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/TrollSpeed-1.12.1.tipa",
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-14-2024/TrollSpeed-1.12.1.tipa",
       "developerName": "Lessica",
       "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 06-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png",
@@ -255820,7 +256347,7 @@
       "version": "1.2.1",
       "versionDate": "2024-10-14",
       "size": 76865,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollLEDs/TrollLEDs-1.2.1.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/TrollLEDs-1.2.1.ipa",
       "developerName": "PoomSmart",
       "localizedDescription": "Control individual flashlight LEDs. Note: Refer to the original GitHub repository to find the list of supported devices.\nLast updated: 02-04-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.ps.TrollLEDs.png",
@@ -279855,26 +280382,6 @@
       ]
     },
     {
-      "name": "ESign",
-      "bundleIdentifier": "p3.xyz.yyyue.esign",
-      "version": "5.0.2",
-      "versionDate": "2024-09-29",
-      "size": 7522792,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ESign/ESign-5.0.2.ipa",
-      "developerName": "CyPwn IPA Library / AppDB",
-      "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-28-2024\nStatus: \u2705",
-      "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png",
-      "__source": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps_esign.json",
-      "__mirrors": [
-        "https://wuxu1.github.io/wuxu-complete-plus.json",
-        "https://wuxu1.github.io/wuxu-complete.json"
-      ],
-      "__stores": [
-        "ESign",
-        "AltStore"
-      ]
-    },
-    {
       "name": "DuolingoMax",
       "bundleIdentifier": "com.duolingo.DuolingoMobile",
       "version": "7.23.0",
@@ -285944,7 +286451,7 @@
       "bundleIdentifier": "com.facebook.Facebook",
       "subtitle": "Facebook with a number of new features!",
       "beta": false,
-      "versionDescription": "\u2022 Facebook updated to v588.0.0\n\u2022 iQFace updated to v1.2",
+      "versionDescription": "\u2022 Facebook updated to v588.1.0",
       "versionDate": "2024-04-30",
       "appPermissions": {
         "entitlements": [
@@ -288679,7 +289186,7 @@
       "bundleIdentifier": "com.facebook.Facebook",
       "subtitle": "Facebook with a number of new features!",
       "beta": false,
-      "versionDescription": "\u2022 Facebook updated to v588.0.0\n\u2022 iQFace updated to v1.2",
+      "versionDescription": "\u2022 Facebook updated to v588.1.0",
       "versionDate": "2024-01-07",
       "appPermissions": {
         "entitlements": [
@@ -291824,7 +292331,7 @@
       "bundleIdentifier": "com.facebook.Facebook",
       "subtitle": "Facebook with a number of new features!",
       "beta": false,
-      "versionDescription": "\u2022 Facebook updated to v588.0.0\n\u2022 iQFace updated to v1.2",
+      "versionDescription": "\u2022 Facebook updated to v588.1.0",
       "versionDate": "2023-10-19",
       "appPermissions": {
         "entitlements": [

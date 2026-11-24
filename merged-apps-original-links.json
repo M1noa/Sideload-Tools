@@ -4,9 +4,72 @@
   "subtitle": "Auto-merged from 43 AltStore/ESign sources. Original download URLs preserved.",
   "description": "Deduplicates by (name, bundleIdentifier, version). __source is the first source; __mirrors lists additional sources.",
   "iconURL": "https://avatars.githubusercontent.com/u/57844837",
-  "appCount": 13909,
+  "appCount": 13937,
   "sourceCount": 43,
   "apps": [
+    {
+      "name": "Notability",
+      "type": 1,
+      "bundleID": "com.gingerlabs.Notability",
+      "bundleIdentifier": "com.gingerlabs.Notability",
+      "version": "16.14.1",
+      "versionDate": "2026-11-25",
+      "fullDate": "20261125020754",
+      "size": 302658904,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2026/Notability_16.14.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2026/Notability_16.14.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gingerlabs.Notability.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gingerlabs.Notability.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "QrCode",
+      "type": 1,
+      "bundleID": "com.internet-rocks.codescanner",
+      "bundleIdentifier": "com.internet-rocks.codescanner",
+      "version": "2026.11.10",
+      "versionDate": "2026-11-25",
+      "fullDate": "20261125020041",
+      "size": 61656635,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2026/QrCode_2026.11.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2026/QrCode_2026.11.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Rest",
+      "type": 1,
+      "bundleID": "com.evolve.helm",
+      "bundleIdentifier": "com.evolve.helm",
+      "version": "3.212.0",
+      "versionDate": "2026-11-25",
+      "fullDate": "20261125001707",
+      "size": 133482552,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2026/Rest_3.212.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2026/Rest_3.212.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.evolve.helm.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.evolve.helm.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
     {
       "name": "iCube",
       "bundleIdentifier": "com.joemattiello.iCube",
@@ -27,14 +90,14 @@
         "https://icube-emu.com/screenshots/iphone/shaders.jpg"
       ],
       "version": "1.0.0",
-      "buildVersion": "560",
-      "date": "2026-11-24T04:11:50.257Z",
-      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-560/Non-Jailbroken.ipa",
-      "size": 124825577,
+      "buildVersion": "572",
+      "date": "2026-11-24T10:16:17.524Z",
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-572/Non-Jailbroken.ipa",
+      "size": 125003184,
       "minOSVersion": "17.0",
       "platform": "iOS",
       "isBeta": true,
-      "versionDate": "2026-11-24T04:11:50.257Z",
+      "versionDate": "2026-11-24T10:16:17.524Z",
       "__source": "https://provenance-emu.com/apps.json",
       "__mirrors": [],
       "__stores": [
@@ -42,11 +105,483 @@
       ]
     },
     {
+      "name": "Ryukgram (Hacked)",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "ryukgram team",
+      "subtitle": "Features: General Hide ads and Meta AI Hide the TestFlight popup and turn off app haptics Always mute keeps ev",
+      "localizedDescription": "Ryukgram (Hacked) v456.0.0 (366.40 MB) \u2014 Sidelix App Store release.",
+      "iconURL": "https://apps.nabzclan.vip/images/1795512720_5133.webp",
+      "tintColor": "#2ecc71",
+      "category": "utilities",
+      "screenshots": [
+        "https://apps.nabzclan.vip/screenshots/17955127208217274.webp",
+        "https://apps.nabzclan.vip/screenshots/17955127201789916.webp",
+        "https://apps.nabzclan.vip/screenshots/17955127203907003.webp",
+        "https://apps.nabzclan.vip/screenshots/17955127215243368.webp",
+        "https://apps.nabzclan.vip/screenshots/17955127213792017.webp",
+        "https://apps.nabzclan.vip/screenshots/17955127213173423.webp",
+        "https://apps.nabzclan.vip/screenshots/17955127212055975.webp"
+      ],
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17955127208217274.webp",
+        "https://apps.nabzclan.vip/screenshots/17955127201789916.webp",
+        "https://apps.nabzclan.vip/screenshots/17955127203907003.webp",
+        "https://apps.nabzclan.vip/screenshots/17955127215243368.webp",
+        "https://apps.nabzclan.vip/screenshots/17955127213792017.webp",
+        "https://apps.nabzclan.vip/screenshots/17955127213173423.webp",
+        "https://apps.nabzclan.vip/screenshots/17955127212055975.webp"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "Instagram uses this to connect your Apple Music account so you can add music to your content.",
+          "NSBluetoothAlwaysUsageDescription": "This allows your phone to find and connect to the glasses using a Bluetooth connection.",
+          "NSCalendarsUsageDescription": "This will let Instagram sync events to your calendar.",
+          "NSCalendarsWriteOnlyAccessUsageDescription": "This will let Instagram sync events to your calendar.",
+          "NSCameraUsageDescription": "Instagram uses your device's camera to do things like help you take photos, record videos and use effects.",
+          "NSContactsUsageDescription": "Instagram will use your contacts to suggest people and things you care about, and offer a better service. Your contacts will be periodically synced and securely stored on Instagram\u2019s servers.",
+          "NSFaceIDUsageDescription": "Enable Face ID for quick and secure authentication on Instagram.",
+          "NSFocusStatusUsageDescription": "This allows Instagram to check to see if you\u2019ve been missing notifications from friends. You can always change this later in settings.",
+          "NSLocalNetworkUsageDescription": "Used to discover and connect to compatible streaming devices on your Wi-Fi network.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
+          "NSLocationUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
+          "NSLocationWhenInUseUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
+          "NSMicrophoneUsageDescription": "Instagram uses your device's microphone to do things like help you record videos and preview audio effects.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your Camera Roll.",
+          "NSPhotoLibraryUsageDescription": "Instagram uses access to your camera roll to do things like help you share photos and videos to Instagram, apply effects and suggest photos and videos to share.",
+          "NSSpeechRecognitionUsageDescription": "Instagram uses speech recognition to turn what you say into text, so you can speak a message instead of typing it.",
+          "NSUserTrackingUsageDescription": "This helps Instagram personalize ads we show you."
+        }
+      },
+      "version": "456.0.0",
+      "versionDate": "2026-11-24T04:32:00-05:00",
+      "versionDescription": "Ryukgram (Hacked) v456.0.0 (366.40 MB) \u2014 Sidelix App Store release.",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/174/app_23_nabzclan_sidelix.ipa",
+      "size": 384199752,
+      "type": 1,
+      "badges": [
+        {
+          "key": "needs_update",
+          "label": "Needs Update (v457.0.0)",
+          "color": "#f39c12",
+          "icon": "arrow.triangle.2.circlepath"
+        },
+        {
+          "key": "free",
+          "label": "Free",
+          "color": "#27ae60",
+          "icon": "checkmark.circle.fill"
+        },
+        {
+          "key": "sidelix_verified",
+          "label": "Sidelix Verified",
+          "color": "#16a085",
+          "icon": "shield.lefthalf.filled"
+        }
+      ],
+      "latest_appstore_app": {
+        "checked": true,
+        "found": true,
+        "bundleIdentifier": "com.burbn.instagram",
+        "latest_version": "457.0.0",
+        "repo_version": "456.0.0",
+        "up_to_date": false,
+        "update_available": true,
+        "status": "update_available",
+        "price": "Free",
+        "is_paid": false,
+        "store_url": "https://apps.apple.com/us/app/instagram/id389801252",
+        "release_date": "2026-11-23T13:20:47Z",
+        "checked_at": "2026-11-24T14:24:20-05:00",
+        "track_id": 389801252,
+        "track_name": "Instagram"
+      },
+      "vipOnly": false,
+      "vipMinTier": 0,
+      "freeAccess": false,
+      "disableGuest": false,
+      "disableGuestAds": false,
+      "disableAdCode": false,
+      "popupAccess": {
+        "vipOnly": false,
+        "vipMinTier": 0,
+        "freeAccess": false,
+        "freeAccessMessage": null,
+        "disableGuest": false,
+        "disableGuestAds": false,
+        "disableAdCode": false,
+        "vipMessage": null
+      },
+      "buildVersion": "1114925422",
+      "date": "2026-11-24T04:32:00-05:00",
+      "minOSVersion": "16.3",
+      "__source": "https://apps.nabzclan.vip/repos/esign.php",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
+      ]
+    },
+    {
+      "name": "Minecraft (Free Paid)",
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "developerName": "NabzClan",
+      "subtitle": "Dive into an open world of building, crafting and survival. Gather resources, survive the night, and build wha",
+      "localizedDescription": "Minecraft (Free Paid) v1.26.62 (665.55 MB) \u2014 Sidelix App Store release.",
+      "iconURL": "https://apps.nabzclan.vip/images/1795512712_9851.webp",
+      "tintColor": "#2ecc71",
+      "category": "utilities",
+      "screenshots": [
+        "https://apps.nabzclan.vip/screenshots/17955127126582492.webp",
+        "https://apps.nabzclan.vip/screenshots/17955127128405932.webp",
+        "https://apps.nabzclan.vip/screenshots/17955127129489162.webp",
+        "https://apps.nabzclan.vip/screenshots/17955127122751880.webp",
+        "https://apps.nabzclan.vip/screenshots/17955127129780776.webp",
+        "https://apps.nabzclan.vip/screenshots/17955127136565646.webp",
+        "https://apps.nabzclan.vip/screenshots/17955127137852161.webp"
+      ],
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17955127126582492.webp",
+        "https://apps.nabzclan.vip/screenshots/17955127128405932.webp",
+        "https://apps.nabzclan.vip/screenshots/17955127129489162.webp",
+        "https://apps.nabzclan.vip/screenshots/17955127122751880.webp",
+        "https://apps.nabzclan.vip/screenshots/17955127129780776.webp",
+        "https://apps.nabzclan.vip/screenshots/17955127136565646.webp",
+        "https://apps.nabzclan.vip/screenshots/17955127137852161.webp"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Used for Live Broadcast",
+          "NSContactsUsageDescription": "When you use the Xbox Live Friend Finder, it will access your contacts to help you find your friends.",
+          "NSLocalNetworkUsageDescription": "Minecraft wants to access your local network. This allows you and others on your local network to play together. Declining this permission does not affect online features or gameplay. But will prevent you and others, on the same network, from playing together.",
+          "NSMicrophoneUsageDescription": "Used for Live Broadcast",
+          "NSPhotoLibraryAddUsageDescription": "Used to read and write Minecraft images.",
+          "NSPhotoLibraryUsageDescription": "Used to read and write Minecraft images.",
+          "NSUserTrackingUsageDescription": "Your data will be used to track advertising efficiency."
+        }
+      },
+      "version": "1.26.62",
+      "versionDate": "2026-11-24T04:31:52-05:00",
+      "versionDescription": "Minecraft (Free Paid) v1.26.62 (665.55 MB) \u2014 Sidelix App Store release.",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/9/app_9_nabzclan_sidelix.ipa",
+      "size": 697876878,
+      "type": 1,
+      "badges": [
+        {
+          "key": "needs_update",
+          "label": "Needs Update (v26.62)",
+          "color": "#f39c12",
+          "icon": "arrow.triangle.2.circlepath"
+        },
+        {
+          "key": "paid_free",
+          "label": "Paid ($6.99) Free",
+          "color": "#e74c3c",
+          "icon": "gift.fill"
+        },
+        {
+          "key": "featured",
+          "label": "Featured",
+          "color": "#3498db",
+          "icon": "star.fill"
+        },
+        {
+          "key": "no_guest",
+          "label": "Account Required \u00b7 No Guest",
+          "color": "#6366f1",
+          "icon": "person.crop.circle.badge.xmark"
+        },
+        {
+          "key": "no_adcode",
+          "label": "No AdCode Required",
+          "color": "#10b981",
+          "icon": "bolt.fill"
+        },
+        {
+          "key": "sidelix_verified",
+          "label": "Sidelix Verified",
+          "color": "#16a085",
+          "icon": "shield.lefthalf.filled"
+        }
+      ],
+      "latest_appstore_app": {
+        "checked": true,
+        "found": true,
+        "bundleIdentifier": "com.mojang.minecraftpe",
+        "latest_version": "26.62",
+        "repo_version": "1.26.62",
+        "up_to_date": false,
+        "update_available": true,
+        "status": "update_available",
+        "price": "$6.99",
+        "is_paid": true,
+        "store_url": "https://apps.apple.com/us/app/minecraft-play-with-friends/id479516143",
+        "release_date": "2026-11-04T20:19:36Z",
+        "checked_at": "2026-11-24T14:24:21-05:00",
+        "track_id": 479516143,
+        "track_name": "Minecraft: Play with Friends!"
+      },
+      "vipOnly": false,
+      "vipMinTier": 0,
+      "freeAccess": false,
+      "disableGuest": true,
+      "disableGuestAds": false,
+      "disableAdCode": true,
+      "popupAccess": {
+        "vipOnly": false,
+        "vipMinTier": 0,
+        "freeAccess": false,
+        "freeAccessMessage": null,
+        "disableGuest": true,
+        "disableGuestAds": false,
+        "disableAdCode": true,
+        "vipMessage": null
+      },
+      "bannerURL": "https://apps.nabzclan.vip/images/sliders/1794965786_8565.webp",
+      "buildVersion": "1.26.62.01",
+      "date": "2026-11-24T04:31:52-05:00",
+      "minOSVersion": "15.0",
+      "__source": "https://apps.nabzclan.vip/repos/esign.php",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
+      ]
+    },
+    {
+      "name": "Spotify - Eevee (Hacked)",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "jaydenjcpy",
+      "subtitle": "This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife,",
+      "localizedDescription": "Spotify - Eevee (Hacked) v9.2.0 (145.13 MB) \u2014 Sidelix App Store release.",
+      "iconURL": "https://apps.nabzclan.vip/images/1795512350_8880.webp",
+      "tintColor": "#2ecc71",
+      "category": "utilities",
+      "screenshots": [
+        "https://apps.nabzclan.vip/screenshots/17955123501829623.webp",
+        "https://apps.nabzclan.vip/screenshots/17955123506073690.webp",
+        "https://apps.nabzclan.vip/screenshots/17955123509448344.webp",
+        "https://apps.nabzclan.vip/screenshots/17955123502703160.webp",
+        "https://apps.nabzclan.vip/screenshots/17955123509042620.webp",
+        "https://apps.nabzclan.vip/screenshots/17955123508780913.webp",
+        "https://apps.nabzclan.vip/screenshots/17955123509077474.webp"
+      ],
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17955123501829623.webp",
+        "https://apps.nabzclan.vip/screenshots/17955123506073690.webp",
+        "https://apps.nabzclan.vip/screenshots/17955123509448344.webp",
+        "https://apps.nabzclan.vip/screenshots/17955123502703160.webp",
+        "https://apps.nabzclan.vip/screenshots/17955123509042620.webp",
+        "https://apps.nabzclan.vip/screenshots/17955123508780913.webp",
+        "https://apps.nabzclan.vip/screenshots/17955123509077474.webp"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "This will let you play your imported music on Spotify.",
+          "NSBluetoothAlwaysUsageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth.",
+          "NSCalendarsUsageDescription": "This lets Spotify view and add events to your calendar.",
+          "NSCalendarsWriteOnlyAccessUsageDescription": "This lets Spotify add events to your calendar.",
+          "NSCameraUsageDescription": "This lets you use your camera to scan or upload images.",
+          "NSContactsUsageDescription": "This lets Spotify access calendars you may have shared with your contacts.",
+          "NSFaceIDUsageDescription": "This lets you set access restrictions using Face ID.",
+          "NSHealthShareUsageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
+          "NSHealthUpdateUsageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
+          "NSLocalNetworkUsageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files.",
+          "NSLocationWhenInUseUsageDescription": "Your location is used to improve your recommendations and experience on Spotify.",
+          "NSMicrophoneUsageDescription": "This lets you control Spotify using your voice.",
+          "NSMotionUsageDescription": "We will use this to understand which audio motivates you most.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you save images to your Photo Library.",
+          "NSPhotoLibraryUsageDescription": "This lets you select images from your Photo Library.",
+          "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads or content to you."
+        }
+      },
+      "version": "9.2.0",
+      "versionDate": "2026-11-24T04:25:50-05:00",
+      "versionDescription": "Spotify - Eevee (Hacked) v9.2.0 (145.13 MB) \u2014 Sidelix App Store release.",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/18/app_18_nabzclan_sidelix.ipa",
+      "size": 152174838,
+      "type": 1,
+      "badges": [
+        {
+          "key": "needs_update",
+          "label": "Needs Update (v9.2.2)",
+          "color": "#f39c12",
+          "icon": "arrow.triangle.2.circlepath"
+        },
+        {
+          "key": "free",
+          "label": "Free",
+          "color": "#27ae60",
+          "icon": "checkmark.circle.fill"
+        },
+        {
+          "key": "sidelix_verified",
+          "label": "Sidelix Verified",
+          "color": "#16a085",
+          "icon": "shield.lefthalf.filled"
+        }
+      ],
+      "latest_appstore_app": {
+        "checked": true,
+        "found": true,
+        "bundleIdentifier": "com.spotify.client",
+        "latest_version": "9.2.2",
+        "repo_version": "9.2.0",
+        "up_to_date": false,
+        "update_available": true,
+        "status": "update_available",
+        "price": "Free",
+        "is_paid": false,
+        "store_url": "https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580",
+        "release_date": "2026-11-20T07:17:17Z",
+        "checked_at": "2026-11-24T14:24:21-05:00",
+        "track_id": 324684580,
+        "track_name": "Spotify: Music and Podcasts"
+      },
+      "vipOnly": false,
+      "vipMinTier": 0,
+      "freeAccess": false,
+      "disableGuest": false,
+      "disableGuestAds": false,
+      "disableAdCode": false,
+      "popupAccess": {
+        "vipOnly": false,
+        "vipMinTier": 0,
+        "freeAccess": false,
+        "freeAccessMessage": null,
+        "disableGuest": false,
+        "disableGuestAds": false,
+        "disableAdCode": false,
+        "vipMessage": null
+      },
+      "bannerURL": "https://apps.nabzclan.vip/images/sliders/1794977649_6817.webp",
+      "buildVersion": "920002054",
+      "date": "2026-11-24T04:25:50-05:00",
+      "minOSVersion": "15.0",
+      "__source": "https://apps.nabzclan.vip/repos/esign.php",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
+      ]
+    },
+    {
+      "name": "YouTube plus (Hacked)",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "PoomSmart",
+      "subtitle": "Features: \u2022 no ads \u2022 120Hz screen recording trail \u2022 YTPiP 1.12.15 Picture-in-Picture \u2022 YTKACE 1.1.8 \u2022 YTHUD 2.",
+      "localizedDescription": "YouTube plus (Hacked) v21.46.3 (160.04 MB) \u2014 Sidelix App Store release.",
+      "iconURL": "https://apps.nabzclan.vip/images/1795512205_9603.webp",
+      "tintColor": "#2ecc71",
+      "category": "utilities",
+      "screenshots": [
+        "https://apps.nabzclan.vip/screenshots/17955122069587440.webp",
+        "https://apps.nabzclan.vip/screenshots/17955122066379852.webp",
+        "https://apps.nabzclan.vip/screenshots/17955122069170258.webp",
+        "https://apps.nabzclan.vip/screenshots/17955122066653704.webp",
+        "https://apps.nabzclan.vip/screenshots/17955122061139845.webp"
+      ],
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17955122069587440.webp",
+        "https://apps.nabzclan.vip/screenshots/17955122066379852.webp",
+        "https://apps.nabzclan.vip/screenshots/17955122069170258.webp",
+        "https://apps.nabzclan.vip/screenshots/17955122066653704.webp",
+        "https://apps.nabzclan.vip/screenshots/17955122061139845.webp"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "This lets you add your own audio files to your videos.",
+          "NSBluetoothPeripheralUsageDescription": "YouTube needs bluetooth access to scan for nearby Cast devices.",
+          "NSCameraUsageDescription": "This lets you create videos using the app.",
+          "NSContactsUsageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with.",
+          "NSLocalNetworkUsageDescription": "Access to your network allows YouTube to discover and connect to devices such as your TV.",
+          "NSLocationWhenInUseUsageDescription": "This enables local content discovery, improved recommendations, and enhanced search results.",
+          "NSMicrophoneUsageDescription": "This lets you include audio with your videos and search using your voice.",
+          "NSPhotoLibraryUsageDescription": "This lets you upload media you've already created.",
+          "NSUserTrackingUsageDescription": "To personalize ads and provide ad measurement, YouTube will link activity from this app with activity from non-Google apps and websites."
+        }
+      },
+      "version": "21.46.3",
+      "versionDate": "2026-11-24T04:23:22-05:00",
+      "versionDescription": "YouTube plus (Hacked) v21.46.3 (160.04 MB) \u2014 Sidelix App Store release.",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/7/app_7_nabzclan_sidelix.ipa",
+      "size": 167811506,
+      "type": 1,
+      "badges": [
+        {
+          "key": "needs_update",
+          "label": "Needs Update (v21.47.6)",
+          "color": "#f39c12",
+          "icon": "arrow.triangle.2.circlepath"
+        },
+        {
+          "key": "free",
+          "label": "Free",
+          "color": "#27ae60",
+          "icon": "checkmark.circle.fill"
+        },
+        {
+          "key": "featured",
+          "label": "Featured",
+          "color": "#3498db",
+          "icon": "star.fill"
+        },
+        {
+          "key": "sidelix_verified",
+          "label": "Sidelix Verified",
+          "color": "#16a085",
+          "icon": "shield.lefthalf.filled"
+        }
+      ],
+      "latest_appstore_app": {
+        "checked": true,
+        "found": true,
+        "bundleIdentifier": "com.google.ios.youtube",
+        "latest_version": "21.47.6",
+        "repo_version": "21.46.3",
+        "up_to_date": false,
+        "update_available": true,
+        "status": "update_available",
+        "price": "Free",
+        "is_paid": false,
+        "store_url": "https://apps.apple.com/us/app/youtube/id544007664",
+        "release_date": "2026-11-22T17:10:41Z",
+        "checked_at": "2026-11-24T14:24:22-05:00",
+        "track_id": 544007664,
+        "track_name": "YouTube"
+      },
+      "vipOnly": false,
+      "vipMinTier": 0,
+      "freeAccess": false,
+      "disableGuest": false,
+      "disableGuestAds": false,
+      "disableAdCode": false,
+      "popupAccess": {
+        "vipOnly": false,
+        "vipMinTier": 0,
+        "freeAccess": false,
+        "freeAccessMessage": null,
+        "disableGuest": false,
+        "disableGuestAds": false,
+        "disableAdCode": false,
+        "vipMessage": null
+      },
+      "bannerURL": "https://apps.nabzclan.vip/images/sliders/1794967009_1026.webp",
+      "buildVersion": "21.46.3",
+      "date": "2026-11-24T04:23:22-05:00",
+      "minOSVersion": "17.0",
+      "__source": "https://apps.nabzclan.vip/repos/esign.php",
+      "__mirrors": [],
+      "__stores": [
+        "ESign"
+      ]
+    },
+    {
       "name": "Provenance Alpha",
       "bundleIdentifier": "org.provenance-emu.provenance.alpha",
       "developerName": "Provenance-EMU",
       "subtitle": "Latest dev builds - test new features early",
-      "localizedDescription": "Alpha build 14b39f4 \u00b7 2026-11-24\n\nChanges in this build:\n\u2022 build(deps): PVLookup 1.0.1\n\u2022 build(deps): SkinKit 0.6.0 and PVPatchEngine 1.0.1\n\u2022 docs(release): note the input defaults tests pass in the simulator\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
+      "localizedDescription": "Alpha build 155c5b7 \u00b7 2026-11-24\n\nChanges in this build:\n\u2022 build(deps): bump iCube to SkinKit 0.7.0 pin\n\u2022 build(deps): SkinKit 0.7.0\n\u2022 bump dolphin\n\u2022 [Agent] fix(tvos): the bezel strip works with the Siri Remote (#3828)\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
       "iconURL": "https://raw.githubusercontent.com/Provenance-Emu/Provenance/develop/Provenance/Resources/Assets.xcassets/AppIcon.appiconset/iTunesArtwork%402x.png",
       "tintColor": "FF6B35",
       "screenshotURLs": [],
@@ -74,12 +609,182 @@
         ]
       },
       "version": "3.4.0",
-      "buildVersion": "11301",
-      "marketingVersion": "3.4.0-alpha.20261124.14b39f4",
+      "buildVersion": "11309",
+      "marketingVersion": "3.4.0-alpha.20261124.155c5b7",
       "date": "2026-11-24",
       "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
-      "size": 785906012,
+      "size": 786197447,
       "minOSVersion": "17.0",
+      "versionDate": "2026-11-24",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iFly",
+      "bundleIdentifier": "com.provenance.ifly",
+      "developerName": "Provenance Emu",
+      "subtitle": "Dreamcast Emulator for iOS & tvOS",
+      "localizedDescription": "iFly 1.0.0 (build 1795506073) for iOS",
+      "iconURL": "https://ifly-emu.com/icon-1024.png",
+      "tintColor": "#ff6900",
+      "category": "games",
+      "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
+        "https://ifly-emu.com/screenshots/iphone/search.jpg",
+        "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
+      ],
+      "version": "1.0.0+1795506073",
+      "buildVersion": "1795506073",
+      "date": "2026-11-24",
+      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795506073/iFly-1.0.0-1795506073.ipa",
+      "size": 96534586,
+      "minOSVersion": "17.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "versionDate": "2026-11-24",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iFly",
+      "bundleIdentifier": "com.provenance.ifly",
+      "developerName": "Provenance Emu",
+      "subtitle": "Dreamcast Emulator for iOS & tvOS",
+      "localizedDescription": "iFly 1.0.0 (build 1795505392) for iOS",
+      "iconURL": "https://ifly-emu.com/icon-1024.png",
+      "tintColor": "#ff6900",
+      "category": "games",
+      "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
+        "https://ifly-emu.com/screenshots/iphone/search.jpg",
+        "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
+      ],
+      "version": "1.0.0+1795505392",
+      "buildVersion": "1795505392",
+      "date": "2026-11-24",
+      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795505392/iFly-1.0.0-1795505392.ipa",
+      "size": 138073964,
+      "minOSVersion": "17.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "versionDate": "2026-11-24",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iFly",
+      "bundleIdentifier": "com.provenance.ifly",
+      "developerName": "Provenance Emu",
+      "subtitle": "Dreamcast Emulator for iOS & tvOS",
+      "localizedDescription": "iFly 1.0.0 (build 1795493898) for iOS",
+      "iconURL": "https://ifly-emu.com/icon-1024.png",
+      "tintColor": "#ff6900",
+      "category": "games",
+      "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
+        "https://ifly-emu.com/screenshots/iphone/search.jpg",
+        "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
+      ],
+      "version": "1.0.0+1795493898",
+      "buildVersion": "1795493898",
+      "date": "2026-11-24",
+      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795493898/iFly-1.0.0-1795493898.ipa",
+      "size": 138062126,
+      "minOSVersion": "17.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "versionDate": "2026-11-24",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iFly",
+      "bundleIdentifier": "com.provenance.ifly",
+      "developerName": "Provenance Emu",
+      "subtitle": "Dreamcast Emulator for iOS & tvOS",
+      "localizedDescription": "iFly 1.0.0 (build 1795491787) for iOS",
+      "iconURL": "https://ifly-emu.com/icon-1024.png",
+      "tintColor": "#ff6900",
+      "category": "games",
+      "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
+        "https://ifly-emu.com/screenshots/iphone/search.jpg",
+        "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
+      ],
+      "version": "1.0.0+1795491787",
+      "buildVersion": "1795491787",
+      "date": "2026-11-24",
+      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795491787/iFly-1.0.0-1795491787.ipa",
+      "size": 138045447,
+      "minOSVersion": "17.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "versionDate": "2026-11-24",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iFly",
+      "bundleIdentifier": "com.provenance.ifly",
+      "developerName": "Provenance Emu",
+      "subtitle": "Dreamcast Emulator for iOS & tvOS",
+      "localizedDescription": "iFly 1.0.0 (build 1795489899) for iOS",
+      "iconURL": "https://ifly-emu.com/icon-1024.png",
+      "tintColor": "#ff6900",
+      "category": "games",
+      "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
+        "https://ifly-emu.com/screenshots/iphone/search.jpg",
+        "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
+      ],
+      "version": "1.0.0+1795489899",
+      "buildVersion": "1795489899",
+      "date": "2026-11-24",
+      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795489899/iFly-1.0.0-1795489899.ipa",
+      "size": 138028032,
+      "minOSVersion": "17.0",
+      "platform": "iOS",
+      "isBeta": true,
       "versionDate": "2026-11-24",
       "__source": "https://provenance-emu.com/apps.json",
       "__mirrors": [],
@@ -291,6 +996,405 @@
       "versionDate": "2026-11-24",
       "versionDescription": "Updated to v457.0.0, RyukGram v1.6.0",
       "__source": "https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/master/AltStore/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "WaterAir",
+      "type": 1,
+      "bundleID": "co.airapps.waterreminder",
+      "bundleIdentifier": "co.airapps.waterreminder",
+      "version": "2026.11.5",
+      "versionDate": "2026-11-24",
+      "fullDate": "20261124231436",
+      "size": 70403430,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/WaterAir_2026.11.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/WaterAir_2026.11.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.waterreminder.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.waterreminder.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "RiseSleep",
+      "type": 1,
+      "bundleID": "com.risesci.nyx",
+      "bundleIdentifier": "com.risesci.nyx",
+      "version": "0.1.655",
+      "versionDate": "2026-11-24",
+      "fullDate": "20261124231427",
+      "size": 135626982,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/RiseSleep_0.1.655_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/RiseSleep_0.1.655_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "VideoStudio",
+      "type": 1,
+      "bundleID": "videoeditor.app",
+      "bundleIdentifier": "videoeditor.app",
+      "version": "3.22.0",
+      "versionDate": "2026-11-24",
+      "fullDate": "20261124225220",
+      "size": 148938717,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/VideoStudio_3.22.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/VideoStudio_3.22.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/videoeditor.app.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/videoeditor.app.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "FitnessCoach",
+      "type": 1,
+      "bundleID": "fitnessworkout.app",
+      "bundleIdentifier": "fitnessworkout.app",
+      "version": "2.13.3",
+      "versionDate": "2026-11-24",
+      "fullDate": "20261124225209",
+      "size": 165854811,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/FitnessCoach_2.13.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/FitnessCoach_2.13.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fitnessworkout.app.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fitnessworkout.app.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Crsel",
+      "type": 1,
+      "bundleID": "com.frameoneapps.Crsel",
+      "bundleIdentifier": "com.frameoneapps.Crsel",
+      "version": "1.6.8",
+      "versionDate": "2026-11-24",
+      "fullDate": "20261124210537",
+      "size": 116749802,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/Crsel_1.6.8_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/Crsel_1.6.8_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frameoneapps.Crsel.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frameoneapps.Crsel.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "TORVPN",
+      "type": 1,
+      "bundleID": "com.youssef.developer.Full-Browser",
+      "bundleIdentifier": "com.youssef.developer.Full-Browser",
+      "version": "12.7",
+      "versionDate": "2026-11-24",
+      "fullDate": "20261124175655",
+      "size": 177824156,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/TORVPN_12.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/TORVPN_12.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.youssef.developer.Full-Browser.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.youssef.developer.Full-Browser.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "MDClock",
+      "type": 1,
+      "bundleID": "tech.miidii.MDClock",
+      "bundleIdentifier": "tech.miidii.MDClock",
+      "version": "2.77",
+      "versionDate": "2026-11-24",
+      "fullDate": "20261124173858",
+      "size": 345799468,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/MDClock_2.77_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/MDClock_2.77_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.MDClock.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.MDClock.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Shapeyard",
+      "type": 1,
+      "bundleID": "app.chudo",
+      "bundleIdentifier": "app.chudo",
+      "version": "5.34.3",
+      "versionDate": "2026-11-24",
+      "fullDate": "20261124171638",
+      "size": 86577961,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/Shapeyard_5.34.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/Shapeyard_5.34.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.chudo.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.chudo.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Moonly",
+      "type": 1,
+      "bundleID": "com.moonly.Moonly",
+      "bundleIdentifier": "com.moonly.Moonly",
+      "version": "2.9.6",
+      "versionDate": "2026-11-24",
+      "fullDate": "20261124165410",
+      "size": 134692091,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/Moonly_2.9.6_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/Moonly_2.9.6_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moonly.Moonly.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moonly.Moonly.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "AdGuard",
+      "type": 1,
+      "bundleID": "com.adguard.AdguardExtension",
+      "bundleIdentifier": "com.adguard.AdguardExtension",
+      "version": "4.5.26",
+      "versionDate": "2026-11-24",
+      "fullDate": "20261124165405",
+      "size": 49892788,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/AdGuard_4.5.26_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/AdGuard_4.5.26_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adguard.AdguardExtension.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adguard.AdguardExtension.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Origami",
+      "type": 1,
+      "bundleID": "com.oribot.origami",
+      "bundleIdentifier": "com.oribot.origami",
+      "version": "5.5",
+      "versionDate": "2026-11-24",
+      "fullDate": "20261124163157",
+      "size": 208311746,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/Origami_5.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/Origami_5.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.oribot.origami.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.oribot.origami.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Unblink",
+      "type": 1,
+      "bundleID": "com.idevtal.Wallpapers",
+      "bundleIdentifier": "com.idevtal.Wallpapers",
+      "version": "5.97",
+      "versionDate": "2026-11-24",
+      "fullDate": "20261124160956",
+      "size": 44478997,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/Unblink_5.97_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/Unblink_5.97_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.idevtal.Wallpapers.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.idevtal.Wallpapers.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "PUSH",
+      "type": 1,
+      "bundleID": "com.ADPTVLTD.push",
+      "bundleIdentifier": "com.ADPTVLTD.push",
+      "version": "4.3.0",
+      "versionDate": "2026-11-24",
+      "fullDate": "20261124160951",
+      "size": 84087728,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/PUSH_4.3.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/PUSH_4.3.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ADPTVLTD.push.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ADPTVLTD.push.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Uplens",
+      "type": 1,
+      "bundleID": "app.uplens",
+      "bundleIdentifier": "app.uplens",
+      "version": "4.5.0",
+      "versionDate": "2026-11-24",
+      "fullDate": "20261124155228",
+      "size": 179513406,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/Uplens_4.5.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/Uplens_4.5.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.uplens.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.uplens.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "ScannerPro",
+      "type": 1,
+      "bundleID": "com.readdle.Scanner",
+      "bundleIdentifier": "com.readdle.Scanner",
+      "version": "9.0.6",
+      "versionDate": "2026-11-24",
+      "fullDate": "20261124153030",
+      "size": 163509514,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/ScannerPro_9.0.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/ScannerPro_9.0.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.Scanner.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.Scanner.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "ScannerAir",
+      "type": 1,
+      "bundleID": "co.airapps.scannerapp",
+      "bundleIdentifier": "co.airapps.scannerapp",
+      "version": "2026.11.5",
+      "versionDate": "2026-11-24",
+      "fullDate": "20261124153016",
+      "size": 146748356,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/ScannerAir_2026.11.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/ScannerAir_2026.11.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.scannerapp.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.scannerapp.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Stemz",
+      "type": 1,
+      "bundleID": "com.mwm.stems",
+      "bundleIdentifier": "com.mwm.stems",
+      "version": "6.00.06",
+      "versionDate": "2026-11-24",
+      "fullDate": "20261124151238",
+      "size": 315922341,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/Stemz_6.00.06_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/Stemz_6.00.06_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Pro",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.stems.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.stems.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "ism",
+      "type": 1,
+      "bundleID": "com.ahaf.mshion",
+      "bundleIdentifier": "com.ahaf.mshion",
+      "version": "7.53.0",
+      "versionDate": "2026-11-24",
+      "fullDate": "20261124131931",
+      "size": 144875121,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/ism_7.53.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/ism_7.53.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ahaf.mshion.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ahaf.mshion.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Facetune",
+      "type": 1,
+      "bundleID": "com.lightricks.Facetune2",
+      "bundleIdentifier": "com.lightricks.Facetune2",
+      "version": "26.39.1",
+      "versionDate": "2026-11-24",
+      "fullDate": "20261124130724",
+      "size": 434016759,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/Facetune_26.39.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/Facetune_26.39.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Facetune2.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Facetune2.png",
+      "__source": "https://repository.apptesters.org",
       "__mirrors": [],
       "__stores": [
         "AltStore"
@@ -582,7 +1686,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/stronger-gym-workout-planner/id1621719397",
         "release_date": "2026-10-29T13:21:06Z",
-        "checked_at": "2026-11-23T22:01:54-05:00",
+        "checked_at": "2026-11-24T14:24:10-05:00",
         "track_id": 1621719397,
         "track_name": "Stronger - Gym Workout Planner"
       },
@@ -690,7 +1794,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/combyne-your-perfect-outfit/id989727742",
         "release_date": "2026-10-30T19:33:13Z",
-        "checked_at": "2026-11-23T22:01:56-05:00",
+        "checked_at": "2026-11-24T14:24:10-05:00",
         "track_id": 989727742,
         "track_name": "Combyne - your perfect Outfit"
       },
@@ -795,7 +1899,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/obscura-pro-camera/id1579306989",
         "release_date": "2026-10-29T23:55:56Z",
-        "checked_at": "2026-11-23T22:01:56-05:00",
+        "checked_at": "2026-11-24T14:24:10-05:00",
         "track_id": 1579306989,
         "track_name": "Obscura \u2014 Pro Camera"
       },
@@ -911,7 +2015,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/yoga-by-mary/id1450832793",
         "release_date": "2026-11-06T20:46:25Z",
-        "checked_at": "2026-11-23T22:01:53-05:00",
+        "checked_at": "2026-11-24T14:24:10-05:00",
         "track_id": 1450832793,
         "track_name": "Yoga+ by Mary"
       },
@@ -1019,7 +2123,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/carbon-macro-coach-tracker/id1437820611",
         "release_date": "2026-11-04T21:54:44Z",
-        "checked_at": "2026-11-23T22:01:56-05:00",
+        "checked_at": "2026-11-24T14:24:10-05:00",
         "track_id": 1437820611,
         "track_name": "Carbon - Macro Coach & Tracker"
       },
@@ -1126,7 +2230,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/wechef-recipe-organizer/id6737542752",
         "release_date": "2026-11-09T22:11:42Z",
-        "checked_at": "2026-11-23T22:01:53-05:00",
+        "checked_at": "2026-11-24T14:24:10-05:00",
         "track_id": 6737542752,
         "track_name": "WeChef - Recipe Organizer"
       },
@@ -1225,7 +2329,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/imposter-game-party-edition/id6745120053",
         "release_date": "2026-11-11T14:08:08Z",
-        "checked_at": "2026-11-23T22:01:54-05:00",
+        "checked_at": "2026-11-24T14:24:10-05:00",
         "track_id": 6745120053,
         "track_name": "Imposter Game - Party Edition"
       },
@@ -1331,7 +2435,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/voloco-vocal-recording-studio/id1052970183",
         "release_date": "2026-11-09T17:19:02Z",
-        "checked_at": "2026-11-23T22:01:56-05:00",
+        "checked_at": "2026-11-24T14:24:10-05:00",
         "track_id": 1052970183,
         "track_name": "Voloco: Vocal Recording Studio"
       },
@@ -1430,7 +2534,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/snoregym-reduce-your-snoring/id1433896990",
         "release_date": "2026-11-11T01:55:57Z",
-        "checked_at": "2026-11-23T22:01:56-05:00",
+        "checked_at": "2026-11-24T14:24:10-05:00",
         "track_id": 1433896990,
         "track_name": "SnoreGym : Reduce Your Snoring"
       },
@@ -1531,7 +2635,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/plant-identifier-leafsnap/id1487972880",
         "release_date": "2026-11-11T08:51:22Z",
-        "checked_at": "2026-11-23T22:01:56-05:00",
+        "checked_at": "2026-11-24T14:24:10-05:00",
         "track_id": 1487972880,
         "track_name": "Plant Identifier: LeafSnap"
       },
@@ -1633,7 +2737,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/paku-air-quality-aqi-map/id1534130193",
         "release_date": "2026-11-11T03:01:34Z",
-        "checked_at": "2026-11-23T22:01:54-05:00",
+        "checked_at": "2026-11-24T14:24:10-05:00",
         "track_id": 1534130193,
         "track_name": "Paku - Air Quality & AQI Map"
       },
@@ -1732,7 +2836,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/httpbot-api-http-client/id1232603544",
         "release_date": "2026-11-11T00:55:36Z",
-        "checked_at": "2026-11-23T22:01:56-05:00",
+        "checked_at": "2026-11-24T14:24:10-05:00",
         "track_id": 1232603544,
         "track_name": "HTTPBot: API & HTTP Client"
       },
@@ -1842,7 +2946,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/structured-daily-planner-todo/id1499198946",
         "release_date": "2026-11-12T17:22:08Z",
-        "checked_at": "2026-11-23T22:01:56-05:00",
+        "checked_at": "2026-11-24T14:24:10-05:00",
         "track_id": 1499198946,
         "track_name": "Structured: Daily Planner Todo"
       },
@@ -1949,7 +3053,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/pov-disposable-camera-events/id1636032890",
         "release_date": "2026-11-12T15:41:32Z",
-        "checked_at": "2026-11-23T22:01:54-05:00",
+        "checked_at": "2026-11-24T14:24:10-05:00",
         "track_id": 1636032890,
         "track_name": "POV \u2013 Disposable Camera Events"
       },
@@ -2055,7 +3159,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/veed-lite-quick-video-edits/id1634439688",
         "release_date": "2026-11-13T10:51:32Z",
-        "checked_at": "2026-11-23T22:01:56-05:00",
+        "checked_at": "2026-11-24T14:24:10-05:00",
         "track_id": 1634439688,
         "track_name": "VEED Lite: Quick Video Edits"
       },
@@ -2164,7 +3268,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/offscreen-screen-time-control/id1474340105",
         "release_date": "2026-11-16T15:54:59Z",
-        "checked_at": "2026-11-23T22:01:56-05:00",
+        "checked_at": "2026-11-24T14:24:10-05:00",
         "track_id": 1474340105,
         "track_name": "OffScreen: Screen Time Control"
       },
@@ -2269,7 +3373,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/vdit-ai-captions-subtitles/id1483410865",
         "release_date": "2026-11-16T23:04:45Z",
-        "checked_at": "2026-11-23T22:01:56-05:00",
+        "checked_at": "2026-11-24T14:24:10-05:00",
         "track_id": 1483410865,
         "track_name": "VDIT: AI Captions & Subtitles"
       },
@@ -2376,7 +3480,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/imprint-visual-micro-learning/id1482780647",
         "release_date": "2026-11-23T15:54:33Z",
-        "checked_at": "2026-11-23T22:01:56-05:00",
+        "checked_at": "2026-11-24T14:24:11-05:00",
         "track_id": 1482780647,
         "track_name": "Imprint: Visual Micro Learning"
       },
@@ -2486,7 +3590,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/fishbrain-fishing-app/id477967747",
         "release_date": "2026-11-16T10:35:05Z",
-        "checked_at": "2026-11-23T22:01:56-05:00",
+        "checked_at": "2026-11-24T14:24:11-05:00",
         "track_id": 477967747,
         "track_name": "Fishbrain - Fishing App"
       },
@@ -2561,10 +3665,10 @@
       "type": 1,
       "badges": [
         {
-          "key": "latest",
-          "label": "Latest Version",
-          "color": "#2ecc71",
-          "icon": "checkmark.seal.fill"
+          "key": "needs_update",
+          "label": "Needs Update (v5.267.0)",
+          "color": "#f39c12",
+          "icon": "arrow.triangle.2.circlepath"
         },
         {
           "key": "free",
@@ -2583,16 +3687,16 @@
         "checked": true,
         "found": true,
         "bundleIdentifier": "com.elevateapp.elevate",
-        "latest_version": "5.266.0",
+        "latest_version": "5.267.0",
         "repo_version": "5.266.0",
-        "up_to_date": true,
-        "update_available": false,
-        "status": "up_to_date",
+        "up_to_date": false,
+        "update_available": true,
+        "status": "update_available",
         "price": "Free",
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/elevate-brain-training-games/id875063456",
-        "release_date": "2026-11-16T15:08:15Z",
-        "checked_at": "2026-11-23T22:01:53-05:00",
+        "release_date": "2026-11-23T15:06:31Z",
+        "checked_at": "2026-11-24T14:24:11-05:00",
         "track_id": 875063456,
         "track_name": "Elevate - Brain Training Games"
       },
@@ -2701,7 +3805,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/dancebit-home-dance-workouts/id1542181484",
         "release_date": "2026-11-17T12:33:31Z",
-        "checked_at": "2026-11-23T22:01:54-05:00",
+        "checked_at": "2026-11-24T14:24:11-05:00",
         "track_id": 1542181484,
         "track_name": "Dancebit: Home Dance Workouts"
       },
@@ -2814,7 +3918,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/rootd-panic-attacks-anxiety/id1289018369",
         "release_date": "2026-11-17T02:30:19Z",
-        "checked_at": "2026-11-23T22:01:54-05:00",
+        "checked_at": "2026-11-24T14:24:11-05:00",
         "track_id": 1289018369,
         "track_name": "Rootd: Panic Attacks & Anxiety"
       },
@@ -2917,7 +4021,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/bend-stretching-flexibility/id1513988468",
         "release_date": "2026-11-17T08:02:28Z",
-        "checked_at": "2026-11-23T22:01:57-05:00",
+        "checked_at": "2026-11-24T14:24:11-05:00",
         "track_id": 1513988468,
         "track_name": "Bend: Stretching & Flexibility"
       },
@@ -3018,7 +4122,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/intolive-live-wallpapers/id1061859052",
         "release_date": "2026-11-18T17:15:13Z",
-        "checked_at": "2026-11-23T22:01:57-05:00",
+        "checked_at": "2026-11-24T14:24:11-05:00",
         "track_id": 1061859052,
         "track_name": "intoLive - Live Wallpapers"
       },
@@ -3123,7 +4227,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/12min-book-summaries-daily/id1177343870",
         "release_date": "2026-11-18T13:32:33Z",
-        "checked_at": "2026-11-23T22:01:57-05:00",
+        "checked_at": "2026-11-24T14:24:11-05:00",
         "track_id": 1177343870,
         "track_name": "12min: Book Summaries Daily"
       },
@@ -3220,7 +4324,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/tapekit-lab-of-top-widgets-gif/id1532641230",
         "release_date": "2026-11-18T17:57:03Z",
-        "checked_at": "2026-11-23T22:01:54-05:00",
+        "checked_at": "2026-11-24T14:24:11-05:00",
         "track_id": 1532641230,
         "track_name": "TapeKit\u30fbLab of Top Widgets\u30fbGIF"
       },
@@ -3324,7 +4428,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/coconote-ai-note-taker/id6479320349",
         "release_date": "2026-11-19T21:34:45Z",
-        "checked_at": "2026-11-23T22:01:53-05:00",
+        "checked_at": "2026-11-24T14:24:11-05:00",
         "track_id": 6479320349,
         "track_name": "Coconote - AI Note Taker"
       },
@@ -3429,7 +4533,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/colourtone-photo-editor/id1383338239",
         "release_date": "2026-11-18T20:50:25Z",
-        "checked_at": "2026-11-23T22:01:57-05:00",
+        "checked_at": "2026-11-24T14:24:11-05:00",
         "track_id": 1383338239,
         "track_name": "Colourtone: Photo Editor"
       },
@@ -3532,7 +4636,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/scrl-photo-collage-maker/id1289057196",
         "release_date": "2026-11-19T10:25:58Z",
-        "checked_at": "2026-11-23T22:01:57-05:00",
+        "checked_at": "2026-11-24T14:24:11-05:00",
         "track_id": 1289057196,
         "track_name": "SCRL: Photo Collage Maker"
       },
@@ -3647,7 +4751,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/gronda-recipes-for-chefs/id1164423781",
         "release_date": "2026-11-19T09:03:48Z",
-        "checked_at": "2026-11-23T22:01:57-05:00",
+        "checked_at": "2026-11-24T14:24:11-05:00",
         "track_id": 1164423781,
         "track_name": "Gronda: Recipes for Chefs"
       },
@@ -3751,7 +4855,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/dumb-phone-dp/id6504743503",
         "release_date": "2026-11-19T01:21:25Z",
-        "checked_at": "2026-11-23T22:01:57-05:00",
+        "checked_at": "2026-11-24T14:24:11-05:00",
         "track_id": 6504743503,
         "track_name": "Dumb Phone (dp)"
       },
@@ -3859,7 +4963,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/notecircle-to-do-list/id1528859917",
         "release_date": "2026-11-19T23:07:46Z",
-        "checked_at": "2026-11-23T22:01:57-05:00",
+        "checked_at": "2026-11-24T14:24:11-05:00",
         "track_id": 1528859917,
         "track_name": "NoteCircle: To-Do List"
       },
@@ -3966,7 +5070,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/mealpreppro-planner-recipes/id1249805978",
         "release_date": "2026-11-20T00:09:12Z",
-        "checked_at": "2026-11-23T22:01:54-05:00",
+        "checked_at": "2026-11-24T14:24:11-05:00",
         "track_id": 1249805978,
         "track_name": "MealPrepPro Planner & Recipes"
       },
@@ -4074,7 +5178,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/hiiker-the-hiking-maps-app/id1470810597",
         "release_date": "2026-11-20T03:50:21Z",
-        "checked_at": "2026-11-23T22:01:57-05:00",
+        "checked_at": "2026-11-24T14:24:11-05:00",
         "track_id": 1470810597,
         "track_name": "HiiKER: The Hiking Maps App"
       },
@@ -4181,7 +5285,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/world-clock-time-zone-widget/id912698955",
         "release_date": "2026-11-20T11:21:19Z",
-        "checked_at": "2026-11-23T22:01:57-05:00",
+        "checked_at": "2026-11-24T14:24:11-05:00",
         "track_id": 912698955,
         "track_name": "World Clock Time Zone Widget"
       },
@@ -4282,7 +5386,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/habit-tracker-habitkit/id6443918070",
         "release_date": "2026-11-21T08:28:41Z",
-        "checked_at": "2026-11-23T22:01:57-05:00",
+        "checked_at": "2026-11-24T14:24:11-05:00",
         "track_id": 6443918070,
         "track_name": "Habit Tracker - HabitKit"
       },
@@ -4387,7 +5491,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/bunpo-language-learning/id1279720052",
         "release_date": "2026-11-21T01:56:04Z",
-        "checked_at": "2026-11-23T22:01:57-05:00",
+        "checked_at": "2026-11-24T14:24:11-05:00",
         "track_id": 1279720052,
         "track_name": "Bunpo: Language Learning"
       },
@@ -4493,7 +5597,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/days-countdown-widgets/id939368917",
         "release_date": "2026-11-21T13:07:00Z",
-        "checked_at": "2026-11-23T22:01:54-05:00",
+        "checked_at": "2026-11-24T14:24:12-05:00",
         "track_id": 939368917,
         "track_name": "Days \u2022 Countdown & Widgets"
       },
@@ -4594,7 +5698,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/astra-life-advice/id6473748536",
         "release_date": "2026-11-21T21:34:22Z",
-        "checked_at": "2026-11-23T22:01:54-05:00",
+        "checked_at": "2026-11-24T14:24:12-05:00",
         "track_id": 6473748536,
         "track_name": "Astra - Life Advice"
       },
@@ -4701,7 +5805,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/stippl-trip-travel-planner/id6443617088",
         "release_date": "2026-11-21T07:39:12Z",
-        "checked_at": "2026-11-23T22:01:57-05:00",
+        "checked_at": "2026-11-24T14:24:12-05:00",
         "track_id": 6443617088,
         "track_name": "Stippl: Trip & Travel Planner"
       },
@@ -4803,7 +5907,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/napper-baby-sleep/id1491340863",
         "release_date": "2026-11-21T22:15:07Z",
-        "checked_at": "2026-11-23T22:01:54-05:00",
+        "checked_at": "2026-11-24T14:24:12-05:00",
         "track_id": 1491340863,
         "track_name": "Napper - Baby Sleep"
       },
@@ -5633,7 +6737,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/befreed-get-smarter-daily/id6739747450",
         "release_date": "2026-11-21T14:46:07Z",
-        "checked_at": "2026-11-23T22:01:53-05:00",
+        "checked_at": "2026-11-24T14:24:12-05:00",
         "track_id": 6739747450,
         "track_name": "BeFreed: Get Smarter Daily!"
       },
@@ -5737,7 +6841,7 @@
         "is_paid": false,
         "store_url": null,
         "release_date": null,
-        "checked_at": "2026-11-24T02:02:07-05:00"
+        "checked_at": "2026-11-24T16:24:25-05:00"
       },
       "vipOnly": false,
       "vipMinTier": 0,
@@ -5839,7 +6943,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/survival-arena-tower-defense/id6720725666",
         "release_date": "2026-08-20T01:53:13Z",
-        "checked_at": "2026-11-23T22:01:58-05:00",
+        "checked_at": "2026-11-24T14:24:12-05:00",
         "track_id": 6720725666,
         "track_name": "Survival Arena: Tower Defense"
       },
@@ -5943,7 +7047,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/os-maps-walk-hike-run-bike/id978307846",
         "release_date": "2026-08-24T09:45:06Z",
-        "checked_at": "2026-11-23T22:01:53-05:00",
+        "checked_at": "2026-11-24T14:24:12-05:00",
         "track_id": 978307846,
         "track_name": "OS Maps: Walk, Hike, Run, Bike"
       },
@@ -6038,7 +7142,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/traffic-rider/id951744068",
         "release_date": "2026-11-19T19:15:40Z",
-        "checked_at": "2026-11-23T22:01:54-05:00",
+        "checked_at": "2026-11-24T14:24:12-05:00",
         "track_id": 951744068,
         "track_name": "Traffic Rider"
       },
@@ -6142,7 +7246,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/ship-simulator-boat-game/id6451137140",
         "release_date": "2026-04-24T18:30:27Z",
-        "checked_at": "2026-11-23T22:01:58-05:00",
+        "checked_at": "2026-11-24T14:24:12-05:00",
         "track_id": 6451137140,
         "track_name": "Ship Simulator: Boat Game"
       },
@@ -6243,7 +7347,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/race-arena-fall-car-battle/id1534304970",
         "release_date": "2026-10-12T13:44:43Z",
-        "checked_at": "2026-11-23T22:01:58-05:00",
+        "checked_at": "2026-11-24T14:24:12-05:00",
         "track_id": 1534304970,
         "track_name": "Race Arena - Fall Car Battle"
       },
@@ -6344,7 +7448,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/farming-simulator-18/id1091224574",
         "release_date": "2026-03-25T08:47:04Z",
-        "checked_at": "2026-11-23T22:01:58-05:00",
+        "checked_at": "2026-11-24T14:24:12-05:00",
         "track_id": 1091224574,
         "track_name": "Farming Simulator 18"
       },
@@ -6443,7 +7547,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/farming-simulator-16/id992051355",
         "release_date": "2026-03-23T08:28:56Z",
-        "checked_at": "2026-11-23T22:01:58-05:00",
+        "checked_at": "2026-11-24T14:24:12-05:00",
         "track_id": 992051355,
         "track_name": "Farming Simulator 16"
       },
@@ -6542,7 +7646,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/fullscreen-clock-flip-focus/id1403700342",
         "release_date": "2026-11-18T01:32:16Z",
-        "checked_at": "2026-11-23T22:01:58-05:00",
+        "checked_at": "2026-11-24T14:24:12-05:00",
         "track_id": 1403700342,
         "track_name": "Fullscreen Clock: Flip & Focus"
       },
@@ -6644,7 +7748,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/wild-journey-nature-sounds/id1437268231",
         "release_date": "2022-02-21T22:25:16Z",
-        "checked_at": "2026-11-23T22:01:53-05:00",
+        "checked_at": "2026-11-24T14:24:12-05:00",
         "track_id": 1437268231,
         "track_name": "Wild Journey - Nature Sounds"
       },
@@ -6748,7 +7852,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/mad-royale-io-tank-battle/id1632902412",
         "release_date": "2025-09-01T14:08:26Z",
-        "checked_at": "2026-11-23T22:01:54-05:00",
+        "checked_at": "2026-11-24T14:24:13-05:00",
         "track_id": 1632902412,
         "track_name": "Mad Royale.io - Tank Battle"
       },
@@ -6843,7 +7947,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/human-to-cat-translator/id1125847588",
         "release_date": "2022-06-22T13:49:28Z",
-        "checked_at": "2026-11-23T22:01:55-05:00",
+        "checked_at": "2026-11-24T14:24:13-05:00",
         "track_id": 1125847588,
         "track_name": "Human to Cat Translator"
       },
@@ -6945,7 +8049,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/notevision-sight-reading/id874386416",
         "release_date": "2026-11-20T21:55:48Z",
-        "checked_at": "2026-11-23T22:01:55-05:00",
+        "checked_at": "2026-11-24T14:24:13-05:00",
         "track_id": 874386416,
         "track_name": "Notevision - Sight Reading"
       },
@@ -7042,7 +8146,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/zombie-highway-2/id892092770",
         "release_date": "2024-04-27T14:34:04Z",
-        "checked_at": "2026-11-23T22:01:58-05:00",
+        "checked_at": "2026-11-24T14:24:13-05:00",
         "track_id": 892092770,
         "track_name": "Zombie Highway 2"
       },
@@ -7141,7 +8245,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/video-player-pip-and-more/id1610938825",
         "release_date": "2026-07-28T15:40:38Z",
-        "checked_at": "2026-11-23T22:01:58-05:00",
+        "checked_at": "2026-11-24T14:24:13-05:00",
         "track_id": 1610938825,
         "track_name": "Video Player - PIP and more"
       },
@@ -7249,7 +8353,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/tower-war-tactical-conquest/id1579356887",
         "release_date": "2026-10-30T13:42:27Z",
-        "checked_at": "2026-11-23T22:01:58-05:00",
+        "checked_at": "2026-11-24T14:24:13-05:00",
         "track_id": 1579356887,
         "track_name": "Tower War - Tactical Conquest"
       },
@@ -7346,7 +8450,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/vampire-survivors/id6444525702",
         "release_date": "2026-10-26T09:43:05Z",
-        "checked_at": "2026-11-23T22:01:58-05:00",
+        "checked_at": "2026-11-24T14:24:14-05:00",
         "track_id": 6444525702,
         "track_name": "Vampire Survivors"
       },
@@ -7451,7 +8555,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/easy-game-brain-puzzles/id1491764681",
         "release_date": "2026-05-01T11:56:05Z",
-        "checked_at": "2026-11-23T22:01:55-05:00",
+        "checked_at": "2026-11-24T14:24:14-05:00",
         "track_id": 1491764681,
         "track_name": "Easy Game - Brain Puzzles"
       },
@@ -7553,7 +8657,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/escape-time-puzzle-brain-game/id1483021623",
         "release_date": "2026-11-20T19:17:11Z",
-        "checked_at": "2026-11-23T22:01:58-05:00",
+        "checked_at": "2026-11-24T14:24:14-05:00",
         "track_id": 1483021623,
         "track_name": "Escape Time: Puzzle Brain Game"
       },
@@ -7654,7 +8758,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/offroad-outlaws/id1286538410",
         "release_date": "2026-10-30T20:56:49Z",
-        "checked_at": "2026-11-23T22:01:55-05:00",
+        "checked_at": "2026-11-24T14:24:14-05:00",
         "track_id": 1286538410,
         "track_name": "Offroad Outlaws"
       },
@@ -7756,7 +8860,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/tank-stars/id1347123739",
         "release_date": "2026-11-20T19:28:02Z",
-        "checked_at": "2026-11-23T22:01:58-05:00",
+        "checked_at": "2026-11-24T14:24:14-05:00",
         "track_id": 1347123739,
         "track_name": "Tank Stars"
       },
@@ -7860,7 +8964,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/enter-the-gungeon/id1100429641",
         "release_date": "2026-05-06T18:31:04Z",
-        "checked_at": "2026-11-23T22:01:53-05:00",
+        "checked_at": "2026-11-24T14:24:15-05:00",
         "track_id": 1100429641,
         "track_name": "Enter the Gungeon"
       },
@@ -7966,7 +9070,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/tds-tower-destiny-survive/id6480174499",
         "release_date": "2026-11-13T14:20:56Z",
-        "checked_at": "2026-11-23T22:01:58-05:00",
+        "checked_at": "2026-11-24T14:24:15-05:00",
         "track_id": 6480174499,
         "track_name": "TDS - Tower Destiny Survive"
       },
@@ -8068,7 +9172,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/paper-io-2/id1423046460",
         "release_date": "2026-11-19T19:57:17Z",
-        "checked_at": "2026-11-23T22:01:59-05:00",
+        "checked_at": "2026-11-24T14:24:15-05:00",
         "track_id": 1423046460,
         "track_name": "Paper.io 2"
       },
@@ -8169,7 +9273,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/bus-escape-traffic-jam/id6689516366",
         "release_date": "2026-11-11T18:46:24Z",
-        "checked_at": "2026-11-23T22:01:59-05:00",
+        "checked_at": "2026-11-24T14:24:15-05:00",
         "track_id": 6689516366,
         "track_name": "Bus Escape: Traffic Jam"
       },
@@ -8270,7 +9374,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/fort-guardian/id6736848868",
         "release_date": "2026-10-30T11:04:12Z",
-        "checked_at": "2026-11-23T22:01:59-05:00",
+        "checked_at": "2026-11-24T14:24:15-05:00",
         "track_id": 6736848868,
         "track_name": "Fort Guardian"
       },
@@ -8378,7 +9482,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/hidden-objects-the-journey/id1673457778",
         "release_date": "2026-01-14T13:08:44Z",
-        "checked_at": "2026-11-23T22:01:59-05:00",
+        "checked_at": "2026-11-24T14:24:15-05:00",
         "track_id": 1673457778,
         "track_name": "Hidden Objects - The Journey"
       },
@@ -8484,7 +9588,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/falou-fast-language-learning/id1460579936",
         "release_date": "2026-11-12T14:40:54Z",
-        "checked_at": "2026-11-23T22:01:59-05:00",
+        "checked_at": "2026-11-24T14:24:15-05:00",
         "track_id": 1460579936,
         "track_name": "Falou - Fast language learning"
       },
@@ -8583,7 +9687,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/stick-war-saga/id1548764863",
         "release_date": "2026-11-21T19:48:53Z",
-        "checked_at": "2026-11-23T22:01:53-05:00",
+        "checked_at": "2026-11-24T14:24:15-05:00",
         "track_id": 1548764863,
         "track_name": "Stick War: Saga"
       },
@@ -8687,7 +9791,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/train-simulator-railroad-game/id1587704770",
         "release_date": "2026-04-24T18:29:30Z",
-        "checked_at": "2026-11-23T22:01:59-05:00",
+        "checked_at": "2026-11-24T14:24:15-05:00",
         "track_id": 1587704770,
         "track_name": "Train Simulator: Railroad Game"
       },
@@ -8793,7 +9897,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/sling-drift/id1377372413",
         "release_date": "2026-05-13T06:51:09Z",
-        "checked_at": "2026-11-23T22:01:59-05:00",
+        "checked_at": "2026-11-24T14:24:15-05:00",
         "track_id": 1377372413,
         "track_name": "Sling Drift"
       },
@@ -8894,7 +9998,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/stone-grass-lawn-mower-game/id1606739002",
         "release_date": "2026-06-05T10:41:19Z",
-        "checked_at": "2026-11-23T22:01:59-05:00",
+        "checked_at": "2026-11-24T14:24:15-05:00",
         "track_id": 1606739002,
         "track_name": "Stone Grass: Lawn Mower Game"
       },
@@ -8999,7 +10103,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/hunter-assassin/id1479587574",
         "release_date": "2026-09-04T14:14:30Z",
-        "checked_at": "2026-11-23T22:01:53-05:00",
+        "checked_at": "2026-11-24T14:24:15-05:00",
         "track_id": 1479587574,
         "track_name": "Hunter Assassin"
       },
@@ -9097,7 +10201,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/horizon/id1351719370",
         "release_date": "2026-09-08T22:43:55Z",
-        "checked_at": "2026-11-23T22:01:59-05:00",
+        "checked_at": "2026-11-24T14:24:15-05:00",
         "track_id": 1351719370,
         "track_name": "Horizon"
       },
@@ -9199,7 +10303,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/cash-inc-fame-fortune-game/id1270598321",
         "release_date": "2026-09-16T19:38:47Z",
-        "checked_at": "2026-11-23T22:01:53-05:00",
+        "checked_at": "2026-11-24T14:24:15-05:00",
         "track_id": 1270598321,
         "track_name": "Cash, Inc. Fame & Fortune Game"
       },
@@ -9299,7 +10403,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/stick-war-legacy/id1001780528",
         "release_date": "2026-11-13T20:34:28Z",
-        "checked_at": "2026-11-23T22:01:55-05:00",
+        "checked_at": "2026-11-24T14:24:16-05:00",
         "track_id": 1001780528,
         "track_name": "Stick War: Legacy"
       },
@@ -9400,7 +10504,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/car-match-traffic-puzzle/id6504421808",
         "release_date": "2026-10-23T20:49:03Z",
-        "checked_at": "2026-11-23T22:01:55-05:00",
+        "checked_at": "2026-11-24T14:24:16-05:00",
         "track_id": 6504421808,
         "track_name": "Car Match - Traffic Puzzle"
       },
@@ -9499,7 +10603,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/dig-tycoon-idle-game/id1556056052",
         "release_date": "2026-10-26T20:05:12Z",
-        "checked_at": "2026-11-23T22:01:55-05:00",
+        "checked_at": "2026-11-24T14:24:16-05:00",
         "track_id": 1556056052,
         "track_name": "Dig Tycoon - Idle Game"
       },
@@ -9605,7 +10709,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/race-master-3d-car-racing/id1579072162",
         "release_date": "2026-10-27T15:03:02Z",
-        "checked_at": "2026-11-23T22:01:59-05:00",
+        "checked_at": "2026-11-24T14:24:16-05:00",
         "track_id": 1579072162,
         "track_name": "Race Master 3D: Car Racing"
       },
@@ -9707,7 +10811,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/brain-out-2-tricky-challenge/id6737890035",
         "release_date": "2026-11-20T00:40:35Z",
-        "checked_at": "2026-11-23T22:01:53-05:00",
+        "checked_at": "2026-11-24T14:24:16-05:00",
         "track_id": 6737890035,
         "track_name": "Brain Out 2 - Tricky Challenge"
       },
@@ -9816,7 +10920,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/proknockout-cut-paste-photos/id944665061",
         "release_date": "2026-10-31T00:39:19Z",
-        "checked_at": "2026-11-23T22:01:53-05:00",
+        "checked_at": "2026-11-24T14:24:16-05:00",
         "track_id": 944665061,
         "track_name": "ProKnockOut-Cut Paste Photos"
       },
@@ -9919,7 +11023,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/offline-games-no-wifi-games/id6448104157",
         "release_date": "2026-11-23T11:16:30Z",
-        "checked_at": "2026-11-23T22:01:55-05:00",
+        "checked_at": "2026-11-24T14:24:16-05:00",
         "track_id": 6448104157,
         "track_name": "Offline Games - No Wifi Games"
       },
@@ -10020,7 +11124,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/trading-game-stock-simulator/id1202332044",
         "release_date": "2026-11-01T22:33:19Z",
-        "checked_at": "2026-11-23T22:01:54-05:00",
+        "checked_at": "2026-11-24T14:24:16-05:00",
         "track_id": 1202332044,
         "track_name": "Trading Game: Stock Simulator"
       },
@@ -10122,7 +11226,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/dreams-your-dream-journal/id1225560667",
         "release_date": "2026-11-08T23:53:59Z",
-        "checked_at": "2026-11-23T22:01:56-05:00",
+        "checked_at": "2026-11-24T14:24:16-05:00",
         "track_id": 1225560667,
         "track_name": "Dreams: Your dream journal"
       },
@@ -10227,7 +11331,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/snorelab-record-your-snoring/id529443604",
         "release_date": "2026-11-23T09:58:59Z",
-        "checked_at": "2026-11-23T22:01:56-05:00",
+        "checked_at": "2026-11-24T14:24:10-05:00",
         "track_id": 529443604,
         "track_name": "SnoreLab : Record Your Snoring"
       },
@@ -10330,7 +11434,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/2-player-games-offline-games/id1465731199",
         "release_date": "2026-11-02T10:19:46Z",
-        "checked_at": "2026-11-23T22:01:56-05:00",
+        "checked_at": "2026-11-24T14:24:16-05:00",
         "track_id": 1465731199,
         "track_name": "2 Player Games : Offline Games"
       },
@@ -10434,7 +11538,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/voicepal-your-ai-ghostwriter/id6471552007",
         "release_date": "2026-11-05T08:28:39Z",
-        "checked_at": "2026-11-23T22:01:59-05:00",
+        "checked_at": "2026-11-24T14:24:16-05:00",
         "track_id": 6471552007,
         "track_name": "Voicepal: your AI Ghostwriter"
       },
@@ -10542,7 +11646,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/djay-dj-app-ai-mixer/id450527929",
         "release_date": "2026-11-10T06:09:44Z",
-        "checked_at": "2026-11-23T22:01:56-05:00",
+        "checked_at": "2026-11-24T14:24:16-05:00",
         "track_id": 450527929,
         "track_name": "djay - DJ App & AI Mixer"
       },
@@ -10644,7 +11748,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/recipe-keeper-saver-recify/id6738006990",
         "release_date": "2026-11-11T07:23:23Z",
-        "checked_at": "2026-11-23T22:01:56-05:00",
+        "checked_at": "2026-11-24T14:24:16-05:00",
         "track_id": 6738006990,
         "track_name": "Recipe Keeper & Saver - Recify"
       },
@@ -10745,7 +11849,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/adhd-noise-green-brown-pink/id1632615763",
         "release_date": "2026-11-11T01:20:05Z",
-        "checked_at": "2026-11-23T22:01:56-05:00",
+        "checked_at": "2026-11-24T14:24:16-05:00",
         "track_id": 1632615763,
         "track_name": "ADHD Noise: Green, Brown, Pink"
       },
@@ -10845,7 +11949,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/hill-climb-racing/id564540143",
         "release_date": "2026-11-13T08:11:15Z",
-        "checked_at": "2026-11-23T22:01:56-05:00",
+        "checked_at": "2026-11-24T14:24:16-05:00",
         "track_id": 564540143,
         "track_name": "Hill Climb Racing"
       },
@@ -10936,7 +12040,7 @@
         "checked": true,
         "found": true,
         "bundleIdentifier": "com.genau.MemoryCircle",
-        "latest_version": "3.2.3",
+        "latest_version": "3.2.4",
         "repo_version": "3.7.0",
         "up_to_date": true,
         "update_available": false,
@@ -10944,8 +12048,8 @@
         "price": "Free",
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/vocacircle-vocabulary-builder/id1613988730",
-        "release_date": "2026-11-13T20:15:41Z",
-        "checked_at": "2026-11-23T22:01:56-05:00",
+        "release_date": "2026-11-23T22:53:07Z",
+        "checked_at": "2026-11-24T14:24:17-05:00",
         "track_id": 1613988730,
         "track_name": "VocaCircle: Vocabulary Builder"
       },
@@ -11050,7 +12154,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/crossword-master-word-puzzle/id6547858927",
         "release_date": "2026-11-16T08:48:14Z",
-        "checked_at": "2026-11-23T22:01:56-05:00",
+        "checked_at": "2026-11-24T14:24:17-05:00",
         "track_id": 6547858927,
         "track_name": "Crossword Master - Word Puzzle"
       },
@@ -11158,7 +12262,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/summary-ai-note-taker/id6670175056",
         "release_date": "2026-11-23T10:50:31Z",
-        "checked_at": "2026-11-23T22:01:56-05:00",
+        "checked_at": "2026-11-24T14:24:17-05:00",
         "track_id": 6670175056,
         "track_name": "Summary - AI Note Taker"
       },
@@ -11261,7 +12365,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/moneycircle-expense-budget/id1618265694",
         "release_date": "2026-11-17T22:54:48Z",
-        "checked_at": "2026-11-23T22:01:56-05:00",
+        "checked_at": "2026-11-24T14:24:17-05:00",
         "track_id": 1618265694,
         "track_name": "MoneyCircle: Expense & Budget"
       },
@@ -11368,7 +12472,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/sun-tracker-solarwatch/id1191365122",
         "release_date": "2026-11-17T11:08:11Z",
-        "checked_at": "2026-11-23T22:01:56-05:00",
+        "checked_at": "2026-11-24T14:24:17-05:00",
         "track_id": 1191365122,
         "track_name": "Sun Tracker: SolarWatch"
       },
@@ -11470,7 +12574,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/soundscape-focus-sleep-sounds/id6480119395",
         "release_date": "2026-11-23T07:46:02Z",
-        "checked_at": "2026-11-23T22:01:54-05:00",
+        "checked_at": "2026-11-24T14:24:17-05:00",
         "track_id": 6480119395,
         "track_name": "Soundscape: Focus Sleep Sounds"
       },
@@ -11577,7 +12681,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/365scores-live-sports-scores/id571801488",
         "release_date": "2026-11-18T15:42:09Z",
-        "checked_at": "2026-11-23T22:01:57-05:00",
+        "checked_at": "2026-11-24T14:24:17-05:00",
         "track_id": 571801488,
         "track_name": "365Scores: Live Sports Scores"
       },
@@ -11687,7 +12791,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/rest-fix-your-sleep-for-good/id1609977097",
         "release_date": "2026-11-18T12:29:17Z",
-        "checked_at": "2026-11-23T22:01:57-05:00",
+        "checked_at": "2026-11-24T14:24:17-05:00",
         "track_id": 1609977097,
         "track_name": "Rest: Fix Your Sleep For Good"
       },
@@ -11788,7 +12892,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/visualmind-ai-mindmap-chatbot/id6502063885",
         "release_date": "2026-11-18T17:17:32Z",
-        "checked_at": "2026-11-23T22:01:57-05:00",
+        "checked_at": "2026-11-24T14:24:17-05:00",
         "track_id": 6502063885,
         "track_name": "VisualMind: AI MindMap/Chatbot"
       },
@@ -11893,7 +12997,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/i-am-sober/id672904239",
         "release_date": "2026-11-18T16:14:11Z",
-        "checked_at": "2026-11-23T22:01:57-05:00",
+        "checked_at": "2026-11-24T14:24:17-05:00",
         "track_id": 672904239,
         "track_name": "I Am Sober"
       },
@@ -12003,7 +13107,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/moneycoach-ai-budget-planner/id989642198",
         "release_date": "2026-11-17T07:23:05Z",
-        "checked_at": "2026-11-23T22:01:57-05:00",
+        "checked_at": "2026-11-24T14:24:17-05:00",
         "track_id": 989642198,
         "track_name": "MoneyCoach AI Budget Planner"
       },
@@ -12102,7 +13206,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/to-do-list-reminders-tasks/id1476066606",
         "release_date": "2026-11-16T19:43:20Z",
-        "checked_at": "2026-11-23T22:01:57-05:00",
+        "checked_at": "2026-11-24T14:24:17-05:00",
         "track_id": 1476066606,
         "track_name": "To Do List - Reminders & Tasks"
       },
@@ -12207,7 +13311,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/sofascore-live-sports-scores/id1176147574",
         "release_date": "2026-11-16T20:02:40Z",
-        "checked_at": "2026-11-23T22:01:57-05:00",
+        "checked_at": "2026-11-24T14:24:17-05:00",
         "track_id": 1176147574,
         "track_name": "Sofascore: Live Sports Scores"
       },
@@ -12312,7 +13416,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/photoroom-ai-photo-video/id1455009060",
         "release_date": "2026-11-23T09:06:42Z",
-        "checked_at": "2026-11-23T22:01:57-05:00",
+        "checked_at": "2026-11-24T14:24:17-05:00",
         "track_id": 1455009060,
         "track_name": "Photoroom: AI Photo & Video"
       },
@@ -12409,7 +13513,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/apex-racer/id1668705222",
         "release_date": "2026-11-17T22:23:19Z",
-        "checked_at": "2026-11-23T22:01:54-05:00",
+        "checked_at": "2026-11-24T14:24:18-05:00",
         "track_id": 1668705222,
         "track_name": "APEX Racer"
       },
@@ -12518,7 +13622,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/planta-plant-garden-care/id1410126781",
         "release_date": "2026-11-17T15:48:13Z",
-        "checked_at": "2026-11-23T22:01:57-05:00",
+        "checked_at": "2026-11-24T14:24:18-05:00",
         "track_id": 1410126781,
         "track_name": "Planta: Plant & Garden Care"
       },
@@ -12625,7 +13729,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/scanner-app-genius-scan/id377672876",
         "release_date": "2026-11-17T07:40:09Z",
-        "checked_at": "2026-11-23T22:01:54-05:00",
+        "checked_at": "2026-11-24T14:24:18-05:00",
         "track_id": 377672876,
         "track_name": "Scanner App: Genius Scan"
       },
@@ -12742,7 +13846,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/intvl/id6472631698",
         "release_date": "2026-11-18T01:19:24Z",
-        "checked_at": "2026-11-23T22:01:57-05:00",
+        "checked_at": "2026-11-24T14:24:18-05:00",
         "track_id": 6472631698,
         "track_name": "INTVL"
       },
@@ -12844,7 +13948,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/musicbox-catalog-and-organize/id1614730313",
         "release_date": "2026-11-18T01:31:44Z",
-        "checked_at": "2026-11-23T22:01:57-05:00",
+        "checked_at": "2026-11-24T14:24:18-05:00",
         "track_id": 1614730313,
         "track_name": "MusicBox: Catalog and Organize"
       },
@@ -12962,7 +14066,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/stepsapp-pedometer/id1037595083",
         "release_date": "2026-11-18T11:40:45Z",
-        "checked_at": "2026-11-23T22:01:57-05:00",
+        "checked_at": "2026-11-24T14:24:18-05:00",
         "track_id": 1037595083,
         "track_name": "StepsApp Pedometer"
       },
@@ -13067,7 +14171,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/podcast-app/id1199070742",
         "release_date": "2026-11-20T15:18:00Z",
-        "checked_at": "2026-11-23T22:01:57-05:00",
+        "checked_at": "2026-11-24T14:24:18-05:00",
         "track_id": 1199070742,
         "track_name": "Podcast App"
       },
@@ -13156,7 +14260,7 @@
         "is_paid": false,
         "store_url": null,
         "release_date": null,
-        "checked_at": "2026-11-24T02:02:06-05:00"
+        "checked_at": "2026-11-24T16:24:24-05:00"
       },
       "vipOnly": false,
       "vipMinTier": 0,
@@ -13258,7 +14362,7 @@
         "is_paid": false,
         "store_url": null,
         "release_date": null,
-        "checked_at": "2026-11-24T02:02:07-05:00"
+        "checked_at": "2026-11-24T16:24:25-05:00"
       },
       "vipOnly": false,
       "vipMinTier": 0,
@@ -13375,7 +14479,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/cash-app/id711923939",
         "release_date": "2026-11-16T18:15:24Z",
-        "checked_at": "2026-11-23T22:01:59-05:00",
+        "checked_at": "2026-11-24T14:24:20-05:00",
         "track_id": 711923939,
         "track_name": "Cash App"
       },
@@ -13486,7 +14590,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/invoice-simple-invoice-maker/id694831622",
         "release_date": "2026-11-18T14:42:12Z",
-        "checked_at": "2026-11-23T22:01:57-05:00",
+        "checked_at": "2026-11-24T14:24:18-05:00",
         "track_id": 694831622,
         "track_name": "Invoice Simple: Invoice Maker"
       },
@@ -13591,7 +14695,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/water-sort-puzzle/id1514542157",
         "release_date": "2026-11-18T04:41:12Z",
-        "checked_at": "2026-11-23T22:01:57-05:00",
+        "checked_at": "2026-11-24T14:24:18-05:00",
         "track_id": 1514542157,
         "track_name": "Water Sort Puzzle"
       },
@@ -13699,7 +14803,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/lyfta-gym-workout-tracker/id6443740936",
         "release_date": "2026-11-17T22:17:08Z",
-        "checked_at": "2026-11-23T22:01:54-05:00",
+        "checked_at": "2026-11-24T14:24:18-05:00",
         "track_id": 6443740936,
         "track_name": "Lyfta: Gym & Workout Tracker"
       },
@@ -13807,7 +14911,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/my-perfect-hotel/id1635760774",
         "release_date": "2026-11-17T11:59:41Z",
-        "checked_at": "2026-11-23T22:01:58-05:00",
+        "checked_at": "2026-11-24T14:24:19-05:00",
         "track_id": 1635760774,
         "track_name": "My Perfect Hotel"
       },
@@ -13917,7 +15021,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/pillow-sleep-tracker/id878691772",
         "release_date": "2026-11-19T08:17:55Z",
-        "checked_at": "2026-11-23T22:01:58-05:00",
+        "checked_at": "2026-11-24T14:24:19-05:00",
         "track_id": 878691772,
         "track_name": "Pillow: Sleep Tracker"
       },
@@ -14019,7 +15123,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/musicsmart-liner-notes/id1512195368",
         "release_date": "2026-11-18T21:45:43Z",
-        "checked_at": "2026-11-23T22:01:58-05:00",
+        "checked_at": "2026-11-24T14:24:19-05:00",
         "track_id": 1512195368,
         "track_name": "MusicSmart - Liner Notes"
       },
@@ -14126,7 +15230,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/live-transcribe/id1471473738",
         "release_date": "2026-11-19T05:32:25Z",
-        "checked_at": "2026-11-23T22:01:58-05:00",
+        "checked_at": "2026-11-24T14:24:19-05:00",
         "track_id": 1471473738,
         "track_name": "Live Transcribe"
       },
@@ -14517,7 +15621,7 @@
         "is_paid": false,
         "store_url": null,
         "release_date": null,
-        "checked_at": "2026-11-24T02:41:57-05:00"
+        "checked_at": "2026-11-24T16:45:17-05:00"
       },
       "vipOnly": false,
       "vipMinTier": 0,
@@ -14618,7 +15722,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/speak4me-text-to-speech-reader/id894460403",
         "release_date": "2026-11-20T20:51:42Z",
-        "checked_at": "2026-11-23T22:01:58-05:00",
+        "checked_at": "2026-11-24T14:24:19-05:00",
         "track_id": 894460403,
         "track_name": "Speak4Me Text to Speech Reader"
       },
@@ -14723,7 +15827,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/dune/id1291851950",
         "release_date": "2026-11-19T02:29:03Z",
-        "checked_at": "2026-11-23T22:01:58-05:00",
+        "checked_at": "2026-11-24T14:24:19-05:00",
         "track_id": 1291851950,
         "track_name": "Dune!"
       },
@@ -14827,7 +15931,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/bill-tracker-pro-budget-saver/id1059461492",
         "release_date": "2026-11-23T21:18:33Z",
-        "checked_at": "2026-11-23T22:01:58-05:00",
+        "checked_at": "2026-11-24T14:24:19-05:00",
         "track_id": 1059461492,
         "track_name": "Bill Tracker Pro: Budget Saver"
       },
@@ -14933,7 +16037,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/happy-glass/id1425793208",
         "release_date": "2026-09-10T18:47:12Z",
-        "checked_at": "2026-11-23T22:01:54-05:00",
+        "checked_at": "2026-11-24T14:24:19-05:00",
         "track_id": 1425793208,
         "track_name": "Happy Glass"
       },
@@ -15041,7 +16145,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/crossy-road/id924373886",
         "release_date": "2026-11-15T22:52:52Z",
-        "checked_at": "2026-11-23T22:01:58-05:00",
+        "checked_at": "2026-11-24T14:24:19-05:00",
         "track_id": 924373886,
         "track_name": "Crossy Road"
       },
@@ -15139,7 +16243,7 @@
         "is_paid": true,
         "store_url": "https://apps.apple.com/us/app/altos-odyssey/id1182456409",
         "release_date": "2026-11-02T07:31:04Z",
-        "checked_at": "2026-11-23T22:01:58-05:00",
+        "checked_at": "2026-11-24T14:24:19-05:00",
         "track_id": 1182456409,
         "track_name": "Alto's Odyssey"
       },
@@ -15240,7 +16344,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/tomb-of-the-mask-pixel-maze/id1057889290",
         "release_date": "2026-10-22T11:31:56Z",
-        "checked_at": "2026-11-23T22:01:58-05:00",
+        "checked_at": "2026-11-24T14:24:19-05:00",
         "track_id": 1057889290,
         "track_name": "Tomb of the Mask: Pixel Maze"
       },
@@ -15331,7 +16435,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/traffic-racer/id547101139",
         "release_date": "2025-12-17T20:27:21Z",
-        "checked_at": "2026-11-23T22:01:58-05:00",
+        "checked_at": "2026-11-24T14:24:19-05:00",
         "track_id": 547101139,
         "track_name": "Traffic Racer"
       },
@@ -15428,7 +16532,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/smash-hit/id603527166",
         "release_date": "2026-04-07T06:28:18Z",
-        "checked_at": "2026-11-23T22:01:58-05:00",
+        "checked_at": "2026-11-24T14:24:19-05:00",
         "track_id": 603527166,
         "track_name": "Smash Hit"
       },
@@ -15544,7 +16648,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/ifttt-ai-automation-made-easy/id660944635",
         "release_date": "2026-11-19T10:10:01Z",
-        "checked_at": "2026-11-23T22:01:58-05:00",
+        "checked_at": "2026-11-24T14:24:19-05:00",
         "track_id": 660944635,
         "track_name": "IFTTT.ai: Automation made easy"
       },
@@ -15641,7 +16745,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/vocal-remover-ai-separator/id6535669222",
         "release_date": "2026-08-25T12:33:25Z",
-        "checked_at": "2026-11-23T22:01:54-05:00",
+        "checked_at": "2026-11-24T14:24:19-05:00",
         "track_id": 6535669222,
         "track_name": "Vocal Remover & AI Separator"
       },
@@ -15745,7 +16849,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/ai-song-maker-soniva-music/id6502906463",
         "release_date": "2026-11-23T06:38:49Z",
-        "checked_at": "2026-11-23T22:01:58-05:00",
+        "checked_at": "2026-11-24T14:24:19-05:00",
         "track_id": 6502906463,
         "track_name": "AI Song Maker - Soniva Music"
       },
@@ -15847,7 +16951,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/elevenreader-read-books-aloud/id6479373050",
         "release_date": "2026-11-18T13:24:23Z",
-        "checked_at": "2026-11-23T22:01:54-05:00",
+        "checked_at": "2026-11-24T14:24:20-05:00",
         "track_id": 6479373050,
         "track_name": "ElevenReader: Read Books Aloud"
       },
@@ -15952,7 +17056,7 @@
         "is_paid": true,
         "store_url": "https://apps.apple.com/us/app/incognito-private-browser/id1490656387",
         "release_date": "2026-10-12T17:23:16Z",
-        "checked_at": "2026-11-23T22:01:58-05:00",
+        "checked_at": "2026-11-24T14:24:20-05:00",
         "track_id": 1490656387,
         "track_name": "Incognito \u2014 Private Browser"
       },
@@ -16059,7 +17163,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/egg-inc/id993492744",
         "release_date": "2026-08-22T17:33:10Z",
-        "checked_at": "2026-11-23T22:01:58-05:00",
+        "checked_at": "2026-11-24T14:24:20-05:00",
         "track_id": 993492744,
         "track_name": "Egg, Inc."
       },
@@ -16166,7 +17270,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/gold-digger-frvr-deep-mining/id1537809296",
         "release_date": "2025-06-12T16:00:32Z",
-        "checked_at": "2026-11-23T22:01:58-05:00",
+        "checked_at": "2026-11-24T14:24:20-05:00",
         "track_id": 1537809296,
         "track_name": "Gold Digger FRVR - Deep Mining"
       },
@@ -16270,7 +17374,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/reverse-image-search-ai-lens/id1003144513",
         "release_date": "2026-09-20T11:54:25Z",
-        "checked_at": "2026-11-23T22:01:58-05:00",
+        "checked_at": "2026-11-24T14:24:20-05:00",
         "track_id": 1003144513,
         "track_name": "Reverse Image Search & AI Lens"
       },
@@ -16372,7 +17476,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/napbot-auto-sleep-tracker/id1476436116",
         "release_date": "2025-09-11T16:49:17Z",
-        "checked_at": "2026-11-23T22:01:54-05:00",
+        "checked_at": "2026-11-24T14:24:20-05:00",
         "track_id": 1476436116,
         "track_name": "NapBot - Auto Sleep Tracker"
       },
@@ -16471,7 +17575,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/parcel-delivery-tracking/id375589283",
         "release_date": "2026-11-16T18:50:21Z",
-        "checked_at": "2026-11-23T22:01:54-05:00",
+        "checked_at": "2026-11-24T14:24:20-05:00",
         "track_id": 375589283,
         "track_name": "Parcel - Delivery Tracking"
       },
@@ -17364,7 +18468,7 @@
         "is_paid": true,
         "store_url": "https://apps.apple.com/us/app/procreate-pocket/id916366645",
         "release_date": "2026-10-30T23:12:43Z",
-        "checked_at": "2026-11-23T22:01:59-05:00",
+        "checked_at": "2026-11-24T14:24:20-05:00",
         "track_id": 916366645,
         "track_name": "Procreate Pocket"
       },
@@ -17474,7 +18578,7 @@
         "is_paid": false,
         "store_url": null,
         "release_date": null,
-        "checked_at": "2026-11-24T02:02:07-05:00"
+        "checked_at": "2026-11-24T16:24:25-05:00"
       },
       "vipOnly": false,
       "vipMinTier": 0,
@@ -17569,7 +18673,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/mini-metro/id1550663539",
         "release_date": "2026-10-21T21:09:02Z",
-        "checked_at": "2026-11-23T22:01:59-05:00",
+        "checked_at": "2026-11-24T14:24:20-05:00",
         "track_id": 1550663539,
         "track_name": "Mini Metro+"
       },
@@ -17671,7 +18775,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/turmoil/id6446276883",
         "release_date": "2026-06-17T21:49:01Z",
-        "checked_at": "2026-11-23T22:01:59-05:00",
+        "checked_at": "2026-11-24T14:24:20-05:00",
         "track_id": 6446276883,
         "track_name": "Turmoil+"
       },
@@ -18036,7 +19140,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/voice-recorder-ai-notes-spiik/id6451387537",
         "release_date": "2026-11-21T14:23:59Z",
-        "checked_at": "2026-11-23T22:01:54-05:00",
+        "checked_at": "2026-11-24T14:24:20-05:00",
         "track_id": 6451387537,
         "track_name": "Voice Recorder AI Notes: Spiik"
       },
@@ -18137,7 +19241,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/magic-sort/id6499209744",
         "release_date": "2026-11-20T20:26:05Z",
-        "checked_at": "2026-11-23T22:01:54-05:00",
+        "checked_at": "2026-11-24T14:24:20-05:00",
         "track_id": 6499209744,
         "track_name": "Magic Sort!"
       },
@@ -18172,26 +19276,26 @@
       "developerName": "ryukgram team",
       "subtitle": "Features: General Hide ads and Meta AI Hide the TestFlight popup and turn off app haptics Always mute keeps ev",
       "localizedDescription": "Ryukgram (Hacked) v453.0.0 (332.10 MB) \u2014 Sidelix App Store release.",
-      "iconURL": "https://apps.nabzclan.vip/images/1795231984_4951.webp",
+      "iconURL": "https://apps.nabzclan.vip/images/1795512720_5133.webp",
       "tintColor": "#2ecc71",
       "category": "utilities",
       "screenshots": [
-        "https://apps.nabzclan.vip/screenshots/17952319842501627.webp",
-        "https://apps.nabzclan.vip/screenshots/17952319847799550.webp",
-        "https://apps.nabzclan.vip/screenshots/17952319842295122.webp",
-        "https://apps.nabzclan.vip/screenshots/17952319848695249.webp",
-        "https://apps.nabzclan.vip/screenshots/17952319842517896.webp",
-        "https://apps.nabzclan.vip/screenshots/17952319852933887.webp",
-        "https://apps.nabzclan.vip/screenshots/17952319856206704.webp"
+        "https://apps.nabzclan.vip/screenshots/17955127208217274.webp",
+        "https://apps.nabzclan.vip/screenshots/17955127201789916.webp",
+        "https://apps.nabzclan.vip/screenshots/17955127203907003.webp",
+        "https://apps.nabzclan.vip/screenshots/17955127215243368.webp",
+        "https://apps.nabzclan.vip/screenshots/17955127213792017.webp",
+        "https://apps.nabzclan.vip/screenshots/17955127213173423.webp",
+        "https://apps.nabzclan.vip/screenshots/17955127212055975.webp"
       ],
       "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17952319842501627.webp",
-        "https://apps.nabzclan.vip/screenshots/17952319847799550.webp",
-        "https://apps.nabzclan.vip/screenshots/17952319842295122.webp",
-        "https://apps.nabzclan.vip/screenshots/17952319848695249.webp",
-        "https://apps.nabzclan.vip/screenshots/17952319842517896.webp",
-        "https://apps.nabzclan.vip/screenshots/17952319852933887.webp",
-        "https://apps.nabzclan.vip/screenshots/17952319856206704.webp"
+        "https://apps.nabzclan.vip/screenshots/17955127208217274.webp",
+        "https://apps.nabzclan.vip/screenshots/17955127201789916.webp",
+        "https://apps.nabzclan.vip/screenshots/17955127203907003.webp",
+        "https://apps.nabzclan.vip/screenshots/17955127215243368.webp",
+        "https://apps.nabzclan.vip/screenshots/17955127213792017.webp",
+        "https://apps.nabzclan.vip/screenshots/17955127213173423.webp",
+        "https://apps.nabzclan.vip/screenshots/17955127212055975.webp"
       ],
       "appPermissions": {
         "entitlements": [],
@@ -18217,9 +19321,9 @@
       },
       "version": "453.0.0",
       "versionDate": "2026-11-20T22:33:04-05:00",
-      "versionDescription": "Ryukgram (Hacked) v453.0.0 (332.10 MB) \u2014 Sidelix App Store release.",
+      "versionDescription": "Ryukgram (Hacked) v456.0.0 (366.40 MB) \u2014 Sidelix App Store release.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/23/app_23_nabzclan_sidelix.ipa",
-      "size": 348727545,
+      "size": 384199752,
       "type": 1,
       "badges": [
         {
@@ -18246,7 +19350,7 @@
         "found": true,
         "bundleIdentifier": "com.burbn.instagram",
         "latest_version": "457.0.0",
-        "repo_version": "453.0.0",
+        "repo_version": "456.0.0",
         "up_to_date": false,
         "update_available": true,
         "status": "update_available",
@@ -18254,7 +19358,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/instagram/id389801252",
         "release_date": "2026-11-23T13:20:47Z",
-        "checked_at": "2026-11-23T22:01:54-05:00",
+        "checked_at": "2026-11-24T14:24:20-05:00",
         "track_id": 389801252,
         "track_name": "Instagram"
       },
@@ -18274,9 +19378,9 @@
         "disableAdCode": false,
         "vipMessage": null
       },
-      "buildVersion": "1099096960",
+      "buildVersion": "1",
       "date": "2026-11-20T22:33:04-05:00",
-      "minOSVersion": "16.3",
+      "minOSVersion": "14.0",
       "__source": "https://apps.nabzclan.vip/repos/esign.php",
       "__mirrors": [],
       "__stores": [
@@ -18368,7 +19472,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/x/id333903271",
         "release_date": "2026-11-22T16:20:03Z",
-        "checked_at": "2026-11-23T22:01:54-05:00",
+        "checked_at": "2026-11-24T14:24:21-05:00",
         "track_id": 333903271,
         "track_name": "X"
       },
@@ -18472,7 +19576,7 @@
         "is_paid": false,
         "store_url": null,
         "release_date": null,
-        "checked_at": "2026-11-24T02:02:07-05:00"
+        "checked_at": "2026-11-24T16:24:25-05:00"
       },
       "vipOnly": false,
       "vipMinTier": 0,
@@ -19935,7 +21039,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/cooking-diary-restaurant-game/id1214763610",
         "release_date": "2026-11-23T23:32:39Z",
-        "checked_at": "2026-11-23T22:01:59-05:00",
+        "checked_at": "2026-11-24T14:24:21-05:00",
         "track_id": 1214763610,
         "track_name": "Cooking Diary\u00ae Restaurant Game"
       },
@@ -20168,7 +21272,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/sea-battle-2/id913173849",
         "release_date": "2026-11-20T18:46:15Z",
-        "checked_at": "2026-11-23T22:01:59-05:00",
+        "checked_at": "2026-11-24T14:24:21-05:00",
         "track_id": 913173849,
         "track_name": "Sea Battle 2"
       },
@@ -20277,7 +21381,7 @@
         "is_paid": false,
         "store_url": null,
         "release_date": null,
-        "checked_at": "2026-11-24T02:02:07-05:00"
+        "checked_at": "2026-11-24T16:24:13-05:00"
       },
       "vipOnly": false,
       "vipMinTier": 0,
@@ -20299,242 +21403,6 @@
       "buildVersion": "1",
       "date": "2026-11-18T10:08:49-05:00",
       "minOSVersion": "15.0",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "Minecraft (Free Paid)",
-      "bundleIdentifier": "com.mojang.minecraftpe",
-      "developerName": "NabzClan",
-      "subtitle": "Dive into an open world of building, crafting and survival. Gather resources, survive the night, and build wha",
-      "localizedDescription": "Minecraft (Free Paid) v26.62 (664.57 MB) \u2014 Sidelix App Store release.",
-      "iconURL": "https://apps.nabzclan.vip/images/1795014482_5927.webp",
-      "tintColor": "#2ecc71",
-      "category": "utilities",
-      "screenshots": [
-        "https://apps.nabzclan.vip/screenshots/17950144824226148.webp",
-        "https://apps.nabzclan.vip/screenshots/17950144828447054.webp",
-        "https://apps.nabzclan.vip/screenshots/17950144825493779.webp",
-        "https://apps.nabzclan.vip/screenshots/17950144826973020.webp",
-        "https://apps.nabzclan.vip/screenshots/17950144829469351.webp",
-        "https://apps.nabzclan.vip/screenshots/17950144823240575.webp"
-      ],
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17950144824226148.webp",
-        "https://apps.nabzclan.vip/screenshots/17950144828447054.webp",
-        "https://apps.nabzclan.vip/screenshots/17950144825493779.webp",
-        "https://apps.nabzclan.vip/screenshots/17950144826973020.webp",
-        "https://apps.nabzclan.vip/screenshots/17950144829469351.webp",
-        "https://apps.nabzclan.vip/screenshots/17950144823240575.webp"
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSCameraUsageDescription": "Used for Live Broadcast",
-          "NSContactsUsageDescription": "When you use the Xbox Live Friend Finder, it will access your contacts to help you find your friends.",
-          "NSLocalNetworkUsageDescription": "Minecraft wants to access your local network. This allows you and others on your local network to play together. Declining this permission does not affect online features or gameplay. But will prevent you and others, on the same network, from playing together.",
-          "NSMicrophoneUsageDescription": "Used for Live Broadcast",
-          "NSPhotoLibraryAddUsageDescription": "Used to read and write Minecraft images.",
-          "NSPhotoLibraryUsageDescription": "Used to read and write Minecraft images.",
-          "NSUserTrackingUsageDescription": "Your data will be used to track advertising efficiency."
-        }
-      },
-      "version": "26.62",
-      "versionDate": "2026-11-18T10:08:02-05:00",
-      "versionDescription": "Minecraft (Free Paid) v26.62 (664.57 MB) \u2014 Sidelix App Store release.",
-      "downloadURL": "https://appstore.sidelix.vip/repos/download/9/app_9_nabzclan_sidelix.ipa",
-      "size": 697433272,
-      "type": 1,
-      "badges": [
-        {
-          "key": "latest",
-          "label": "Latest Version",
-          "color": "#2ecc71",
-          "icon": "checkmark.seal.fill"
-        },
-        {
-          "key": "paid_free",
-          "label": "Paid ($6.99) Free",
-          "color": "#e74c3c",
-          "icon": "gift.fill"
-        },
-        {
-          "key": "featured",
-          "label": "Featured",
-          "color": "#3498db",
-          "icon": "star.fill"
-        },
-        {
-          "key": "no_guest",
-          "label": "Account Required \u00b7 No Guest",
-          "color": "#6366f1",
-          "icon": "person.crop.circle.badge.xmark"
-        },
-        {
-          "key": "no_adcode",
-          "label": "No AdCode Required",
-          "color": "#10b981",
-          "icon": "bolt.fill"
-        },
-        {
-          "key": "sidelix_verified",
-          "label": "Sidelix Verified",
-          "color": "#16a085",
-          "icon": "shield.lefthalf.filled"
-        }
-      ],
-      "latest_appstore_app": {
-        "checked": true,
-        "found": true,
-        "bundleIdentifier": "com.mojang.minecraftpe",
-        "latest_version": "26.62",
-        "repo_version": "26.62",
-        "up_to_date": true,
-        "update_available": false,
-        "status": "up_to_date",
-        "price": "$6.99",
-        "is_paid": true,
-        "store_url": "https://apps.apple.com/us/app/minecraft-play-with-friends/id479516143",
-        "release_date": "2026-11-04T20:19:36Z",
-        "checked_at": "2026-11-23T22:01:59-05:00",
-        "track_id": 479516143,
-        "track_name": "Minecraft: Play with Friends!"
-      },
-      "vipOnly": false,
-      "vipMinTier": 0,
-      "freeAccess": false,
-      "disableGuest": true,
-      "disableGuestAds": false,
-      "disableAdCode": true,
-      "popupAccess": {
-        "vipOnly": false,
-        "vipMinTier": 0,
-        "freeAccess": false,
-        "freeAccessMessage": null,
-        "disableGuest": true,
-        "disableGuestAds": false,
-        "disableAdCode": true,
-        "vipMessage": null
-      },
-      "bannerURL": "https://apps.nabzclan.vip/images/sliders/1794965786_8565.webp",
-      "buildVersion": "1.26.62.01",
-      "date": "2026-11-18T10:08:02-05:00",
-      "minOSVersion": "15.0",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
-      "name": "YouTube plus (Hacked)",
-      "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "PoomSmart",
-      "subtitle": "Features: \u2022 no ads \u2022 120Hz screen recording trail \u2022 YTPiP 1.12.15 Picture-in-Picture \u2022 YTKACE 1.1.8 \u2022 YTHUD 2.",
-      "localizedDescription": "YouTube plus (Hacked) v21.45.4 (157.00 MB) \u2014 Sidelix App Store release.",
-      "iconURL": "https://apps.nabzclan.vip/images/1794980048_8640.webp",
-      "tintColor": "#2ecc71",
-      "category": "utilities",
-      "screenshots": [
-        "https://apps.nabzclan.vip/screenshots/17949800489711764.webp",
-        "https://apps.nabzclan.vip/screenshots/17949800481529961.webp",
-        "https://apps.nabzclan.vip/screenshots/17949800488487368.webp",
-        "https://apps.nabzclan.vip/screenshots/17949800482544281.webp",
-        "https://apps.nabzclan.vip/screenshots/17949800488289673.webp"
-      ],
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17949800489711764.webp",
-        "https://apps.nabzclan.vip/screenshots/17949800481529961.webp",
-        "https://apps.nabzclan.vip/screenshots/17949800488487368.webp",
-        "https://apps.nabzclan.vip/screenshots/17949800482544281.webp",
-        "https://apps.nabzclan.vip/screenshots/17949800488289673.webp"
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSAppleMusicUsageDescription": "This lets you add your own audio files to your videos.",
-          "NSBluetoothPeripheralUsageDescription": "YouTube needs bluetooth access to scan for nearby Cast devices.",
-          "NSCameraUsageDescription": "This lets you create videos using the app.",
-          "NSContactsUsageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with.",
-          "NSLocalNetworkUsageDescription": "Access to your network allows YouTube to discover and connect to devices such as your TV.",
-          "NSLocationWhenInUseUsageDescription": "This enables local content discovery, improved recommendations, and enhanced search results.",
-          "NSMicrophoneUsageDescription": "This lets you include audio with your videos and search using your voice.",
-          "NSPhotoLibraryUsageDescription": "This lets you upload media you've already created.",
-          "NSUserTrackingUsageDescription": "To personalize ads and provide ad measurement, YouTube will link activity from this app with activity from non-Google apps and websites."
-        }
-      },
-      "version": "21.45.4",
-      "versionDate": "2026-11-18T00:34:07-05:00",
-      "versionDescription": "YouTube plus (Hacked) v21.45.4 (157.00 MB) \u2014 Sidelix App Store release.",
-      "downloadURL": "https://appstore.sidelix.vip/repos/download/7/app_7_nabzclan_sidelix.ipa",
-      "size": 165205546,
-      "type": 1,
-      "badges": [
-        {
-          "key": "needs_update",
-          "label": "Needs Update (v21.47.6)",
-          "color": "#f39c12",
-          "icon": "arrow.triangle.2.circlepath"
-        },
-        {
-          "key": "free",
-          "label": "Free",
-          "color": "#27ae60",
-          "icon": "checkmark.circle.fill"
-        },
-        {
-          "key": "featured",
-          "label": "Featured",
-          "color": "#3498db",
-          "icon": "star.fill"
-        },
-        {
-          "key": "sidelix_verified",
-          "label": "Sidelix Verified",
-          "color": "#16a085",
-          "icon": "shield.lefthalf.filled"
-        }
-      ],
-      "latest_appstore_app": {
-        "checked": true,
-        "found": true,
-        "bundleIdentifier": "com.google.ios.youtube",
-        "latest_version": "21.47.6",
-        "repo_version": "21.45.4",
-        "up_to_date": false,
-        "update_available": true,
-        "status": "update_available",
-        "price": "Free",
-        "is_paid": false,
-        "store_url": "https://apps.apple.com/us/app/youtube/id544007664",
-        "release_date": "2026-11-22T17:10:41Z",
-        "checked_at": "2026-11-23T22:01:55-05:00",
-        "track_id": 544007664,
-        "track_name": "YouTube"
-      },
-      "vipOnly": false,
-      "vipMinTier": 0,
-      "freeAccess": false,
-      "disableGuest": false,
-      "disableGuestAds": false,
-      "disableAdCode": false,
-      "popupAccess": {
-        "vipOnly": false,
-        "vipMinTier": 0,
-        "freeAccess": false,
-        "freeAccessMessage": null,
-        "disableGuest": false,
-        "disableGuestAds": false,
-        "disableAdCode": false,
-        "vipMessage": null
-      },
-      "bannerURL": "https://apps.nabzclan.vip/images/sliders/1794967009_1026.webp",
-      "buildVersion": "21.45.4",
-      "date": "2026-11-18T00:34:07-05:00",
-      "minOSVersion": "17.0",
       "__source": "https://apps.nabzclan.vip/repos/esign.php",
       "__mirrors": [],
       "__stores": [
@@ -20626,7 +21494,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/tiktok-videos-shop-live/id835599320",
         "release_date": "2026-11-23T23:15:49Z",
-        "checked_at": "2026-11-23T22:01:59-05:00",
+        "checked_at": "2026-11-24T14:24:21-05:00",
         "track_id": 835599320,
         "track_name": "TikTok - Videos, Shop & LIVE"
       },
@@ -20738,7 +21606,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/roblox/id431946152",
         "release_date": "2026-11-18T17:48:51Z",
-        "checked_at": "2026-11-23T22:01:55-05:00",
+        "checked_at": "2026-11-24T14:24:21-05:00",
         "track_id": 431946152,
         "track_name": "Roblox"
       },
@@ -21506,121 +22374,6 @@
       ]
     },
     {
-      "name": "Spotify - Eevee (Hacked)",
-      "bundleIdentifier": "com.spotify.client",
-      "developerName": "jaydenjcpy",
-      "subtitle": "This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife,",
-      "localizedDescription": "Spotify - Eevee (Hacked) v9.2.0 (144.14 MB) \u2014 Sidelix App Store release.",
-      "iconURL": "https://apps.nabzclan.vip/images/1794977975_3611.webp",
-      "tintColor": "#2ecc71",
-      "category": "utilities",
-      "screenshots": [
-        "https://apps.nabzclan.vip/screenshots/17949779758320195.webp",
-        "https://apps.nabzclan.vip/screenshots/17949779759057830.webp",
-        "https://apps.nabzclan.vip/screenshots/17949779758535737.webp",
-        "https://apps.nabzclan.vip/screenshots/17949779751126200.webp",
-        "https://apps.nabzclan.vip/screenshots/17949779756043296.webp",
-        "https://apps.nabzclan.vip/screenshots/17949779755902197.webp"
-      ],
-      "screenshotURLs": [
-        "https://apps.nabzclan.vip/screenshots/17949779758320195.webp",
-        "https://apps.nabzclan.vip/screenshots/17949779759057830.webp",
-        "https://apps.nabzclan.vip/screenshots/17949779758535737.webp",
-        "https://apps.nabzclan.vip/screenshots/17949779751126200.webp",
-        "https://apps.nabzclan.vip/screenshots/17949779756043296.webp",
-        "https://apps.nabzclan.vip/screenshots/17949779755902197.webp"
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSAppleMusicUsageDescription": "This will let you play your imported music on Spotify.",
-          "NSBluetoothAlwaysUsageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth.",
-          "NSCalendarsUsageDescription": "This lets Spotify view and add events to your calendar.",
-          "NSCalendarsWriteOnlyAccessUsageDescription": "This lets Spotify add events to your calendar.",
-          "NSCameraUsageDescription": "This lets you use your camera to scan or upload images.",
-          "NSContactsUsageDescription": "This lets Spotify access calendars you may have shared with your contacts.",
-          "NSFaceIDUsageDescription": "This lets you set access restrictions using Face ID.",
-          "NSHealthShareUsageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
-          "NSHealthUpdateUsageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
-          "NSLocalNetworkUsageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files.",
-          "NSLocationWhenInUseUsageDescription": "Your location is used to improve your recommendations and experience on Spotify.",
-          "NSMicrophoneUsageDescription": "This lets you control Spotify using your voice.",
-          "NSMotionUsageDescription": "We will use this to understand which audio motivates you most.",
-          "NSPhotoLibraryAddUsageDescription": "This lets you save images to your Photo Library.",
-          "NSPhotoLibraryUsageDescription": "This lets you select images from your Photo Library.",
-          "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads or content to you."
-        }
-      },
-      "version": "9.2.0",
-      "versionDate": "2026-11-17T23:59:24-05:00",
-      "versionDescription": "Spotify - Eevee (Hacked) v9.2.0 (144.14 MB) \u2014 Sidelix App Store release.",
-      "downloadURL": "https://appstore.sidelix.vip/repos/download/18/app_18_nabzclan_sidelix.ipa",
-      "size": 151721530,
-      "type": 1,
-      "badges": [
-        {
-          "key": "needs_update",
-          "label": "Needs Update (v9.2.2)",
-          "color": "#f39c12",
-          "icon": "arrow.triangle.2.circlepath"
-        },
-        {
-          "key": "free",
-          "label": "Free",
-          "color": "#27ae60",
-          "icon": "checkmark.circle.fill"
-        },
-        {
-          "key": "sidelix_verified",
-          "label": "Sidelix Verified",
-          "color": "#16a085",
-          "icon": "shield.lefthalf.filled"
-        }
-      ],
-      "latest_appstore_app": {
-        "checked": true,
-        "found": true,
-        "bundleIdentifier": "com.spotify.client",
-        "latest_version": "9.2.2",
-        "repo_version": "9.2.0",
-        "up_to_date": false,
-        "update_available": true,
-        "status": "update_available",
-        "price": "Free",
-        "is_paid": false,
-        "store_url": "https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580",
-        "release_date": "2026-11-20T07:17:17Z",
-        "checked_at": "2026-11-23T22:01:58-05:00",
-        "track_id": 324684580,
-        "track_name": "Spotify: Music and Podcasts"
-      },
-      "vipOnly": false,
-      "vipMinTier": 0,
-      "freeAccess": false,
-      "disableGuest": false,
-      "disableGuestAds": false,
-      "disableAdCode": false,
-      "popupAccess": {
-        "vipOnly": false,
-        "vipMinTier": 0,
-        "freeAccess": false,
-        "freeAccessMessage": null,
-        "disableGuest": false,
-        "disableGuestAds": false,
-        "disableAdCode": false,
-        "vipMessage": null
-      },
-      "bannerURL": "https://apps.nabzclan.vip/images/sliders/1794977649_6817.webp",
-      "buildVersion": "920002054",
-      "date": "2026-11-17T23:59:24-05:00",
-      "minOSVersion": "15.0",
-      "__source": "https://apps.nabzclan.vip/repos/esign.php",
-      "__mirrors": [],
-      "__stores": [
-        "ESign"
-      ]
-    },
-    {
       "name": "Terraria",
       "bundleIdentifier": "com.505games.terraria",
       "developerName": "NabzClan",
@@ -21690,7 +22443,7 @@
         "is_paid": true,
         "store_url": "https://apps.apple.com/us/app/terraria/id640364616",
         "release_date": "2026-09-17T15:05:10Z",
-        "checked_at": "2026-11-23T22:01:55-05:00",
+        "checked_at": "2026-11-24T14:24:21-05:00",
         "track_id": 640364616,
         "track_name": "Terraria"
       },
@@ -22252,7 +23005,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/my-dear-farm/id6668861713",
         "release_date": "2026-11-10T15:58:20Z",
-        "checked_at": "2026-11-23T22:01:55-05:00",
+        "checked_at": "2026-11-24T14:24:21-05:00",
         "track_id": 6668861713,
         "track_name": "My Dear Farm+"
       },
@@ -22349,7 +23102,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/stardew-valley/id6449264810",
         "release_date": "2025-06-05T16:38:30Z",
-        "checked_at": "2026-11-23T22:01:59-05:00",
+        "checked_at": "2026-11-24T14:24:21-05:00",
         "track_id": 6449264810,
         "track_name": "Stardew Valley+"
       },
@@ -22446,7 +23199,7 @@
         "is_paid": true,
         "store_url": "https://apps.apple.com/us/app/stardew-valley/id1406710800",
         "release_date": "2026-03-19T00:31:54Z",
-        "checked_at": "2026-11-23T22:01:59-05:00",
+        "checked_at": "2026-11-24T14:24:21-05:00",
         "track_id": 1406710800,
         "track_name": "Stardew Valley"
       },
@@ -22544,7 +23297,7 @@
         "is_paid": true,
         "store_url": "https://apps.apple.com/us/app/getting-over-it/id1319618742",
         "release_date": "2021-07-26T14:27:13Z",
-        "checked_at": "2026-11-23T22:01:55-05:00",
+        "checked_at": "2026-11-24T14:24:21-05:00",
         "track_id": 1319618742,
         "track_name": "Getting Over It"
       },
@@ -22649,7 +23402,7 @@
         "is_paid": true,
         "store_url": "https://apps.apple.com/us/app/shadowrocket/id932747118",
         "release_date": "2026-10-29T03:15:39Z",
-        "checked_at": "2026-11-23T22:01:55-05:00",
+        "checked_at": "2026-11-24T14:24:22-05:00",
         "track_id": 932747118,
         "track_name": "Shadowrocket"
       },
@@ -22751,7 +23504,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/brain-test-tricky-puzzles/id1486214495",
         "release_date": "2026-11-19T09:24:36Z",
-        "checked_at": "2026-11-23T22:01:55-05:00",
+        "checked_at": "2026-11-24T14:24:22-05:00",
         "track_id": 1486214495,
         "track_name": "Brain Test: Tricky Puzzles"
       },
@@ -22865,7 +23618,7 @@
         "is_paid": true,
         "store_url": "https://apps.apple.com/us/app/alpin-quest-pro-outdoor-gps/id6760764479",
         "release_date": "2026-11-23T23:30:35Z",
-        "checked_at": "2026-11-23T22:01:55-05:00",
+        "checked_at": "2026-11-24T14:24:22-05:00",
         "track_id": 6760764479,
         "track_name": "Alpin Quest PRO \u2013 Outdoor GPS"
       },

@@ -4,30 +4,9 @@
   "subtitle": "Auto-merged from 43 AltStore/ESign sources. Local download URLs provided for cached files.",
   "description": "Deduplicates by (name, bundleIdentifier, version). downloadURL points to local repo copy if available, otherwise original URL. Downloads newest first; resumes from last run.",
   "iconURL": "https://avatars.githubusercontent.com/u/57844837",
-  "appCount": 14027,
+  "appCount": 14035,
   "sourceCount": 43,
   "apps": [
-    {
-      "name": "Fitia",
-      "type": 1,
-      "bundleID": "com.ulisesolave.Fitia",
-      "bundleIdentifier": "com.ulisesolave.Fitia",
-      "version": "25.4.1",
-      "versionDate": "2026-11-28",
-      "fullDate": "20261128002733",
-      "size": 123028093,
-      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-11-2026/Fitia_25.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-11-2026/Fitia_25.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "developerName": "",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ulisesolave.Fitia.png",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ulisesolave.Fitia.png",
-      "__source": "https://repository.apptesters.org",
-      "__mirrors": [],
-      "__stores": [
-        "AltStore"
-      ]
-    },
     {
       "name": "iCube",
       "bundleIdentifier": "com.joemattiello.iCube",
@@ -48,15 +27,311 @@
         "https://icube-emu.com/screenshots/iphone/shaders.jpg"
       ],
       "version": "1.0.0",
-      "buildVersion": "657",
-      "date": "2026-11-27T10:07:28.040Z",
-      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-657/Non-Jailbroken.ipa",
-      "size": 141536877,
+      "buildVersion": "661",
+      "date": "2026-11-28T03:40:33.233Z",
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-661/Non-Jailbroken.ipa",
+      "size": 141950535,
       "minOSVersion": "17.0",
       "platform": "iOS",
       "isBeta": true,
-      "versionDate": "2026-11-27T10:07:28.040Z",
+      "versionDate": "2026-11-28T03:40:33.233Z",
       "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Provenance Alpha",
+      "bundleIdentifier": "org.provenance-emu.provenance.alpha",
+      "developerName": "Provenance-EMU",
+      "subtitle": "Latest dev builds - test new features early",
+      "localizedDescription": "Alpha build a2623d7 \u00b7 2026-11-28\n\nChanges in this build:\n\u2022 chore(bezels): SkinKit 0.11.0; the TV switcher offers the Seat (#3865)\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
+      "iconURL": "https://raw.githubusercontent.com/Provenance-Emu/Provenance/develop/Provenance/Resources/Assets.xcassets/AppIcon.appiconset/iTunesArtwork%402x.png",
+      "tintColor": "FF6B35",
+      "screenshotURLs": [],
+      "appPermissions": {
+        "entitlements": [
+          {
+            "name": "com.apple.security.application-groups"
+          },
+          {
+            "name": "com.apple.developer.icloud-services"
+          },
+          {
+            "name": "com.apple.developer.icloud-container-identifiers"
+          }
+        ],
+        "privacy": [
+          {
+            "name": "LocalNetwork",
+            "usageDescription": "Used to discover and connect to local network game servers for netplay."
+          },
+          {
+            "name": "Camera",
+            "usageDescription": "Used to scan QR codes for importing game data."
+          }
+        ]
+      },
+      "version": "3.4.0",
+      "buildVersion": "11348",
+      "marketingVersion": "3.4.0-alpha.20261128.a2623d7",
+      "date": "2026-11-28",
+      "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
+      "size": 787498221,
+      "minOSVersion": "17.0",
+      "versionDate": "2026-11-28",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iCube",
+      "bundleIdentifier": "com.joemattiello.iCube",
+      "developerName": "Provenance Emu",
+      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
+      "localizedDescription": "iCube 1.0.0-beta9-ios Beta 9 for iOS",
+      "iconURL": "https://icube-emu.com/icon-1024.png",
+      "tintColor": "#3B82F6",
+      "category": "games",
+      "screenshots": [
+        "https://icube-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://icube-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://icube-emu.com/screenshots/2026-11/iphone/trinitron.jpg",
+        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
+        "https://icube-emu.com/screenshots/iphone/search.jpg",
+        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
+        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
+        "https://icube-emu.com/screenshots/iphone/shaders.jpg"
+      ],
+      "version": "1.0.0-beta9-ios",
+      "buildVersion": "1.0.0-beta9-ios",
+      "date": "2026-11-28",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/iCube.ipa",
+      "size": 82799373,
+      "minOSVersion": "15.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "betaNumber": 9,
+      "versionDate": "2026-11-28",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ],
+      "__hash_duplicates": [
+        {
+          "name": "iCube",
+          "bundleIdentifier": "com.joemattiello.iCube",
+          "version": "1.0.0-beta9-ios"
+        },
+        {
+          "name": "iCube",
+          "bundleIdentifier": "com.joemattiello.iCube",
+          "version": "1.0.0-beta8-ios"
+        }
+      ]
+    },
+    {
+      "name": "iCube",
+      "bundleIdentifier": "com.joemattiello.iCube",
+      "developerName": "Provenance Emu",
+      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
+      "localizedDescription": "iCube 1.0.0-beta8-ios Beta 8 for iOS",
+      "iconURL": "https://icube-emu.com/icon-1024.png",
+      "tintColor": "#3B82F6",
+      "category": "games",
+      "screenshots": [
+        "https://icube-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://icube-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://icube-emu.com/screenshots/2026-11/iphone/trinitron.jpg",
+        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
+        "https://icube-emu.com/screenshots/iphone/search.jpg",
+        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
+        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
+        "https://icube-emu.com/screenshots/iphone/shaders.jpg"
+      ],
+      "version": "1.0.0-beta8-ios",
+      "buildVersion": "1.0.0-beta8-ios",
+      "date": "2026-11-28",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/iCube.ipa",
+      "size": 82893911,
+      "minOSVersion": "15.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "betaNumber": 8,
+      "versionDate": "2026-11-28",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ],
+      "__hash_duplicates": [
+        {
+          "name": "iCube",
+          "bundleIdentifier": "com.joemattiello.iCube",
+          "version": "1.0.0-beta9-ios"
+        }
+      ]
+    },
+    {
+      "name": "iCube",
+      "bundleIdentifier": "com.joemattiello.iCube",
+      "developerName": "Provenance Emu",
+      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
+      "localizedDescription": "iCube 1.0.0-beta7-ios Beta 7 for iOS",
+      "iconURL": "https://icube-emu.com/icon-1024.png",
+      "tintColor": "#3B82F6",
+      "category": "games",
+      "screenshots": [
+        "https://icube-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://icube-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://icube-emu.com/screenshots/2026-11/iphone/trinitron.jpg",
+        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
+        "https://icube-emu.com/screenshots/iphone/search.jpg",
+        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
+        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
+        "https://icube-emu.com/screenshots/iphone/shaders.jpg"
+      ],
+      "version": "1.0.0-beta7-ios",
+      "buildVersion": "1.0.0-beta7-ios",
+      "date": "2026-11-28",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/iCube.ipa",
+      "size": 82893502,
+      "minOSVersion": "15.6",
+      "platform": "iOS",
+      "isBeta": true,
+      "betaNumber": 7,
+      "versionDate": "2026-11-28",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Action",
+      "type": 1,
+      "bundleID": "com.future.kapi",
+      "bundleIdentifier": "com.future.kapi",
+      "version": "4.48.0",
+      "versionDate": "2026-11-28",
+      "fullDate": "20261128083941",
+      "size": 160742436,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-11-2026/Action_4.48.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-11-2026/Action_4.48.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.future.kapi.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.future.kapi.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "GrowMe",
+      "type": 1,
+      "bundleID": "com.book.summaries.reading",
+      "bundleIdentifier": "com.book.summaries.reading",
+      "version": "1.4.9",
+      "versionDate": "2026-11-28",
+      "fullDate": "20261128080258",
+      "size": 166554189,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-11-2026/GrowMe_1.4.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-11-2026/GrowMe_1.4.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.book.summaries.reading.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.book.summaries.reading.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Dehancer",
+      "type": 1,
+      "bundleID": "com.dehancer.film.ios-app",
+      "bundleIdentifier": "com.dehancer.film.ios-app",
+      "version": "7.3",
+      "versionDate": "2026-11-28",
+      "fullDate": "20261128075608",
+      "size": 198096432,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-11-2026/Dehancer_7.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-11-2026/Dehancer_7.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dehancer.film.ios-app.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dehancer.film.ios-app.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Detail",
+      "type": 1,
+      "bundleID": "co.detail.duo",
+      "bundleIdentifier": "co.detail.duo",
+      "version": "6.1.0",
+      "versionDate": "2026-11-28",
+      "fullDate": "20261128073945",
+      "size": 221898988,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-11-2026/Detail_6.1.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-11-2026/Detail_6.1.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.detail.duo.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.detail.duo.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Locket",
+      "type": 1,
+      "bundleID": "com.locket.Locket",
+      "bundleIdentifier": "com.locket.Locket",
+      "version": "2.75.0",
+      "versionDate": "2026-11-28",
+      "fullDate": "20261128030056",
+      "size": 100225431,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-11-2026/Locket_2.75.0_Gold_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/Locket_2.75.0_Gold_@thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Gold",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.locket.Locket.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.locket.Locket.png",
+      "__source": "https://repository.apptesters.org",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "Fitia",
+      "type": 1,
+      "bundleID": "com.ulisesolave.Fitia",
+      "bundleIdentifier": "com.ulisesolave.Fitia",
+      "version": "25.4.1",
+      "versionDate": "2026-11-28",
+      "fullDate": "20261128002733",
+      "size": 123028093,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-11-2026/Fitia_25.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-11-2026/Fitia_25.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ulisesolave.Fitia.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ulisesolave.Fitia.png",
+      "__source": "https://repository.apptesters.org",
       "__mirrors": [],
       "__stores": [
         "AltStore"
@@ -100,7 +375,7 @@
       "versionDate": "2026-11-27T00:41:26-05:00",
       "versionDescription": "Premium unlocked.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/181/app_186_nabzclan_sidelix.ipa",
-      "size": 178293573,
+      "size": 178464842,
       "type": 1,
       "badges": [
         {
@@ -135,7 +410,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/piano-star-tap-your-music/id1633015266",
         "release_date": "2026-11-18T05:36:09Z",
-        "checked_at": "2026-11-27T12:41:43-05:00",
+        "checked_at": "2026-11-27T18:41:46-05:00",
         "track_id": 1633015266,
         "track_name": "Piano Star - Tap Your Music"
       },
@@ -195,7 +470,7 @@
       "versionDate": "2026-11-27T00:40:51-05:00",
       "versionDescription": "Premium unlocked.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/180/app_185_nabzclan_sidelix.ipa",
-      "size": 89578237,
+      "size": 89749423,
       "type": 1,
       "badges": [
         {
@@ -230,7 +505,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/aa/id905852173",
         "release_date": "2026-11-19T21:32:37Z",
-        "checked_at": "2026-11-27T12:41:43-05:00",
+        "checked_at": "2026-11-27T18:41:46-05:00",
         "track_id": 905852173,
         "track_name": "aa"
       },
@@ -304,7 +579,7 @@
       "versionDate": "2026-11-27T00:40:24-05:00",
       "versionDescription": "Subscription unlocked.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/179/app_184_nabzclan_sidelix.ipa",
-      "size": 47432166,
+      "size": 47603352,
       "type": 1,
       "badges": [
         {
@@ -339,7 +614,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/find-phone-device-tracker/id1669041518",
         "release_date": "2026-11-20T08:06:19Z",
-        "checked_at": "2026-11-27T12:41:43-05:00",
+        "checked_at": "2026-11-27T18:41:46-05:00",
         "track_id": 1669041518,
         "track_name": "Find Phone: Device Tracker"
       },
@@ -403,7 +678,7 @@
       "versionDate": "2026-11-27T00:40:09-05:00",
       "versionDescription": "Subscription unlocked.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/178/app_183_nabzclan_sidelix.ipa",
-      "size": 42741206,
+      "size": 42912389,
       "type": 1,
       "badges": [
         {
@@ -438,7 +713,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/cozy-couples-relationship-app/id6463766369",
         "release_date": "2026-11-21T01:35:27Z",
-        "checked_at": "2026-11-27T12:41:43-05:00",
+        "checked_at": "2026-11-27T18:41:47-05:00",
         "track_id": 6463766369,
         "track_name": "Cozy Couples: Relationship App"
       },
@@ -508,7 +783,7 @@
       "versionDate": "2026-11-27T00:40:03-05:00",
       "versionDescription": "YouTube plus (Hacked) v21.46.3 (160.20 MB) \u2014 Sidelix App Store release.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/7/app_7_nabzclan_sidelix.ipa",
-      "size": 167985453,
+      "size": 168156665,
       "type": 1,
       "badges": [
         {
@@ -555,7 +830,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/youtube/id544007664",
         "release_date": "2026-11-22T17:10:41Z",
-        "checked_at": "2026-11-27T12:41:52-05:00",
+        "checked_at": "2026-11-27T18:41:57-05:00",
         "track_id": 544007664,
         "track_name": "YouTube"
       },
@@ -622,7 +897,7 @@
       "versionDate": "2026-11-27T00:39:55-05:00",
       "versionDescription": "No Ads and Unlimited Coins.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/177/app_182_nabzclan_sidelix.ipa",
-      "size": 230458896,
+      "size": 230630107,
       "type": 1,
       "badges": [
         {
@@ -657,7 +932,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/parking-jam-3d/id1498229533",
         "release_date": "2026-11-21T22:57:59Z",
-        "checked_at": "2026-11-27T12:41:44-05:00",
+        "checked_at": "2026-11-27T18:41:47-05:00",
         "track_id": 1498229533,
         "track_name": "Parking Jam 3D"
       },
@@ -687,44 +962,100 @@
       ]
     },
     {
-      "name": "Provenance Alpha",
-      "bundleIdentifier": "org.provenance-emu.provenance.alpha",
-      "developerName": "Provenance-EMU",
-      "subtitle": "Latest dev builds - test new features early",
-      "localizedDescription": "Alpha build 61c4447 \u00b7 2026-11-27\n\nChanges in this build:\n\u2022 chore(changelog): absorb 1 pending fragment(s) (#3862)\n\u2022 [Agent] fix(bezels): TVs in portrait below the notch; a changed TV shows without a restart (#3855)\n\u2022 [Agent] build(deps): update shared packages (#3861)\n\u2022 chore(changelog): absorb 1 pending fragment(s) (#3860)\n\u2022 fix(tvos): keep four-player arcade controls visible (#3859)\n\nInstalls alongside the stable app. Built automatically from develop \u2014 expect rough edges.",
-      "iconURL": "https://raw.githubusercontent.com/Provenance-Emu/Provenance/develop/Provenance/Resources/Assets.xcassets/AppIcon.appiconset/iTunesArtwork%402x.png",
-      "tintColor": "FF6B35",
-      "screenshotURLs": [],
-      "appPermissions": {
-        "entitlements": [
-          {
-            "name": "com.apple.security.application-groups"
-          },
-          {
-            "name": "com.apple.developer.icloud-services"
-          },
-          {
-            "name": "com.apple.developer.icloud-container-identifiers"
-          }
-        ],
-        "privacy": [
-          {
-            "name": "LocalNetwork",
-            "usageDescription": "Used to discover and connect to local network game servers for netplay."
-          },
-          {
-            "name": "Camera",
-            "usageDescription": "Used to scan QR codes for importing game data."
-          }
-        ]
-      },
-      "version": "3.4.0",
-      "buildVersion": "11345",
-      "marketingVersion": "3.4.0-alpha.20261127.61c4447",
+      "name": "iFly",
+      "bundleIdentifier": "com.provenance.ifly",
+      "developerName": "Provenance Emu",
+      "subtitle": "Dreamcast Emulator for iOS & tvOS",
+      "localizedDescription": "iFly 1.0.0 (build 1795774653) for iOS",
+      "iconURL": "https://ifly-emu.com/icon-1024.png",
+      "tintColor": "#ff6900",
+      "category": "games",
+      "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
+        "https://ifly-emu.com/screenshots/iphone/search.jpg",
+        "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
+      ],
+      "version": "1.0.0+1795774653",
+      "buildVersion": "1795774653",
       "date": "2026-11-27",
-      "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
-      "size": 787414477,
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/iFly-1.0.0-1795774653.ipa",
+      "size": 101437024,
       "minOSVersion": "17.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "versionDate": "2026-11-27",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iFly",
+      "bundleIdentifier": "com.provenance.ifly",
+      "developerName": "Provenance Emu",
+      "subtitle": "Dreamcast Emulator for iOS & tvOS",
+      "localizedDescription": "iFly 1.0.0 (build 1795771521) for iOS",
+      "iconURL": "https://ifly-emu.com/icon-1024.png",
+      "tintColor": "#ff6900",
+      "category": "games",
+      "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
+        "https://ifly-emu.com/screenshots/iphone/search.jpg",
+        "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
+      ],
+      "version": "1.0.0+1795771521",
+      "buildVersion": "1795771521",
+      "date": "2026-11-27",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/iFly-1.0.0-1795771521.ipa",
+      "size": 100897935,
+      "minOSVersion": "17.0",
+      "platform": "iOS",
+      "isBeta": true,
+      "versionDate": "2026-11-27",
+      "__source": "https://provenance-emu.com/apps.json",
+      "__mirrors": [],
+      "__stores": [
+        "AltStore"
+      ]
+    },
+    {
+      "name": "iFly",
+      "bundleIdentifier": "com.provenance.ifly",
+      "developerName": "Provenance Emu",
+      "subtitle": "Dreamcast Emulator for iOS & tvOS",
+      "localizedDescription": "iFly 1.0.0 (build 1795768886) for iOS",
+      "iconURL": "https://ifly-emu.com/icon-1024.png",
+      "tintColor": "#ff6900",
+      "category": "games",
+      "screenshots": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
+        "https://ifly-emu.com/screenshots/iphone/search.jpg",
+        "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
+      ],
+      "version": "1.0.0+1795768886",
+      "buildVersion": "1795768886",
+      "date": "2026-11-27",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/iFly-1.0.0-1795768886.ipa",
+      "size": 101425335,
+      "minOSVersion": "17.0",
+      "platform": "iOS",
+      "isBeta": true,
       "versionDate": "2026-11-27",
       "__source": "https://provenance-emu.com/apps.json",
       "__mirrors": [],
@@ -900,137 +1231,6 @@
       "__mirrors": [],
       "__stores": [
         "AltStore"
-      ]
-    },
-    {
-      "name": "iCube",
-      "bundleIdentifier": "com.joemattiello.iCube",
-      "developerName": "Provenance Emu",
-      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
-      "localizedDescription": "iCube 1.0.0-beta9-ios Beta 9 for iOS",
-      "iconURL": "https://icube-emu.com/icon-1024.png",
-      "tintColor": "#3B82F6",
-      "category": "games",
-      "screenshots": [
-        "https://icube-emu.com/screenshots/2026-11/iphone/play.jpg",
-        "https://icube-emu.com/screenshots/2026-11/iphone/library.jpg",
-        "https://icube-emu.com/screenshots/2026-11/iphone/trinitron.jpg",
-        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
-        "https://icube-emu.com/screenshots/iphone/search.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
-        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
-        "https://icube-emu.com/screenshots/iphone/shaders.jpg"
-      ],
-      "version": "1.0.0-beta9-ios",
-      "buildVersion": "1.0.0-beta9-ios",
-      "date": "2026-11-27",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/iCube.ipa",
-      "size": 82799373,
-      "minOSVersion": "15.0",
-      "platform": "iOS",
-      "isBeta": true,
-      "betaNumber": 9,
-      "versionDate": "2026-11-27",
-      "__source": "https://provenance-emu.com/apps.json",
-      "__mirrors": [],
-      "__stores": [
-        "AltStore"
-      ],
-      "__hash_duplicates": [
-        {
-          "name": "iCube",
-          "bundleIdentifier": "com.joemattiello.iCube",
-          "version": "1.0.0-beta7-ios"
-        },
-        {
-          "name": "iCube",
-          "bundleIdentifier": "com.joemattiello.iCube",
-          "version": "1.0.0-beta8-ios"
-        }
-      ]
-    },
-    {
-      "name": "iCube",
-      "bundleIdentifier": "com.joemattiello.iCube",
-      "developerName": "Provenance Emu",
-      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
-      "localizedDescription": "iCube 1.0.0-beta8-ios Beta 8 for iOS",
-      "iconURL": "https://icube-emu.com/icon-1024.png",
-      "tintColor": "#3B82F6",
-      "category": "games",
-      "screenshots": [
-        "https://icube-emu.com/screenshots/2026-11/iphone/play.jpg",
-        "https://icube-emu.com/screenshots/2026-11/iphone/library.jpg",
-        "https://icube-emu.com/screenshots/2026-11/iphone/trinitron.jpg",
-        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
-        "https://icube-emu.com/screenshots/iphone/search.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
-        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
-        "https://icube-emu.com/screenshots/iphone/shaders.jpg"
-      ],
-      "version": "1.0.0-beta8-ios",
-      "buildVersion": "1.0.0-beta8-ios",
-      "date": "2026-11-27",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/iCube.ipa",
-      "size": 82893911,
-      "minOSVersion": "15.0",
-      "platform": "iOS",
-      "isBeta": true,
-      "betaNumber": 8,
-      "versionDate": "2026-11-27",
-      "__source": "https://provenance-emu.com/apps.json",
-      "__mirrors": [],
-      "__stores": [
-        "AltStore"
-      ],
-      "__hash_duplicates": [
-        {
-          "name": "iCube",
-          "bundleIdentifier": "com.joemattiello.iCube",
-          "version": "1.0.0-beta9-ios"
-        }
-      ]
-    },
-    {
-      "name": "iCube",
-      "bundleIdentifier": "com.joemattiello.iCube",
-      "developerName": "Provenance Emu",
-      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
-      "localizedDescription": "iCube 1.0.0-beta7-ios Beta 7 for iOS",
-      "iconURL": "https://icube-emu.com/icon-1024.png",
-      "tintColor": "#3B82F6",
-      "category": "games",
-      "screenshots": [
-        "https://icube-emu.com/screenshots/2026-11/iphone/play.jpg",
-        "https://icube-emu.com/screenshots/2026-11/iphone/library.jpg",
-        "https://icube-emu.com/screenshots/2026-11/iphone/trinitron.jpg",
-        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
-        "https://icube-emu.com/screenshots/iphone/search.jpg",
-        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
-        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
-        "https://icube-emu.com/screenshots/iphone/shaders.jpg"
-      ],
-      "version": "1.0.0-beta7-ios",
-      "buildVersion": "1.0.0-beta7-ios",
-      "date": "2026-11-27",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/iCube.ipa",
-      "size": 82893502,
-      "minOSVersion": "15.6",
-      "platform": "iOS",
-      "isBeta": true,
-      "betaNumber": 7,
-      "versionDate": "2026-11-27",
-      "__source": "https://provenance-emu.com/apps.json",
-      "__mirrors": [],
-      "__stores": [
-        "AltStore"
-      ],
-      "__hash_duplicates": [
-        {
-          "name": "iCube",
-          "bundleIdentifier": "com.joemattiello.iCube",
-          "version": "1.0.0-beta9-ios"
-        }
       ]
     },
     {
@@ -1431,7 +1631,7 @@
       "versionDate": "2026-11-26T16:24:47-05:00",
       "versionDescription": "v1.2.0 Flagship Studio Upgrade:\r\n\u2022 Expanded Studio Home Hub & Course Workspace with collapsible sidebar, Focus Zen Reading Mode, and live lesson search/filter.\r\n\u2022 Deep context-aware Real-World Scenario & Action Engine synced with course progress, mastery diagnostics, and Cross-Agent Memory.\r\n\u2022 Smart Public Catalog with AI Course Overviews, shared pre-built course access, rich 12-language course badges, and non-destructive Author Update Sync.\r\n\u2022 Upgraded Offline Studio & 40Hz Focus Frequencies (6 soundscapes, 1-click Focus Recipes, voice preview, offline quiz mode, 12-language UI).\r\n\u2022 fixed major bugs with app not showing\r\n\u2022 Live-updating native shell with automatic web bundle sync.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/175/app_180_nabzclan_sidelix.ipa",
-      "size": 5075883,
+      "size": 5410430,
       "type": 1,
       "badges": [
         {
@@ -1496,7 +1696,7 @@
         "is_paid": false,
         "store_url": null,
         "release_date": null,
-        "checked_at": "2026-11-27T14:42:09-05:00"
+        "checked_at": "2026-11-27T23:42:23-05:00"
       },
       "vipOnly": false,
       "vipMinTier": 0,
@@ -1826,7 +2026,7 @@
       "fullDate": "20261126200906",
       "size": 87429279,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-11-2026/Cleanup_6.28.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/Cleanup_6.28.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-11-2026/Cleanup_6.28.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.codeway.cleanerplus.png",
@@ -1952,7 +2152,7 @@
       "fullDate": "20261126131448",
       "size": 53836944,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-11-2026/ProFit_8.8.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/ProFit_8.8.3_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-11-2026/ProFit_8.8.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.maxty.gofitness.png",
@@ -2015,7 +2215,7 @@
       "fullDate": "20261126123521",
       "size": 86590596,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-11-2026/Shapeyard_5.34.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/Shapeyard_5.34.4_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-11-2026/Shapeyard_5.34.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.chudo.png",
@@ -2036,7 +2236,7 @@
       "fullDate": "20261126102731",
       "size": 66445353,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-11-2026/1Blocker_6.7.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/1Blocker_6.7.2_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-11-2026/1Blocker_6.7.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.khanov.BlockerX.png",
@@ -2078,7 +2278,7 @@
       "fullDate": "20261126061221",
       "size": 29310506,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-11-2026/DynamicLyrics_2.0.9_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/DynamicLyrics_2.0.9_Premium_@thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-11-2026/DynamicLyrics_2.0.9_Premium_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bing.lyrics.png",
@@ -2120,7 +2320,7 @@
       "fullDate": "20261126055454",
       "size": 63658788,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-11-2026/CMProCalc_344_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/CMProCalc_344_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-11-2026/CMProCalc_344_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calculated.laurene.png",
@@ -2391,7 +2591,7 @@
       "versionDate": "2026-11-25T00:22:49-05:00",
       "versionDescription": "Official NabzCraft 1.26.62 release for iPhone & iPad: Native NabzClan Noir Control Center, draggable PvP HUD & Snap-to-Grid Editor, Custom Vector Crosshairs, 2x\u20134x Optical Zoom, 36 Free World Mods & Kits, NabzClan Capes & Packs, Official Bedrock 1.26.62 Server with 14 Perks, Calm Welcome & Terms screen, and VIP III\u2013IV Personal Minecraft Server Studio integration.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/176/app_181_nabzclan_sidelix.ipa",
-      "size": 698332005,
+      "size": 698666546,
       "type": 1,
       "badges": [
         {
@@ -2456,7 +2656,7 @@
         "is_paid": true,
         "store_url": "https://apps.apple.com/us/app/minecraft-play-with-friends/id479516143",
         "release_date": "2026-11-04T20:19:36Z",
-        "checked_at": "2026-11-27T12:41:43-05:00",
+        "checked_at": "2026-11-27T18:41:46-05:00",
         "track_id": 479516143,
         "track_name": "Minecraft: Play with Friends!"
       },
@@ -3331,7 +3531,7 @@
       "versionDate": "2026-11-24T04:32:00-05:00",
       "versionDescription": "Ryukgram (Hacked) v456.0.0 (366.40 MB) \u2014 Sidelix App Store release.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/174/app_23_nabzclan_sidelix.ipa",
-      "size": 384210375,
+      "size": 384544913,
       "type": 1,
       "badges": [
         {
@@ -3366,7 +3566,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/instagram/id389801252",
         "release_date": "2026-11-23T13:20:47Z",
-        "checked_at": "2026-11-27T12:41:51-05:00",
+        "checked_at": "2026-11-27T18:41:56-05:00",
         "track_id": 389801252,
         "track_name": "Instagram"
       },
@@ -3447,7 +3647,7 @@
       "versionDate": "2026-11-24T04:25:50-05:00",
       "versionDescription": "Spotify - Eevee (Hacked) v9.2.0 (145.13 MB) \u2014 Sidelix App Store release.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/18/app_18_nabzclan_sidelix.ipa",
-      "size": 152185457,
+      "size": 152519987,
       "type": 1,
       "badges": [
         {
@@ -3482,7 +3682,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580",
         "release_date": "2026-11-20T07:17:17Z",
-        "checked_at": "2026-11-27T12:41:51-05:00",
+        "checked_at": "2026-11-27T18:41:56-05:00",
         "track_id": 324684580,
         "track_name": "Spotify: Music and Podcasts"
       },
@@ -4386,7 +4586,7 @@
       "fullDate": "20261124105249",
       "size": 13673874,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/UnifiedDictionary_36.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/UnifiedDictionary_36.6_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/UnifiedDictionary_36.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bravolol.bravoLang.chineseDictionary.png",
@@ -4606,12 +4806,12 @@
       "versionDate": "2026-11-23T02:42:17-05:00",
       "versionDescription": "Premium unlocked.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/173/app_179_nabzclan_sidelix.ipa",
-      "size": 115846499,
+      "size": 116181029,
       "type": 1,
       "badges": [
         {
           "key": "needs_update",
-          "label": "Needs Update (v7.0.2)",
+          "label": "Needs Update (v7.0.4)",
           "color": "#f39c12",
           "icon": "arrow.triangle.2.circlepath"
         },
@@ -4632,7 +4832,7 @@
         "checked": true,
         "found": true,
         "bundleIdentifier": "com.strongermobileapp.stronger",
-        "latest_version": "7.0.2",
+        "latest_version": "7.0.4",
         "repo_version": "6.0.3",
         "up_to_date": false,
         "update_available": true,
@@ -4640,8 +4840,8 @@
         "price": "Free",
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/stronger-gym-workout-planner/id1621719397",
-        "release_date": "2026-11-26T18:08:13Z",
-        "checked_at": "2026-11-27T12:41:44-05:00",
+        "release_date": "2026-11-27T19:08:27Z",
+        "checked_at": "2026-11-27T18:41:47-05:00",
         "track_id": 1621719397,
         "track_name": "Stronger - Gym Workout Planner"
       },
@@ -4714,7 +4914,7 @@
       "versionDate": "2026-11-23T02:41:51-05:00",
       "versionDescription": "Subscription unlocked.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/172/app_178_nabzclan_sidelix.ipa",
-      "size": 60397353,
+      "size": 60731891,
       "type": 1,
       "badges": [
         {
@@ -4749,7 +4949,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/combyne-your-perfect-outfit/id989727742",
         "release_date": "2026-10-30T19:33:13Z",
-        "checked_at": "2026-11-27T12:41:36-05:00",
+        "checked_at": "2026-11-27T18:41:37-05:00",
         "track_id": 989727742,
         "track_name": "Combyne - your perfect Outfit"
       },
@@ -4819,7 +5019,7 @@
       "versionDate": "2026-11-23T02:41:33-05:00",
       "versionDescription": "Premium unlocked.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/171/app_177_nabzclan_sidelix.ipa",
-      "size": 152171265,
+      "size": 152505827,
       "type": 1,
       "badges": [
         {
@@ -4854,7 +5054,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/obscura-pro-camera/id1579306989",
         "release_date": "2026-10-29T23:55:56Z",
-        "checked_at": "2026-11-27T12:41:36-05:00",
+        "checked_at": "2026-11-27T18:41:37-05:00",
         "track_id": 1579306989,
         "track_name": "Obscura \u2014 Pro Camera"
       },
@@ -4935,7 +5135,7 @@
       "versionDate": "2026-11-23T02:41:05-05:00",
       "versionDescription": "Subscription unlocked.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/170/app_176_nabzclan_sidelix.ipa",
-      "size": 78352583,
+      "size": 78687143,
       "type": 1,
       "badges": [
         {
@@ -4970,7 +5170,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/yoga-by-mary/id1450832793",
         "release_date": "2026-11-06T20:46:25Z",
-        "checked_at": "2026-11-27T12:41:44-05:00",
+        "checked_at": "2026-11-27T18:41:48-05:00",
         "track_id": 1450832793,
         "track_name": "Yoga+ by Mary"
       },
@@ -5043,7 +5243,7 @@
       "versionDate": "2026-11-23T02:40:38-05:00",
       "versionDescription": "Subscription unlocked.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/169/app_175_nabzclan_sidelix.ipa",
-      "size": 52071833,
+      "size": 52406379,
       "type": 1,
       "badges": [
         {
@@ -5078,7 +5278,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/carbon-macro-coach-tracker/id1437820611",
         "release_date": "2026-11-04T21:54:44Z",
-        "checked_at": "2026-11-27T12:41:44-05:00",
+        "checked_at": "2026-11-27T18:41:48-05:00",
         "track_id": 1437820611,
         "track_name": "Carbon - Macro Coach & Tracker"
       },
@@ -5150,7 +5350,7 @@
       "versionDate": "2026-11-23T02:40:17-05:00",
       "versionDescription": "Premium unlocked.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/168/app_174_nabzclan_sidelix.ipa",
-      "size": 244116069,
+      "size": 244450601,
       "type": 1,
       "badges": [
         {
@@ -5185,7 +5385,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/wechef-recipe-organizer/id6737542752",
         "release_date": "2026-11-09T22:11:42Z",
-        "checked_at": "2026-11-27T12:41:44-05:00",
+        "checked_at": "2026-11-27T18:41:48-05:00",
         "track_id": 6737542752,
         "track_name": "WeChef - Recipe Organizer"
       },
@@ -5249,7 +5449,7 @@
       "versionDate": "2026-11-23T00:54:59-05:00",
       "versionDescription": "Premium unlocked.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/167/app_169_nabzclan_sidelix.ipa",
-      "size": 36251867,
+      "size": 36586403,
       "type": 1,
       "badges": [
         {
@@ -5284,7 +5484,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/imposter-game-party-edition/id6745120053",
         "release_date": "2026-11-25T09:18:50Z",
-        "checked_at": "2026-11-27T12:41:44-05:00",
+        "checked_at": "2026-11-27T18:41:49-05:00",
         "track_id": 6745120053,
         "track_name": "Imposter Game - Party Edition"
       },
@@ -5355,7 +5555,7 @@
       "versionDate": "2026-11-23T00:53:08-05:00",
       "versionDescription": "Subscription unlocked.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/166/app_166_nabzclan_sidelix.ipa",
-      "size": 118841803,
+      "size": 119176338,
       "type": 1,
       "badges": [
         {
@@ -5390,7 +5590,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/voloco-vocal-recording-studio/id1052970183",
         "release_date": "2026-11-09T17:19:02Z",
-        "checked_at": "2026-11-27T12:41:44-05:00",
+        "checked_at": "2026-11-27T18:41:49-05:00",
         "track_id": 1052970183,
         "track_name": "Voloco: Vocal Recording Studio"
       },
@@ -5454,7 +5654,7 @@
       "versionDate": "2026-11-23T00:52:39-05:00",
       "versionDescription": "Premium unlocked.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/165/app_165_nabzclan_sidelix.ipa",
-      "size": 27421933,
+      "size": 27756467,
       "type": 1,
       "badges": [
         {
@@ -5489,7 +5689,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/snoregym-reduce-your-snoring/id1433896990",
         "release_date": "2026-11-11T01:55:57Z",
-        "checked_at": "2026-11-27T12:41:44-05:00",
+        "checked_at": "2026-11-27T18:41:49-05:00",
         "track_id": 1433896990,
         "track_name": "SnoreGym : Reduce Your Snoring"
       },
@@ -5555,7 +5755,7 @@
       "versionDate": "2026-11-23T00:52:29-05:00",
       "versionDescription": "Premium unlocked.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/164/app_164_nabzclan_sidelix.ipa",
-      "size": 74441261,
+      "size": 74775789,
       "type": 1,
       "badges": [
         {
@@ -5590,7 +5790,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/plant-identifier-leafsnap/id1487972880",
         "release_date": "2026-11-11T08:51:22Z",
-        "checked_at": "2026-11-27T12:41:44-05:00",
+        "checked_at": "2026-11-27T18:41:50-05:00",
         "track_id": 1487972880,
         "track_name": "Plant Identifier: LeafSnap"
       },
@@ -5657,7 +5857,7 @@
       "versionDate": "2026-11-23T00:52:12-05:00",
       "versionDescription": "Premium unlocked.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/163/app_163_nabzclan_sidelix.ipa",
-      "size": 84610612,
+      "size": 84945161,
       "type": 1,
       "badges": [
         {
@@ -5692,7 +5892,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/paku-air-quality-aqi-map/id1534130193",
         "release_date": "2026-11-11T03:01:34Z",
-        "checked_at": "2026-11-27T12:41:44-05:00",
+        "checked_at": "2026-11-27T18:41:50-05:00",
         "track_id": 1534130193,
         "track_name": "Paku - Air Quality & AQI Map"
       },
@@ -5756,12 +5956,12 @@
       "versionDate": "2026-11-23T00:51:52-05:00",
       "versionDescription": "Premium unlocked.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/162/app_162_nabzclan_sidelix.ipa",
-      "size": 39665520,
+      "size": 40000080,
       "type": 1,
       "badges": [
         {
           "key": "needs_update",
-          "label": "Needs Update (v2026.8)",
+          "label": "Needs Update (v2026.8.1)",
           "color": "#f39c12",
           "icon": "arrow.triangle.2.circlepath"
         },
@@ -5782,7 +5982,7 @@
         "checked": true,
         "found": true,
         "bundleIdentifier": "com.behindtechlines.HTTPBot",
-        "latest_version": "2026.8",
+        "latest_version": "2026.8.1",
         "repo_version": "2026.7.2",
         "up_to_date": false,
         "update_available": true,
@@ -5790,8 +5990,8 @@
         "price": "Free",
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/httpbot-api-http-client/id1232603544",
-        "release_date": "2026-11-24T21:17:33Z",
-        "checked_at": "2026-11-27T12:41:45-05:00",
+        "release_date": "2026-11-27T17:07:39Z",
+        "checked_at": "2026-11-27T18:41:50-05:00",
         "track_id": 1232603544,
         "track_name": "HTTPBot: API & HTTP Client"
       },
@@ -5866,7 +6066,7 @@
       "versionDate": "2026-11-23T00:51:36-05:00",
       "versionDescription": "Subscription unlocked.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/161/app_161_nabzclan_sidelix.ipa",
-      "size": 184908394,
+      "size": 185242942,
       "type": 1,
       "badges": [
         {
@@ -5901,7 +6101,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/structured-daily-planner-todo/id1499198946",
         "release_date": "2026-11-12T17:22:08Z",
-        "checked_at": "2026-11-27T12:41:45-05:00",
+        "checked_at": "2026-11-27T18:41:50-05:00",
         "track_id": 1499198946,
         "track_name": "Structured: Daily Planner Todo"
       },
@@ -5973,7 +6173,7 @@
       "versionDate": "2026-11-23T00:50:47-05:00",
       "versionDescription": "Unlimited guests.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/160/app_160_nabzclan_sidelix.ipa",
-      "size": 52541183,
+      "size": 52875718,
       "type": 1,
       "badges": [
         {
@@ -6008,7 +6208,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/pov-disposable-camera-events/id1636032890",
         "release_date": "2026-11-12T15:41:32Z",
-        "checked_at": "2026-11-27T12:41:45-05:00",
+        "checked_at": "2026-11-27T18:41:50-05:00",
         "track_id": 1636032890,
         "track_name": "POV \u2013 Disposable Camera Events"
       },
@@ -6079,7 +6279,7 @@
       "versionDate": "2026-11-23T00:49:48-05:00",
       "versionDescription": "Premium unlocked.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/159/app_159_nabzclan_sidelix.ipa",
-      "size": 171108641,
+      "size": 171443167,
       "type": 1,
       "badges": [
         {
@@ -6114,7 +6314,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/veed-lite-quick-video-edits/id1634439688",
         "release_date": "2026-11-13T10:51:32Z",
-        "checked_at": "2026-11-27T12:41:45-05:00",
+        "checked_at": "2026-11-27T18:41:50-05:00",
         "track_id": 1634439688,
         "track_name": "VEED Lite: Quick Video Edits"
       },
@@ -6188,7 +6388,7 @@
       "versionDate": "2026-11-23T00:49:05-05:00",
       "versionDescription": "Subscription unlocked.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/158/app_158_nabzclan_sidelix.ipa",
-      "size": 69120431,
+      "size": 69454988,
       "type": 1,
       "badges": [
         {
@@ -6223,7 +6423,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/offscreen-screen-time-control/id1474340105",
         "release_date": "2026-11-16T15:54:59Z",
-        "checked_at": "2026-11-27T12:41:45-05:00",
+        "checked_at": "2026-11-27T18:41:51-05:00",
         "track_id": 1474340105,
         "track_name": "OffScreen: Screen Time Control"
       },
@@ -6293,7 +6493,7 @@
       "versionDate": "2026-11-23T00:48:40-05:00",
       "versionDescription": "Premium unlocked.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/157/app_157_nabzclan_sidelix.ipa",
-      "size": 211492590,
+      "size": 211827145,
       "type": 1,
       "badges": [
         {
@@ -6328,7 +6528,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/vdit-ai-captions-subtitles/id1483410865",
         "release_date": "2026-11-16T23:04:45Z",
-        "checked_at": "2026-11-27T12:41:45-05:00",
+        "checked_at": "2026-11-27T18:41:51-05:00",
         "track_id": 1483410865,
         "track_name": "VDIT: AI Captions & Subtitles"
       },
@@ -6400,7 +6600,7 @@
       "versionDate": "2026-11-23T00:47:40-05:00",
       "versionDescription": "Subscription unlocked.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/156/app_156_nabzclan_sidelix.ipa",
-      "size": 147345087,
+      "size": 147679632,
       "type": 1,
       "badges": [
         {
@@ -6435,7 +6635,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/imprint-visual-micro-learning/id1482780647",
         "release_date": "2026-11-23T15:54:33Z",
-        "checked_at": "2026-11-27T12:41:45-05:00",
+        "checked_at": "2026-11-27T18:41:51-05:00",
         "track_id": 1482780647,
         "track_name": "Imprint: Visual Micro Learning"
       },
@@ -6510,7 +6710,7 @@
       "versionDate": "2026-11-23T00:47:01-05:00",
       "versionDescription": "Pro unlocked.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/155/app_155_nabzclan_sidelix.ipa",
-      "size": 111624565,
+      "size": 111959096,
       "type": 1,
       "badges": [
         {
@@ -6545,7 +6745,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/fishbrain-fishing-app/id477967747",
         "release_date": "2026-11-16T10:35:05Z",
-        "checked_at": "2026-11-27T12:41:45-05:00",
+        "checked_at": "2026-11-27T18:41:51-05:00",
         "track_id": 477967747,
         "track_name": "Fishbrain - Fishing App"
       },
@@ -6616,7 +6816,7 @@
       "versionDate": "2026-11-23T00:46:19-05:00",
       "versionDescription": "Subscription unlocked.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/154/app_154_nabzclan_sidelix.ipa",
-      "size": 470135133,
+      "size": 470469664,
       "type": 1,
       "badges": [
         {
@@ -6651,7 +6851,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/elevate-brain-training-games/id875063456",
         "release_date": "2026-11-23T15:06:31Z",
-        "checked_at": "2026-11-27T12:41:45-05:00",
+        "checked_at": "2026-11-27T18:41:51-05:00",
         "track_id": 875063456,
         "track_name": "Elevate - Brain Training Games"
       },
@@ -6725,7 +6925,7 @@
       "versionDate": "2026-11-23T00:44:55-05:00",
       "versionDescription": "Premium unlocked.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/153/app_153_nabzclan_sidelix.ipa",
-      "size": 204445398,
+      "size": 204779931,
       "type": 1,
       "badges": [
         {
@@ -6760,7 +6960,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/dancebit-home-dance-workouts/id1542181484",
         "release_date": "2026-11-17T12:33:31Z",
-        "checked_at": "2026-11-27T12:41:45-05:00",
+        "checked_at": "2026-11-27T18:41:51-05:00",
         "track_id": 1542181484,
         "track_name": "Dancebit: Home Dance Workouts"
       },
@@ -6838,7 +7038,7 @@
       "versionDate": "2026-11-23T00:44:18-05:00",
       "versionDescription": "Premium unlocked.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/152/app_152_nabzclan_sidelix.ipa",
-      "size": 78689478,
+      "size": 79024040,
       "type": 1,
       "badges": [
         {
@@ -6873,7 +7073,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/rootd-panic-attacks-anxiety/id1289018369",
         "release_date": "2026-11-26T02:11:56Z",
-        "checked_at": "2026-11-27T12:41:45-05:00",
+        "checked_at": "2026-11-27T18:41:51-05:00",
         "track_id": 1289018369,
         "track_name": "Rootd: Panic Attacks & Anxiety"
       },
@@ -6941,7 +7141,7 @@
       "versionDate": "2026-11-23T00:43:54-05:00",
       "versionDescription": "Subscription unlocked.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/151/app_151_nabzclan_sidelix.ipa",
-      "size": 150005010,
+      "size": 150339559,
       "type": 1,
       "badges": [
         {
@@ -6976,7 +7176,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/bend-stretching-flexibility/id1513988468",
         "release_date": "2026-11-26T07:36:59Z",
-        "checked_at": "2026-11-27T12:41:45-05:00",
+        "checked_at": "2026-11-27T18:41:51-05:00",
         "track_id": 1513988468,
         "track_name": "Bend: Stretching & Flexibility"
       },
@@ -7042,7 +7242,7 @@
       "versionDate": "2026-11-23T00:43:13-05:00",
       "versionDescription": "Subscription unlocked.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/150/app_150_nabzclan_sidelix.ipa",
-      "size": 168372230,
+      "size": 168706764,
       "type": 1,
       "badges": [
         {
@@ -7077,7 +7277,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/intolive-live-wallpapers/id1061859052",
         "release_date": "2026-11-18T17:15:13Z",
-        "checked_at": "2026-11-27T12:41:45-05:00",
+        "checked_at": "2026-11-27T18:41:51-05:00",
         "track_id": 1061859052,
         "track_name": "intoLive - Live Wallpapers"
       },
@@ -7147,7 +7347,7 @@
       "versionDate": "2026-11-23T00:42:40-05:00",
       "versionDescription": "Premium unlocked.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/149/app_149_nabzclan_sidelix.ipa",
-      "size": 50547831,
+      "size": 50882377,
       "type": 1,
       "badges": [
         {
@@ -7182,7 +7382,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/12min-book-summaries-daily/id1177343870",
         "release_date": "2026-11-18T13:32:33Z",
-        "checked_at": "2026-11-27T12:41:45-05:00",
+        "checked_at": "2026-11-27T18:41:51-05:00",
         "track_id": 1177343870,
         "track_name": "12min: Book Summaries Daily"
       },
@@ -7244,7 +7444,7 @@
       "versionDate": "2026-11-23T00:42:22-05:00",
       "versionDescription": "Premium unlocked.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/148/app_148_nabzclan_sidelix.ipa",
-      "size": 129226093,
+      "size": 129560629,
       "type": 1,
       "badges": [
         {
@@ -7279,7 +7479,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/tapekit-lab-of-top-widgets-gif/id1532641230",
         "release_date": "2026-11-18T17:57:03Z",
-        "checked_at": "2026-11-27T12:41:45-05:00",
+        "checked_at": "2026-11-27T18:41:51-05:00",
         "track_id": 1532641230,
         "track_name": "TapeKit\u30fbLab of Top Widgets\u30fbGIF"
       },
@@ -7348,7 +7548,7 @@
       "versionDate": "2026-11-23T00:41:56-05:00",
       "versionDescription": "Subscription unlocked.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/147/app_147_nabzclan_sidelix.ipa",
-      "size": 56459437,
+      "size": 56793972,
       "type": 1,
       "badges": [
         {
@@ -7383,7 +7583,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/coconote-ai-note-taker/id6479320349",
         "release_date": "2026-11-19T21:34:45Z",
-        "checked_at": "2026-11-27T12:41:45-05:00",
+        "checked_at": "2026-11-27T18:41:51-05:00",
         "track_id": 6479320349,
         "track_name": "Coconote - AI Note Taker"
       },
@@ -7453,7 +7653,7 @@
       "versionDate": "2026-11-23T00:41:39-05:00",
       "versionDescription": "Subscription unlocked.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/146/app_146_nabzclan_sidelix.ipa",
-      "size": 592503608,
+      "size": 592838149,
       "type": 1,
       "badges": [
         {
@@ -7488,7 +7688,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/colourtone-photo-editor/id1383338239",
         "release_date": "2026-11-18T20:50:25Z",
-        "checked_at": "2026-11-27T12:41:45-05:00",
+        "checked_at": "2026-11-27T18:41:51-05:00",
         "track_id": 1383338239,
         "track_name": "Colourtone: Photo Editor"
       },
@@ -7556,7 +7756,7 @@
       "versionDate": "2026-11-23T00:40:30-05:00",
       "versionDescription": "Premium unlocked.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/145/app_145_nabzclan_sidelix.ipa",
-      "size": 95354167,
+      "size": 95688720,
       "type": 1,
       "badges": [
         {
@@ -7591,7 +7791,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/scrl-photo-collage-maker/id1289057196",
         "release_date": "2026-11-19T10:25:58Z",
-        "checked_at": "2026-11-27T12:41:45-05:00",
+        "checked_at": "2026-11-27T18:41:51-05:00",
         "track_id": 1289057196,
         "track_name": "SCRL: Photo Collage Maker"
       },
@@ -7671,7 +7871,7 @@
       "versionDate": "2026-11-23T00:40:07-05:00",
       "versionDescription": "Pro unlocked.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/144/app_144_nabzclan_sidelix.ipa",
-      "size": 64469946,
+      "size": 64804487,
       "type": 1,
       "badges": [
         {
@@ -7706,7 +7906,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/gronda-recipes-for-chefs/id1164423781",
         "release_date": "2026-11-26T19:19:02Z",
-        "checked_at": "2026-11-27T12:41:45-05:00",
+        "checked_at": "2026-11-27T18:41:51-05:00",
         "track_id": 1164423781,
         "track_name": "Gronda: Recipes for Chefs"
       },
@@ -7775,7 +7975,7 @@
       "versionDate": "2026-11-23T00:39:44-05:00",
       "versionDescription": "Pro unlocked.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/143/app_143_nabzclan_sidelix.ipa",
-      "size": 310454839,
+      "size": 310789392,
       "type": 1,
       "badges": [
         {
@@ -7810,7 +8010,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/dumb-phone-dp/id6504743503",
         "release_date": "2026-11-19T01:21:25Z",
-        "checked_at": "2026-11-27T12:41:46-05:00",
+        "checked_at": "2026-11-27T18:41:51-05:00",
         "track_id": 6504743503,
         "track_name": "Dumb Phone (dp)"
       },
@@ -7883,7 +8083,7 @@
       "versionDate": "2026-11-23T00:38:57-05:00",
       "versionDescription": "Plus unlocked.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/142/app_142_nabzclan_sidelix.ipa",
-      "size": 20414303,
+      "size": 20748855,
       "type": 1,
       "badges": [
         {
@@ -7918,7 +8118,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/notecircle-to-do-list/id1528859917",
         "release_date": "2026-11-19T23:07:46Z",
-        "checked_at": "2026-11-27T12:41:46-05:00",
+        "checked_at": "2026-11-27T18:41:51-05:00",
         "track_id": 1528859917,
         "track_name": "NoteCircle: To-Do List"
       },
@@ -7990,7 +8190,7 @@
       "versionDate": "2026-11-23T00:38:45-05:00",
       "versionDescription": "Subscription unlocked.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/141/app_141_nabzclan_sidelix.ipa",
-      "size": 157481737,
+      "size": 157816293,
       "type": 1,
       "badges": [
         {
@@ -8025,7 +8225,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/mealpreppro-planner-recipes/id1249805978",
         "release_date": "2026-11-20T00:09:12Z",
-        "checked_at": "2026-11-27T12:41:46-05:00",
+        "checked_at": "2026-11-27T18:41:51-05:00",
         "track_id": 1249805978,
         "track_name": "MealPrepPro Planner & Recipes"
       },
@@ -8098,7 +8298,7 @@
       "versionDate": "2026-11-23T00:38:09-05:00",
       "versionDescription": "Premium unlocked.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/140/app_140_nabzclan_sidelix.ipa",
-      "size": 126386428,
+      "size": 126720968,
       "type": 1,
       "badges": [
         {
@@ -8133,7 +8333,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/hiiker-the-hiking-maps-app/id1470810597",
         "release_date": "2026-11-25T04:34:28Z",
-        "checked_at": "2026-11-27T12:41:46-05:00",
+        "checked_at": "2026-11-27T18:41:51-05:00",
         "track_id": 1470810597,
         "track_name": "HiiKER: The Hiking Maps App"
       },
@@ -8205,7 +8405,7 @@
       "versionDate": "2026-11-23T00:37:37-05:00",
       "versionDescription": "Pro unlocked.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/139/app_139_nabzclan_sidelix.ipa",
-      "size": 60878889,
+      "size": 61213426,
       "type": 1,
       "badges": [
         {
@@ -8240,7 +8440,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/world-clock-time-zone-widget/id912698955",
         "release_date": "2026-11-26T07:06:45Z",
-        "checked_at": "2026-11-27T12:41:46-05:00",
+        "checked_at": "2026-11-27T18:41:51-05:00",
         "track_id": 912698955,
         "track_name": "World Clock Time Zone Widget"
       },
@@ -8306,7 +8506,7 @@
       "versionDate": "2026-11-23T00:37:17-05:00",
       "versionDescription": "Subscription unlocked.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/138/app_138_nabzclan_sidelix.ipa",
-      "size": 100506277,
+      "size": 100840831,
       "type": 1,
       "badges": [
         {
@@ -8341,7 +8541,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/habit-tracker-habitkit/id6443918070",
         "release_date": "2026-11-21T08:28:41Z",
-        "checked_at": "2026-11-27T12:41:46-05:00",
+        "checked_at": "2026-11-27T18:41:51-05:00",
         "track_id": 6443918070,
         "track_name": "Habit Tracker - HabitKit"
       },
@@ -8411,7 +8611,7 @@
       "versionDate": "2026-11-23T00:36:49-05:00",
       "versionDescription": "Platinum unlocked.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/137/app_137_nabzclan_sidelix.ipa",
-      "size": 140156515,
+      "size": 140491066,
       "type": 1,
       "badges": [
         {
@@ -8446,7 +8646,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/bunpo-language-learning/id1279720052",
         "release_date": "2026-11-21T01:56:04Z",
-        "checked_at": "2026-11-27T12:41:46-05:00",
+        "checked_at": "2026-11-27T18:41:51-05:00",
         "track_id": 1279720052,
         "track_name": "Bunpo: Language Learning"
       },
@@ -8517,7 +8717,7 @@
       "versionDate": "2026-11-23T00:36:14-05:00",
       "versionDescription": "Premium unlocked.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/136/app_136_nabzclan_sidelix.ipa",
-      "size": 103095283,
+      "size": 103429825,
       "type": 1,
       "badges": [
         {
@@ -8552,7 +8752,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/days-countdown-widgets/id939368917",
         "release_date": "2026-11-21T13:07:00Z",
-        "checked_at": "2026-11-27T12:41:46-05:00",
+        "checked_at": "2026-11-27T18:41:51-05:00",
         "track_id": 939368917,
         "track_name": "Days \u2022 Countdown & Widgets"
       },
@@ -8618,7 +8818,7 @@
       "versionDate": "2026-11-23T00:35:51-05:00",
       "versionDescription": "Subscription unlocked.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/135/app_135_nabzclan_sidelix.ipa",
-      "size": 98518086,
+      "size": 98852621,
       "type": 1,
       "badges": [
         {
@@ -8653,7 +8853,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/astra-life-advice/id6473748536",
         "release_date": "2026-11-27T02:57:31Z",
-        "checked_at": "2026-11-27T12:41:46-05:00",
+        "checked_at": "2026-11-27T18:41:51-05:00",
         "track_id": 6473748536,
         "track_name": "Astra - Life Advice"
       },
@@ -8725,7 +8925,7 @@
       "versionDate": "2026-11-23T00:35:23-05:00",
       "versionDescription": "Pro unlocked.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/134/app_134_nabzclan_sidelix.ipa",
-      "size": 86259201,
+      "size": 86593735,
       "type": 1,
       "badges": [
         {
@@ -8760,7 +8960,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/stippl-trip-travel-planner/id6443617088",
         "release_date": "2026-11-21T07:39:12Z",
-        "checked_at": "2026-11-27T12:41:47-05:00",
+        "checked_at": "2026-11-27T18:41:51-05:00",
         "track_id": 6443617088,
         "track_name": "Stippl: Trip & Travel Planner"
       },
@@ -8827,7 +9027,7 @@
       "versionDate": "2026-11-23T00:34:57-05:00",
       "versionDescription": "Premium unlocked.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/133/app_133_nabzclan_sidelix.ipa",
-      "size": 65125055,
+      "size": 65459581,
       "type": 1,
       "badges": [
         {
@@ -8862,7 +9062,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/napper-baby-sleep/id1491340863",
         "release_date": "2026-11-24T19:00:02Z",
-        "checked_at": "2026-11-27T12:41:47-05:00",
+        "checked_at": "2026-11-27T18:41:51-05:00",
         "track_id": 1491340863,
         "track_name": "Napper - Baby Sleep"
       },
@@ -9713,7 +9913,7 @@
       "versionDate": "2026-11-22T19:14:53-05:00",
       "versionDescription": "Subscription Unlocked",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/131/app_131_nabzclan_sidelix.ipa",
-      "size": 112771433,
+      "size": 113105991,
       "type": 1,
       "badges": [
         {
@@ -9748,7 +9948,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/befreed-get-smarter-daily/id6739747450",
         "release_date": "2026-11-21T14:46:07Z",
-        "checked_at": "2026-11-27T12:41:47-05:00",
+        "checked_at": "2026-11-27T19:41:52-05:00",
         "track_id": 6739747450,
         "track_name": "BeFreed: Get Smarter Daily!"
       },
@@ -9817,7 +10017,7 @@
       "versionDate": "2026-11-22T19:03:41-05:00",
       "versionDescription": "iPadn v2.3.4 (49.56 MB) \u2014 Sidelix App Store release.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/132/app_21_nabzclan_sidelix.ipa",
-      "size": 51982557,
+      "size": 52317090,
       "type": 1,
       "badges": [
         {
@@ -9852,7 +10052,7 @@
         "is_paid": false,
         "store_url": null,
         "release_date": null,
-        "checked_at": "2026-11-27T14:42:15-05:00"
+        "checked_at": "2026-11-27T23:43:03-05:00"
       },
       "vipOnly": false,
       "vipMinTier": 0,
@@ -9919,7 +10119,7 @@
       "versionDate": "2026-11-22T18:43:21-05:00",
       "versionDescription": "Tweak: Unlimited Coins, - Unlimited Gems, - No Ads",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/130/app_130_nabzclan_sidelix.ipa",
-      "size": 149099282,
+      "size": 149433834,
       "type": 1,
       "badges": [
         {
@@ -9954,7 +10154,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/survival-arena-tower-defense/id6720725666",
         "release_date": "2026-08-20T01:53:13Z",
-        "checked_at": "2026-11-27T12:41:47-05:00",
+        "checked_at": "2026-11-27T18:41:50-05:00",
         "track_id": 6720725666,
         "track_name": "Survival Arena: Tower Defense"
       },
@@ -10023,7 +10223,7 @@
       "versionDate": "2026-11-22T18:41:17-05:00",
       "versionDescription": "Tweak: Premium Unlocked",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/129/app_129_nabzclan_sidelix.ipa",
-      "size": 289540239,
+      "size": 289874769,
       "type": 1,
       "badges": [
         {
@@ -10058,7 +10258,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/os-maps-walk-hike-run-bike/id978307846",
         "release_date": "2026-11-25T15:59:12Z",
-        "checked_at": "2026-11-27T12:41:47-05:00",
+        "checked_at": "2026-11-27T18:41:51-05:00",
         "track_id": 978307846,
         "track_name": "OS Maps: Walk, Hike, Run, Bike"
       },
@@ -10118,7 +10318,7 @@
       "versionDate": "2026-11-22T18:39:48-05:00",
       "versionDescription": "Tweaked IPA \u2014 v2.0",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/128/app_128_nabzclan_sidelix.ipa",
-      "size": 131450284,
+      "size": 131784816,
       "type": 1,
       "badges": [
         {
@@ -10153,7 +10353,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/traffic-rider/id951744068",
         "release_date": "2026-11-19T19:15:40Z",
-        "checked_at": "2026-11-27T12:41:47-05:00",
+        "checked_at": "2026-11-27T18:41:51-05:00",
         "track_id": 951744068,
         "track_name": "Traffic Rider"
       },
@@ -10222,7 +10422,7 @@
       "versionDate": "2026-11-22T18:38:46-05:00",
       "versionDescription": "Tweak: Free iAP",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/127/app_127_nabzclan_sidelix.ipa",
-      "size": 158626482,
+      "size": 158961033,
       "type": 1,
       "badges": [
         {
@@ -10257,7 +10457,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/ship-simulator-boat-game/id6451137140",
         "release_date": "2026-04-24T18:30:27Z",
-        "checked_at": "2026-11-27T12:41:47-05:00",
+        "checked_at": "2026-11-27T18:41:51-05:00",
         "track_id": 6451137140,
         "track_name": "Ship Simulator: Boat Game"
       },
@@ -10323,7 +10523,7 @@
       "versionDate": "2026-11-22T18:37:03-05:00",
       "versionDescription": "Tweak: Free iAP",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/126/app_126_nabzclan_sidelix.ipa",
-      "size": 102861383,
+      "size": 103195913,
       "type": 1,
       "badges": [
         {
@@ -10358,7 +10558,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/race-arena-fall-car-battle/id1534304970",
         "release_date": "2026-10-12T13:44:43Z",
-        "checked_at": "2026-11-27T12:41:47-05:00",
+        "checked_at": "2026-11-27T18:41:51-05:00",
         "track_id": 1534304970,
         "track_name": "Race Arena - Fall Car Battle"
       },
@@ -10424,7 +10624,7 @@
       "versionDate": "2026-11-22T18:36:05-05:00",
       "versionDescription": "Tweak: Free iAP",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/125/app_125_nabzclan_sidelix.ipa",
-      "size": 199823634,
+      "size": 200158189,
       "type": 1,
       "badges": [
         {
@@ -10459,7 +10659,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/farming-simulator-18/id1091224574",
         "release_date": "2026-03-25T08:47:04Z",
-        "checked_at": "2026-11-27T12:41:47-05:00",
+        "checked_at": "2026-11-27T18:41:51-05:00",
         "track_id": 1091224574,
         "track_name": "Farming Simulator 18"
       },
@@ -10523,7 +10723,7 @@
       "versionDate": "2026-11-22T18:35:15-05:00",
       "versionDescription": "Tweak: Free iAP",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/124/app_124_nabzclan_sidelix.ipa",
-      "size": 91299095,
+      "size": 91633649,
       "type": 1,
       "badges": [
         {
@@ -10558,7 +10758,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/farming-simulator-16/id992051355",
         "release_date": "2026-03-23T08:28:56Z",
-        "checked_at": "2026-11-27T12:41:47-05:00",
+        "checked_at": "2026-11-27T18:41:51-05:00",
         "track_id": 992051355,
         "track_name": "Farming Simulator 16"
       },
@@ -10622,7 +10822,7 @@
       "versionDate": "2026-11-22T18:34:49-05:00",
       "versionDescription": "Tweak: Satella added for VIP",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/123/app_123_nabzclan_sidelix.ipa",
-      "size": 11108031,
+      "size": 11442567,
       "type": 1,
       "badges": [
         {
@@ -10657,7 +10857,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/fullscreen-clock-flip-focus/id1403700342",
         "release_date": "2026-11-18T01:32:16Z",
-        "checked_at": "2026-11-27T12:41:47-05:00",
+        "checked_at": "2026-11-27T18:41:51-05:00",
         "track_id": 1403700342,
         "track_name": "Fullscreen Clock: Flip & Focus"
       },
@@ -10724,7 +10924,7 @@
       "versionDate": "2026-11-22T18:34:42-05:00",
       "versionDescription": "Tweak: Free iAP (for unlocking subscription)",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/122/app_122_nabzclan_sidelix.ipa",
-      "size": 220987766,
+      "size": 221322312,
       "type": 1,
       "badges": [
         {
@@ -10759,7 +10959,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/wild-journey-nature-sounds/id1437268231",
         "release_date": "2022-02-21T22:25:16Z",
-        "checked_at": "2026-11-27T12:41:47-05:00",
+        "checked_at": "2026-11-27T18:41:51-05:00",
         "track_id": 1437268231,
         "track_name": "Wild Journey - Nature Sounds"
       },
@@ -10828,7 +11028,7 @@
       "versionDate": "2026-11-22T18:34:11-05:00",
       "versionDescription": "Tweak: \u2043 (Fixed) Unlimited Coins",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/121/app_121_nabzclan_sidelix.ipa",
-      "size": 108490187,
+      "size": 108824720,
       "type": 1,
       "badges": [
         {
@@ -10863,7 +11063,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/mad-royale-io-tank-battle/id1632902412",
         "release_date": "2025-09-01T14:08:26Z",
-        "checked_at": "2026-11-27T12:41:47-05:00",
+        "checked_at": "2026-11-27T18:41:51-05:00",
         "track_id": 1632902412,
         "track_name": "Mad Royale.io - Tank Battle"
       },
@@ -10923,7 +11123,7 @@
       "versionDate": "2026-11-22T18:33:39-05:00",
       "versionDescription": "Tweak: Satella injected for unlocking subscription",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/120/app_120_nabzclan_sidelix.ipa",
-      "size": 54961586,
+      "size": 55296135,
       "type": 1,
       "badges": [
         {
@@ -10958,7 +11158,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/human-to-cat-translator/id1125847588",
         "release_date": "2022-06-22T13:49:28Z",
-        "checked_at": "2026-11-27T12:41:47-05:00",
+        "checked_at": "2026-11-27T18:41:51-05:00",
         "track_id": 1125847588,
         "track_name": "Human to Cat Translator"
       },
@@ -11025,7 +11225,7 @@
       "versionDate": "2026-11-22T18:33:26-05:00",
       "versionDescription": "Tweak: Satella injected for unlocking subscription",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/119/app_119_nabzclan_sidelix.ipa",
-      "size": 22935057,
+      "size": 23269610,
       "type": 1,
       "badges": [
         {
@@ -11060,7 +11260,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/notevision-sight-reading/id874386416",
         "release_date": "2026-11-20T21:55:48Z",
-        "checked_at": "2026-11-27T12:41:47-05:00",
+        "checked_at": "2026-11-27T18:41:51-05:00",
         "track_id": 874386416,
         "track_name": "Notevision - Sight Reading"
       },
@@ -11122,7 +11322,7 @@
       "versionDate": "2026-11-22T18:33:16-05:00",
       "versionDescription": "Tweak: Free iAP",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/118/app_118_nabzclan_sidelix.ipa",
-      "size": 91825140,
+      "size": 92159676,
       "type": 1,
       "badges": [
         {
@@ -11157,7 +11357,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/zombie-highway-2/id892092770",
         "release_date": "2024-04-27T14:34:04Z",
-        "checked_at": "2026-11-27T12:41:47-05:00",
+        "checked_at": "2026-11-27T18:41:51-05:00",
         "track_id": 892092770,
         "track_name": "Zombie Highway 2"
       },
@@ -11221,7 +11421,7 @@
       "versionDate": "2026-11-22T18:32:53-05:00",
       "versionDescription": "Tweak: Satella was added for unlocking subscription",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/117/app_117_nabzclan_sidelix.ipa",
-      "size": 20360039,
+      "size": 20694593,
       "type": 1,
       "badges": [
         {
@@ -11256,7 +11456,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/video-player-pip-and-more/id1610938825",
         "release_date": "2026-07-28T15:40:38Z",
-        "checked_at": "2026-11-27T12:41:48-05:00",
+        "checked_at": "2026-11-27T18:41:51-05:00",
         "track_id": 1610938825,
         "track_name": "Video Player - PIP and more"
       },
@@ -11329,7 +11529,7 @@
       "versionDate": "2026-11-22T18:32:43-05:00",
       "versionDescription": "Tweak: \u2043 Unlimited Coins",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/116/app_116_nabzclan_sidelix.ipa",
-      "size": 122232017,
+      "size": 122566571,
       "type": 1,
       "badges": [
         {
@@ -11364,7 +11564,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/tower-war-tactical-conquest/id1579356887",
         "release_date": "2026-10-30T13:42:27Z",
-        "checked_at": "2026-11-27T12:41:48-05:00",
+        "checked_at": "2026-11-27T18:41:51-05:00",
         "track_id": 1579356887,
         "track_name": "Tower War - Tactical Conquest"
       },
@@ -11426,7 +11626,7 @@
       "versionDate": "2026-11-22T18:32:12-05:00",
       "versionDescription": "Tweak: Free iAP",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/115/app_115_nabzclan_sidelix.ipa",
-      "size": 198400418,
+      "size": 198734967,
       "type": 1,
       "badges": [
         {
@@ -11461,7 +11661,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/vampire-survivors/id6444525702",
         "release_date": "2026-10-26T09:43:05Z",
-        "checked_at": "2026-11-27T12:41:48-05:00",
+        "checked_at": "2026-11-27T18:41:51-05:00",
         "track_id": 6444525702,
         "track_name": "Vampire Survivors"
       },
@@ -11531,7 +11731,7 @@
       "versionDate": "2026-11-22T18:31:26-05:00",
       "versionDescription": "Tweak: \u2043 Unlimited Hints",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/114/app_114_nabzclan_sidelix.ipa",
-      "size": 81207158,
+      "size": 81541683,
       "type": 1,
       "badges": [
         {
@@ -11566,7 +11766,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/easy-game-brain-puzzles/id1491764681",
         "release_date": "2026-05-01T11:56:05Z",
-        "checked_at": "2026-11-27T12:41:48-05:00",
+        "checked_at": "2026-11-27T18:41:52-05:00",
         "track_id": 1491764681,
         "track_name": "Easy Game - Brain Puzzles"
       },
@@ -11633,7 +11833,7 @@
       "versionDate": "2026-11-22T18:30:57-05:00",
       "versionDescription": "Tweak: \u2043 Unlimited Lives",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/113/app_113_nabzclan_sidelix.ipa",
-      "size": 139652533,
+      "size": 139987105,
       "type": 1,
       "badges": [
         {
@@ -11668,7 +11868,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/escape-time-puzzle-brain-game/id1483021623",
         "release_date": "2026-11-20T19:17:11Z",
-        "checked_at": "2026-11-27T12:41:48-05:00",
+        "checked_at": "2026-11-27T18:41:52-05:00",
         "track_id": 1483021623,
         "track_name": "Escape Time: Puzzle Brain Game"
       },
@@ -11734,7 +11934,7 @@
       "versionDate": "2026-11-22T18:30:25-05:00",
       "versionDescription": "Tweak: Free iAP",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/112/app_112_nabzclan_sidelix.ipa",
-      "size": 303473464,
+      "size": 303808017,
       "type": 1,
       "badges": [
         {
@@ -11769,7 +11969,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/offroad-outlaws/id1286538410",
         "release_date": "2026-11-26T00:57:03Z",
-        "checked_at": "2026-11-27T12:41:48-05:00",
+        "checked_at": "2026-11-27T18:41:51-05:00",
         "track_id": 1286538410,
         "track_name": "Offroad Outlaws"
       },
@@ -11836,7 +12036,7 @@
       "versionDate": "2026-11-22T18:29:26-05:00",
       "versionDescription": "Tweak: - Unlimited Coins",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/111/app_111_nabzclan_sidelix.ipa",
-      "size": 149131476,
+      "size": 149466020,
       "type": 1,
       "badges": [
         {
@@ -11871,7 +12071,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/tank-stars/id1347123739",
         "release_date": "2026-11-20T19:28:02Z",
-        "checked_at": "2026-11-27T12:41:48-05:00",
+        "checked_at": "2026-11-27T18:41:52-05:00",
         "track_id": 1347123739,
         "track_name": "Tank Stars"
       },
@@ -11940,7 +12140,7 @@
       "versionDate": "2026-11-22T18:28:53-05:00",
       "versionDescription": "Tweak: Free iAP",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/110/app_110_nabzclan_sidelix.ipa",
-      "size": 331765351,
+      "size": 332099909,
       "type": 1,
       "badges": [
         {
@@ -11975,7 +12175,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/enter-the-gungeon/id1100429641",
         "release_date": "2026-05-06T18:31:04Z",
-        "checked_at": "2026-11-27T12:41:48-05:00",
+        "checked_at": "2026-11-27T18:41:51-05:00",
         "track_id": 1100429641,
         "track_name": "Enter the Gungeon"
       },
@@ -12046,7 +12246,7 @@
       "versionDate": "2026-11-22T18:27:49-05:00",
       "versionDescription": "Tweak: - Unlimited Everything",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/109/app_109_nabzclan_sidelix.ipa",
-      "size": 155228455,
+      "size": 155563011,
       "type": 1,
       "badges": [
         {
@@ -12081,7 +12281,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/tds-tower-destiny-survive/id6480174499",
         "release_date": "2026-11-13T14:20:56Z",
-        "checked_at": "2026-11-27T12:41:48-05:00",
+        "checked_at": "2026-11-27T18:41:52-05:00",
         "track_id": 6480174499,
         "track_name": "TDS - Tower Destiny Survive"
       },
@@ -12148,7 +12348,7 @@
       "versionDate": "2026-11-22T18:27:12-05:00",
       "versionDescription": "Tweak: Free iAP",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/108/app_108_nabzclan_sidelix.ipa",
-      "size": 125317020,
+      "size": 125651555,
       "type": 1,
       "badges": [
         {
@@ -12183,7 +12383,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/paper-io-2/id1423046460",
         "release_date": "2026-11-19T19:57:17Z",
-        "checked_at": "2026-11-27T12:41:48-05:00",
+        "checked_at": "2026-11-27T18:41:51-05:00",
         "track_id": 1423046460,
         "track_name": "Paper.io 2"
       },
@@ -12249,7 +12449,7 @@
       "versionDate": "2026-11-22T18:26:41-05:00",
       "versionDescription": "Tweak: Unlimited Coins, No Ads",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/107/app_107_nabzclan_sidelix.ipa",
-      "size": 147124034,
+      "size": 147458585,
       "type": 1,
       "badges": [
         {
@@ -12284,7 +12484,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/bus-escape-traffic-jam/id6689516366",
         "release_date": "2026-11-26T19:09:36Z",
-        "checked_at": "2026-11-27T12:41:48-05:00",
+        "checked_at": "2026-11-27T18:41:52-05:00",
         "track_id": 6689516366,
         "track_name": "Bus Escape: Traffic Jam"
       },
@@ -12350,7 +12550,7 @@
       "versionDate": "2026-11-22T18:26:00-05:00",
       "versionDescription": "Tweak: Unlimited Gems, - Unlimited Coins, - Unlimited Keys, - No Ads",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/106/app_106_nabzclan_sidelix.ipa",
-      "size": 174821265,
+      "size": 175155798,
       "type": 1,
       "badges": [
         {
@@ -12385,7 +12585,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/fort-guardian/id6736848868",
         "release_date": "2026-10-30T11:04:12Z",
-        "checked_at": "2026-11-27T12:41:48-05:00",
+        "checked_at": "2026-11-27T18:41:52-05:00",
         "track_id": 6736848868,
         "track_name": "Fort Guardian"
       },
@@ -12458,7 +12658,7 @@
       "versionDate": "2026-11-22T18:25:16-05:00",
       "versionDescription": "Tweak: Unlimited of Everything.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/105/app_105_nabzclan_sidelix.ipa",
-      "size": 145833388,
+      "size": 146167940,
       "type": 1,
       "badges": [
         {
@@ -12493,7 +12693,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/hidden-objects-the-journey/id1673457778",
         "release_date": "2026-01-14T13:08:44Z",
-        "checked_at": "2026-11-27T12:41:48-05:00",
+        "checked_at": "2026-11-27T18:41:52-05:00",
         "track_id": 1673457778,
         "track_name": "Hidden Objects - The Journey"
       },
@@ -12564,12 +12764,12 @@
       "versionDate": "2026-11-22T18:24:36-05:00",
       "versionDescription": "Tweak: Satella Injected",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/104/app_104_nabzclan_sidelix.ipa",
-      "size": 112479092,
+      "size": 112813625,
       "type": 1,
       "badges": [
         {
           "key": "needs_update",
-          "label": "Needs Update (v0.0.432)",
+          "label": "Needs Update (v0.0.433)",
           "color": "#f39c12",
           "icon": "arrow.triangle.2.circlepath"
         },
@@ -12590,7 +12790,7 @@
         "checked": true,
         "found": true,
         "bundleIdentifier": "com.moymer.falou",
-        "latest_version": "0.0.432",
+        "latest_version": "0.0.433",
         "repo_version": "0.0.391",
         "up_to_date": false,
         "update_available": true,
@@ -12598,8 +12798,8 @@
         "price": "Free",
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/falou-fast-language-learning/id1460579936",
-        "release_date": "2026-11-24T17:38:20Z",
-        "checked_at": "2026-11-27T12:41:48-05:00",
+        "release_date": "2026-11-27T14:49:44Z",
+        "checked_at": "2026-11-27T18:41:48-05:00",
         "track_id": 1460579936,
         "track_name": "Falou - Fast language learning"
       },
@@ -12663,7 +12863,7 @@
       "versionDate": "2026-11-22T18:24:02-05:00",
       "versionDescription": "Tweak: Free iAP",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/103/app_103_nabzclan_sidelix.ipa",
-      "size": 333551528,
+      "size": 333886062,
       "type": 1,
       "badges": [
         {
@@ -12698,7 +12898,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/stick-war-saga/id1548764863",
         "release_date": "2026-11-21T19:48:53Z",
-        "checked_at": "2026-11-27T12:41:48-05:00",
+        "checked_at": "2026-11-27T18:41:52-05:00",
         "track_id": 1548764863,
         "track_name": "Stick War: Saga"
       },
@@ -12767,7 +12967,7 @@
       "versionDate": "2026-11-22T18:22:40-05:00",
       "versionDescription": "Tweak: Free iAP",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/102/app_102_nabzclan_sidelix.ipa",
-      "size": 164220800,
+      "size": 164555343,
       "type": 1,
       "badges": [
         {
@@ -12802,7 +13002,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/train-simulator-railroad-game/id1587704770",
         "release_date": "2026-04-24T18:29:30Z",
-        "checked_at": "2026-11-27T12:41:48-05:00",
+        "checked_at": "2026-11-27T18:41:52-05:00",
         "track_id": 1587704770,
         "track_name": "Train Simulator: Railroad Game"
       },
@@ -12873,7 +13073,7 @@
       "versionDate": "2026-11-22T18:21:39-05:00",
       "versionDescription": "Tweak: Free iAP",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/101/app_101_nabzclan_sidelix.ipa",
-      "size": 68518958,
+      "size": 68853506,
       "type": 1,
       "badges": [
         {
@@ -12908,7 +13108,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/sling-drift/id1377372413",
         "release_date": "2026-05-13T06:51:09Z",
-        "checked_at": "2026-11-27T12:41:48-05:00",
+        "checked_at": "2026-11-27T18:41:52-05:00",
         "track_id": 1377372413,
         "track_name": "Sling Drift"
       },
@@ -12974,7 +13174,7 @@
       "versionDate": "2026-11-22T18:20:31-05:00",
       "versionDescription": "Tweak: Free iAP",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/100/app_100_nabzclan_sidelix.ipa",
-      "size": 108551139,
+      "size": 108885673,
       "type": 1,
       "badges": [
         {
@@ -13009,7 +13209,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/stone-grass-lawn-mower-game/id1606739002",
         "release_date": "2026-06-05T10:41:19Z",
-        "checked_at": "2026-11-27T12:41:36-05:00",
+        "checked_at": "2026-11-27T18:41:37-05:00",
         "track_id": 1606739002,
         "track_name": "Stone Grass: Lawn Mower Game"
       },
@@ -13079,7 +13279,7 @@
       "versionDate": "2026-11-22T18:19:48-05:00",
       "versionDescription": "Tweak: Unlimited Gems, - Unlimited Coins, - No Ads",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/99/app_99_nabzclan_sidelix.ipa",
-      "size": 127769409,
+      "size": 128102631,
       "type": 1,
       "badges": [
         {
@@ -13114,7 +13314,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/hunter-assassin/id1479587574",
         "release_date": "2026-09-04T14:14:30Z",
-        "checked_at": "2026-11-27T12:41:48-05:00",
+        "checked_at": "2026-11-27T18:41:52-05:00",
         "track_id": 1479587574,
         "track_name": "Hunter Assassin"
       },
@@ -13177,7 +13377,7 @@
       "versionDate": "2026-11-22T18:19:05-05:00",
       "versionDescription": "Tweak: Free iAP",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/98/app_98_nabzclan_sidelix.ipa",
-      "size": 92550339,
+      "size": 92883560,
       "type": 1,
       "badges": [
         {
@@ -13212,7 +13412,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/horizon/id1351719370",
         "release_date": "2026-11-25T10:51:29Z",
-        "checked_at": "2026-11-27T12:41:36-05:00",
+        "checked_at": "2026-11-27T18:41:37-05:00",
         "track_id": 1351719370,
         "track_name": "Horizon"
       },
@@ -13279,7 +13479,7 @@
       "versionDate": "2026-11-22T18:18:34-05:00",
       "versionDescription": "Tweak: Free iAP",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/97/app_97_nabzclan_sidelix.ipa",
-      "size": 155598897,
+      "size": 155932118,
       "type": 1,
       "badges": [
         {
@@ -13314,7 +13514,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/cash-inc-fame-fortune-game/id1270598321",
         "release_date": "2026-09-16T19:38:47Z",
-        "checked_at": "2026-11-27T12:41:36-05:00",
+        "checked_at": "2026-11-27T18:41:38-05:00",
         "track_id": 1270598321,
         "track_name": "Cash, Inc. Fame & Fortune Game"
       },
@@ -13379,7 +13579,7 @@
       "versionDate": "2026-11-22T18:17:15-05:00",
       "versionDescription": "Tweak: Free iAP",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/96/app_96_nabzclan_sidelix.ipa",
-      "size": 119437124,
+      "size": 119770346,
       "type": 1,
       "badges": [
         {
@@ -13414,7 +13614,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/stick-war-legacy/id1001780528",
         "release_date": "2026-11-13T20:34:28Z",
-        "checked_at": "2026-11-27T12:41:36-05:00",
+        "checked_at": "2026-11-27T18:41:38-05:00",
         "track_id": 1001780528,
         "track_name": "Stick War: Legacy"
       },
@@ -13480,7 +13680,7 @@
       "versionDate": "2026-11-22T18:16:04-05:00",
       "versionDescription": "Tweak: Free iAP",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/95/app_95_nabzclan_sidelix.ipa",
-      "size": 201758995,
+      "size": 202092222,
       "type": 1,
       "badges": [
         {
@@ -13515,7 +13715,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/car-match-traffic-puzzle/id6504421808",
         "release_date": "2026-11-25T08:02:37Z",
-        "checked_at": "2026-11-27T12:41:36-05:00",
+        "checked_at": "2026-11-27T18:41:38-05:00",
         "track_id": 6504421808,
         "track_name": "Car Match - Traffic Puzzle"
       },
@@ -13579,7 +13779,7 @@
       "versionDate": "2026-11-22T18:15:05-05:00",
       "versionDescription": "Tweak: Unlimited currencies, - VIP unlocked, - No Ads, - Other stuff",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/94/app_94_nabzclan_sidelix.ipa",
-      "size": 125922068,
+      "size": 126255280,
       "type": 1,
       "badges": [
         {
@@ -13614,7 +13814,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/dig-tycoon-idle-game/id1556056052",
         "release_date": "2026-10-26T20:05:12Z",
-        "checked_at": "2026-11-27T12:41:48-05:00",
+        "checked_at": "2026-11-27T18:41:52-05:00",
         "track_id": 1556056052,
         "track_name": "Dig Tycoon - Idle Game"
       },
@@ -13685,7 +13885,7 @@
       "versionDate": "2026-11-22T18:14:17-05:00",
       "versionDescription": "Tweak: Unlimited Cash, - Unlimited Shields, - Unlimited Nitro, - Premium Unlocked",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/93/app_93_nabzclan_sidelix.ipa",
-      "size": 327634931,
+      "size": 327968152,
       "type": 1,
       "badges": [
         {
@@ -13720,7 +13920,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/race-master-3d-car-racing/id1579072162",
         "release_date": "2026-10-27T15:03:02Z",
-        "checked_at": "2026-11-27T12:41:48-05:00",
+        "checked_at": "2026-11-27T18:41:53-05:00",
         "track_id": 1579072162,
         "track_name": "Race Master 3D: Car Racing"
       },
@@ -13787,7 +13987,7 @@
       "versionDate": "2026-11-22T18:13:06-05:00",
       "versionDescription": "Tweak: Unlimited Hints, No Ads",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/92/app_92_nabzclan_sidelix.ipa",
-      "size": 175132103,
+      "size": 175465331,
       "type": 1,
       "badges": [
         {
@@ -13822,7 +14022,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/brain-out-2-tricky-challenge/id6737890035",
         "release_date": "2026-11-20T00:40:35Z",
-        "checked_at": "2026-11-27T12:41:48-05:00",
+        "checked_at": "2026-11-27T18:41:53-05:00",
         "track_id": 6737890035,
         "track_name": "Brain Out 2 - Tricky Challenge"
       },
@@ -13896,7 +14096,7 @@
       "versionDate": "2026-11-22T18:12:12-05:00",
       "versionDescription": "Tweak: Subscription Unlocked",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/91/app_91_nabzclan_sidelix.ipa",
-      "size": 131002508,
+      "size": 131335729,
       "type": 1,
       "badges": [
         {
@@ -13931,7 +14131,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/proknockout-cut-paste-photos/id944665061",
         "release_date": "2026-10-31T00:39:19Z",
-        "checked_at": "2026-11-27T12:41:48-05:00",
+        "checked_at": "2026-11-27T18:41:53-05:00",
         "track_id": 944665061,
         "track_name": "ProKnockOut-Cut Paste Photos"
       },
@@ -13999,7 +14199,7 @@
       "versionDate": "2026-11-22T18:11:18-05:00",
       "versionDescription": "Tweak: Unlimited Tokens, No Ads",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/90/app_90_nabzclan_sidelix.ipa",
-      "size": 120155723,
+      "size": 120488938,
       "type": 1,
       "badges": [
         {
@@ -14034,7 +14234,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/offline-games-no-wifi-games/id6448104157",
         "release_date": "2026-11-23T11:16:30Z",
-        "checked_at": "2026-11-27T12:41:49-05:00",
+        "checked_at": "2026-11-27T18:41:53-05:00",
         "track_id": 6448104157,
         "track_name": "Offline Games - No Wifi Games"
       },
@@ -14100,7 +14300,7 @@
       "versionDate": "2026-11-22T18:10:42-05:00",
       "versionDescription": "Tweak: Pro Unlocked",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/89/app_89_nabzclan_sidelix.ipa",
-      "size": 31174192,
+      "size": 31507412,
       "type": 1,
       "badges": [
         {
@@ -14135,7 +14335,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/trading-game-stock-simulator/id1202332044",
         "release_date": "2026-11-01T22:33:19Z",
-        "checked_at": "2026-11-27T12:41:49-05:00",
+        "checked_at": "2026-11-27T18:41:53-05:00",
         "track_id": 1202332044,
         "track_name": "Trading Game: Stock Simulator"
       },
@@ -14202,7 +14402,7 @@
       "versionDate": "2026-11-22T18:10:07-05:00",
       "versionDescription": "Tweak: Pro Unlocked",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/88/app_88_nabzclan_sidelix.ipa",
-      "size": 14081217,
+      "size": 14414447,
       "type": 1,
       "badges": [
         {
@@ -14237,7 +14437,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/dreams-your-dream-journal/id1225560667",
         "release_date": "2026-11-08T23:53:59Z",
-        "checked_at": "2026-11-27T12:41:49-05:00",
+        "checked_at": "2026-11-27T18:41:53-05:00",
         "track_id": 1225560667,
         "track_name": "Dreams: Your dream journal"
       },
@@ -14307,7 +14507,7 @@
       "versionDate": "2026-11-22T17:29:29-05:00",
       "versionDescription": "Tweak: Satella injected for unlocking subscription",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/87/app_87_nabzclan_sidelix.ipa",
-      "size": 172694557,
+      "size": 173027777,
       "type": 1,
       "badges": [
         {
@@ -14342,7 +14542,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/snorelab-record-your-snoring/id529443604",
         "release_date": "2026-11-23T09:58:59Z",
-        "checked_at": "2026-11-27T12:41:36-05:00",
+        "checked_at": "2026-11-27T18:41:39-05:00",
         "track_id": 529443604,
         "track_name": "SnoreLab : Record Your Snoring"
       },
@@ -14410,7 +14610,7 @@
       "versionDate": "2026-11-22T17:28:59-05:00",
       "versionDescription": "Tweak: No Ads, All Games Unlocked",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/86/app_86_nabzclan_sidelix.ipa",
-      "size": 103836347,
+      "size": 104169560,
       "type": 1,
       "badges": [
         {
@@ -14445,7 +14645,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/2-player-games-offline-games/id1465731199",
         "release_date": "2026-11-02T10:19:46Z",
-        "checked_at": "2026-11-27T12:41:49-05:00",
+        "checked_at": "2026-11-27T18:41:53-05:00",
         "track_id": 1465731199,
         "track_name": "2 Player Games : Offline Games"
       },
@@ -14514,7 +14714,7 @@
       "versionDate": "2026-11-22T17:28:32-05:00",
       "versionDescription": "Tweak: Subscription Unlocked",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/85/app_85_nabzclan_sidelix.ipa",
-      "size": 48730727,
+      "size": 49063941,
       "type": 1,
       "badges": [
         {
@@ -14549,7 +14749,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/voicepal-your-ai-ghostwriter/id6471552007",
         "release_date": "2026-11-24T15:16:25Z",
-        "checked_at": "2026-11-27T12:41:49-05:00",
+        "checked_at": "2026-11-27T18:41:53-05:00",
         "track_id": 6471552007,
         "track_name": "Voicepal: your AI Ghostwriter"
       },
@@ -14622,7 +14822,7 @@
       "versionDate": "2026-11-22T17:28:10-05:00",
       "versionDescription": "Tweak: Subscription Unlocked",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/84/app_84_nabzclan_sidelix.ipa",
-      "size": 194594320,
+      "size": 194927532,
       "type": 1,
       "badges": [
         {
@@ -14657,7 +14857,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/djay-dj-app-ai-mixer/id450527929",
         "release_date": "2026-11-10T06:09:44Z",
-        "checked_at": "2026-11-27T12:41:49-05:00",
+        "checked_at": "2026-11-27T18:41:53-05:00",
         "track_id": 450527929,
         "track_name": "djay - DJ App & AI Mixer"
       },
@@ -14724,7 +14924,7 @@
       "versionDate": "2026-11-22T17:27:37-05:00",
       "versionDescription": "Tweak: Premium Unlocked",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/83/app_83_nabzclan_sidelix.ipa",
-      "size": 41984926,
+      "size": 42318149,
       "type": 1,
       "badges": [
         {
@@ -14759,7 +14959,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/recipe-keeper-saver-recify/id6738006990",
         "release_date": "2026-11-11T07:23:23Z",
-        "checked_at": "2026-11-27T12:41:49-05:00",
+        "checked_at": "2026-11-27T18:41:53-05:00",
         "track_id": 6738006990,
         "track_name": "Recipe Keeper & Saver - Recify"
       },
@@ -14825,7 +15025,7 @@
       "versionDate": "2026-11-22T17:27:23-05:00",
       "versionDescription": "Tweak: Premium Unlocked",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/82/app_82_nabzclan_sidelix.ipa",
-      "size": 32104734,
+      "size": 32437958,
       "type": 1,
       "badges": [
         {
@@ -14860,7 +15060,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/adhd-noise-green-brown-pink/id1632615763",
         "release_date": "2026-11-24T05:09:49Z",
-        "checked_at": "2026-11-27T12:41:49-05:00",
+        "checked_at": "2026-11-27T18:41:53-05:00",
         "track_id": 1632615763,
         "track_name": "ADHD Noise: Green, Brown, Pink"
       },
@@ -14925,7 +15125,7 @@
       "versionDate": "2026-11-22T17:27:07-05:00",
       "versionDescription": "Tweak: Free iAP",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/81/app_81_nabzclan_sidelix.ipa",
-      "size": 132671274,
+      "size": 133004494,
       "type": 1,
       "badges": [
         {
@@ -14960,7 +15160,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/hill-climb-racing/id564540143",
         "release_date": "2026-11-24T06:25:26Z",
-        "checked_at": "2026-11-27T12:41:36-05:00",
+        "checked_at": "2026-11-27T18:41:39-05:00",
         "track_id": 564540143,
         "track_name": "Hill Climb Racing"
       },
@@ -15025,7 +15225,7 @@
       "versionDate": "2026-11-22T17:26:37-05:00",
       "versionDescription": "Tweak: Subscription Unlocked",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/80/app_80_nabzclan_sidelix.ipa",
-      "size": 16947143,
+      "size": 17280363,
       "type": 1,
       "badges": [
         {
@@ -15060,7 +15260,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/vocacircle-vocabulary-builder/id1613988730",
         "release_date": "2026-11-23T22:53:07Z",
-        "checked_at": "2026-11-27T12:41:49-05:00",
+        "checked_at": "2026-11-27T18:41:53-05:00",
         "track_id": 1613988730,
         "track_name": "VocaCircle: Vocabulary Builder"
       },
@@ -15130,7 +15330,7 @@
       "versionDate": "2026-11-22T17:26:28-05:00",
       "versionDescription": "Tweak: Free IAP",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/79/app_79_nabzclan_sidelix.ipa",
-      "size": 98965226,
+      "size": 99298439,
       "type": 1,
       "badges": [
         {
@@ -15165,7 +15365,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/crossword-master-word-puzzle/id6547858927",
         "release_date": "2026-11-16T08:48:14Z",
-        "checked_at": "2026-11-27T12:41:36-05:00",
+        "checked_at": "2026-11-27T18:41:39-05:00",
         "track_id": 6547858927,
         "track_name": "Crossword Master - Word Puzzle"
       },
@@ -15238,7 +15438,7 @@
       "versionDate": "2026-11-22T17:25:53-05:00",
       "versionDescription": "Tweak: Premium Unlocked",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/78/app_78_nabzclan_sidelix.ipa",
-      "size": 102166360,
+      "size": 102499584,
       "type": 1,
       "badges": [
         {
@@ -15273,7 +15473,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/summary-ai-note-taker/id6670175056",
         "release_date": "2026-11-26T09:17:30Z",
-        "checked_at": "2026-11-27T12:41:49-05:00",
+        "checked_at": "2026-11-27T18:41:53-05:00",
         "track_id": 6670175056,
         "track_name": "Summary - AI Note Taker"
       },
@@ -15341,7 +15541,7 @@
       "versionDate": "2026-11-22T17:25:23-05:00",
       "versionDescription": "Tweak: Premium Unlocked",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/77/app_77_nabzclan_sidelix.ipa",
-      "size": 17242669,
+      "size": 17575895,
       "type": 1,
       "badges": [
         {
@@ -15376,7 +15576,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/moneycircle-expense-budget/id1618265694",
         "release_date": "2026-11-17T22:54:48Z",
-        "checked_at": "2026-11-27T12:41:49-05:00",
+        "checked_at": "2026-11-27T18:41:53-05:00",
         "track_id": 1618265694,
         "track_name": "MoneyCircle: Expense & Budget"
       },
@@ -15448,7 +15648,7 @@
       "versionDate": "2026-11-22T17:25:13-05:00",
       "versionDescription": "Tweak: Premium Unlocked",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/76/app_76_nabzclan_sidelix.ipa",
-      "size": 85983026,
+      "size": 86316239,
       "type": 1,
       "badges": [
         {
@@ -15483,7 +15683,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/sunrise-sunset-time-solarwatch/id1191365122",
         "release_date": "2026-11-25T20:31:07Z",
-        "checked_at": "2026-11-27T12:41:49-05:00",
+        "checked_at": "2026-11-27T18:41:53-05:00",
         "track_id": 1191365122,
         "track_name": "Sunrise Sunset Time SolarWatch"
       },
@@ -15550,7 +15750,7 @@
       "versionDate": "2026-11-22T17:24:49-05:00",
       "versionDescription": "Tweak: Subscription Unlocked",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/75/app_75_nabzclan_sidelix.ipa",
-      "size": 58019997,
+      "size": 58353220,
       "type": 1,
       "badges": [
         {
@@ -15585,7 +15785,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/soundscape-focus-sleep-sounds/id6480119395",
         "release_date": "2026-11-23T07:46:02Z",
-        "checked_at": "2026-11-27T12:41:49-05:00",
+        "checked_at": "2026-11-27T18:41:53-05:00",
         "track_id": 6480119395,
         "track_name": "Soundscape: Focus Sleep Sounds"
       },
@@ -15657,7 +15857,7 @@
       "versionDate": "2026-11-22T17:24:28-05:00",
       "versionDescription": "Tweak: Subscription Unlocked",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/74/app_74_nabzclan_sidelix.ipa",
-      "size": 96330107,
+      "size": 96663331,
       "type": 1,
       "badges": [
         {
@@ -15692,7 +15892,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/365scores-live-sports-scores/id571801488",
         "release_date": "2026-11-18T15:42:09Z",
-        "checked_at": "2026-11-27T12:41:49-05:00",
+        "checked_at": "2026-11-27T18:41:54-05:00",
         "track_id": 571801488,
         "track_name": "365Scores: Live Sports Scores"
       },
@@ -15767,7 +15967,7 @@
       "versionDate": "2026-11-22T17:23:53-05:00",
       "versionDescription": "Tweak: Subscription Unlocked",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/73/app_73_nabzclan_sidelix.ipa",
-      "size": 130470538,
+      "size": 130803756,
       "type": 1,
       "badges": [
         {
@@ -15802,7 +16002,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/rest-fix-your-sleep-for-good/id1609977097",
         "release_date": "2026-11-24T18:02:40Z",
-        "checked_at": "2026-11-27T12:41:49-05:00",
+        "checked_at": "2026-11-27T18:41:54-05:00",
         "track_id": 1609977097,
         "track_name": "Rest: Fix Your Sleep For Good"
       },
@@ -15868,7 +16068,7 @@
       "versionDate": "2026-11-22T17:23:18-05:00",
       "versionDescription": "Tweak: Premium Unlocked",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/72/app_72_nabzclan_sidelix.ipa",
-      "size": 26793945,
+      "size": 27127172,
       "type": 1,
       "badges": [
         {
@@ -15903,7 +16103,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/visualmind-ai-mindmap-chatbot/id6502063885",
         "release_date": "2026-11-18T17:17:32Z",
-        "checked_at": "2026-11-27T12:41:49-05:00",
+        "checked_at": "2026-11-27T18:41:54-05:00",
         "track_id": 6502063885,
         "track_name": "VisualMind: AI MindMap/Chatbot"
       },
@@ -15973,7 +16173,7 @@
       "versionDate": "2026-11-22T17:23:04-05:00",
       "versionDescription": "Tweak: Premium Unlocked",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/71/app_71_nabzclan_sidelix.ipa",
-      "size": 41960059,
+      "size": 42293274,
       "type": 1,
       "badges": [
         {
@@ -16008,7 +16208,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/i-am-sober/id672904239",
         "release_date": "2026-11-18T16:14:11Z",
-        "checked_at": "2026-11-27T12:41:49-05:00",
+        "checked_at": "2026-11-27T18:41:54-05:00",
         "track_id": 672904239,
         "track_name": "I Am Sober"
       },
@@ -16083,7 +16283,7 @@
       "versionDate": "2026-11-22T17:22:40-05:00",
       "versionDescription": "Tweak: Subscription Unlocked",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/70/app_70_nabzclan_sidelix.ipa",
-      "size": 157044030,
+      "size": 157377257,
       "type": 1,
       "badges": [
         {
@@ -16118,7 +16318,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/moneycoach-ai-budget-planner/id989642198",
         "release_date": "2026-11-25T06:34:03Z",
-        "checked_at": "2026-11-27T12:41:49-05:00",
+        "checked_at": "2026-11-27T18:41:54-05:00",
         "track_id": 989642198,
         "track_name": "MoneyCoach AI Budget Planner"
       },
@@ -16182,7 +16382,7 @@
       "versionDate": "2026-11-22T17:21:39-05:00",
       "versionDescription": "Tweak: Premium Unlocked",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/69/app_69_nabzclan_sidelix.ipa",
-      "size": 50036142,
+      "size": 50369370,
       "type": 1,
       "badges": [
         {
@@ -16217,7 +16417,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/to-do-list-reminders-tasks/id1476066606",
         "release_date": "2026-11-25T16:09:18Z",
-        "checked_at": "2026-11-27T12:41:49-05:00",
+        "checked_at": "2026-11-27T18:41:54-05:00",
         "track_id": 1476066606,
         "track_name": "To Do List - Reminders & Tasks"
       },
@@ -16287,7 +16487,7 @@
       "versionDate": "2026-11-22T17:21:27-05:00",
       "versionDescription": "Tweak: Premium Unlocked",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/68/app_68_nabzclan_sidelix.ipa",
-      "size": 104859229,
+      "size": 105192450,
       "type": 1,
       "badges": [
         {
@@ -16322,7 +16522,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/sofascore-live-sports-scores/id1176147574",
         "release_date": "2026-11-25T15:48:54Z",
-        "checked_at": "2026-11-27T12:41:49-05:00",
+        "checked_at": "2026-11-27T18:41:54-05:00",
         "track_id": 1176147574,
         "track_name": "Sofascore: Live Sports Scores"
       },
@@ -16392,7 +16592,7 @@
       "versionDate": "2026-11-22T17:20:45-05:00",
       "versionDescription": "Tweak: Subscription Unlocked",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/67/app_67_nabzclan_sidelix.ipa",
-      "size": 207932925,
+      "size": 208266150,
       "type": 1,
       "badges": [
         {
@@ -16427,7 +16627,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/photoroom-ai-photo-video/id1455009060",
         "release_date": "2026-11-23T09:06:42Z",
-        "checked_at": "2026-11-27T12:41:49-05:00",
+        "checked_at": "2026-11-27T18:41:54-05:00",
         "track_id": 1455009060,
         "track_name": "Photoroom: AI Photo & Video"
       },
@@ -16489,7 +16689,7 @@
       "versionDate": "2026-11-22T17:18:16-05:00",
       "versionDescription": "Tweak: Premium Unlocked",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/66/app_66_nabzclan_sidelix.ipa",
-      "size": 176677636,
+      "size": 177010856,
       "type": 1,
       "badges": [
         {
@@ -16524,7 +16724,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/apex-racer/id1668705222",
         "release_date": "2026-11-17T22:23:19Z",
-        "checked_at": "2026-11-27T12:41:50-05:00",
+        "checked_at": "2026-11-27T18:41:54-05:00",
         "track_id": 1668705222,
         "track_name": "APEX Racer"
       },
@@ -16598,7 +16798,7 @@
       "versionDate": "2026-11-22T17:16:26-05:00",
       "versionDescription": "Tweak: Subscription Unlocked",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/65/app_65_nabzclan_sidelix.ipa",
-      "size": 217806533,
+      "size": 218139755,
       "type": 1,
       "badges": [
         {
@@ -16633,7 +16833,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/planta-plant-garden-care/id1410126781",
         "release_date": "2026-11-26T09:30:03Z",
-        "checked_at": "2026-11-27T12:41:50-05:00",
+        "checked_at": "2026-11-27T18:41:54-05:00",
         "track_id": 1410126781,
         "track_name": "Planta: Plant & Garden Care"
       },
@@ -16705,7 +16905,7 @@
       "versionDate": "2026-11-22T17:15:36-05:00",
       "versionDescription": "Tweak: Premium Unlocked",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/64/app_64_nabzclan_sidelix.ipa",
-      "size": 62843093,
+      "size": 63176315,
       "type": 1,
       "badges": [
         {
@@ -16740,7 +16940,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/scanner-app-genius-scan/id377672876",
         "release_date": "2026-11-17T07:40:09Z",
-        "checked_at": "2026-11-27T12:41:50-05:00",
+        "checked_at": "2026-11-27T18:41:54-05:00",
         "track_id": 377672876,
         "track_name": "Scanner App: Genius Scan"
       },
@@ -16822,7 +17022,7 @@
       "versionDate": "2026-11-22T17:13:44-05:00",
       "versionDescription": "Tweak: Gold Unlocked",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/63/app_63_nabzclan_sidelix.ipa",
-      "size": 91386402,
+      "size": 91719616,
       "type": 1,
       "badges": [
         {
@@ -16857,7 +17057,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/intvl/id6472631698",
         "release_date": "2026-11-18T01:19:24Z",
-        "checked_at": "2026-11-27T12:41:50-05:00",
+        "checked_at": "2026-11-27T18:41:54-05:00",
         "track_id": 6472631698,
         "track_name": "INTVL"
       },
@@ -16924,7 +17124,7 @@
       "versionDate": "2026-11-22T17:12:40-05:00",
       "versionDescription": "Tweak: Subscription Unlocked",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/62/app_62_nabzclan_sidelix.ipa",
-      "size": 33668818,
+      "size": 34002041,
       "type": 1,
       "badges": [
         {
@@ -16959,7 +17159,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/musicbox-catalog-and-organize/id1614730313",
         "release_date": "2026-11-18T01:31:44Z",
-        "checked_at": "2026-11-27T12:41:50-05:00",
+        "checked_at": "2026-11-27T18:41:54-05:00",
         "track_id": 1614730313,
         "track_name": "MusicBox: Catalog and Organize"
       },
@@ -17042,7 +17242,7 @@
       "versionDate": "2026-11-22T17:12:20-05:00",
       "versionDescription": "Tweak: Pro Unlocked",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/61/app_61_nabzclan_sidelix.ipa",
-      "size": 266121953,
+      "size": 266455169,
       "type": 1,
       "badges": [
         {
@@ -17077,7 +17277,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/stepsapp-pedometer/id1037595083",
         "release_date": "2026-11-26T08:12:41Z",
-        "checked_at": "2026-11-27T12:41:50-05:00",
+        "checked_at": "2026-11-27T18:41:54-05:00",
         "track_id": 1037595083,
         "track_name": "StepsApp Pedometer"
       },
@@ -17147,7 +17347,7 @@
       "versionDate": "2026-11-22T17:09:52-05:00",
       "versionDescription": "Tweak: Premium Unlocked",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/60/app_60_nabzclan_sidelix.ipa",
-      "size": 55592661,
+      "size": 55925891,
       "type": 1,
       "badges": [
         {
@@ -17182,7 +17382,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/podcast-app/id1199070742",
         "release_date": "2026-11-26T12:36:23Z",
-        "checked_at": "2026-11-27T12:41:50-05:00",
+        "checked_at": "2026-11-27T18:41:54-05:00",
         "track_id": 1199070742,
         "track_name": "Podcast App"
       },
@@ -17230,7 +17430,7 @@
       "versionDate": "2026-11-22T17:08:30-05:00",
       "versionDescription": "Ksign v1.6.1 (17.19 MB) \u2014 Sidelix App Store release.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/59/app_59_nabzclan_sidelix.ipa",
-      "size": 18040719,
+      "size": 18373938,
       "type": 1,
       "badges": [
         {
@@ -17271,7 +17471,7 @@
         "is_paid": false,
         "store_url": null,
         "release_date": null,
-        "checked_at": "2026-11-27T14:42:09-05:00"
+        "checked_at": "2026-11-27T23:42:30-05:00"
       },
       "vipOnly": false,
       "vipMinTier": 0,
@@ -17373,7 +17573,7 @@
         "is_paid": false,
         "store_url": null,
         "release_date": null,
-        "checked_at": "2026-11-27T14:42:15-05:00"
+        "checked_at": "2026-11-27T23:42:30-05:00"
       },
       "vipOnly": false,
       "vipMinTier": 0,
@@ -17443,7 +17643,7 @@
       "versionDate": "2026-11-22T15:27:52-05:00",
       "versionDescription": "Cash App - AlpineV5Trial (Hacked) v1.2 (8.76 MB) \u2014 Sidelix App Store release.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/24/app_24_nabzclan_sidelix.ipa",
-      "size": 9230637,
+      "size": 9563862,
       "type": 1,
       "badges": [
         {
@@ -17490,7 +17690,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/cash-app/id711923939",
         "release_date": "2026-11-16T18:15:24Z",
-        "checked_at": "2026-11-27T12:41:51-05:00",
+        "checked_at": "2026-11-27T18:41:56-05:00",
         "track_id": 711923939,
         "track_name": "Cash App"
       },
@@ -17566,7 +17766,7 @@
       "versionDate": "2026-11-22T12:32:52-05:00",
       "versionDescription": "Tweak: Premium Unlocked",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/58/app_58_nabzclan_sidelix.ipa",
-      "size": 104152315,
+      "size": 104485537,
       "type": 1,
       "badges": [
         {
@@ -17601,7 +17801,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/invoice-simple-invoice-maker/id694831622",
         "release_date": "2026-11-18T14:42:12Z",
-        "checked_at": "2026-11-27T12:41:50-05:00",
+        "checked_at": "2026-11-27T18:41:54-05:00",
         "track_id": 694831622,
         "track_name": "Invoice Simple: Invoice Maker"
       },
@@ -17671,7 +17871,7 @@
       "versionDate": "2026-11-22T12:32:06-05:00",
       "versionDescription": "Tweak: Free IAP",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/57/app_57_nabzclan_sidelix.ipa",
-      "size": 118861939,
+      "size": 119195158,
       "type": 1,
       "badges": [
         {
@@ -17706,7 +17906,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/water-sort-puzzle/id1514542157",
         "release_date": "2026-11-18T04:41:12Z",
-        "checked_at": "2026-11-27T12:41:50-05:00",
+        "checked_at": "2026-11-27T18:41:54-05:00",
         "track_id": 1514542157,
         "track_name": "Water Sort Puzzle"
       },
@@ -17779,7 +17979,7 @@
       "versionDate": "2026-11-22T12:31:21-05:00",
       "versionDescription": "Tweak: Premium Unlocked",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/56/app_56_nabzclan_sidelix.ipa",
-      "size": 74903922,
+      "size": 75237137,
       "type": 1,
       "badges": [
         {
@@ -17814,7 +18014,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/lyfta-gym-workout-tracker/id6443740936",
         "release_date": "2026-11-24T22:04:41Z",
-        "checked_at": "2026-11-27T12:41:50-05:00",
+        "checked_at": "2026-11-27T18:41:54-05:00",
         "track_id": 6443740936,
         "track_name": "Lyfta: Gym & Workout Tracker"
       },
@@ -17887,7 +18087,7 @@
       "versionDate": "2026-11-22T12:30:35-05:00",
       "versionDescription": "Tweak: Free iAP",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/55/app_55_nabzclan_sidelix.ipa",
-      "size": 205045808,
+      "size": 205379033,
       "type": 1,
       "badges": [
         {
@@ -17922,7 +18122,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/my-perfect-hotel/id1635760774",
         "release_date": "2026-11-25T15:03:36Z",
-        "checked_at": "2026-11-27T12:41:50-05:00",
+        "checked_at": "2026-11-27T18:41:54-05:00",
         "track_id": 1635760774,
         "track_name": "My Perfect Hotel"
       },
@@ -17997,7 +18197,7 @@
       "versionDate": "2026-11-22T12:29:27-05:00",
       "versionDescription": "Tweak: Subscription Unlocked",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/54/app_54_nabzclan_sidelix.ipa",
-      "size": 592236456,
+      "size": 592569683,
       "type": 1,
       "badges": [
         {
@@ -18032,7 +18232,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/pillow-sleep-tracker/id878691772",
         "release_date": "2026-11-19T08:17:55Z",
-        "checked_at": "2026-11-27T12:41:50-05:00",
+        "checked_at": "2026-11-27T18:41:55-05:00",
         "track_id": 878691772,
         "track_name": "Pillow: Sleep Tracker"
       },
@@ -18099,7 +18299,7 @@
       "versionDate": "2026-11-22T12:27:56-05:00",
       "versionDescription": "Tweak: Subscription Unlocked",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/53/app_53_nabzclan_sidelix.ipa",
-      "size": 26820758,
+      "size": 27153971,
       "type": 1,
       "badges": [
         {
@@ -18134,7 +18334,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/musicsmart-liner-notes/id1512195368",
         "release_date": "2026-11-18T21:45:43Z",
-        "checked_at": "2026-11-27T12:41:50-05:00",
+        "checked_at": "2026-11-27T18:41:55-05:00",
         "track_id": 1512195368,
         "track_name": "MusicSmart - Liner Notes"
       },
@@ -18206,7 +18406,7 @@
       "versionDate": "2026-11-22T12:25:19-05:00",
       "versionDescription": "Tweak: Subscription Unlocked",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/52/app_52_nabzclan_sidelix.ipa",
-      "size": 60252191,
+      "size": 60585412,
       "type": 1,
       "badges": [
         {
@@ -18241,7 +18441,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/live-transcribe/id1471473738",
         "release_date": "2026-11-19T05:32:25Z",
-        "checked_at": "2026-11-27T12:41:50-05:00",
+        "checked_at": "2026-11-27T18:41:55-05:00",
         "track_id": 1471473738,
         "track_name": "Live Transcribe"
       },
@@ -18597,7 +18797,7 @@
       "versionDate": "2026-11-22T11:04:00-05:00",
       "versionDescription": "Tweak: Download Videos",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/51/app_51_nabzclan_sidelix.ipa",
-      "size": 167606439,
+      "size": 167939660,
       "type": 1,
       "badges": [
         {
@@ -18632,7 +18832,7 @@
         "is_paid": false,
         "store_url": null,
         "release_date": null,
-        "checked_at": "2026-11-27T15:29:17-05:00"
+        "checked_at": "2026-11-28T00:38:07-05:00"
       },
       "vipOnly": false,
       "vipMinTier": 0,
@@ -18698,7 +18898,7 @@
       "versionDate": "2026-11-22T11:02:56-05:00",
       "versionDescription": "Tweak: Pro Unlocked",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/50/app_50_nabzclan_sidelix.ipa",
-      "size": 55708088,
+      "size": 56041310,
       "type": 1,
       "badges": [
         {
@@ -18733,7 +18933,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/speak4me-text-to-speech-reader/id894460403",
         "release_date": "2026-11-20T20:51:42Z",
-        "checked_at": "2026-11-27T12:41:50-05:00",
+        "checked_at": "2026-11-27T18:41:55-05:00",
         "track_id": 894460403,
         "track_name": "Speak4Me Text to Speech Reader"
       },
@@ -18803,7 +19003,7 @@
       "versionDate": "2026-11-22T10:48:11-05:00",
       "versionDescription": "Tweak: Unlimited Coins, No Ads",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/49/app_49_nabzclan_sidelix.ipa",
-      "size": 109545849,
+      "size": 109879070,
       "type": 1,
       "badges": [
         {
@@ -18838,7 +19038,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/dune/id1291851950",
         "release_date": "2026-11-25T15:58:44Z",
-        "checked_at": "2026-11-27T12:41:50-05:00",
+        "checked_at": "2026-11-27T18:41:55-05:00",
         "track_id": 1291851950,
         "track_name": "Dune!"
       },
@@ -18907,7 +19107,7 @@
       "versionDate": "2026-11-22T10:47:32-05:00",
       "versionDescription": "Tweak: Full Version Unlocked",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/48/app_48_nabzclan_sidelix.ipa",
-      "size": 124713107,
+      "size": 125046322,
       "type": 1,
       "badges": [
         {
@@ -18942,7 +19142,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/bill-tracker-pro-budget-saver/id1059461492",
         "release_date": "2026-11-25T17:25:42Z",
-        "checked_at": "2026-11-27T12:41:50-05:00",
+        "checked_at": "2026-11-27T18:41:55-05:00",
         "track_id": 1059461492,
         "track_name": "Bill Tracker Pro: Budget Saver"
       },
@@ -19013,7 +19213,7 @@
       "versionDate": "2026-11-22T04:27:17-05:00",
       "versionDescription": "Tweak: Free IAP",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/47/app_47_nabzclan_sidelix.ipa",
-      "size": 88566946,
+      "size": 88900167,
       "type": 1,
       "badges": [
         {
@@ -19048,7 +19248,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/happy-glass/id1425793208",
         "release_date": "2026-09-10T18:47:12Z",
-        "checked_at": "2026-11-27T12:41:50-05:00",
+        "checked_at": "2026-11-27T18:41:55-05:00",
         "track_id": 1425793208,
         "track_name": "Happy Glass"
       },
@@ -19121,7 +19321,7 @@
       "versionDate": "2026-11-22T04:26:49-05:00",
       "versionDescription": "Tweak: Unlimited Coins, No Ads",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/46/app_46_nabzclan_sidelix.ipa",
-      "size": 149452449,
+      "size": 149785669,
       "type": 1,
       "badges": [
         {
@@ -19156,7 +19356,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/crossy-road/id924373886",
         "release_date": "2026-11-15T22:52:52Z",
-        "checked_at": "2026-11-27T12:41:50-05:00",
+        "checked_at": "2026-11-27T18:41:55-05:00",
         "track_id": 924373886,
         "track_name": "Crossy Road"
       },
@@ -19219,7 +19419,7 @@
       "versionDate": "2026-11-22T04:26:18-05:00",
       "versionDescription": "Tweak: Unlimited Coins",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/45/app_45_nabzclan_sidelix.ipa",
-      "size": 128621351,
+      "size": 128954565,
       "type": 1,
       "badges": [
         {
@@ -19254,7 +19454,7 @@
         "is_paid": true,
         "store_url": "https://apps.apple.com/us/app/altos-odyssey/id1182456409",
         "release_date": "2026-11-02T07:31:04Z",
-        "checked_at": "2026-11-27T12:41:50-05:00",
+        "checked_at": "2026-11-27T18:41:51-05:00",
         "track_id": 1182456409,
         "track_name": "Alto's Odyssey"
       },
@@ -19320,7 +19520,7 @@
       "versionDate": "2026-11-22T04:25:54-05:00",
       "versionDescription": "Tweak: Unlimited Coins,  - Unlimited Energy,  - Unlimited Skip Tickets,  - No Ads,  - All Masks Unlocked",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/44/app_44_nabzclan_sidelix.ipa",
-      "size": 81453985,
+      "size": 81787206,
       "type": 1,
       "badges": [
         {
@@ -19355,7 +19555,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/tomb-of-the-mask-pixel-maze/id1057889290",
         "release_date": "2026-10-22T11:31:56Z",
-        "checked_at": "2026-11-27T12:41:50-05:00",
+        "checked_at": "2026-11-27T18:41:55-05:00",
         "track_id": 1057889290,
         "track_name": "Tomb of the Mask: Pixel Maze"
       },
@@ -19411,7 +19611,7 @@
       "versionDate": "2026-11-22T04:25:27-05:00",
       "versionDescription": "Tweak: Free iAP",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/43/app_43_nabzclan_sidelix.ipa",
-      "size": 79204878,
+      "size": 79538098,
       "type": 1,
       "badges": [
         {
@@ -19446,7 +19646,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/traffic-racer/id547101139",
         "release_date": "2025-12-17T20:27:21Z",
-        "checked_at": "2026-11-27T12:41:50-05:00",
+        "checked_at": "2026-11-27T18:41:55-05:00",
         "track_id": 547101139,
         "track_name": "Traffic Racer"
       },
@@ -19508,7 +19708,7 @@
       "versionDate": "2026-11-22T04:25:08-05:00",
       "versionDescription": "Tweak: Free iAP",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/42/app_42_nabzclan_sidelix.ipa",
-      "size": 63728963,
+      "size": 64062187,
       "type": 1,
       "badges": [
         {
@@ -19543,7 +19743,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/smash-hit/id603527166",
         "release_date": "2026-04-07T06:28:18Z",
-        "checked_at": "2026-11-27T12:41:51-05:00",
+        "checked_at": "2026-11-27T18:41:55-05:00",
         "track_id": 603527166,
         "track_name": "Smash Hit"
       },
@@ -19624,7 +19824,7 @@
       "versionDate": "2026-11-22T04:24:54-05:00",
       "versionDescription": "Tweak: Pro+ Unlocked",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/41/app_41_nabzclan_sidelix.ipa",
-      "size": 55150137,
+      "size": 55483362,
       "type": 1,
       "badges": [
         {
@@ -19659,7 +19859,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/ifttt-ai-automation-made-easy/id660944635",
         "release_date": "2026-11-19T10:10:01Z",
-        "checked_at": "2026-11-27T12:41:51-05:00",
+        "checked_at": "2026-11-27T18:41:55-05:00",
         "track_id": 660944635,
         "track_name": "IFTTT.ai: Automation made easy"
       },
@@ -19721,7 +19921,7 @@
       "versionDate": "2026-11-22T04:24:39-05:00",
       "versionDescription": "Tweak: Satella added for unlocking subscription",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/40/app_40_nabzclan_sidelix.ipa",
-      "size": 31072598,
+      "size": 31405813,
       "type": 1,
       "badges": [
         {
@@ -19756,7 +19956,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/vocal-remover-ai-separator/id6535669222",
         "release_date": "2026-08-25T12:33:25Z",
-        "checked_at": "2026-11-27T12:41:51-05:00",
+        "checked_at": "2026-11-27T18:41:55-05:00",
         "track_id": 6535669222,
         "track_name": "Vocal Remover & AI Separator"
       },
@@ -19825,7 +20025,7 @@
       "versionDate": "2026-11-22T04:24:28-05:00",
       "versionDescription": "Tweak: Satella injected for unlocking subscription",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/39/app_39_nabzclan_sidelix.ipa",
-      "size": 30774610,
+      "size": 31107834,
       "type": 1,
       "badges": [
         {
@@ -19860,7 +20060,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/ai-song-maker-soniva-music/id6502906463",
         "release_date": "2026-11-25T16:04:37Z",
-        "checked_at": "2026-11-27T12:41:51-05:00",
+        "checked_at": "2026-11-27T18:41:55-05:00",
         "track_id": 6502906463,
         "track_name": "AI Song Maker - Soniva Music"
       },
@@ -19927,7 +20127,7 @@
       "versionDate": "2026-11-22T04:24:13-05:00",
       "versionDescription": "Tweak: Premium Unlocked With Unlimited Hours Of Reading Time",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/38/app_38_nabzclan_sidelix.ipa",
-      "size": 53964155,
+      "size": 54297373,
       "type": 1,
       "badges": [
         {
@@ -19962,7 +20162,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/elevenreader-read-books-aloud/id6479373050",
         "release_date": "2026-11-24T19:09:51Z",
-        "checked_at": "2026-11-27T12:41:51-05:00",
+        "checked_at": "2026-11-27T18:41:55-05:00",
         "track_id": 6479373050,
         "track_name": "ElevenReader: Read Books Aloud"
       },
@@ -20032,7 +20232,7 @@
       "versionDate": "2026-11-22T04:07:46-05:00",
       "versionDescription": "Tweak: Subscription Unlocked",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/35/app_35_nabzclan_sidelix.ipa",
-      "size": 6585623,
+      "size": 6918843,
       "type": 1,
       "badges": [
         {
@@ -20067,7 +20267,7 @@
         "is_paid": true,
         "store_url": "https://apps.apple.com/us/app/incognito-private-browser/id1490656387",
         "release_date": "2026-10-12T17:23:16Z",
-        "checked_at": "2026-11-27T12:41:51-05:00",
+        "checked_at": "2026-11-27T18:41:51-05:00",
         "track_id": 1490656387,
         "track_name": "Incognito \u2014 Private Browser"
       },
@@ -20139,7 +20339,7 @@
       "versionDate": "2026-11-22T03:40:51-05:00",
       "versionDescription": "Tweak: Free iAP",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/37/app_37_nabzclan_sidelix.ipa",
-      "size": 55290976,
+      "size": 55624202,
       "type": 1,
       "badges": [
         {
@@ -20174,7 +20374,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/egg-inc/id993492744",
         "release_date": "2026-08-22T17:33:10Z",
-        "checked_at": "2026-11-27T12:41:51-05:00",
+        "checked_at": "2026-11-27T18:41:55-05:00",
         "track_id": 993492744,
         "track_name": "Egg, Inc."
       },
@@ -20246,7 +20446,7 @@
       "versionDate": "2026-11-22T03:40:34-05:00",
       "versionDescription": "Tweak: -Unlimited Currencies",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/36/app_36_nabzclan_sidelix.ipa",
-      "size": 30220914,
+      "size": 30554138,
       "type": 1,
       "badges": [
         {
@@ -20281,7 +20481,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/gold-digger-frvr-deep-mining/id1537809296",
         "release_date": "2025-06-12T16:00:32Z",
-        "checked_at": "2026-11-27T12:41:51-05:00",
+        "checked_at": "2026-11-27T18:41:55-05:00",
         "track_id": 1537809296,
         "track_name": "Gold Digger FRVR - Deep Mining"
       },
@@ -20350,7 +20550,7 @@
       "versionDate": "2026-11-22T03:40:20-05:00",
       "versionDescription": "Tweak: Satella added for unlocking subscription",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/34/app_34_nabzclan_sidelix.ipa",
-      "size": 10827356,
+      "size": 11160580,
       "type": 1,
       "badges": [
         {
@@ -20385,7 +20585,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/reverse-image-search-ai-lens/id1003144513",
         "release_date": "2026-09-20T11:54:25Z",
-        "checked_at": "2026-11-27T12:41:51-05:00",
+        "checked_at": "2026-11-27T18:41:56-05:00",
         "track_id": 1003144513,
         "track_name": "Reverse Image Search & AI Lens"
       },
@@ -20452,7 +20652,7 @@
       "versionDate": "2026-11-22T03:40:13-05:00",
       "versionDescription": "Tweak: Subscription Unlocked",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/33/app_33_nabzclan_sidelix.ipa",
-      "size": 5039609,
+      "size": 5372831,
       "type": 1,
       "badges": [
         {
@@ -20487,7 +20687,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/napbot-auto-sleep-tracker/id1476436116",
         "release_date": "2025-09-11T16:49:17Z",
-        "checked_at": "2026-11-27T12:41:51-05:00",
+        "checked_at": "2026-11-27T18:41:56-05:00",
         "track_id": 1476436116,
         "track_name": "NapBot - Auto Sleep Tracker"
       },
@@ -20551,7 +20751,7 @@
       "versionDate": "2026-11-22T03:39:08-05:00",
       "versionDescription": "Tweaked IPA \u2014 v8.0.1",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/32/app_32_nabzclan_sidelix.ipa",
-      "size": 13724752,
+      "size": 14057967,
       "type": 1,
       "badges": [
         {
@@ -20586,7 +20786,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/parcel-delivery-tracking/id375589283",
         "release_date": "2026-11-16T18:50:21Z",
-        "checked_at": "2026-11-27T12:41:51-05:00",
+        "checked_at": "2026-11-27T18:41:56-05:00",
         "track_id": 375589283,
         "track_name": "Parcel - Delivery Tracking"
       },
@@ -21438,7 +21638,7 @@
       "versionDate": "2026-11-21T01:11:47-05:00",
       "versionDescription": "Procreate Pocket (Paid app) v4.0.19 (313.96 MB) \u2014 Sidelix App Store release.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/31/app_31_nabzclan_sidelix.ipa",
-      "size": 330160812,
+      "size": 330494039,
       "type": 1,
       "badges": [
         {
@@ -21479,7 +21679,7 @@
         "is_paid": true,
         "store_url": "https://apps.apple.com/us/app/procreate-pocket/id916366645",
         "release_date": "2026-10-30T23:12:43Z",
-        "checked_at": "2026-11-27T12:41:51-05:00",
+        "checked_at": "2026-11-27T18:41:52-05:00",
         "track_id": 916366645,
         "track_name": "Procreate Pocket"
       },
@@ -21542,7 +21742,7 @@
       "versionDate": "2026-11-21T00:51:10-05:00",
       "versionDescription": "Gbox v6.2.1 (4.76 MB) \u2014 Sidelix App Store release.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/29/app_29_nabzclan_sidelix.ipa",
-      "size": 5934721,
+      "size": 6267933,
       "type": 1,
       "badges": [
         {
@@ -21589,7 +21789,7 @@
         "is_paid": false,
         "store_url": null,
         "release_date": null,
-        "checked_at": "2026-11-27T14:42:15-05:00"
+        "checked_at": "2026-11-27T23:43:03-05:00"
       },
       "vipOnly": false,
       "vipMinTier": 0,
@@ -21649,7 +21849,7 @@
       "versionDate": "2026-11-21T00:46:24-05:00",
       "versionDescription": "Mini Metro+ v1.10.0 (105.58 MB) \u2014 Sidelix App Store release.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/28/app_28_nabzclan_sidelix.ipa",
-      "size": 111654149,
+      "size": 111987375,
       "type": 1,
       "badges": [
         {
@@ -21684,7 +21884,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/mini-metro/id1550663539",
         "release_date": "2026-10-21T21:09:02Z",
-        "checked_at": "2026-11-27T12:41:51-05:00",
+        "checked_at": "2026-11-27T18:41:52-05:00",
         "track_id": 1550663539,
         "track_name": "Mini Metro+"
       },
@@ -21751,7 +21951,7 @@
       "versionDate": "2026-11-21T00:45:18-05:00",
       "versionDescription": "Turmoil+ v1.0.8 (184.08 MB) \u2014 Sidelix App Store release.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/27/app_27_nabzclan_sidelix.ipa",
-      "size": 193972243,
+      "size": 194305467,
       "type": 1,
       "badges": [
         {
@@ -21786,7 +21986,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/turmoil/id6446276883",
         "release_date": "2026-06-17T21:49:01Z",
-        "checked_at": "2026-11-27T12:41:51-05:00",
+        "checked_at": "2026-11-27T18:41:52-05:00",
         "track_id": 6446276883,
         "track_name": "Turmoil+"
       },
@@ -22116,7 +22316,7 @@
       "versionDate": "2026-11-20T23:25:30-05:00",
       "versionDescription": "Voice Recorder AI Notes: Spiik (Hacked) v1.0.157 (35.35 MB) \u2014 Sidelix App Store release.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/26/app_26_nabzclan_sidelix.ipa",
-      "size": 38011077,
+      "size": 38344297,
       "type": 1,
       "badges": [
         {
@@ -22151,7 +22351,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/voice-recorder-ai-notes-spiik/id6451387537",
         "release_date": "2026-11-21T14:23:59Z",
-        "checked_at": "2026-11-27T12:41:51-05:00",
+        "checked_at": "2026-11-27T18:41:56-05:00",
         "track_id": 6451387537,
         "track_name": "Voice Recorder AI Notes: Spiik"
       },
@@ -22217,7 +22417,7 @@
       "versionDate": "2026-11-20T23:14:29-05:00",
       "versionDescription": "Magic Sort (Hacked) v0.0.3538 (202.87 MB) \u2014 Sidelix App Store release.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/25/app_25_nabzclan_sidelix.ipa",
-      "size": 213678200,
+      "size": 214011424,
       "type": 1,
       "badges": [
         {
@@ -22252,7 +22452,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/magic-sort/id6499209744",
         "release_date": "2026-11-20T20:26:05Z",
-        "checked_at": "2026-11-27T12:41:51-05:00",
+        "checked_at": "2026-11-27T18:41:56-05:00",
         "track_id": 6499209744,
         "track_name": "Magic Sort!"
       },
@@ -22334,7 +22534,7 @@
       "versionDate": "2026-11-20T22:33:04-05:00",
       "versionDescription": "Ryukgram (Hacked) v456.0.0 (366.40 MB) \u2014 Sidelix App Store release.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/23/app_23_nabzclan_sidelix.ipa",
-      "size": 384210375,
+      "size": 384544913,
       "type": 1,
       "badges": [
         {
@@ -22369,7 +22569,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/instagram/id389801252",
         "release_date": "2026-11-23T13:20:47Z",
-        "checked_at": "2026-11-27T12:41:51-05:00",
+        "checked_at": "2026-11-27T18:41:56-05:00",
         "track_id": 389801252,
         "track_name": "Instagram"
       },
@@ -22448,7 +22648,7 @@
       "versionDate": "2026-11-20T22:23:07-05:00",
       "versionDescription": "X - NeoFreeBird (Hacked) v12.45.1 (276.10 MB) \u2014 Sidelix App Store release.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/22/app_22_nabzclan_sidelix.ipa",
-      "size": 290462631,
+      "size": 290797182,
       "type": 1,
       "badges": [
         {
@@ -22483,7 +22683,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/x/id333903271",
         "release_date": "2026-11-25T07:38:48Z",
-        "checked_at": "2026-11-27T12:41:51-05:00",
+        "checked_at": "2026-11-27T18:41:56-05:00",
         "track_id": 333903271,
         "track_name": "X"
       },
@@ -22552,7 +22752,7 @@
       "versionDate": "2026-11-20T22:14:48-05:00",
       "versionDescription": "iPadn v2.3.4 (49.56 MB) \u2014 Sidelix App Store release.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/21/app_21_nabzclan_sidelix.ipa",
-      "size": 51982557,
+      "size": 52317090,
       "type": 1,
       "badges": [
         {
@@ -22587,7 +22787,7 @@
         "is_paid": false,
         "store_url": null,
         "release_date": null,
-        "checked_at": "2026-11-27T14:42:15-05:00"
+        "checked_at": "2026-11-27T23:43:03-05:00"
       },
       "vipOnly": false,
       "vipMinTier": 0,
@@ -24035,7 +24235,7 @@
       "versionDate": "2026-11-18T18:48:19-05:00",
       "versionDescription": "Cooking Diary (Hacked) v2.59.1 (506.38 MB) \u2014 Sidelix App Store release.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/20/app_20_nabzclan_sidelix.ipa",
-      "size": 532019460,
+      "size": 532354015,
       "type": 1,
       "badges": [
         {
@@ -24070,7 +24270,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/cooking-diary-restaurant-game/id1214763610",
         "release_date": "2026-11-23T23:32:39Z",
-        "checked_at": "2026-11-27T12:41:51-05:00",
+        "checked_at": "2026-11-27T18:41:56-05:00",
         "track_id": 1214763610,
         "track_name": "Cooking Diary\u00ae Restaurant Game"
       },
@@ -24303,7 +24503,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/sea-battle-2/id913173849",
         "release_date": "2026-11-20T18:46:15Z",
-        "checked_at": "2026-11-27T12:41:51-05:00",
+        "checked_at": "2026-11-27T18:41:56-05:00",
         "track_id": 913173849,
         "track_name": "Sea Battle 2"
       },
@@ -24371,7 +24571,7 @@
       "versionDate": "2026-11-18T10:08:49-05:00",
       "versionDescription": "MovieBoxPro v16.5 (49.22 MB) \u2014 Sidelix App Store release.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/8/app_8_nabzclan_sidelix.ipa",
-      "size": 52685277,
+      "size": 53018494,
       "type": 1,
       "badges": [
         {
@@ -24412,7 +24612,7 @@
         "is_paid": false,
         "store_url": null,
         "release_date": null,
-        "checked_at": "2026-11-27T14:42:15-05:00"
+        "checked_at": "2026-11-27T23:42:30-05:00"
       },
       "vipOnly": false,
       "vipMinTier": 0,
@@ -24490,7 +24690,7 @@
       "versionDate": "2026-11-18T00:25:49-05:00",
       "versionDescription": "TikTok Douyin - plus (Hacked) v41.1.0 (694.26 MB) \u2014 Sidelix App Store release.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/17/app_17_nabzclan_sidelix.ipa",
-      "size": 729023323,
+      "size": 729357882,
       "type": 1,
       "badges": [
         {
@@ -24525,7 +24725,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/tiktok-videos-shop-live/id835599320",
         "release_date": "2026-11-23T23:15:49Z",
-        "checked_at": "2026-11-27T12:41:52-05:00",
+        "checked_at": "2026-11-27T18:41:56-05:00",
         "track_id": 835599320,
         "track_name": "TikTok - Videos, Shop & LIVE"
       },
@@ -24596,7 +24796,7 @@
       "versionDate": "2026-11-18T00:15:25-05:00",
       "versionDescription": "Roblox Delta (Hacked) v2.747.1486 (142.63 MB) \u2014 Sidelix App Store release.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/16/app_16_nabzclan_sidelix.ipa",
-      "size": 150593134,
+      "size": 150927691,
       "type": 1,
       "badges": [
         {
@@ -24637,7 +24837,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/roblox/id431946152",
         "release_date": "2026-11-18T17:48:51Z",
-        "checked_at": "2026-11-27T12:41:52-05:00",
+        "checked_at": "2026-11-27T18:41:56-05:00",
         "track_id": 431946152,
         "track_name": "Roblox"
       },
@@ -25439,7 +25639,7 @@
       "versionDate": "2026-11-17T11:47:18-05:00",
       "versionDescription": "Terraria v1.4.5.8.1 (181.20 MB) \u2014 Sidelix App Store release.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/15/app_15_nabzclan_sidelix.ipa",
-      "size": 191039475,
+      "size": 191374021,
       "type": 1,
       "badges": [
         {
@@ -25474,7 +25674,7 @@
         "is_paid": true,
         "store_url": "https://apps.apple.com/us/app/terraria/id640364616",
         "release_date": "2026-11-24T15:11:04Z",
-        "checked_at": "2026-11-27T12:41:52-05:00",
+        "checked_at": "2026-11-27T18:41:52-05:00",
         "track_id": 640364616,
         "track_name": "Terraria"
       },
@@ -26001,7 +26201,7 @@
       "versionDate": "2026-11-16T21:46:30-05:00",
       "versionDescription": "My Dear Farm+ v1.12.1 (158.79 MB) \u2014 Sidelix App Store release.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/14/app_14_nabzclan_sidelix.ipa",
-      "size": 167541726,
+      "size": 167876285,
       "type": 1,
       "badges": [
         {
@@ -26036,7 +26236,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/my-dear-farm/id6668861713",
         "release_date": "2026-11-10T15:58:20Z",
-        "checked_at": "2026-11-27T12:41:52-05:00",
+        "checked_at": "2026-11-27T18:41:52-05:00",
         "track_id": 6668861713,
         "track_name": "My Dear Farm+"
       },
@@ -26098,7 +26298,7 @@
       "versionDate": "2026-11-16T21:44:19-05:00",
       "versionDescription": "Stardew Valley+ v1.6.15.1 (303.59 MB) \u2014 Sidelix App Store release.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/13/app_13_nabzclan_sidelix.ipa",
-      "size": 319374725,
+      "size": 319709276,
       "type": 1,
       "badges": [
         {
@@ -26133,7 +26333,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/stardew-valley/id6449264810",
         "release_date": "2025-06-05T16:38:30Z",
-        "checked_at": "2026-11-27T12:41:52-05:00",
+        "checked_at": "2026-11-27T18:41:52-05:00",
         "track_id": 6449264810,
         "track_name": "Stardew Valley+"
       },
@@ -26195,7 +26395,7 @@
       "versionDate": "2026-11-16T21:39:43-05:00",
       "versionDescription": "Stardew Valley v1.6.15.0 (293.76 MB) \u2014 Sidelix App Store release.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/12/app_12_nabzclan_sidelix.ipa",
-      "size": 309065870,
+      "size": 309400427,
       "type": 1,
       "badges": [
         {
@@ -26230,7 +26430,7 @@
         "is_paid": true,
         "store_url": "https://apps.apple.com/us/app/stardew-valley/id1406710800",
         "release_date": "2026-03-19T00:31:54Z",
-        "checked_at": "2026-11-27T12:41:52-05:00",
+        "checked_at": "2026-11-27T18:41:52-05:00",
         "track_id": 1406710800,
         "track_name": "Stardew Valley"
       },
@@ -26293,7 +26493,7 @@
       "versionDate": "2026-11-16T21:31:19-05:00",
       "versionDescription": "Getting Over It (Paid app) v1.14 (113.26 MB) \u2014 Sidelix App Store release.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/11/app_11_nabzclan_sidelix.ipa",
-      "size": 119800126,
+      "size": 120134667,
       "type": 1,
       "badges": [
         {
@@ -26328,7 +26528,7 @@
         "is_paid": true,
         "store_url": "https://apps.apple.com/us/app/getting-over-it/id1319618742",
         "release_date": "2021-07-26T14:27:13Z",
-        "checked_at": "2026-11-27T12:41:52-05:00",
+        "checked_at": "2026-11-27T18:41:52-05:00",
         "track_id": 1319618742,
         "track_name": "Getting Over It"
       },
@@ -26398,7 +26598,7 @@
       "versionDate": "2026-11-16T06:27:27-05:00",
       "versionDescription": "Shadowrocket (Free paid) v2.2.93 (22.96 MB) \u2014 Sidelix App Store release.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/6/app_6_nabzclan_sidelix.ipa",
-      "size": 25151773,
+      "size": 25484990,
       "type": 1,
       "badges": [
         {
@@ -26433,7 +26633,7 @@
         "is_paid": true,
         "store_url": "https://apps.apple.com/us/app/shadowrocket/id932747118",
         "release_date": "2026-10-29T03:15:39Z",
-        "checked_at": "2026-11-27T12:41:52-05:00",
+        "checked_at": "2026-11-27T18:41:52-05:00",
         "track_id": 932747118,
         "track_name": "Shadowrocket"
       },
@@ -26500,7 +26700,7 @@
       "versionDate": "2026-11-16T06:12:34-05:00",
       "versionDescription": "Brain Test: Tricky Puzzles (Hacked) v2.776.0 (153.62 MB) \u2014 Sidelix App Store release.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/5/app_5_nabzclan_sidelix.ipa",
-      "size": 162167379,
+      "size": 162500597,
       "type": 1,
       "badges": [
         {
@@ -26535,7 +26735,7 @@
         "is_paid": false,
         "store_url": "https://apps.apple.com/us/app/brain-test-tricky-puzzles/id1486214495",
         "release_date": "2026-11-19T09:24:36Z",
-        "checked_at": "2026-11-27T12:41:52-05:00",
+        "checked_at": "2026-11-27T18:41:57-05:00",
         "track_id": 1486214495,
         "track_name": "Brain Test: Tricky Puzzles"
       },
@@ -26608,7 +26808,7 @@
       "versionDate": "2026-11-16T04:50:44-05:00",
       "versionDescription": "Alpin Quest PRO (Free paid) v10.0.200+2500 (23.62 MB) \u2014 Sidelix App Store release.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/4/app_4_nabzclan_sidelix.ipa",
-      "size": 25726188,
+      "size": 26059412,
       "type": 1,
       "badges": [
         {
@@ -26649,7 +26849,7 @@
         "is_paid": true,
         "store_url": "https://apps.apple.com/us/app/alpin-quest-pro-outdoor-gps/id6760764479",
         "release_date": "2026-11-23T23:30:35Z",
-        "checked_at": "2026-11-27T12:41:52-05:00",
+        "checked_at": "2026-11-27T18:41:57-05:00",
         "track_id": 6760764479,
         "track_name": "Alpin Quest PRO \u2013 Outdoor GPS"
       },
@@ -119144,7 +119344,7 @@
       "fullDate": "20260423031403",
       "size": 4068882,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-04-2026/NFCTools_2.37_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/NFCTools_2.37_Pro_@thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-04-2026/NFCTools_2.37_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wakdev.wdnfc.png",
@@ -267220,7 +267420,7 @@
       "version": "1.6",
       "versionDate": "2025-02-22T21:37:29-05:00",
       "versionDescription": "Added new animation!",
-      "downloadURL": "https://github.com/neoarz/Countdown-App/releases/download/1.6/Countdown.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/Countdown.ipa",
       "localizedDescription": "Added new animation!",
       "iconURL": "https://github.com/neoarz/Countdown-App/raw/main/Assets/CountdownLogo.jpg",
       "tintColor": "000",
@@ -275894,7 +276094,7 @@
       "version": "1.3",
       "versionDate": "2024-11-17",
       "size": 574441,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-17-2024/CarTube-1.3.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/CarTube-1.3.ipa",
       "developerName": "Avangelista",
       "localizedDescription": "YouTube for CarPlay, without a jailbreak. Features include no ads, skip sponsored segments via SponsorBlock, some system integrations, etc\nLast updated: 01-23-2023\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.avangelista.CarTube.png",
@@ -276090,7 +276290,7 @@
       "version": "1.12.1.",
       "versionDate": "2024-11-14",
       "size": 162585,
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/TrollSpeed-1.12.1.tipa",
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-14-2024/TrollSpeed-1.12.1.tipa",
       "developerName": "Lessica",
       "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 06-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png",
@@ -282208,7 +282408,7 @@
       "version": "1.10.1",
       "versionDate": "2024-10-14",
       "size": 160220,
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/TrollSpeed-1.10.1.ipa",
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollSpeed/TrollSpeed-1.10.1.ipa",
       "developerName": "Lessica",
       "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 06-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png",
@@ -282320,7 +282520,7 @@
       "version": "1.9.2.",
       "versionDate": "2024-10-14",
       "size": 147136,
-      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/TrollSpeed-1.9.2.tipa",
+      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollSpeed/TrollSpeed-1.9.2.tipa",
       "developerName": "Lessica",
       "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 06-21-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png",
@@ -282986,7 +283186,7 @@
       "version": "1.4.0",
       "versionDate": "2024-10-14",
       "size": 49628,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollLEDs/TrollLEDs-1.4.0.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/TrollLEDs-1.4.0.ipa",
       "developerName": "PoomSmart",
       "localizedDescription": "Control individual flashlight LEDs. Note: Refer to the original GitHub repository to find the list of supported devices.\nLast updated: 02-04-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.ps.TrollLEDs.png",
@@ -283002,7 +283202,7 @@
       "version": "1.5.0",
       "versionDate": "2024-10-14",
       "size": 50586,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollLEDs/TrollLEDs-1.5.0.ipa",
+      "downloadURL": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/files/TrollLEDs-1.5.0.ipa",
       "developerName": "PoomSmart",
       "localizedDescription": "Control individual flashlight LEDs. Note: Refer to the original GitHub repository to find the list of supported devices.\nLast updated: 02-04-2024\nStatus: \u2705",
       "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.ps.TrollLEDs.png",
